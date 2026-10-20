@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T09:32:58.362Z",
+  "generatedAt": "2026-10-20T16:04:36.349Z",
   "packages": [
     {
       "id": "2h-persiapan-minites__cedera-kepala-trauma-medulla-spinalis",
@@ -297,6 +297,14 @@
       "category": "2H PK - LCS Cairan Otak",
       "count": 66,
       "file": "packages/2h-pk-lcs-cairan-otak__latihan-responsi-analisis-lcs-v5-isian.json"
+    },
+    {
+      "id": "premium__blok-1j__minites-1",
+      "tier": "premium",
+      "title": "Minites 1",
+      "category": "Blok 1J",
+      "count": 30,
+      "file": "packages/premium__blok-1j__minites-1.json"
     },
     {
       "id": "premium__blok-1j__ub-1j-temporary",
