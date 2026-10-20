@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T16:04:36.349Z",
+  "generatedAt": "2026-10-20T16:05:02.748Z",
   "packages": [
     {
       "id": "2h-persiapan-minites__cedera-kepala-trauma-medulla-spinalis",
@@ -305,6 +305,14 @@
       "category": "Blok 1J",
       "count": 30,
       "file": "packages/premium__blok-1j__minites-1.json"
+    },
+    {
+      "id": "premium__blok-1j__minites-2",
+      "tier": "premium",
+      "title": "Minites 2",
+      "category": "Blok 1J",
+      "count": 25,
+      "file": "packages/premium__blok-1j__minites-2.json"
     },
     {
       "id": "premium__blok-1j__ub-1j-temporary",
