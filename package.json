@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "add": "node scripts/add-package.js",
-    "import": "node scripts/import-local.js"
+    "import": "node scripts/import-local.js",
+    "manage": "node scripts/manage.js"
   },
   "dependencies": {
     "mammoth": "^1.7.2",
