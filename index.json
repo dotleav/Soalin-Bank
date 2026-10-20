@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-20T09:08:26.606Z",
+  "packages": [
+    {
+      "id": "premium__blok-1j__ub-1j-temporary",
+      "tier": "premium",
+      "title": "UB 1J (Temporary)",
+      "category": "Blok 1J",
+      "count": 155,
+      "file": "packages/premium__blok-1j__ub-1j-temporary.json"
+    },
+    {
+      "id": "premium__blok-2h__ub-2h",
+      "tier": "premium",
+      "title": "UB 2H",
+      "category": "Blok 2H",
+      "count": 121,
+      "file": "packages/premium__blok-2h__ub-2h.json"
+    },
+    {
+      "id": "premium__mri-brain-lobes__lobus-otak-sagittal",
+      "tier": "premium",
+      "title": "Lobus Otak - MRI Sagittal",
+      "category": "MRI Neuroanatomi",
+      "count": 15,
+      "file": "packages/premium__mri-brain-lobes__lobus-otak-sagittal.json"
+    }
+  ]
+}
