@@ -1,0 +1,16 @@
+{
+  "name": "soalin-bank-tools",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "add": "node scripts/add-package.js",
+    "import": "node scripts/import-local.js"
+  },
+  "dependencies": {
+    "mammoth": "^1.7.2",
+    "jszip": "^3.10.1",
+    "sharp": "^0.33.5",
+    "pdfjs-dist": "^4.10.38"
+  }
+}

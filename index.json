@@ -1,7 +1,303 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T09:08:26.606Z",
+  "generatedAt": "2026-10-20T09:32:58.362Z",
   "packages": [
+    {
+      "id": "2h-persiapan-minites__cedera-kepala-trauma-medulla-spinalis",
+      "tier": "reguler",
+      "title": "Cedera Kepala & Trauma Medulla Spinalis",
+      "category": "2H - Persiapan Minites 1",
+      "count": 30,
+      "file": "packages/2h-persiapan-minites__cedera-kepala-trauma-medulla-spinalis.json"
+    },
+    {
+      "id": "2h-persiapan-minites__epilepsi-bangkitan",
+      "tier": "reguler",
+      "title": "Epilepsi & Bangkitan",
+      "category": "2H - Persiapan Minites 1",
+      "count": 38,
+      "file": "packages/2h-persiapan-minites__epilepsi-bangkitan.json"
+    },
+    {
+      "id": "2h-persiapan-minites__fisiologi-tidur-gangguan-tidur",
+      "tier": "reguler",
+      "title": "Fisiologi Tidur & Gangguan Tidur",
+      "category": "2H - Persiapan Minites 1",
+      "count": 53,
+      "file": "packages/2h-persiapan-minites__fisiologi-tidur-gangguan-tidur.json"
+    },
+    {
+      "id": "2h-persiapan-minites__gangguan-cemas-dan-depresi-serta-gangguan-jiwa-lainnya-yang-",
+      "tier": "reguler",
+      "title": "Gangguan Cemas dan Depresi serta Gangguan Jiwa Lainnya yang Sering Didapatkan pada praktek dokter umum",
+      "category": "2H - Persiapan Minites 1",
+      "count": 40,
+      "file": "packages/2h-persiapan-minites__gangguan-cemas-dan-depresi-serta-gangguan-jiwa-lainnya-yang-.json"
+    },
+    {
+      "id": "2h-persiapan-minites__gangguan-gerak-koordinasi",
+      "tier": "reguler",
+      "title": "Gangguan Gerak & Koordinasi",
+      "category": "2H - Persiapan Minites 1",
+      "count": 46,
+      "file": "packages/2h-persiapan-minites__gangguan-gerak-koordinasi.json"
+    },
+    {
+      "id": "2h-persiapan-minites__gangguan-vestibular-neuro-oftalmologi",
+      "tier": "reguler",
+      "title": "Gangguan Vestibular Neuro oftalmologi",
+      "category": "2H - Persiapan Minites 1",
+      "count": 59,
+      "file": "packages/2h-persiapan-minites__gangguan-vestibular-neuro-oftalmologi.json"
+    },
+    {
+      "id": "2h-persiapan-minites__infeksi-sistem-saraf",
+      "tier": "reguler",
+      "title": "Infeksi Sistem Saraf",
+      "category": "2H - Persiapan Minites 1",
+      "count": 94,
+      "file": "packages/2h-persiapan-minites__infeksi-sistem-saraf.json"
+    },
+    {
+      "id": "2h-persiapan-minites__latihan-minites-1",
+      "tier": "reguler",
+      "title": "Latihan Minites 1",
+      "category": "2H - Persiapan Minites 1",
+      "count": 24,
+      "file": "packages/2h-persiapan-minites__latihan-minites-1.json"
+    },
+    {
+      "id": "2h-persiapan-minites-1__minites-1",
+      "tier": "reguler",
+      "title": "Minites 1",
+      "category": "2H - Persiapan Minites 1",
+      "count": 30,
+      "file": "packages/2h-persiapan-minites-1__minites-1.json"
+    },
+    {
+      "id": "2h-persiapan-minites__neurobehavior-defisit-memori",
+      "tier": "reguler",
+      "title": "Neurobehavior & Defisit Memori",
+      "category": "2H - Persiapan Minites 1",
+      "count": 30,
+      "file": "packages/2h-persiapan-minites__neurobehavior-defisit-memori.json"
+    },
+    {
+      "id": "2h-persiapan-minites__neuromuskular-autoimun-saraf-tepi",
+      "tier": "reguler",
+      "title": "Neuromuskular, Autoimun & Saraf Tepi",
+      "category": "2H - Persiapan Minites 1",
+      "count": 30,
+      "file": "packages/2h-persiapan-minites__neuromuskular-autoimun-saraf-tepi.json"
+    },
+    {
+      "id": "2h-persiapan-minites__nyeri-nosiseptik-dkk",
+      "tier": "reguler",
+      "title": "Nyeri (Nosiseptik dkk)",
+      "category": "2H - Persiapan Minites 1",
+      "count": 35,
+      "file": "packages/2h-persiapan-minites__nyeri-nosiseptik-dkk.json"
+    },
+    {
+      "id": "2h-persiapan-minites__nyeri-kepala",
+      "tier": "reguler",
+      "title": "Nyeri Kepala",
+      "category": "2H - Persiapan Minites 1",
+      "count": 63,
+      "file": "packages/2h-persiapan-minites__nyeri-kepala.json"
+    },
+    {
+      "id": "2h-persiapan-minites__nyeri-punggung",
+      "tier": "reguler",
+      "title": "Nyeri punggung",
+      "category": "2H - Persiapan Minites 1",
+      "count": 45,
+      "file": "packages/2h-persiapan-minites__nyeri-punggung.json"
+    },
+    {
+      "id": "2h-persiapan-minites__penurunan-kesadaran-delirium-ensefalopati",
+      "tier": "reguler",
+      "title": "Penurunan Kesadaran, Delirium & Ensefalopati",
+      "category": "2H - Persiapan Minites 1",
+      "count": 30,
+      "file": "packages/2h-persiapan-minites__penurunan-kesadaran-delirium-ensefalopati.json"
+    },
+    {
+      "id": "2h-persiapan-minites__stroke-penyakit-serebrovaskular",
+      "tier": "reguler",
+      "title": "Stroke & Penyakit Serebrovaskular",
+      "category": "2H - Persiapan Minites 1",
+      "count": 65,
+      "file": "packages/2h-persiapan-minites__stroke-penyakit-serebrovaskular.json"
+    },
+    {
+      "id": "2h-persiapan-minites__tetanus-rabies",
+      "tier": "reguler",
+      "title": "Tetanus & Rabies",
+      "category": "2H - Persiapan Minites 1",
+      "count": 30,
+      "file": "packages/2h-persiapan-minites__tetanus-rabies.json"
+    },
+    {
+      "id": "2h-persiapan-minites-2__latihan-soal-kasus2-psikiatri-all-in-one-semua-materi-9-dokt",
+      "tier": "reguler",
+      "title": "Latihan soal kasus2 psikiatri all in one (semua materi 9 dokter SpKJ)",
+      "category": "2H - Persiapan Minites 2",
+      "count": 110,
+      "file": "packages/2h-persiapan-minites-2__latihan-soal-kasus2-psikiatri-all-in-one-semua-materi-9-dokt.json"
+    },
+    {
+      "id": "2h-persiapan-minites-2__latihan-soal-materi-dr-exnacius",
+      "tier": "reguler",
+      "title": "Latihan soal Materi dr Exnacius",
+      "category": "2H - Persiapan Minites 2",
+      "count": 35,
+      "file": "packages/2h-persiapan-minites-2__latihan-soal-materi-dr-exnacius.json"
+    },
+    {
+      "id": "2h-persiapan-minites-2__latihan-soal-materi-dr-heppi",
+      "tier": "reguler",
+      "title": "Latihan soal Materi dr heppi",
+      "category": "2H - Persiapan Minites 2",
+      "count": 77,
+      "file": "packages/2h-persiapan-minites-2__latihan-soal-materi-dr-heppi.json"
+    },
+    {
+      "id": "2h-persiapan-minites-2__minites2-2h-2021-2022-crop-fixed",
+      "tier": "reguler",
+      "title": "Minites2 2H 2021-2022 [Crop Fixed]",
+      "category": "2H - Persiapan Minites 2",
+      "count": 111,
+      "file": "packages/2h-persiapan-minites-2__minites2-2h-2021-2022-crop-fixed.json"
+    },
+    {
+      "id": "2h-persiapan-minites__promosi-dan-pencegahan-kesehatan-jiwa-fase-prodromal-serta-p",
+      "tier": "reguler",
+      "title": "Promosi dan Pencegahan Kesehatan Jiwa, Fase Prodromal, serta Penemuan Dini Gangguan Jiwa.",
+      "category": "2H - Persiapan Minites 2",
+      "count": 32,
+      "file": "packages/2h-persiapan-minites__promosi-dan-pencegahan-kesehatan-jiwa-fase-prodromal-serta-p.json"
+    },
+    {
+      "id": "2h-persiapan-minites__simtomatologi-psikiatri-faktor-gangguan-jiwa",
+      "tier": "reguler",
+      "title": "Simtomatologi Psikiatri & Faktor Gangguan Jiwa",
+      "category": "2H - Persiapan Minites 2",
+      "count": 42,
+      "file": "packages/2h-persiapan-minites__simtomatologi-psikiatri-faktor-gangguan-jiwa.json"
+    },
+    {
+      "id": "2h-pa-1__latihan-pa-sist-saraf-gambar-v1",
+      "tier": "reguler",
+      "title": "Latihan PA 2H - Bergambar V1",
+      "category": "2H PA - Sistem Saraf",
+      "count": 52,
+      "file": "packages/2h-pa-1__latihan-pa-sist-saraf-gambar-v1.json"
+    },
+    {
+      "id": "2h-pa-1__latihan-pa-sist-saraf-gambar-v2",
+      "tier": "reguler",
+      "title": "Latihan PA 2H - Bergambar V2",
+      "category": "2H PA - Sistem Saraf",
+      "count": 52,
+      "file": "packages/2h-pa-1__latihan-pa-sist-saraf-gambar-v2.json"
+    },
+    {
+      "id": "2h-pa-sistem-saraf__latihan-pa-2h-bergambar-v3",
+      "tier": "reguler",
+      "title": "Latihan PA 2H - Bergambar V3",
+      "category": "2H PA - Sistem Saraf",
+      "count": 25,
+      "file": "packages/2h-pa-sistem-saraf__latihan-pa-2h-bergambar-v3.json"
+    },
+    {
+      "id": "2h-pa-sistem-saraf__latihan-pa-2h-bergambar-v4",
+      "tier": "reguler",
+      "title": "Latihan PA 2H - Bergambar V4",
+      "category": "2H PA - Sistem Saraf",
+      "count": 25,
+      "file": "packages/2h-pa-sistem-saraf__latihan-pa-2h-bergambar-v4.json"
+    },
+    {
+      "id": "2h-pa-sistem-saraf__latihan-pa-2h-bergambar-v5",
+      "tier": "reguler",
+      "title": "Latihan PA 2H - Bergambar V5",
+      "category": "2H PA - Sistem Saraf",
+      "count": 25,
+      "file": "packages/2h-pa-sistem-saraf__latihan-pa-2h-bergambar-v5.json"
+    },
+    {
+      "id": "2h-pa-sistem-saraf__latihan-pa-2h-bergambar-v6",
+      "tier": "reguler",
+      "title": "Latihan PA 2H - Bergambar V6",
+      "category": "2H PA - Sistem Saraf",
+      "count": 27,
+      "file": "packages/2h-pa-sistem-saraf__latihan-pa-2h-bergambar-v6.json"
+    },
+    {
+      "id": "2h-pa-1__lat-pa-sist-saraf-theory-only",
+      "tier": "reguler",
+      "title": "Latihan PA 2H - Theory V1",
+      "category": "2H PA - Sistem Saraf",
+      "count": 42,
+      "file": "packages/2h-pa-1__lat-pa-sist-saraf-theory-only.json"
+    },
+    {
+      "id": "2h-pa-sistem-saraf__latihan-pa-2h-theory-v2",
+      "tier": "reguler",
+      "title": "Latihan PA 2H - Theory V2",
+      "category": "2H PA - Sistem Saraf",
+      "count": 30,
+      "file": "packages/2h-pa-sistem-saraf__latihan-pa-2h-theory-v2.json"
+    },
+    {
+      "id": "2h-pa-sistem-saraf__latihan-pa-2h-theory-v3",
+      "tier": "reguler",
+      "title": "Latihan PA 2H - Theory V3",
+      "category": "2H PA - Sistem Saraf",
+      "count": 70,
+      "file": "packages/2h-pa-sistem-saraf__latihan-pa-2h-theory-v3.json"
+    },
+    {
+      "id": "2h-pk-lcs-cairan-otak__latihan-pretes-lcs-cairan",
+      "tier": "reguler",
+      "title": "Latihan Pretes Analisis LCS",
+      "category": "2H PK - LCS Cairan Otak",
+      "count": 40,
+      "file": "packages/2h-pk-lcs-cairan-otak__latihan-pretes-lcs-cairan.json"
+    },
+    {
+      "id": "2h-pk-lcs-cairan-otak__latihan-responsi-analisis-lcs-v2",
+      "tier": "reguler",
+      "title": "Latihan Responsi Analisis LCS V2",
+      "category": "2H PK - LCS Cairan Otak",
+      "count": 23,
+      "file": "packages/2h-pk-lcs-cairan-otak__latihan-responsi-analisis-lcs-v2.json"
+    },
+    {
+      "id": "2h-pk-lcs-cairan-otak__latihan-responsi-analisis-lcs-v3-isian",
+      "tier": "reguler",
+      "title": "Latihan Responsi Analisis LCS V3 (isian)",
+      "category": "2H PK - LCS Cairan Otak",
+      "count": 40,
+      "file": "packages/2h-pk-lcs-cairan-otak__latihan-responsi-analisis-lcs-v3-isian.json"
+    },
+    {
+      "id": "2h-pk-lcs-cairan-otak__latihan-responsi-analisis-lcs-v4-isian",
+      "tier": "reguler",
+      "title": "Latihan Responsi Analisis LCS V4 (isian)",
+      "category": "2H PK - LCS Cairan Otak",
+      "count": 14,
+      "file": "packages/2h-pk-lcs-cairan-otak__latihan-responsi-analisis-lcs-v4-isian.json"
+    },
+    {
+      "id": "2h-pk-lcs-cairan-otak__latihan-responsi-analisis-lcs-v5-isian",
+      "tier": "reguler",
+      "title": "Latihan Responsi Analisis LCS V5 (isian)",
+      "category": "2H PK - LCS Cairan Otak",
+      "count": 66,
+      "file": "packages/2h-pk-lcs-cairan-otak__latihan-responsi-analisis-lcs-v5-isian.json"
+    },
     {
       "id": "premium__blok-1j__ub-1j-temporary",
       "tier": "premium",
@@ -17,6 +313,46 @@
       "category": "Blok 2H",
       "count": 121,
       "file": "packages/premium__blok-2h__ub-2h.json"
+    },
+    {
+      "id": "latihan-kk7__latihan-dx-kasus-cr",
+      "tier": "reguler",
+      "title": "Latihan Dx Kasus CR",
+      "category": "Latihan KK7",
+      "count": 30,
+      "file": "packages/latihan-kk7__latihan-dx-kasus-cr.json"
+    },
+    {
+      "id": "latihan-kk7__latihan-pemeriksaan-tanda-meningeal",
+      "tier": "reguler",
+      "title": "Latihan Pemeriksaan Tanda Meningeal",
+      "category": "Latihan KK7",
+      "count": 60,
+      "file": "packages/latihan-kk7__latihan-pemeriksaan-tanda-meningeal.json"
+    },
+    {
+      "id": "latihan-kk7__latihan-pemeriksaan-tanda-meningeal-v2",
+      "tier": "reguler",
+      "title": "Latihan Pemeriksaan Tanda Meningeal - V2",
+      "category": "Latihan KK7",
+      "count": 65,
+      "file": "packages/latihan-kk7__latihan-pemeriksaan-tanda-meningeal-v2.json"
+    },
+    {
+      "id": "latihan-kk7__latihan-pretes-analisis-kasus-geriatri-dan-pemeriksaan-neuro",
+      "tier": "reguler",
+      "title": "Latihan pretes ANALISIS KASUS GERIATRI DAN PEMERIKSAAN NEUROBEHAVIOR",
+      "category": "Latihan KK7",
+      "count": 46,
+      "file": "packages/latihan-kk7__latihan-pretes-analisis-kasus-geriatri-dan-pemeriksaan-neuro.json"
+    },
+    {
+      "id": "2h-sl-pungsi-lumbal__latihan-pretes-pungsi-lumbal",
+      "tier": "reguler",
+      "title": "Latihan Pretes Pungsi Lumbal",
+      "category": "Latihan KK7",
+      "count": 25,
+      "file": "packages/2h-sl-pungsi-lumbal__latihan-pretes-pungsi-lumbal.json"
     },
     {
       "id": "premium__mri-brain-lobes__lobus-otak-sagittal",
