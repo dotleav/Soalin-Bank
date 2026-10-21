@@ -1,1 +1,518 @@
-{"id":"latihan-kk7__latihan-dx-kasus-cr","tier":"reguler","title":"Latihan Dx Kasus CR","category":"Latihan KK7","questions":[{"id":"Q1","category":"","question":"Bapak 32 tahun, sopir, datang dengan nyeri hebat sebelah mata kanan seperti ditusuk, 30-60 menit, 2-3 kali/hari, sering membangunkan malam, disertai mata kanan merah dan berair, hidung tersumbat, serta ptosis ringan ipsilateral. Pasien gelisah dan mondar-mandir saat serangan. Terapi abortif yang paling tepat adalah...","questionImages":[],"options":{"A":"Sumatriptan 6 mg subkutan atau oksigen 100% 7 L/menit","B":"Amitriptilin 25 mg per oral malam hari sebagai terapi serangan akut","C":"Ibuprofen 400 mg per oral dan istirahat di ruangan gelap dan tenang","D":"Propranolol 40 mg per oral tiga kali sehari sejak awal serangan","E":"Parasetamol 500 mg per oral dan kompres hangat pada dahi"},"answer":"A","explanation":"Gambaran nyeri unilateral orbita singkat dengan gejala otonom ipsilateral dan gelisah menunjukkan cluster headache. Terapi akut berupa sumatriptan subkutan atau oksigen 100% 7 L/menit selama 15 menit. Analgesik biasa lambat onsetnya dan tidak efektif, sedangkan verapamil digunakan sebagai profilaksis, bukan terapi serangan.","explanationImages":[],"isBroken":false},{"id":"Q2","category":"","question":"Perempuan 28 tahun dengan nyeri kepala sebelah berdenyut, mual, fotofobia, dan fonofobia sejak SMA, 2-3 kali per bulan, menjelang haid, dengan pemeriksaan neurologis normal. Kondisi berikut yang merupakan indikasi pencitraan (CT/MRI) pada pasien migrain adalah...","questionImages":[],"options":{"A":"Nyeri kepala terberat seumur hidup dengan pola berubah drastis","B":"Serangan yang cenderung terjadi menjelang siklus menstruasi","C":"Riwayat migrain pada ibu kandung dengan pemeriksaan normal","D":"Fotofobia dan fonofobia yang membaik di ruangan gelap","E":"Nyeri kepala berdenyut sebelah yang muncul 2-3 kali setiap bulan"},"answer":"A","explanation":"Pada migrain tipikal tanpa red flag, pencitraan tidak rutin diperlukan. CT/MRI dipertimbangkan bila nyeri kepala pertama/terberat seumur hidup, perubahan pola drastis, defisit neurologis persisten, atau respons terapi tidak adekuat. Pilihan lain merupakan ciri migrain tipikal.","explanationImages":[],"isBroken":false},{"id":"Q3","category":"","question":"Laki-laki 35 tahun, pegawai bank, mengeluh nyeri kepala bilateral seperti diikat/ditekan sejak sore, intensitas ringan-sedang (VAS 4), tidak memburuk dengan aktivitas rutin, tanpa mual, fotofobia, atau fonofobia. Pemeriksaan neurologis normal. Diagnosis yang paling mungkin adalah...","questionImages":[],"options":{"A":"Migrain tanpa aura","B":"Cluster headache","C":"Tension type headache","D":"Neuralgia trigeminal","E":"Nyeri kepala servikogenik"},"answer":"C","explanation":"Nyeri bilateral, kualitas menekan seperti diikat, intensitas ringan-sedang, tidak diperberat aktivitas, dan tanpa mual atau fotofobia/fonofobia merupakan kriteria tension type headache. Migrain berdenyut unilateral dengan mual dan fotofobia, sedangkan cluster headache disertai gejala otonom.","explanationImages":[],"isBroken":false},{"id":"Q4","category":"","question":"Laki-laki 30 tahun mengeluh pusing berputar mendadak saat bangun tidur dan menoleh, berlangsung kurang dari 1 menit, dipicu perubahan posisi kepala, tanpa gangguan dengar atau tinitus. Dix-Hallpike menunjukkan nistagmus torsional-upbeat dengan latensi beberapa detik. Terapi definitif yang paling tepat adalah...","questionImages":[],"options":{"A":"Manuver Dix-Hallpike berulang sebagai terapi utama","B":"Manuver Epley untuk kanal posterior","C":"Manuver Valsalva berulang untuk mengeluarkan debris kanalit","D":"Manuver Lempert (barbecue roll) untuk kanal posterior","E":"Latihan Romberg setiap hari sebagai terapi utama"},"answer":"B","explanation":"Nistagmus torsional-upbeat pada Dix-Hallpike dengan latensi dan durasi singkat menunjukkan BPPV kanal posterior (kanalolitiasis). Terapi definitifnya adalah canalith repositioning, yaitu manuver Epley atau Semont. Lempert digunakan untuk kanal horizontal dan Dix-Hallpike adalah manuver diagnostik.","explanationImages":[],"isBroken":false},{"id":"Q5","category":"","question":"Laki-laki 65 tahun tiba di IGD 2 jam setelah mendadak lemah lengan-tungkai kanan dan bicara pelo. TD 170/100 mmHg, NIHSS 12, GDS normal, dan CT kepala tanpa kontras tidak menunjukkan perdarahan. Terapi reperfusi yang paling tepat adalah...","questionImages":[],"options":{"A":"Alteplase intravena dosis 0,9 mg/kgBB","B":"Heparin intravena bolus dilanjutkan infus kontinu","C":"Aspirin 300 mg saja dan observasi 24 jam","D":"Nimodipin per oral dosis penuh selama 21 hari","E":"Manitol 20% intravena sebagai terapi utama"},"answer":"A","explanation":"Stroke iskemik akut dalam jendela 4,5 jam tanpa perdarahan pada CT dan TD di bawah 185/110 mmHg memenuhi indikasi trombolisis dengan alteplase intravena 0,9 mg/kgBB. Heparin tidak direkomendasikan rutin, nimodipin untuk pencegahan vasospasme pada perdarahan subaraknoid, dan manitol untuk peningkatan TIK.","explanationImages":[],"isBroken":false},{"id":"Q6","category":"","question":"Perempuan 60 tahun dibawa dengan penurunan kesadaran mendadak, hemiparesis kiri, dan riwayat hipertensi tidak terkontrol. Pemeriksaan penunjang pertama yang paling tepat untuk membedakan stroke iskemik dan hemoragik adalah...","questionImages":[],"options":{"A":"MRI kepala dengan kontras gadolinium","B":"Doppler karotis","C":"Elektroensefalografi (EEG)","D":"Pungsi lumbal segera","E":"CT scan kepala tanpa kontras"},"answer":"E","explanation":"CT scan kepala tanpa kontras cepat, tersedia luas, dan sensitif mendeteksi perdarahan akut (tampak hiperdens), sehingga menjadi pemeriksaan pertama pada stroke akut. Pungsi lumbal tidak dilakukan pada kecurigaan peningkatan TIK dan EEG tidak membedakan jenis stroke.","explanationImages":[],"isBroken":false},{"id":"Q7","category":"","question":"Laki-laki 45 tahun dengan nyeri punggung bawah menjalar ke tungkai kiri sampai betis, memburuk saat batuk dan membungkuk, Lasegue positif pada 40 derajat, dan kelemahan dorsofleksi kaki kiri. Modalitas pencitraan terbaik untuk mengonfirmasi HNP adalah...","questionImages":[],"options":{"A":"MRI lumbosakral tanpa kontras","B":"Foto polos lumbosakral posisi AP dan lateral","C":"Bone scan seluruh tubuh dengan teknesium","D":"Elektrokardiografi dan foto toraks","E":"USG jaringan lunak regio lumbal"},"answer":"A","explanation":"MRI adalah modalitas terbaik untuk melihat diskus, akar saraf, dan kanal spinal sehingga mengonfirmasi HNP dan menentukan levelnya. Foto polos tidak menampilkan jaringan lunak dan hanya menyingkirkan kelainan tulang, sedangkan bone scan untuk kecurigaan keganasan atau infeksi tulang.","explanationImages":[],"isBroken":false},{"id":"Q8","category":"","question":"Ibu 35 tahun bangun pagi dengan wajah kanan lumpuh: dahi kanan datar, tidak dapat menutup mata kanan, dan mulut tertarik ke kiri. Nyeri belakang telinga sehari sebelumnya, ekstremitas normal. Terapi lini pertama yang paling tepat adalah...","questionImages":[],"options":{"A":"Aspirin 100 mg dan statin dosis tinggi jangka panjang","B":"Antibiotik intravena spektrum luas dan rawat inap","C":"Prednison oral dalam 72 jam dan proteksi mata","D":"Karbamazepin oral dosis titrasi dan penutup mata","E":"Fisioterapi saja tanpa obat selama satu bulan penuh"},"answer":"C","explanation":"Kelumpuhan wajah atas dan bawah pada lesi perifer N.VII tanpa defisit lain adalah Bell's palsy. Kortikosteroid oral dalam 72 jam onset meningkatkan pemulihan, ditambah antiviral pada derajat berat, serta proteksi kornea (air mata buatan, penutup mata) karena lagoftalmus.","explanationImages":[],"isBroken":false},{"id":"Q9","category":"","question":"Perempuan 55 tahun mengeluh nyeri seperti tersengat listrik di pipi kanan, berlangsung detik, dipicu mengunyah dan menyikat gigi, tanpa defisit sensorik. Obat lini pertama yang paling tepat adalah...","questionImages":[],"options":{"A":"Ibuprofen","B":"Karbamazepin","C":"Amitriptilin","D":"Prednison","E":"Tramadol"},"answer":"B","explanation":"Nyeri paroksismal singkat seperti tersengat listrik di dermatom trigeminal dengan pemicu ringan adalah khas neuralgia trigeminal. Karbamazepin (atau okskarbazepin) merupakan lini pertama, sedangkan analgesik biasa dan NSAID kurang efektif untuk nyeri neuropatik ini.","explanationImages":[],"isBroken":false},{"id":"Q10","category":"","question":"Anak 18 bulan, berat badan 10 kg, demam 39 derajat Celsius, mengalami kejang umum tonik-klonik yang sudah berlangsung 5 menit dan belum berhenti. Obat yang diberikan pertama kali adalah...","questionImages":[],"options":{"A":"Fenitoin intravena 200 mg","B":"Parasetamol supositoria 125 mg","C":"Diazepam rektal 5 mg","D":"Fenobarbital oral 30 mg","E":"Diazepam rektal 10 mg"},"answer":"C","explanation":"Kejang demam yang berlangsung 5 menit atau lebih diberi diazepam rektal 0,5 mg/kgBB, yaitu 5 mg untuk berat badan kurang dari 12 kg dan 10 mg untuk 12 kg atau lebih. Antipiretik tidak menghentikan kejang yang sedang berlangsung.","explanationImages":[],"isBroken":false},{"id":"Q11","category":"","question":"Anak 2 tahun demam tinggi dan mengalami kejang umum dua kali dalam 24 jam, masing-masing sekitar 5 menit dengan kesadaran pulih di antara kejang. Perkembangan sebelumnya normal dan tidak ada tanda meningeal. Diagnosis yang paling tepat adalah...","questionImages":[],"options":{"A":"Kejang demam kompleks","B":"Epilepsi umum idiopatik","C":"Meningitis bakterialis","D":"Ensefalitis viral","E":"Kejang demam sederhana"},"answer":"A","explanation":"Kejang demam dikatakan kompleks bila berlangsung lebih dari 15 menit, fokal, atau berulang dalam 24 jam. Kejang berulang dua kali dalam 24 jam pada anak ini memenuhi kriteria kompleks. Tanda meningeal dan penurunan kesadaran berkepanjangan tidak ada sehingga infeksi SSP kurang mungkin.","explanationImages":[],"isBroken":false},{"id":"Q12","category":"","question":"Bayi baru lahir hari ke-3 mengalami kejang klonik fokal berulang. Gula darah, kalsium, dan elektrolit normal. Obat antikejang lini pertama yang paling tepat adalah...","questionImages":[],"options":{"A":"Fenobarbital intravena dosis muat 20 mg/kgBB","B":"Karbamazepin per oral 10 mg/kgBB sekali sehari","C":"Asam valproat per oral 20 mg/kgBB dua kali sehari","D":"Diazepam rektal 0,5 mg/kgBB sebagai dosis awal","E":"Fenitoin per oral 5 mg/kgBB dosis pemeliharaan"},"answer":"A","explanation":"Pada kejang neonatus, koreksi gangguan metabolik (hipoglikemia, hipokalsemia) dilakukan lebih dulu. Bila kejang menetap, fenobarbital intravena dosis muat 20 mg/kgBB adalah lini pertama, dengan fenitoin sebagai lini berikutnya. Obat oral tidak sesuai untuk kejang akut neonatus.","explanationImages":[],"isBroken":false},{"id":"Q13","category":"","question":"Laki-laki 40 tahun dengan demam tinggi mendadak, nyeri kepala hebat, kaku kuduk, dan penurunan kesadaran. Pungsi lumbal dilakukan. Hasil analisis cairan serebrospinal yang paling sesuai dengan meningitis bakterialis adalah...","questionImages":[],"options":{"A":"Jernih, limfosit sedikit meningkat, protein normal, glukosa normal","B":"Jernih, sel normal, protein sangat tinggi, glukosa normal","C":"Xantokromia, eritrosit banyak, protein tinggi, glukosa normal","D":"Keruh, PMN sangat tinggi, protein tinggi, glukosa sangat rendah","E":"Jernih, limfosit dominan, protein sedikit naik, glukosa normal"},"answer":"D","explanation":"Meningitis bakterialis menghasilkan LCS keruh dengan pleositosis PMN, protein meningkat, dan glukosa turun sampai mendekati nol karena konsumsi bakteri dan leukosit. Pola sel normal dengan protein tinggi khas Guillain-Barré, sedangkan xantokromia khas perdarahan subaraknoid.","explanationImages":[],"isBroken":false},{"id":"Q14","category":"","question":"Perempuan 30 tahun dengan demam, nyeri kepala, perubahan perilaku, dan kejang fokal. MRI menunjukkan lesi lobus temporal dan LCS limfositik, dicurigai ensefalitis herpes simpleks. Terapi yang harus segera diberikan adalah...","questionImages":[],"options":{"A":"Seftriakson intravena 2 gram monoterapi","B":"Amfoterisin B intravena dosis harian tunggal","C":"Oseltamivir per oral 75 mg dua kali sehari","D":"Metronidazol intravena 500 mg setiap 8 jam","E":"Asiklovir intravena 10 mg/kgBB setiap 8 jam"},"answer":"E","explanation":"Ensefalitis herpes simpleks memerlukan asiklovir intravena sedini mungkin, dosis 10 mg/kgBB setiap 8 jam, karena keterlambatan meningkatkan mortalitas dan sekuele. Oseltamivir untuk influenza, dan seftriakson tidak menangani virus.","explanationImages":[],"isBroken":false},{"id":"Q15","category":"","question":"Laki-laki 28 tahun baru kembali dari daerah endemis malaria, demam tinggi, kejang, dan penurunan kesadaran. Apusan darah tebal-tipis menunjukkan Plasmodium falciparum. Obat pilihan yang paling tepat adalah...","questionImages":[],"options":{"A":"Klorokuin per oral","B":"Doksisiklin per oral tunggal","C":"Primakuin dosis tunggal per oral","D":"Kina per oral tiga kali sehari","E":"Artesunat intravena"},"answer":"E","explanation":"Malaria serebral adalah malaria berat oleh P. falciparum yang memerlukan artesunat intravena sebagai pilihan utama, lalu dilanjutkan terapi kombinasi berbasis artemisinin oral. Obat oral tidak sesuai karena kesadaran menurun dan resistensi klorokuin luas.","explanationImages":[],"isBroken":false},{"id":"Q16","category":"","question":"Petani 50 tahun tertusuk paku berkarat 5 hari lalu, kini trismus, risus sardonikus, opistotonus, dan spasme yang dipicu rangsang, dengan kesadaran baik. Terapi yang berfungsi menetralkan toksin tetanus yang belum terikat adalah...","questionImages":[],"options":{"A":"Metronidazol intravena setiap 8 jam","B":"Human tetanus immunoglobulin","C":"Toksoid tetanus dosis booster saja","D":"Diazepam intravena bolus bertahap","E":"Debridemen luka tusuk secara luas"},"answer":"B","explanation":"HTIG menetralkan toksin tetanus yang beredar dan belum terikat pada saraf. Diazepam mengendalikan spasme, metronidazol dan debridemen mengeliminasi sumber kuman C. tetani, sedangkan toksoid saja tidak cukup pada tetanus yang sudah bermanifestasi.","explanationImages":[],"isBroken":false},{"id":"Q17","category":"","question":"Anak 7 tahun digigit anjing liar di tungkai, luka robek dengan perdarahan ringan. Tindakan pertama yang paling tepat adalah...","questionImages":[],"options":{"A":"Menutup luka rapat dengan kasa dan plester elastis","B":"Mencuci luka dengan sabun dan air mengalir 15 menit","C":"Mengoleskan povidon iodin lalu menunggu observasi hewan","D":"Menjahit luka segera untuk menghentikan perdarahan","E":"Memberi vaksin antirabies tanpa mencuci luka lebih dulu"},"answer":"B","explanation":"Pencucian luka dengan sabun dan air mengalir selama 15 menit menurunkan jumlah virus di lokasi gigitan dan merupakan langkah pertama profilaksis pascapajanan rabies. Setelah itu diberikan antiseptik, VAR, dan SAR sesuai kategori luka, sedangkan luka tidak dijahit primer.","explanationImages":[],"isBroken":false},{"id":"Q18","category":"","question":"Perempuan 40 tahun dengan vertigo berputar akut yang menetap beberapa hari, mual muntah, tanpa gangguan dengar. Temuan HINTS yang mendukung neuritis vestibularis (perifer) adalah...","questionImages":[],"options":{"A":"Head impulse normal, nistagmus berubah arah, dengan skew deviation","B":"Head impulse abnormal, nistagmus berubah arah, dengan skew deviation","C":"Head impulse abnormal, nistagmus vertikal murni, tanpa skew deviation","D":"Head impulse abnormal, nistagmus horizontal searah, tanpa skew","E":"Head impulse normal, nistagmus horizontal satu arah, tanpa skew deviation"},"answer":"D","explanation":"Pada lesi perifer, head impulse test abnormal (saccade korektif), nistagmus horizontal searah yang tidak berubah arah, dan tidak ada skew deviation. Head impulse normal, nistagmus vertikal atau berubah arah, dan skew deviation menunjukkan lesi sentral.","explanationImages":[],"isBroken":false},{"id":"Q19","category":"","question":"Bayi 2 bulan dengan mikrosefali, tuli sensorineural, dan korioretinitis. Ibu mengalami infeksi ringan saat hamil. Temuan neuroimaging yang paling khas untuk CMV kongenital adalah...","questionImages":[],"options":{"A":"Perdarahan subdural bilateral","B":"Ventrikulomegali tanpa kalsifikasi apa pun","C":"Kalsifikasi tersebar difus di korteks dan ganglia basal","D":"Massa hiperdens di fossa posterior","E":"Kalsifikasi periventrikular"},"answer":"E","explanation":"Kalsifikasi periventrikular adalah temuan khas CMV kongenital, sedangkan toksoplasmosis kongenital cenderung menunjukkan kalsifikasi tersebar. Trias mikrosefali, tuli sensorineural, dan korioretinitis mendukung diagnosis CMV.","explanationImages":[],"isBroken":false},{"id":"Q20","category":"","question":"Bidan puskesmas melakukan penyuluhan pencegahan tetanus neonatorum. Edukasi yang paling tepat adalah...","questionImages":[],"options":{"A":"Membubuhkan ramuan tradisional agar tali pusat cepat lepas","B":"Antibiotik oral profilaksis pada semua bayi baru lahir","C":"Imunisasi TT ibu hamil dan perawatan tali pusat bersih","D":"Imunisasi DPT segera setelah bayi dilahirkan","E":"Menutup tali pusat rapat tanpa cuci tangan sebelumnya"},"answer":"C","explanation":"Tetanus neonatorum dicegah dengan imunisasi TT pada ibu hamil sehingga antibodi menembus plasenta, ditambah persalinan bersih dan perawatan tali pusat higienis. Ramuan tradisional dan penutupan tidak higienis justru meningkatkan risiko infeksi C. tetani.","explanationImages":[],"isBroken":false},{"id":"Q21","category":"","question":"Laki-laki 65 tahun mengalami lemah lengan kanan dan bicara pelo selama 15 menit, pulih total sebelum tiba di IGD. Riwayat hipertensi dan dislipidemia, ABCD2 skor 5. CT kepala tanpa perdarahan. Terapi antitrombotik yang paling tepat adalah...","questionImages":[],"options":{"A":"Heparin intravena dosis penuh selama tujuh hari","B":"Aspirin 100 mg saja hingga skor ABCD2 menurun","C":"Aspirin plus klopidogrel dalam 24 jam onset","D":"Warfarin dengan target INR 4 selama dua minggu","E":"Alteplase intravena 0,9 mg/kgBB segera"},"answer":"C","explanation":"TIA dengan ABCD2 skor 4 atau lebih berisiko tinggi stroke sehingga diberikan antiplatelet ganda (aspirin dan klopidogrel) mulai 12-24 jam hingga 21-90 hari, lalu antiplatelet tunggal. Trombolisis tidak diindikasikan karena gejala telah pulih.","explanationImages":[],"isBroken":false},{"id":"Q22","category":"","question":"Perempuan 48 tahun dengan nyeri kepala mendadak paling hebat seumur hidup, muntah, dan kaku kuduk. CT kepala menunjukkan hiperdens di ruang subaraknoid. Tujuan pemberian nimodipin pada pasien ini adalah...","questionImages":[],"options":{"A":"Mengoreksi hidrosefalus akut dengan mengurangi produksi LCS","B":"Menurunkan risiko perdarahan ulang dengan mengurangi ruptur aneurisma","C":"Menurunkan tekanan intrakranial dengan efek diuresis osmotik","D":"Mencegah iskemia tertunda akibat vasospasme serebral","E":"Menghentikan kejang dengan meningkatkan ambang eksitasi neuron"},"answer":"D","explanation":"Nimodipin (60 mg setiap 4 jam selama 21 hari) diberikan pada perdarahan subaraknoid untuk mencegah iskemia serebral tertunda akibat vasospasme. Pencegahan perdarahan ulang memerlukan tindakan definitif (clipping atau coiling), bukan nimodipin.","explanationImages":[],"isBroken":false},{"id":"Q23","category":"","question":"Perempuan 45 tahun dengan episode vertigo spontan 20 menit hingga beberapa jam, tuli sensorineural fluktuatif, tinitus, dan rasa penuh telinga kiri, empat kali dalam dua bulan. Terapi pemeliharaan untuk mengurangi frekuensi serangan adalah...","questionImages":[],"options":{"A":"Antibiotik oral spektrum luas selama satu bulan","B":"Diet tinggi garam dan furosemid 40 mg sekali sehari","C":"Rehabilitasi vestibular saja saat serangan akut","D":"Manuver Epley berulang sebagai terapi pemeliharaan","E":"Diet rendah garam dan hidroklorotiazid 25 mg"},"answer":"E","explanation":"Gambaran ini sesuai penyakit Meniere. Terapi pemeliharaan meliputi diet rendah garam dan diuretik (misalnya hidroklorotiazid) untuk mengurangi hidrops endolimfatik. Manuver Epley untuk BPPV, dan rehabilitasi vestibular bukan untuk serangan akut.","explanationImages":[],"isBroken":false},{"id":"Q24","category":"","question":"Perempuan 72 tahun dengan gangguan memori progresif 2 tahun, sering lupa janji dan tersesat, tetap mandiri dalam aktivitas dasar, MMSE 20. Diagnosis demensia Alzheimer ditegakkan. Terapi farmakologis yang paling tepat adalah...","questionImages":[],"options":{"A":"Haloperidol","B":"Karbamazepin","C":"Levodopa","D":"Donepezil","E":"Amitriptilin"},"answer":"D","explanation":"Inhibitor kolinesterase seperti donepezil merupakan terapi simtomatik demensia Alzheimer ringan-sedang untuk memperbaiki fungsi kognitif dan aktivitas harian. Levodopa untuk Parkinson, sedangkan haloperidol dapat memperburuk kondisi dan hanya untuk agitasi berat.","explanationImages":[],"isBroken":false},{"id":"Q25","category":"","question":"Laki-laki 62 tahun dengan tremor tangan kanan saat istirahat seperti menghitung uang, gerakan melambat, wajah kurang ekspresi, dan kekakuan roda gigi. Diagnosis yang paling mungkin adalah...","questionImages":[],"options":{"A":"Miastenia gravis","B":"Demensia Alzheimer","C":"Neuropati perifer","D":"Tremor esensial","E":"Penyakit Parkinson"},"answer":"E","explanation":"Tremor istirahat pill-rolling, bradikinesia, rigiditas roda gigi, dan hipomimia adalah tanda kardinal parkinsonisme. Tremor esensial bersifat postural/kinetik dan tidak disertai bradikinesia atau rigiditas.","explanationImages":[],"isBroken":false},{"id":"Q26","category":"","question":"Laki-laki 25 tahun dibawa ke IGD dengan kejang tonik-klonik umum yang berlangsung 8 menit dan belum berhenti. Akses intravena telah terpasang. Obat yang diberikan pertama kali adalah...","questionImages":[],"options":{"A":"Valproat per oral 500 mg dosis tunggal","B":"Fenobarbital intravena 20 mg/kgBB langsung","C":"Diazepam intravena 10 mg bolus","D":"Fenitoin intravena 20 mg/kgBB kecepatan cepat","E":"Karbamazepin per oral 400 mg dosis tunggal"},"answer":"C","explanation":"Status epileptikus ditatalaksana segera dengan benzodiazepin (diazepam intravena 0,2 mg/kgBB, sekitar 10 mg, bolus lambat), diikuti fenitoin intravena bila kejang berlanjut. Obat oral tidak sesuai untuk kejang aktif.","explanationImages":[],"isBroken":false},{"id":"Q27","category":"","question":"Laki-laki 22 tahun didiagnosis epilepsi tonik-klonik umum dan mendapat asam valproat. Edukasi yang paling tepat adalah...","questionImages":[],"options":{"A":"Hentikan obat setelah bebas kejang satu bulan pertama","B":"Perbanyak begadang agar kelelahan tidak mencetus kejang","C":"Boleh berkendara sendiri asalkan minum obat tepat waktu","D":"Minum obat teratur dan tidur cukup serta hindari berenang sendirian","E":"Minum obat bila terasa akan kejang saja"},"answer":"D","explanation":"Kepatuhan minum obat, tidur cukup, dan menghindari pemicu serta aktivitas berisiko (berenang sendiri, berkendara, ketinggian) adalah inti edukasi epilepsi. Penghentian obat harus bertahap atas anjuran dokter setelah bebas kejang bertahun-tahun.","explanationImages":[],"isBroken":false},{"id":"Q28","category":"","question":"Laki-laki 30 tahun dengan kelemahan tungkai simetris naik ke tubuh atas dua minggu setelah diare, arefleksia, dan sensorik relatif normal. Temuan LCS yang mendukung sindrom Guillain-Barré adalah...","questionImages":[],"options":{"A":"Protein normal dengan glukosa turun mendekati nol","B":"Protein meningkat dengan sel limfosit sangat tinggi","C":"Protein normal dengan sel PMN sangat tinggi","D":"Protein meningkat dengan jumlah sel normal","E":"Xantokromia dengan eritrosit banyak dan protein normal"},"answer":"D","explanation":"Disosiasi albuminositologik, yaitu protein meningkat dengan sel normal, merupakan temuan khas SGB, terutama setelah minggu pertama. Pleositosis menunjukkan infeksi SSP, sedangkan xantokromia menunjukkan perdarahan subaraknoid.","explanationImages":[],"isBroken":false},{"id":"Q29","category":"","question":"Perempuan 28 tahun dengan ptosis dan diplopia yang memburuk sore hari dan membaik setelah istirahat, disertai kelemahan proksimal. Dicurigai miastenia gravis. Pemeriksaan penunjang yang paling spesifik untuk menegakkan diagnosis adalah...","questionImages":[],"options":{"A":"Antibodi anti-nuklear (ANA)","B":"Antibodi anti-AChR","C":"Kadar kalsium dan magnesium serum","D":"Kadar kreatin kinase serum","E":"Punksi lumbal dengan analisis LCS"},"answer":"B","explanation":"Antibodi anti-AChR sangat spesifik untuk miastenia gravis dan positif pada sebagian besar kasus generalisata. Pemeriksaan lain yang mendukung adalah stimulasi saraf berulang (dekremen) dan tes edrofonium, sedangkan CK dan LCS tidak spesifik.","explanationImages":[],"isBroken":false},{"id":"Q30","category":"","question":"Pasien miastenia gravis dengan piridostigmin dosis tinggi mengalami kelemahan otot bertambah, hipersalivasi, miosis, fasikulasi, dan bradikardia. Tata laksana yang paling tepat adalah...","questionImages":[],"options":{"A":"Tambahkan prednison dosis tinggi dan lanjutkan piridostigmin","B":"Hentikan piridostigmin dan berikan atropin sulfat","C":"Berikan kalium klorida intravena dan observasi dua jam","D":"Tingkatkan dosis piridostigmin dan tambah neostigmin","E":"Berikan edrofonium intravena sebagai tes konfirmasi rutin"},"answer":"B","explanation":"Gejala muskarinik (hipersalivasi, miosis, bradikardia) dan fasikulasi menunjukkan krisis kolinergik akibat kelebihan antikolinesterase. Penatalaksanaan: hentikan antikolinesterase, berikan atropin, dan dukung jalan napas. Menambah antikolinesterase memperburuk keadaan.","explanationImages":[],"isBroken":false}]}
+{
+  "id": "latihan-kk7__latihan-dx-kasus-cr",
+  "tier": "reguler",
+  "title": "Latihan Dx Kasus CR",
+  "category": "Latihan KK7",
+  "questions": [
+    {
+      "id": "Q1",
+      "category": "",
+      "question": "Bapak 32 tahun, sopir, datang dengan nyeri hebat sebelah mata kanan seperti ditusuk, 30-60 menit, 2-3 kali/hari, sering membangunkan malam, disertai mata kanan merah dan berair, hidung tersumbat, serta ptosis ringan ipsilateral. Pasien gelisah dan mondar-mandir saat serangan. Terapi abortif yang paling tepat adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Sumatriptan 6 mg subkutan atau oksigen 100% 7 L/menit",
+        "B": "Amitriptilin 25 mg per oral malam hari sebagai terapi serangan akut",
+        "C": "Ibuprofen 400 mg per oral dan istirahat di ruangan gelap dan tenang",
+        "D": "Propranolol 40 mg per oral tiga kali sehari sejak awal serangan",
+        "E": "Parasetamol 500 mg per oral dan kompres hangat pada dahi"
+      },
+      "answer": "A",
+      "explanation": "Gambaran nyeri unilateral orbita singkat dengan gejala otonom ipsilateral dan gelisah menunjukkan cluster headache. Terapi akut berupa sumatriptan subkutan atau oksigen 100% 7 L/menit selama 15 menit. Analgesik biasa lambat onsetnya dan tidak efektif, sedangkan verapamil digunakan sebagai profilaksis, bukan terapi serangan.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q2",
+      "category": "",
+      "question": "Perempuan 28 tahun dengan nyeri kepala sebelah berdenyut, mual, fotofobia, dan fonofobia sejak SMA, 2-3 kali per bulan, menjelang haid, dengan pemeriksaan neurologis normal. Kondisi berikut yang merupakan indikasi pencitraan (CT/MRI) pada pasien migrain adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Nyeri kepala terberat seumur hidup dengan pola berubah drastis",
+        "B": "Serangan yang cenderung terjadi menjelang siklus menstruasi",
+        "C": "Riwayat migrain pada ibu kandung dengan pemeriksaan normal",
+        "D": "Fotofobia dan fonofobia yang membaik di ruangan gelap",
+        "E": "Nyeri kepala berdenyut sebelah yang muncul 2-3 kali setiap bulan"
+      },
+      "answer": "A",
+      "explanation": "Pada migrain tipikal tanpa red flag, pencitraan tidak rutin diperlukan. CT/MRI dipertimbangkan bila nyeri kepala pertama/terberat seumur hidup, perubahan pola drastis, defisit neurologis persisten, atau respons terapi tidak adekuat. Pilihan lain merupakan ciri migrain tipikal.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q3",
+      "category": "",
+      "question": "Laki-laki 35 tahun, pegawai bank, mengeluh nyeri kepala bilateral seperti diikat/ditekan sejak sore, intensitas ringan-sedang (VAS 4), tidak memburuk dengan aktivitas rutin, tanpa mual, fotofobia, atau fonofobia. Pemeriksaan neurologis normal. Diagnosis yang paling mungkin adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Migrain tanpa aura",
+        "B": "Cluster headache",
+        "C": "Tension type headache",
+        "D": "Neuralgia trigeminal",
+        "E": "Nyeri kepala servikogenik"
+      },
+      "answer": "C",
+      "explanation": "Nyeri bilateral, kualitas menekan seperti diikat, intensitas ringan-sedang, tidak diperberat aktivitas, dan tanpa mual atau fotofobia/fonofobia merupakan kriteria tension type headache. Migrain berdenyut unilateral dengan mual dan fotofobia, sedangkan cluster headache disertai gejala otonom.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q4",
+      "category": "",
+      "question": "Laki-laki 30 tahun mengeluh pusing berputar mendadak saat bangun tidur dan menoleh, berlangsung kurang dari 1 menit, dipicu perubahan posisi kepala, tanpa gangguan dengar atau tinitus. Dix-Hallpike menunjukkan nistagmus torsional-upbeat dengan latensi beberapa detik. Terapi definitif yang paling tepat adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Manuver Dix-Hallpike berulang sebagai terapi utama",
+        "B": "Manuver Epley untuk kanal posterior",
+        "C": "Manuver Valsalva berulang untuk mengeluarkan debris kanalit",
+        "D": "Manuver Lempert (barbecue roll) untuk kanal posterior",
+        "E": "Latihan Romberg setiap hari sebagai terapi utama"
+      },
+      "answer": "B",
+      "explanation": "Nistagmus torsional-upbeat pada Dix-Hallpike dengan latensi dan durasi singkat menunjukkan BPPV kanal posterior (kanalolitiasis). Terapi definitifnya adalah canalith repositioning, yaitu manuver Epley atau Semont. Lempert digunakan untuk kanal horizontal dan Dix-Hallpike adalah manuver diagnostik.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q5",
+      "category": "",
+      "question": "Laki-laki 65 tahun tiba di IGD 2 jam setelah mendadak lemah lengan-tungkai kanan dan bicara pelo. TD 170/100 mmHg, NIHSS 12, GDS normal, dan CT kepala tanpa kontras tidak menunjukkan perdarahan. Terapi reperfusi yang paling tepat adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Alteplase intravena dosis 0,9 mg/kgBB",
+        "B": "Heparin intravena bolus dilanjutkan infus kontinu",
+        "C": "Aspirin 300 mg saja dan observasi 24 jam",
+        "D": "Nimodipin per oral dosis penuh selama 21 hari",
+        "E": "Manitol 20% intravena sebagai terapi utama"
+      },
+      "answer": "A",
+      "explanation": "Stroke iskemik akut dalam jendela 4,5 jam tanpa perdarahan pada CT dan TD di bawah 185/110 mmHg memenuhi indikasi trombolisis dengan alteplase intravena 0,9 mg/kgBB. Heparin tidak direkomendasikan rutin, nimodipin untuk pencegahan vasospasme pada perdarahan subaraknoid, dan manitol untuk peningkatan TIK.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q6",
+      "category": "",
+      "question": "Perempuan 60 tahun dibawa dengan penurunan kesadaran mendadak, hemiparesis kiri, dan riwayat hipertensi tidak terkontrol. Pemeriksaan penunjang pertama yang paling tepat untuk membedakan stroke iskemik dan hemoragik adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "MRI kepala dengan kontras gadolinium",
+        "B": "Doppler karotis",
+        "C": "Elektroensefalografi (EEG)",
+        "D": "Pungsi lumbal segera",
+        "E": "CT scan kepala tanpa kontras"
+      },
+      "answer": "E",
+      "explanation": "CT scan kepala tanpa kontras cepat, tersedia luas, dan sensitif mendeteksi perdarahan akut (tampak hiperdens), sehingga menjadi pemeriksaan pertama pada stroke akut. Pungsi lumbal tidak dilakukan pada kecurigaan peningkatan TIK dan EEG tidak membedakan jenis stroke.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q7",
+      "category": "",
+      "question": "Laki-laki 45 tahun dengan nyeri punggung bawah menjalar ke tungkai kiri sampai betis, memburuk saat batuk dan membungkuk, Lasegue positif pada 40 derajat, dan kelemahan dorsofleksi kaki kiri. Modalitas pencitraan terbaik untuk mengonfirmasi HNP adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "MRI lumbosakral tanpa kontras",
+        "B": "Foto polos lumbosakral posisi AP dan lateral",
+        "C": "Bone scan seluruh tubuh dengan teknesium",
+        "D": "Elektrokardiografi dan foto toraks",
+        "E": "USG jaringan lunak regio lumbal"
+      },
+      "answer": "A",
+      "explanation": "MRI adalah modalitas terbaik untuk melihat diskus, akar saraf, dan kanal spinal sehingga mengonfirmasi HNP dan menentukan levelnya. Foto polos tidak menampilkan jaringan lunak dan hanya menyingkirkan kelainan tulang, sedangkan bone scan untuk kecurigaan keganasan atau infeksi tulang.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q8",
+      "category": "",
+      "question": "Ibu 35 tahun bangun pagi dengan wajah kanan lumpuh: dahi kanan datar, tidak dapat menutup mata kanan, dan mulut tertarik ke kiri. Nyeri belakang telinga sehari sebelumnya, ekstremitas normal. Terapi lini pertama yang paling tepat adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Aspirin 100 mg dan statin dosis tinggi jangka panjang",
+        "B": "Antibiotik intravena spektrum luas dan rawat inap",
+        "C": "Prednison oral dalam 72 jam dan proteksi mata",
+        "D": "Karbamazepin oral dosis titrasi dan penutup mata",
+        "E": "Fisioterapi saja tanpa obat selama satu bulan penuh"
+      },
+      "answer": "C",
+      "explanation": "Kelumpuhan wajah atas dan bawah pada lesi perifer N.VII tanpa defisit lain adalah Bell's palsy. Kortikosteroid oral dalam 72 jam onset meningkatkan pemulihan, ditambah antiviral pada derajat berat, serta proteksi kornea (air mata buatan, penutup mata) karena lagoftalmus.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q9",
+      "category": "",
+      "question": "Perempuan 55 tahun mengeluh nyeri seperti tersengat listrik di pipi kanan, berlangsung detik, dipicu mengunyah dan menyikat gigi, tanpa defisit sensorik. Obat lini pertama yang paling tepat adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Ibuprofen",
+        "B": "Karbamazepin",
+        "C": "Amitriptilin",
+        "D": "Prednison",
+        "E": "Tramadol"
+      },
+      "answer": "B",
+      "explanation": "Nyeri paroksismal singkat seperti tersengat listrik di dermatom trigeminal dengan pemicu ringan adalah khas neuralgia trigeminal. Karbamazepin (atau okskarbazepin) merupakan lini pertama, sedangkan analgesik biasa dan NSAID kurang efektif untuk nyeri neuropatik ini.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q10",
+      "category": "",
+      "question": "Anak 18 bulan, berat badan 10 kg, demam 39 derajat Celsius, mengalami kejang umum tonik-klonik yang sudah berlangsung 5 menit dan belum berhenti. Obat yang diberikan pertama kali adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Fenitoin intravena 200 mg",
+        "B": "Parasetamol supositoria 125 mg",
+        "C": "Diazepam rektal 5 mg",
+        "D": "Fenobarbital oral 30 mg",
+        "E": "Diazepam rektal 10 mg"
+      },
+      "answer": "C",
+      "explanation": "Kejang demam yang berlangsung 5 menit atau lebih diberi diazepam rektal 0,5 mg/kgBB, yaitu 5 mg untuk berat badan kurang dari 12 kg dan 10 mg untuk 12 kg atau lebih. Antipiretik tidak menghentikan kejang yang sedang berlangsung.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q11",
+      "category": "",
+      "question": "Anak 2 tahun demam tinggi dan mengalami kejang umum dua kali dalam 24 jam, masing-masing sekitar 5 menit dengan kesadaran pulih di antara kejang. Perkembangan sebelumnya normal dan tidak ada tanda meningeal. Diagnosis yang paling tepat adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Kejang demam kompleks",
+        "B": "Epilepsi umum idiopatik",
+        "C": "Meningitis bakterialis",
+        "D": "Ensefalitis viral",
+        "E": "Kejang demam sederhana"
+      },
+      "answer": "A",
+      "explanation": "Kejang demam dikatakan kompleks bila berlangsung lebih dari 15 menit, fokal, atau berulang dalam 24 jam. Kejang berulang dua kali dalam 24 jam pada anak ini memenuhi kriteria kompleks. Tanda meningeal dan penurunan kesadaran berkepanjangan tidak ada sehingga infeksi SSP kurang mungkin.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q12",
+      "category": "",
+      "question": "Bayi baru lahir hari ke-3 mengalami kejang klonik fokal berulang. Gula darah, kalsium, dan elektrolit normal. Obat antikejang lini pertama yang paling tepat adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Fenobarbital intravena dosis muat 20 mg/kgBB",
+        "B": "Karbamazepin per oral 10 mg/kgBB sekali sehari",
+        "C": "Asam valproat per oral 20 mg/kgBB dua kali sehari",
+        "D": "Diazepam rektal 0,5 mg/kgBB sebagai dosis awal",
+        "E": "Fenitoin per oral 5 mg/kgBB dosis pemeliharaan"
+      },
+      "answer": "A",
+      "explanation": "Pada kejang neonatus, koreksi gangguan metabolik (hipoglikemia, hipokalsemia) dilakukan lebih dulu. Bila kejang menetap, fenobarbital intravena dosis muat 20 mg/kgBB adalah lini pertama, dengan fenitoin sebagai lini berikutnya. Obat oral tidak sesuai untuk kejang akut neonatus.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q13",
+      "category": "",
+      "question": "Laki-laki 40 tahun dengan demam tinggi mendadak, nyeri kepala hebat, kaku kuduk, dan penurunan kesadaran. Pungsi lumbal dilakukan. Hasil analisis cairan serebrospinal yang paling sesuai dengan meningitis bakterialis adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Jernih, limfosit sedikit meningkat, protein normal, glukosa normal",
+        "B": "Jernih, sel normal, protein sangat tinggi, glukosa normal",
+        "C": "Xantokromia, eritrosit banyak, protein tinggi, glukosa normal",
+        "D": "Keruh, PMN sangat tinggi, protein tinggi, glukosa sangat rendah",
+        "E": "Jernih, limfosit dominan, protein sedikit naik, glukosa normal"
+      },
+      "answer": "D",
+      "explanation": "Meningitis bakterialis menghasilkan LCS keruh dengan pleositosis PMN, protein meningkat, dan glukosa turun sampai mendekati nol karena konsumsi bakteri dan leukosit. Pola sel normal dengan protein tinggi khas Guillain-Barré, sedangkan xantokromia khas perdarahan subaraknoid.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q14",
+      "category": "",
+      "question": "Perempuan 30 tahun dengan demam, nyeri kepala, perubahan perilaku, dan kejang fokal. MRI menunjukkan lesi lobus temporal dan LCS limfositik, dicurigai ensefalitis herpes simpleks. Terapi yang harus segera diberikan adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Seftriakson intravena 2 gram monoterapi",
+        "B": "Amfoterisin B intravena dosis harian tunggal",
+        "C": "Oseltamivir per oral 75 mg dua kali sehari",
+        "D": "Metronidazol intravena 500 mg setiap 8 jam",
+        "E": "Asiklovir intravena 10 mg/kgBB setiap 8 jam"
+      },
+      "answer": "E",
+      "explanation": "Ensefalitis herpes simpleks memerlukan asiklovir intravena sedini mungkin, dosis 10 mg/kgBB setiap 8 jam, karena keterlambatan meningkatkan mortalitas dan sekuele. Oseltamivir untuk influenza, dan seftriakson tidak menangani virus.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q15",
+      "category": "",
+      "question": "Laki-laki 28 tahun baru kembali dari daerah endemis malaria, demam tinggi, kejang, dan penurunan kesadaran. Apusan darah tebal-tipis menunjukkan Plasmodium falciparum. Obat pilihan yang paling tepat adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Klorokuin per oral",
+        "B": "Doksisiklin per oral tunggal",
+        "C": "Primakuin dosis tunggal per oral",
+        "D": "Kina per oral tiga kali sehari",
+        "E": "Artesunat intravena"
+      },
+      "answer": "E",
+      "explanation": "Malaria serebral adalah malaria berat oleh P. falciparum yang memerlukan artesunat intravena sebagai pilihan utama, lalu dilanjutkan terapi kombinasi berbasis artemisinin oral. Obat oral tidak sesuai karena kesadaran menurun dan resistensi klorokuin luas.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q16",
+      "category": "",
+      "question": "Petani 50 tahun tertusuk paku berkarat 5 hari lalu, kini trismus, risus sardonikus, opistotonus, dan spasme yang dipicu rangsang, dengan kesadaran baik. Terapi yang berfungsi menetralkan toksin tetanus yang belum terikat adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Metronidazol intravena setiap 8 jam",
+        "B": "Human tetanus immunoglobulin",
+        "C": "Toksoid tetanus dosis booster saja",
+        "D": "Diazepam intravena bolus bertahap",
+        "E": "Debridemen luka tusuk secara luas"
+      },
+      "answer": "B",
+      "explanation": "HTIG menetralkan toksin tetanus yang beredar dan belum terikat pada saraf. Diazepam mengendalikan spasme, metronidazol dan debridemen mengeliminasi sumber kuman C. tetani, sedangkan toksoid saja tidak cukup pada tetanus yang sudah bermanifestasi.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q17",
+      "category": "",
+      "question": "Anak 7 tahun digigit anjing liar di tungkai, luka robek dengan perdarahan ringan. Tindakan pertama yang paling tepat adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Menutup luka rapat dengan kasa dan plester elastis",
+        "B": "Mencuci luka dengan sabun dan air mengalir 15 menit",
+        "C": "Mengoleskan povidon iodin lalu menunggu observasi hewan",
+        "D": "Menjahit luka segera untuk menghentikan perdarahan",
+        "E": "Memberi vaksin antirabies tanpa mencuci luka lebih dulu"
+      },
+      "answer": "B",
+      "explanation": "Pencucian luka dengan sabun dan air mengalir selama 15 menit menurunkan jumlah virus di lokasi gigitan dan merupakan langkah pertama profilaksis pascapajanan rabies. Setelah itu diberikan antiseptik, VAR, dan SAR sesuai kategori luka, sedangkan luka tidak dijahit primer.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q18",
+      "category": "",
+      "question": "Perempuan 40 tahun dengan vertigo berputar akut yang menetap beberapa hari, mual muntah, tanpa gangguan dengar. Temuan HINTS yang mendukung neuritis vestibularis (perifer) adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Head impulse normal, nistagmus berubah arah, dengan skew deviation",
+        "B": "Head impulse abnormal, nistagmus berubah arah, dengan skew deviation",
+        "C": "Head impulse abnormal, nistagmus vertikal murni, tanpa skew deviation",
+        "D": "Head impulse abnormal, nistagmus horizontal searah, tanpa skew",
+        "E": "Head impulse normal, nistagmus horizontal satu arah, tanpa skew deviation"
+      },
+      "answer": "D",
+      "explanation": "Pada lesi perifer, head impulse test abnormal (saccade korektif), nistagmus horizontal searah yang tidak berubah arah, dan tidak ada skew deviation. Head impulse normal, nistagmus vertikal atau berubah arah, dan skew deviation menunjukkan lesi sentral.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q19",
+      "category": "",
+      "question": "Bayi 2 bulan dengan mikrosefali, tuli sensorineural, dan korioretinitis. Ibu mengalami infeksi ringan saat hamil. Temuan neuroimaging yang paling khas untuk CMV kongenital adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Perdarahan subdural bilateral",
+        "B": "Ventrikulomegali tanpa kalsifikasi apa pun",
+        "C": "Kalsifikasi tersebar difus di korteks dan ganglia basal",
+        "D": "Massa hiperdens di fossa posterior",
+        "E": "Kalsifikasi periventrikular"
+      },
+      "answer": "E",
+      "explanation": "Kalsifikasi periventrikular adalah temuan khas CMV kongenital, sedangkan toksoplasmosis kongenital cenderung menunjukkan kalsifikasi tersebar. Trias mikrosefali, tuli sensorineural, dan korioretinitis mendukung diagnosis CMV.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q20",
+      "category": "",
+      "question": "Bidan puskesmas melakukan penyuluhan pencegahan tetanus neonatorum. Edukasi yang paling tepat adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Membubuhkan ramuan tradisional agar tali pusat cepat lepas",
+        "B": "Antibiotik oral profilaksis pada semua bayi baru lahir",
+        "C": "Imunisasi TT ibu hamil dan perawatan tali pusat bersih",
+        "D": "Imunisasi DPT segera setelah bayi dilahirkan",
+        "E": "Menutup tali pusat rapat tanpa cuci tangan sebelumnya"
+      },
+      "answer": "C",
+      "explanation": "Tetanus neonatorum dicegah dengan imunisasi TT pada ibu hamil sehingga antibodi menembus plasenta, ditambah persalinan bersih dan perawatan tali pusat higienis. Ramuan tradisional dan penutupan tidak higienis justru meningkatkan risiko infeksi C. tetani.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q21",
+      "category": "",
+      "question": "Laki-laki 65 tahun mengalami lemah lengan kanan dan bicara pelo selama 15 menit, pulih total sebelum tiba di IGD. Riwayat hipertensi dan dislipidemia, ABCD2 skor 5. CT kepala tanpa perdarahan. Terapi antitrombotik yang paling tepat adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Heparin intravena dosis penuh selama tujuh hari",
+        "B": "Aspirin 100 mg saja hingga skor ABCD2 menurun",
+        "C": "Aspirin plus klopidogrel dalam 24 jam onset",
+        "D": "Warfarin dengan target INR 4 selama dua minggu",
+        "E": "Alteplase intravena 0,9 mg/kgBB segera"
+      },
+      "answer": "C",
+      "explanation": "TIA dengan ABCD2 skor 4 atau lebih berisiko tinggi stroke sehingga diberikan antiplatelet ganda (aspirin dan klopidogrel) mulai 12-24 jam hingga 21-90 hari, lalu antiplatelet tunggal. Trombolisis tidak diindikasikan karena gejala telah pulih.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q22",
+      "category": "",
+      "question": "Perempuan 48 tahun dengan nyeri kepala mendadak paling hebat seumur hidup, muntah, dan kaku kuduk. CT kepala menunjukkan hiperdens di ruang subaraknoid. Tujuan pemberian nimodipin pada pasien ini adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Mengoreksi hidrosefalus akut dengan mengurangi produksi LCS",
+        "B": "Menurunkan risiko perdarahan ulang dengan mengurangi ruptur aneurisma",
+        "C": "Menurunkan tekanan intrakranial dengan efek diuresis osmotik",
+        "D": "Mencegah iskemia tertunda akibat vasospasme serebral",
+        "E": "Menghentikan kejang dengan meningkatkan ambang eksitasi neuron"
+      },
+      "answer": "D",
+      "explanation": "Nimodipin (60 mg setiap 4 jam selama 21 hari) diberikan pada perdarahan subaraknoid untuk mencegah iskemia serebral tertunda akibat vasospasme. Pencegahan perdarahan ulang memerlukan tindakan definitif (clipping atau coiling), bukan nimodipin.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q23",
+      "category": "",
+      "question": "Perempuan 45 tahun dengan episode vertigo spontan 20 menit hingga beberapa jam, tuli sensorineural fluktuatif, tinitus, dan rasa penuh telinga kiri, empat kali dalam dua bulan. Terapi pemeliharaan untuk mengurangi frekuensi serangan adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Antibiotik oral spektrum luas selama satu bulan",
+        "B": "Diet tinggi garam dan furosemid 40 mg sekali sehari",
+        "C": "Rehabilitasi vestibular saja saat serangan akut",
+        "D": "Manuver Epley berulang sebagai terapi pemeliharaan",
+        "E": "Diet rendah garam dan hidroklorotiazid 25 mg"
+      },
+      "answer": "E",
+      "explanation": "Gambaran ini sesuai penyakit Meniere. Terapi pemeliharaan meliputi diet rendah garam dan diuretik (misalnya hidroklorotiazid) untuk mengurangi hidrops endolimfatik. Manuver Epley untuk BPPV, dan rehabilitasi vestibular bukan untuk serangan akut.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q24",
+      "category": "",
+      "question": "Perempuan 72 tahun dengan gangguan memori progresif 2 tahun, sering lupa janji dan tersesat, tetap mandiri dalam aktivitas dasar, MMSE 20. Diagnosis demensia Alzheimer ditegakkan. Terapi farmakologis yang paling tepat adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Haloperidol",
+        "B": "Karbamazepin",
+        "C": "Levodopa",
+        "D": "Donepezil",
+        "E": "Amitriptilin"
+      },
+      "answer": "D",
+      "explanation": "Inhibitor kolinesterase seperti donepezil merupakan terapi simtomatik demensia Alzheimer ringan-sedang untuk memperbaiki fungsi kognitif dan aktivitas harian. Levodopa untuk Parkinson, sedangkan haloperidol dapat memperburuk kondisi dan hanya untuk agitasi berat.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q25",
+      "category": "",
+      "question": "Laki-laki 62 tahun dengan tremor tangan kanan saat istirahat seperti menghitung uang, gerakan melambat, wajah kurang ekspresi, dan kekakuan roda gigi. Diagnosis yang paling mungkin adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Miastenia gravis",
+        "B": "Demensia Alzheimer",
+        "C": "Neuropati perifer",
+        "D": "Tremor esensial",
+        "E": "Penyakit Parkinson"
+      },
+      "answer": "E",
+      "explanation": "Tremor istirahat pill-rolling, bradikinesia, rigiditas roda gigi, dan hipomimia adalah tanda kardinal parkinsonisme. Tremor esensial bersifat postural/kinetik dan tidak disertai bradikinesia atau rigiditas.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q26",
+      "category": "",
+      "question": "Laki-laki 25 tahun dibawa ke IGD dengan kejang tonik-klonik umum yang berlangsung 8 menit dan belum berhenti. Akses intravena telah terpasang. Obat yang diberikan pertama kali adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Valproat per oral 500 mg dosis tunggal",
+        "B": "Fenobarbital intravena 20 mg/kgBB langsung",
+        "C": "Diazepam intravena 10 mg bolus",
+        "D": "Fenitoin intravena 20 mg/kgBB kecepatan cepat",
+        "E": "Karbamazepin per oral 400 mg dosis tunggal"
+      },
+      "answer": "C",
+      "explanation": "Status epileptikus ditatalaksana segera dengan benzodiazepin (diazepam intravena 0,2 mg/kgBB, sekitar 10 mg, bolus lambat), diikuti fenitoin intravena bila kejang berlanjut. Obat oral tidak sesuai untuk kejang aktif.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q27",
+      "category": "",
+      "question": "Laki-laki 22 tahun didiagnosis epilepsi tonik-klonik umum dan mendapat asam valproat. Edukasi yang paling tepat adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Hentikan obat setelah bebas kejang satu bulan pertama",
+        "B": "Perbanyak begadang agar kelelahan tidak mencetus kejang",
+        "C": "Boleh berkendara sendiri asalkan minum obat tepat waktu",
+        "D": "Minum obat teratur dan tidur cukup serta hindari berenang sendirian",
+        "E": "Minum obat bila terasa akan kejang saja"
+      },
+      "answer": "D",
+      "explanation": "Kepatuhan minum obat, tidur cukup, dan menghindari pemicu serta aktivitas berisiko (berenang sendiri, berkendara, ketinggian) adalah inti edukasi epilepsi. Penghentian obat harus bertahap atas anjuran dokter setelah bebas kejang bertahun-tahun.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q28",
+      "category": "",
+      "question": "Laki-laki 30 tahun dengan kelemahan tungkai simetris naik ke tubuh atas dua minggu setelah diare, arefleksia, dan sensorik relatif normal. Temuan LCS yang mendukung sindrom Guillain-Barré adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Protein normal dengan glukosa turun mendekati nol",
+        "B": "Protein meningkat dengan sel limfosit sangat tinggi",
+        "C": "Protein normal dengan sel PMN sangat tinggi",
+        "D": "Protein meningkat dengan jumlah sel normal",
+        "E": "Xantokromia dengan eritrosit banyak dan protein normal"
+      },
+      "answer": "D",
+      "explanation": "Disosiasi albuminositologik, yaitu protein meningkat dengan sel normal, merupakan temuan khas SGB, terutama setelah minggu pertama. Pleositosis menunjukkan infeksi SSP, sedangkan xantokromia menunjukkan perdarahan subaraknoid.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q29",
+      "category": "",
+      "question": "Perempuan 28 tahun dengan ptosis dan diplopia yang memburuk sore hari dan membaik setelah istirahat, disertai kelemahan proksimal. Dicurigai miastenia gravis. Pemeriksaan penunjang yang paling spesifik untuk menegakkan diagnosis adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Antibodi anti-nuklear (ANA)",
+        "B": "Antibodi anti-AChR",
+        "C": "Kadar kalsium dan magnesium serum",
+        "D": "Kadar kreatin kinase serum",
+        "E": "Punksi lumbal dengan analisis LCS"
+      },
+      "answer": "B",
+      "explanation": "Antibodi anti-AChR sangat spesifik untuk miastenia gravis dan positif pada sebagian besar kasus generalisata. Pemeriksaan lain yang mendukung adalah stimulasi saraf berulang (dekremen) dan tes edrofonium, sedangkan CK dan LCS tidak spesifik.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q30",
+      "category": "",
+      "question": "Pasien miastenia gravis dengan piridostigmin dosis tinggi mengalami kelemahan otot bertambah, hipersalivasi, miosis, fasikulasi, dan bradikardia. Tata laksana yang paling tepat adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "Tambahkan prednison dosis tinggi dan lanjutkan piridostigmin",
+        "B": "Hentikan piridostigmin dan berikan atropin sulfat",
+        "C": "Berikan kalium klorida intravena dan observasi dua jam",
+        "D": "Tingkatkan dosis piridostigmin dan tambah neostigmin",
+        "E": "Berikan edrofonium intravena sebagai tes konfirmasi rutin"
+      },
+      "answer": "B",
+      "explanation": "Gejala muskarinik (hipersalivasi, miosis, bradikardia) dan fasikulasi menunjukkan krisis kolinergik akibat kelebihan antikolinesterase. Penatalaksanaan: hentikan antikolinesterase, berikan atropin, dan dukung jalan napas. Menambah antikolinesterase memperburuk keadaan.",
+      "explanationImages": [],
+      "isBroken": false
+    }
+  ]
+}

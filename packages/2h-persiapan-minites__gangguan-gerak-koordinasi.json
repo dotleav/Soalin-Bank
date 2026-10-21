@@ -1,1 +1,794 @@
-{"id":"2h-persiapan-minites__gangguan-gerak-koordinasi","tier":"reguler","title":"Gangguan Gerak & Koordinasi","category":"2H - Persiapan Minites 1","questions":[{"id":"Q1","category":"","question":"Seorang dokter menjelaskan bahwa ganglia basalis berperan dalam gerakan. Fungsi ganglia basalis yang tepat adalah ...","questionImages":[],"options":{"A":"Penerjemahan bahasa lisan menjadi program motorik bicara","B":"Inisiasi memulai gerakan, inisiasi menghentikan gerakan, dan modulasi gerakan","C":"Penerimaan rangsang propriosepsi dari otot dan sendi","D":"Pengiriman langsung impuls motorik ke motoneuron alfa di medula spinalis","E":"Penyimpanan memori prosedural gerakan secara khusus di talamus"},"answer":"B","explanation":"Ganglia basalis memulai dan menghentikan gerakan serta memodulasinya. Pengiriman impuls ke medula spinalis dilakukan traktus kortikospinal dari korteks motorik primer.","explanationImages":[],"isBroken":false},{"id":"Q2","category":"","question":"Neostriatum terdiri atas ...","questionImages":[],"options":{"A":"Putamen dan globus palidus","B":"Nukleus kaudatus dan putamen","C":"Globus palidus dan nukleus subtalamikus","D":"Putamen dan nukleus subtalamikus","E":"Nukleus kaudatus dan globus palidus"},"answer":"B","explanation":"Nukleus kaudatus dan putamen membentuk neostriatum, sedangkan putamen dan globus palidus membentuk nukleus lentiformis.","explanationImages":[],"isBroken":false},{"id":"Q3","category":"","question":"Pada direct pathway ganglia basalis, urutan aktivitas yang menghasilkan inisiasi gerakan adalah ...","questionImages":[],"options":{"A":"Korteks mengeksitasi nukleus subtalamikus, GPi tereksitasi, talamus terinhibisi, lalu gerakan berhenti","B":"Korteks mengeksitasi putamen, GPe terinhibisi, nukleus subtalamikus terinhibisi, lalu talamus terinhibisi","C":"Korteks menginhibisi putamen, GPi tereksitasi, talamus terinhibisi, lalu korteks terinhibisi","D":"Korteks menginhibisi talamus, GPi terinhibisi, putamen tereksitasi, lalu korteks tereksitasi","E":"Korteks mengeksitasi putamen, GPi terinhibisi, talamus terdisinhibisi, lalu korteks tereksitasi"},"answer":"E","explanation":"Direct pathway: glutamat korteks mengeksitasi putamen, GABA putamen menginhibisi GPi, sehingga talamus tidak ditekan dan mengeksitasi korteks, sehingga terjadi fasilitasi gerakan.","explanationImages":[],"isBroken":false},{"id":"Q4","category":"","question":"Pada indirect pathway, GPe yang terinhibisi kuat oleh putamen menyebabkan ...","questionImages":[],"options":{"A":"Nukleus subtalamikus terdisinhibisi sehingga GPi tereksitasi dan talamus terhambat","B":"Nukleus subtalamikus terinhibisi sehingga GPi terinhibisi dan talamus terangsang","C":"Nukleus subtalamikus terinhibisi sehingga GPi tereksitasi dan talamus terangsang","D":"Nukleus subtalamikus terdisinhibisi sehingga GPi terinhibisi dan talamus terangsang","E":"Nukleus subtalamikus tidak berubah sehingga talamus tidak terpengaruh"},"answer":"A","explanation":"Indirect pathway: putamen menginhibisi GPe, nukleus subtalamikus terlepas dari inhibisi, GPi tereksitasi dan menginhibisi talamus, sehingga gerakan ditekan (disinhibisi gerakan).","explanationImages":[],"isBroken":false},{"id":"Q5","category":"","question":"Penurunan dopamin pada penyakit Parkinson menyebabkan bradikinesia melalui ...","questionImages":[],"options":{"A":"Meningkatnya glutamat dari korteks pada kedua jalur sehingga gerakan terhambat","B":"Berkurangnya inhibisi D1 pada direct pathway dan meningkatnya eksitasi D2 pada indirect pathway","C":"Berkurangnya eksitasi D1 pada direct pathway dan berkurangnya inhibisi D2 pada indirect pathway","D":"Berkurangnya inhibisi D2 pada direct pathway dan berkurangnya inhibisi D1 pada indirect pathway","E":"Meningkatnya eksitasi D1 pada direct pathway dan berkurangnya eksitasi D2 pada indirect pathway"},"answer":"C","explanation":"D1 bersifat eksitatorik pada direct pathway dan D2 inhibitorik pada indirect pathway. Bila dopamin berkurang, direct pathway melemah dan indirect pathway menguat, sehingga terjadi bradikinesia.","explanationImages":[],"isBroken":false},{"id":"Q6","category":"","question":"Seorang laki-laki 65 tahun bergerak lambat, kaku, dan tangan bergetar saat istirahat. Kumpulan gejala yang lengkap pada teori lama parkinsonisme adalah ...","questionImages":[],"options":{"A":"Tremor postural, rigiditas, korea, dan instabilitas postural","B":"Tremor istirahat, spastisitas, hiperrefleksia, dan klonus","C":"Tremor intensi, rigiditas, ataksia, dan disdiadokokinesia","D":"Tremor istirahat, rigiditas, akinesia, dan instabilitas postural","E":"Tremor aksi, spastisitas, akinesia, dan instabilitas postural"},"answer":"D","explanation":"TRAP: Tremor resting, Rigiditas, Akinesia (bradikinesia), dan Postural instability. Spastisitas dan hiperrefleksia berasal dari gangguan kortikospinal, bukan ganglia basalis.","explanationImages":[],"isBroken":false},{"id":"Q7","category":"","question":"Menurut kriteria yang lebih baru, parkinsonisme ditegakkan bila ada ...","questionImages":[],"options":{"A":"Rigiditas saja tanpa bradikinesia","B":"Tremor kinetik dan postural saja","C":"Tremor istirahat saja tanpa bradikinesia","D":"Bradikinesia ditambah rigiditas atau tremor istirahat","E":"Instabilitas postural dan tremor aksi"},"answer":"D","explanation":"Bradikinesia wajib ada, disertai rigiditas atau tremor istirahat. Tremor kinetik dan postural saja tidak memenuhi kriteria parkinsonisme.","explanationImages":[],"isBroken":false},{"id":"Q8","category":"","question":"Seorang laki-laki 70 tahun tampak berwajah datar dengan kedipan berkurang, berjalan dengan langkah kecil diseret tanpa ayunan lengan, dan sulit berdiri dari duduk. Temuan ini merupakan manifestasi ...","questionImages":[],"options":{"A":"Spastisitas","B":"Tremor intensi","C":"Ataksia serebelar","D":"Distonia","E":"Bradikinesia"},"answer":"E","explanation":"Bradikinesia berupa gerakan lambat, sulit menginisiasi gerakan, wajah topeng, langkah kecil dan diseret tanpa arm swing, serta sulit bangkit dari duduk.","explanationImages":[],"isBroken":false},{"id":"Q9","category":"","question":"Cara membedakan rigiditas dengan spastisitas yang benar adalah ...","questionImages":[],"options":{"A":"Rigiditas bergantung pada kecepatan gerak pasif, sedangkan spastisitas tidak bergantung pada kecepatan","B":"Rigiditas berasal dari kortikospinal dan bersifat clasp-knife, sedangkan spastisitas berasal dari ganglia basalis","C":"Rigiditas disertai hiperrefleksia, sedangkan spastisitas tidak disertai perubahan refleks","D":"Rigiditas berasal dari ganglia basalis dan bersifat lead-pipe, sedangkan spastisitas berasal dari kortikospinal dengan refleks meningkat","E":"Rigiditas dan spastisitas sama-sama berasal dari ganglia basalis dan hanya berbeda derajat"},"answer":"D","explanation":"Rigiditas (lead-pipe atau cogwheel) adalah masalah ganglia basalis dan tidak bergantung kecepatan. Spastisitas (clasp-knife) adalah masalah kortikospinal dengan peningkatan refleks.","explanationImages":[],"isBroken":false},{"id":"Q10","category":"","question":"Pada pemeriksaan tonus, pasien Parkinson diminta menggerakkan lengan kontralateral secara volunter agar rigiditas lebih terdeteksi. Manuver ini disebut ...","questionImages":[],"options":{"A":"Tes tarik (pull test)","B":"Tes Romberg","C":"Manuver Myerson","D":"Tes hidung-jari-hidung","E":"Froment's maneuver"},"answer":"E","explanation":"Froment's maneuver adalah activating maneuver: gerakan volunter lengan kontralateral meningkatkan resistensi terhadap gerakan pasif pada lengan yang diperiksa.","explanationImages":[],"isBroken":false},{"id":"Q11","category":"","question":"Tremor istirahat pada penyakit Parkinson biasanya memiliki frekuensi ...","questionImages":[],"options":{"A":"4–6 Hz","B":"8–12 Hz","C":"1–2 Hz","D":"15–20 Hz","E":"2–3 Hz"},"answer":"A","explanation":"Resting tremor Parkinson bersifat ritmis, frekuensi 4–6 Hz dengan amplitudo sedang, timbul saat istirahat dan sering diawali di satu tangan (pill-rolling).","explanationImages":[],"isBroken":false},{"id":"Q12","category":"","question":"Seorang perempuan 62 tahun mengalami tremor saat mempertahankan posisi lengan terentang, yang muncul setelah beberapa saat, dan tetap tampak saat istirahat. Pernyataan yang tepat adalah ...","questionImages":[],"options":{"A":"Reemergent tremor dapat terjadi pada Parkinson asalkan tremor juga terlihat saat istirahat","B":"Tremor ini menyingkirkan Parkinson karena hanya muncul saat postur","C":"Tremor ini pasti tremor esensial karena muncul saat postur","D":"Tremor ini selalu menandakan lesi serebelum","E":"Tremor postural saja sudah cukup memenuhi kriteria parkinsonisme"},"answer":"A","explanation":"Tremor istirahat pada Parkinson dapat muncul lagi saat postur ditahan lama (reemergent tremor), tetapi untuk memenuhi kriteria tremor juga harus terlihat saat istirahat.","explanationImages":[],"isBroken":false},{"id":"Q13","category":"","question":"Seorang laki-laki 68 tahun berjalan dengan langkah kecil tanpa heel strike, tampak menyusuri lantai, dan kecepatannya meningkat ketika akan berhenti. Gejala yang terakhir ini disebut ...","questionImages":[],"options":{"A":"Festinasi","B":"Ataksia sensorik","C":"Freezing of gait","D":"Turn en bloc","E":"Marche à petit pas"},"answer":"A","explanation":"Pada Parkinson dijumpai shuffling gait (tanpa heel strike), festinasi (kecepatan meningkat saat akan berhenti), freezing of gait (berhenti mendadak), dan turn en bloc (berputar sekaligus satu blok).","explanationImages":[],"isBroken":false},{"id":"Q14","category":"","question":"Seorang pasien Parkinson berhenti tiba-tiba ketika berjalan seakan kakinya menempel di lantai. Fenomena ini disebut ...","questionImages":[],"options":{"A":"Festinasi","B":"Turn en bloc","C":"Freezing of gait","D":"Ataksia serebelar","E":"Retropulsi"},"answer":"C","explanation":"Freezing of gait adalah berhenti mendadak saat berjalan, yang berkaitan dengan degenerasi batang otak dan defisiensi noradrenergik akibat degenerasi locus coeruleus.","explanationImages":[],"isBroken":false},{"id":"Q15","category":"","question":"Posisi leher pada pasien dengan penyakit Parkinson dan Parkinson plus dibedakan oleh ...","questionImages":[],"options":{"A":"Retrokolis khas kedua kelompok tanpa perbedaan","B":"Tortikolis khas Parkinson, antekolis khas Parkinson plus","C":"Antekolis khas Parkinson, retrokolis khas Parkinson plus","D":"Retrokolis khas Parkinson, antekolis khas Parkinson plus","E":"Antekolis khas kedua kelompok tanpa perbedaan"},"answer":"C","explanation":"Antekolis (fleksi leher ke depan) khas penyakit Parkinson, sedangkan retrokolis (leher menengadah ke belakang) khas Parkinson plus seperti PSP.","explanationImages":[],"isBroken":false},{"id":"Q16","category":"","question":"Seorang laki-laki 72 tahun dengan Parkinson memiliki fleksi lateral batang tubuh minimal 15° yang berkurang saat telentang atau dengan mobilisasi pasif. Kelainan postur ini disebut ...","questionImages":[],"options":{"A":"Retrokolis","B":"Antekolis","C":"Sindrom Pisa","D":"Camptocormia","E":"Simian posture"},"answer":"C","explanation":"Sindrom Pisa adalah fleksi lateral minimal 15° yang berkurang dengan mobilisasi pasif atau telentang. Camptocormia adalah fleksi torakolumbar minimal 45° yang membaik saat telentang.","explanationImages":[],"isBroken":false},{"id":"Q17","category":"","question":"Seorang pria dengan Parkinson mengeluh sering tidak dapat mencium bau. Pernyataan yang benar mengenai gejala ini adalah ...","questionImages":[],"options":{"A":"Hiposmia berkaitan dengan patologi awal di lobus temporal seperti Alzheimer","B":"Hiposmia hanya muncul pada tahap lanjut bersama demensia","C":"Hiposmia jarang ditemukan dan tidak berkaitan dengan Parkinson","D":"Hiposmia ditemukan pada lebih dari 80% pasien dan berkaitan dengan patologi awal di bulbus olfaktorius","E":"Hiposmia disebabkan lesi primer di nukleus kaudatus"},"answer":"D","explanation":"Pada tahap Braak 1, badan Lewy dimulai di bulbus olfaktorius, sehingga hiposmia ditemukan pada lebih dari 80% pasien PD dan bisa menjadi gejala prodromal.","explanationImages":[],"isBroken":false},{"id":"Q18","category":"","question":"Seorang laki-laki 63 tahun mengalami teriak dan gerakan kompleks saat tidur karena hilangnya atonia otot selama tidur REM. Kondisi ini merupakan ...","questionImages":[],"options":{"A":"Restless legs syndrome yang merupakan komplikasi terapi levodopa","B":"REM sleep behavior disorder yang merupakan gejala prodromal Parkinson","C":"Narkolepsi tipe 1 yang merupakan gejala prodromal Parkinson","D":"Mioklonus fisiologis yang tidak berkaitan dengan Parkinson","E":"Sleep apnea obstruktif yang merupakan gejala prodromal Parkinson"},"answer":"B","explanation":"RBD ditandai hilangnya atonia otot saat tidur REM dengan perilaku motorik kompleks saat bermimpi, dan merupakan gejala prodromal Parkinson.","explanationImages":[],"isBroken":false},{"id":"Q19","category":"","question":"Temuan patologi khas penyakit Parkinson adalah ...","questionImages":[],"options":{"A":"Degenerasi neuron kolinergik nukleus basalis dengan neurofibrillary tangle","B":"Atrofi striatum dengan ekspansi ulangan CAG","C":"Lesi nukleus subtalamikus dengan gerakan melempar","D":"Degenerasi neuron dopaminergik substansia nigra pars kompakta dengan badan Lewy agregasi alfa-sinuklein","E":"Degenerasi sel Purkinje serebelum dengan hot cross bun sign"},"answer":"D","explanation":"Parkinson ditandai kehilangan neuron dopaminergik SNc dengan inklusi sitoplasmik Lewy body akibat agregasi alfa-sinuklein. NFT khas demensia Alzheimer.","explanationImages":[],"isBroken":false},{"id":"Q20","category":"","question":"Pada MRI pasien dengan parkinsonisme ditemukan hilangnya gambaran swallow tail di substansia nigra. Temuan ini mendukung ...","questionImages":[],"options":{"A":"Tremor esensial","B":"Penyakit Parkinson","C":"Chorea Huntington","D":"Progressive supranuclear palsy","E":"Normal"},"answer":"B","explanation":"Absent swallow tail sign pada MRI substansia nigra khas penyakit Parkinson, sedangkan gambaran normal menunjukkan swallow tail sign.","explanationImages":[],"isBroken":false},{"id":"Q21","category":"","question":"Perhatikan gambar pencitraan transporter dopamin (DaT-SPECT) berikut. Seorang pasien dengan parkinsonisme menunjukkan gambar yang mana, dan apa temuannya? ","questionImages":["images/packages/2h-persiapan-minites__gangguan-gerak-koordinasi/img-001.png"],"options":{"A":"Kedua gambar sama karena DaT-SPECT tidak dapat membedakan","B":"Gambar A dengan penurunan ambilan tracer di ganglia basalis","C":"Gambar B dengan penurunan ambilan tracer di ganglia basalis","D":"Gambar B dengan peningkatan ambilan tracer di ganglia basalis","E":"Gambar A dengan ambilan tracer normal di ganglia basalis"},"answer":"B","explanation":"Pada penyakit Parkinson, ambilan tracer transporter dopamin di striatum menurun (gambar A), sedangkan gambar normal menunjukkan bentuk koma yang jelas di kedua sisi (gambar B).","explanationImages":[],"isBroken":false},{"id":"Q22","category":"","question":"Perhatikan skala Hoehn & Yahr pada gambar. Seorang pasien Parkinson memiliki gejala bilateral ringan sampai sedang, mulai ada instabilitas postural, tetapi masih mandiri secara fisik. Stadium pasien ini adalah ... ","questionImages":["images/packages/2h-persiapan-minites__gangguan-gerak-koordinasi/img-002.png"],"options":{"A":"Stage 1","B":"Stage 4","C":"Stage 5","D":"Stage 3","E":"Stage 2"},"answer":"D","explanation":"Hoehn & Yahr stage 3 (moderate): penyakit bilateral ringan sampai sedang, ada instabilitas postural, masih mandiri. Stage 4 sudah disabilitas berat tetapi masih dapat berjalan atau berdiri tanpa bantuan.","explanationImages":[],"isBroken":false},{"id":"Q23","category":"","question":"Seorang laki-laki 66 tahun didiagnosis Parkinson. Alasan levodopa diberikan, bukan dopamin, adalah ...","questionImages":[],"options":{"A":"Dopamin merupakan katekolamin nonpolar yang mudah terdegradasi oleh MAO-B","B":"Levodopa adalah asam amino prekursor dopamin yang dapat melewati sawar darah otak","C":"Dopamin melewati sawar darah otak tetapi cepat diubah menjadi epinefrin","D":"Levodopa menghambat COMT sehingga kadar dopamin di otak naik","E":"Levodopa adalah agonis reseptor D2 yang bekerja langsung di striatum"},"answer":"B","explanation":"Dopamin bersifat polar sehingga tidak menembus sawar darah otak. Levodopa adalah asam amino yang masuk lewat transporter asam amino dan diubah menjadi dopamin di otak.","explanationImages":[],"isBroken":false},{"id":"Q24","category":"","question":"Karbidopa atau benserazid ditambahkan pada levodopa karena ...","questionImages":[],"options":{"A":"Menghambat dekarboksilase di otak sehingga dopamin lebih lama bertahan","B":"Menghambat MAO-B di otak sehingga degradasi dopamin berkurang","C":"Menghambat dekarboksilase di perifer sehingga kadar levodopa yang masuk otak lebih tinggi dengan dosis lebih kecil","D":"Menghambat COMT di perifer sehingga levodopa berubah menjadi 3-OM-dopa","E":"Menstimulasi reseptor dopamin sehingga dosis levodopa dapat dikurangi"},"answer":"C","explanation":"Karbidopa dan benserazid adalah penghambat AADC/DDC perifer. Karena tidak menembus sawar darah otak, kadar levodopa yang sampai ke otak lebih tinggi dan efek sampingnya berkurang.","explanationImages":[],"isBroken":false},{"id":"Q25","category":"","question":"Karbidopa tidak menghambat DDC di otak karena ...","questionImages":[],"options":{"A":"Tidak memiliki gugus COOH sehingga tidak dapat melewati transporter asam amino","B":"Bersifat sangat larut lemak sehingga langsung terdegradasi hati","C":"Ditolak oleh reseptor dopamin D2 di sawar darah otak","D":"Terikat kuat pada albumin sehingga tidak masuk sirkulasi","E":"Dimetabolisme menjadi dopamin di perifer sehingga tidak tersisa"},"answer":"A","explanation":"Karbidopa tidak memiliki gugus COOH sehingga tidak dapat melewati transporter asam amino di sawar darah otak, dan hanya bekerja di perifer. Karbidopa tidak boleh diberikan tanpa levodopa.","explanationImages":[],"isBroken":false},{"id":"Q26","category":"","question":"Apomorfin diberikan secara subkutan pada pasien Parkinson karena ...","questionImages":[],"options":{"A":"Bioavailabilitas oral rendah sehingga butuh dosis sangat tinggi bila diberikan per oral","B":"Menembus sawar darah otak hanya bila diberikan intravena","C":"Tidak dapat diserap secara transdermal sehingga harus dipatch","D":"Merupakan inhibitor COMT yang rusak di lambung","E":"Bersifat antikolinergik yang hanya aktif melalui jalur subkutan"},"answer":"A","explanation":"Apomorfin adalah agonis dopamin dengan bioavailabilitas oral rendah, sehingga sediaan yang dipakai adalah subkutan.","explanationImages":[],"isBroken":false},{"id":"Q27","category":"","question":"Seorang pasien Parkinson dengan fluktuasi on-off mendapat entakapon sebagai tambahan levodopa. Mekanisme entakapon adalah ...","questionImages":[],"options":{"A":"Menghambat MAO-B sehingga degradasi dopamin berkurang","B":"Menghambat reuptake dopamin di ujung saraf","C":"Memblok reseptor muskarinik di striatum","D":"Menstimulasi reseptor dopamin secara langsung","E":"Menghambat COMT sehingga levodopa tidak diubah menjadi 3-OM-dopa"},"answer":"E","explanation":"COMT mengubah levodopa menjadi 3-OM-dopa. Inhibitor COMT (entakapon) memperpanjang efek levodopa, terutama bila sudah ada fenomena on-off.","explanationImages":[],"isBroken":false},{"id":"Q28","category":"","question":"Alasan triheksifenidil diberikan pada Parkinson, terutama dengan tremor dominan, adalah ...","questionImages":[],"options":{"A":"Terdapat kelebihan asetilkolin relatif dibanding dopamin di striatum","B":"Terdapat kelebihan dopamin relatif dibanding asetilkolin di striatum","C":"Terdapat kekurangan serotonin di nukleus rafe","D":"Terdapat kekurangan GABA di globus palidus internus","E":"Terdapat kelebihan glutamat di korteks motorik primer"},"answer":"A","explanation":"Pada Parkinson dopamin berkurang sehingga asetilkolin relatif berlebih. Antikolinergik (THP) menurunkan tremor, tetapi efek sampingnya berat (konfusi, konstipasi, retensi urin, mulut kering).","explanationImages":[],"isBroken":false},{"id":"Q29","category":"","question":"Seorang laki-laki 55 tahun dengan tremor kepala dan tangan bilateral saat aksi, tanpa tanda neurologis lain, ayahnya memiliki keluhan serupa, dan tremor berkurang setelah minum alkohol. Diagnosis yang paling tepat adalah ...","questionImages":[],"options":{"A":"Hemibalismus","B":"Tremor esensial","C":"Tremor serebelar","D":"Penyakit Parkinson","E":"Sindrom serotonin"},"answer":"B","explanation":"Tremor esensial: tremor aksi bilateral tanpa tanda neurologis lain, dengan kriteria pendukung riwayat keluarga, durasi lebih dari 3 tahun, dan membaik dengan alkohol. Menurut SKDI 2026 kompetensinya 4A.","explanationImages":[],"isBroken":false},{"id":"Q30","category":"","question":"Seorang laki-laki 50 tahun dengan tremor esensial tidak memiliki penyakit penyerta. Terapi lini pertama yang paling tepat adalah ...","questionImages":[],"options":{"A":"Klozapin","B":"Topiramat","C":"Toksin botulinum","D":"Gabapentin","E":"Propranolol"},"answer":"E","explanation":"Lini pertama tremor esensial adalah propranolol atau primidon. Gabapentin, topiramat, klozapin, dan klonazepam adalah lini kedua.","explanationImages":[],"isBroken":false},{"id":"Q31","category":"","question":"Pada seorang laki-laki 65 tahun dengan tremor esensial dan riwayat asma berat, pilihan terapi lini pertama yang lebih tepat adalah ...","questionImages":[],"options":{"A":"Klozapin","B":"Propranolol dosis tinggi","C":"Levodopa","D":"Toksin botulinum sistemik","E":"Primidon"},"answer":"E","explanation":"Propranolol dikontraindikasikan relatif pada asma, PPOK, gagal jantung, DM, dan blok AV. Primidon adalah lini pertama bila ada kontraindikasi propranolol.","explanationImages":[],"isBroken":false},{"id":"Q32","category":"","question":"Seorang anak 10 tahun mengalami gerakan tak beraturan, cepat, dan menyentak yang berpindah-pindah, muncul 3 minggu setelah radang tenggorok. Penyebab yang paling mungkin adalah ...","questionImages":[],"options":{"A":"Efek samping antipsikotik jangka panjang","B":"Ekspansi ulangan CAG autosomal dominan","C":"Lesi iskemik nukleus subtalamikus","D":"Reaksi silang autoimun setelah infeksi streptokokus grup A beta-hemolitikus","E":"Hiperglikemia nonketotik"},"answer":"D","explanation":"Chorea Sydenham adalah manifestasi demam rematik akut akibat reaksi silang autoimun pasca infeksi GABHS, dengan lesi pada striatum.","explanationImages":[],"isBroken":false},{"id":"Q33","category":"","question":"Kerusakan struktur ganglia basalis yang tepat untuk gerakan lambat menggeliat dominan distal (athetosis) dan gerakan melempar proksimal amplitudo besar (ballismus) adalah ...","questionImages":[],"options":{"A":"Nukleus subtalamikus untuk athetosis dan putamen untuk ballismus","B":"Putamen untuk athetosis dan nukleus subtalamikus untuk ballismus","C":"Globus palidus untuk athetosis dan striatum untuk ballismus","D":"Striatum untuk athetosis dan serebelum untuk ballismus","E":"Substansia nigra untuk athetosis dan talamus untuk ballismus"},"answer":"B","explanation":"Athetosis adalah gerakan menggeliat lambat dengan lesi putamen, ballismus adalah gerakan melempar proksimal dengan lesi nukleus subtalamikus (hemiballismus bila unilateral), dan chorea berkaitan dengan lesi striatum.","explanationImages":[],"isBroken":false},{"id":"Q34","category":"","question":"Seorang perempuan 44 tahun baru terdiagnosis diabetes dengan gula darah sewaktu 481 mg/dL mengalami gerakan meliuk-liuk tidak terkontrol pada anggota gerak kiri sejak 2 bulan. Langkah awal yang paling tepat adalah ...","questionImages":[],"options":{"A":"Memberikan benzodiazepin dan memulangkan pasien","B":"Memberikan levodopa karena diduga penyakit Parkinson","C":"Memulai EEG sebagai pemeriksaan tunggal","D":"Memeriksa ABC dan gula darah, mengelola hiperglikemia, dan CT scan kepala untuk menyingkirkan stroke","E":"Memberikan haloperidol tanpa memeriksa gula darah"},"answer":"D","explanation":"Hemichorea-hemiballismus sering disebabkan stroke atau hiperglikemia nonketotik. Lakukan ABC, konfirmasi fenomenologi, periksa GDS, HbA1c dan keton urin, atasi hiperglikemia, dan CT scan kepala.","explanationImages":[],"isBroken":false},{"id":"Q35","category":"","question":"Seorang laki-laki 40 tahun dengan skizofrenia yang lama memakai antipsikotik mengalami gerakan menjulurkan lidah, mengecap, dan mengunyah berulang. Diagnosis yang paling tepat adalah ...","questionImages":[],"options":{"A":"Chorea Huntington","B":"Sindrom neuroleptik maligna","C":"Sindrom serotonin","D":"Hemifacial spasm","E":"Sindrom tardif"},"answer":"E","explanation":"Sindrom tardif ditandai gerakan repetitif orofasial (protrusi lidah, menjilat, mengecap, mengerutkan bibir, mengunyah) akibat penggunaan antipsikotik jangka lama.","explanationImages":[],"isBroken":false},{"id":"Q36","category":"","question":"Seorang laki-laki 30 tahun dengan skizofrenia mengalami demam tinggi, rigiditas, kesadaran menurun, dan tekanan darah labil setelah dosis antipsikotik dinaikkan. Kadar CK sangat tinggi. Langkah yang paling tepat adalah ...","questionImages":[],"options":{"A":"Memulangkan pasien dengan observasi rawat jalan","B":"Menghentikan neuroleptik, terapi suportif seperti lorazepam, dan merujuk","C":"Menambah antikolinergik dosis tinggi sebagai terapi tunggal","D":"Memberi antipiretik saja tanpa menghentikan obat","E":"Menambah dosis antipsikotik karena dikira perburukan skizofrenia"},"answer":"B","explanation":"NMS: rigiditas, demam, disfungsi otonom, dan perubahan status mental dengan CK sangat meningkat dan leukositosis. Sering disalahartikan sebagai perburukan psikosis, sehingga neuroleptik harus dihentikan dan pasien dirujuk.","explanationImages":[],"isBroken":false},{"id":"Q37","category":"","question":"Seorang perempuan 35 tahun yang memakai SSRI dan tramadol mengalami agitasi, demam, hiperrefleksia, dan klonus termasuk klonus okular. Diagnosis yang paling tepat adalah ...","questionImages":[],"options":{"A":"Sindrom neuroleptik maligna","B":"Hemichorea nonketotik","C":"Sindrom serotonin","D":"Sindrom Tourette","E":"Sindrom tardif"},"answer":"C","explanation":"Sindrom serotonin ditandai riwayat obat serotonergik dengan hiperrefleksia dan klonus (termasuk klonus okular), dinilai dengan kriteria Hunter. CK bisa normal atau sedikit meningkat.","explanationImages":[],"isBroken":false},{"id":"Q38","category":"","question":"Perbedaan gangguan gerak hiperkinetik dengan kejang yang benar adalah ...","questionImages":[],"options":{"A":"Gangguan gerak selalu diikuti paralisis Todd, sedangkan kejang tidak","B":"Kejang tidak memerlukan pemeriksaan EEG, sedangkan gangguan gerak memerlukannya","C":"Gangguan gerak umumnya sadar, hilang saat tidur, dan tanpa perubahan vital bermakna, sedangkan kejang dapat menurunkan kesadaran dan menyebabkan konfusi pascaiktal","D":"Gangguan gerak selalu disertai penurunan kesadaran dan perubahan SpO2","E":"Kejang hilang saat tidur, sedangkan gangguan gerak menetap saat tidur"},"answer":"C","explanation":"Gangguan gerak: sebagian besar sadar, hilang saat tidur, tidak ada perubahan vital bermakna. Kejang: ritmis, singkat, dapat menurunkan kesadaran, disertai perubahan vital dan konfusi atau paralisis Todd pascaiktal, dengan EEG sebagai penunjang.","explanationImages":[],"isBroken":false},{"id":"Q39","category":"","question":"Seorang laki-laki 25 tahun sering mengeluarkan bunyi dan gerakan mendadak berulang setelah merasakan dorongan sebelumnya (premonitory urge), dan dapat menahannya sementara. Diagnosis banding yang perlu dipikirkan adalah ...","questionImages":[],"options":{"A":"Mioklonus","B":"Distonia","C":"Tremor esensial","D":"Chorea","E":"Tik"},"answer":"E","explanation":"Tik adalah gerakan atau suara yang involunter, singkat, dan berulang, didahului premonitory urge, dan dapat ditekan sementara. Koprolalia, ekolalia, dan palilalia dapat menyertainya.","explanationImages":[],"isBroken":false},{"id":"Q40","category":"","question":"Seorang perempuan 45 tahun mengalami kontraksi otot wajah kiri yang tidak disengaja, paroksismal, dan saat menutup mata kiri alis kiri justru naik. Penyebab tersering kelainan ini adalah ...","questionImages":[],"options":{"A":"Degenerasi neuron dopaminergik substansia nigra","B":"Hiperglikemia nonketotik pada striatum","C":"Kompresi vaskular pada saraf fasialis oleh arteri serebelar","D":"Efek samping antipsikotik jangka lama","E":"Infeksi streptokokus grup A beta-hemolitikus"},"answer":"C","explanation":"Hemifacial spasm: kontraksi wajah unilateral yang diinervasi n. fasialis, tersering akibat kompresi vaskular oleh AICA, PICA, atau SCA. Terapi dengan injeksi botulinum.","explanationImages":[],"isBroken":false},{"id":"Q41","category":"","question":"Perbedaan klinis mioklonus dengan chorea yang benar adalah ...","questionImages":[],"options":{"A":"Mioklonus berupa gerakan menggeliat lambat, sedangkan chorea berupa sentakan kilat","B":"Mioklonus selalu ritmis dan berlangsung menit, sedangkan chorea berlangsung kurang dari 100 ms","C":"Mioklonus berupa sentakan sangat singkat kurang dari 100 ms, sedangkan chorea berupa gerakan tidak beraturan yang mengalir dari satu bagian tubuh ke bagian lain","D":"Mioklonus selalu bertenaga menetap, sedangkan chorea selalu berupa postur abnormal","E":"Mioklonus hanya terjadi pada gangguan ganglia basalis, sedangkan chorea hanya terjadi pada epilepsi"},"answer":"C","explanation":"Mioklonus adalah kontraksi otot mendadak seperti sentakan, kurang dari 100 ms; mioklonus negatif adalah asteriksis. Chorea adalah gerakan involunter tidak beraturan, cepat, dan berpindah-pindah.","explanationImages":[],"isBroken":false},{"id":"Q42","category":"","question":"Kelompok parkinsonisme yang dibedakan dari penyakit Parkinson berdasarkan topografi lesi, bukan berdasarkan patologi dasar, adalah ...","questionImages":[],"options":{"A":"Parkinson sekunder akibat obat","B":"Parkinson vaskular","C":"Parkinson heredodegeneratif","D":"Parkinson atipikal atau sindrom Parkinson plus","E":"Paralisis agitans idiopatik"},"answer":"D","explanation":"Atipikal parkinsonism (PSP, MSA, CBD) mirip secara patologi tetapi berbeda topis. Klasifikasi parkinsonisme: primer, sekunder, Parkinson plus, dan heredodegeneratif.","explanationImages":[],"isBroken":false},{"id":"Q43","category":"","question":"Seorang laki-laki 68 tahun dengan parkinsonisme, gangguan pandangan vertikal, jatuh dini, dan retrokolis. Gambaran MRI khas kelainan ini adalah ...","questionImages":[],"options":{"A":"Absent swallow tail sign","B":"Alien limb sign","C":"Hummingbird sign","D":"Hot cross bun sign","E":"Signet ring sign"},"answer":"C","explanation":"PSP (Richardson's syndrome) ditandai instabilitas postural dini, gangguan pandangan vertikal supranuklear, dan hummingbird sign. Hot cross bun sign khas MSA.","explanationImages":[],"isBroken":false},{"id":"Q44","category":"","question":"Seorang laki-laki 60 tahun dengan parkinsonisme, hipotensi ortostatik berat, inkontinensia urin, dan sindrom serebelar. Diagnosis yang paling mungkin adalah ...","questionImages":[],"options":{"A":"Penyakit Parkinson idiopatik","B":"Progressive supranuclear palsy","C":"Corticobasal degeneration","D":"Dementia with Lewy bodies","E":"Multiple system atrophy"},"answer":"E","explanation":"MSA ditandai parkinsonisme dengan disotonomia (hipotensi ortostatik, inkontinensia urin, disfungsi ereksi) dan sindrom serebelar pada MSA-C, dengan hot cross bun sign pada MRI.","explanationImages":[],"isBroken":false},{"id":"Q45","category":"","question":"Seorang laki-laki 72 tahun mengalami demensia dengan halusinasi visual berulang yang jelas, kognisi fluktuatif, dan parkinsonisme. Demensia muncul dalam 6 bulan setelah awitan parkinsonisme. Diagnosis yang paling mungkin adalah ...","questionImages":[],"options":{"A":"Dementia with Lewy bodies berdasarkan one-year rule","B":"Multiple system atrophy berdasarkan one-year rule","C":"Corticobasal degeneration berdasarkan one-year rule","D":"Demensia vaskular berdasarkan one-year rule","E":"Parkinson disease dementia berdasarkan one-year rule"},"answer":"A","explanation":"One-year rule: bila demensia muncul dalam satu tahun dari awitan parkinsonisme, diagnosisnya DLB. Bila lebih dari satu tahun setelah parkinsonisme, disebut Parkinson disease dementia.","explanationImages":[],"isBroken":false},{"id":"Q46","category":"","question":"Seorang laki-laki 60 tahun didapati parkinsonisme setelah 2 minggu memakai haloperidol. Langkah tata laksana yang paling tepat adalah ...","questionImages":[],"options":{"A":"Menghentikan atau mengganti obat penyebab","B":"Menambah dosis haloperidol untuk mengatasi gejala","C":"Memberi injeksi botulinum pada otot yang kaku","D":"Memulai levodopa dosis tinggi tanpa mengubah obat","E":"Melakukan DBS sebagai terapi awal"},"answer":"A","explanation":"Drug-induced parkinsonism (antipsikotik, antiemetik seperti metoklopramid) ditangani dengan menghentikan atau mengganti obat penyebab, bukan menaikkan dosis. ---CATATAN GAMBAR--- q21 → source-file: Prof_Rizaldy_Taslim_Pinzon_-_Nyeri PDF, q_dat2.png q22 → source-file: Prof_Rizaldy_Taslim_Pinzon_-_Nyeri PDF, q_hy.png","explanationImages":[],"isBroken":false}]}
+{
+  "id": "2h-persiapan-minites__gangguan-gerak-koordinasi",
+  "tier": "reguler",
+  "title": "Gangguan Gerak & Koordinasi",
+  "category": "2H - Persiapan Minites 1",
+  "questions": [
+    {
+      "id": "Q1",
+      "category": "",
+      "question": "Seorang dokter menjelaskan bahwa ganglia basalis berperan dalam gerakan. Fungsi ganglia basalis yang tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Penerjemahan bahasa lisan menjadi program motorik bicara",
+        "B": "Inisiasi memulai gerakan, inisiasi menghentikan gerakan, dan modulasi gerakan",
+        "C": "Penerimaan rangsang propriosepsi dari otot dan sendi",
+        "D": "Pengiriman langsung impuls motorik ke motoneuron alfa di medula spinalis",
+        "E": "Penyimpanan memori prosedural gerakan secara khusus di talamus"
+      },
+      "answer": "B",
+      "explanation": "Ganglia basalis memulai dan menghentikan gerakan serta memodulasinya. Pengiriman impuls ke medula spinalis dilakukan traktus kortikospinal dari korteks motorik primer.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q2",
+      "category": "",
+      "question": "Neostriatum terdiri atas ...",
+      "questionImages": [],
+      "options": {
+        "A": "Putamen dan globus palidus",
+        "B": "Nukleus kaudatus dan putamen",
+        "C": "Globus palidus dan nukleus subtalamikus",
+        "D": "Putamen dan nukleus subtalamikus",
+        "E": "Nukleus kaudatus dan globus palidus"
+      },
+      "answer": "B",
+      "explanation": "Nukleus kaudatus dan putamen membentuk neostriatum, sedangkan putamen dan globus palidus membentuk nukleus lentiformis.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q3",
+      "category": "",
+      "question": "Pada direct pathway ganglia basalis, urutan aktivitas yang menghasilkan inisiasi gerakan adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Korteks mengeksitasi nukleus subtalamikus, GPi tereksitasi, talamus terinhibisi, lalu gerakan berhenti",
+        "B": "Korteks mengeksitasi putamen, GPe terinhibisi, nukleus subtalamikus terinhibisi, lalu talamus terinhibisi",
+        "C": "Korteks menginhibisi putamen, GPi tereksitasi, talamus terinhibisi, lalu korteks terinhibisi",
+        "D": "Korteks menginhibisi talamus, GPi terinhibisi, putamen tereksitasi, lalu korteks tereksitasi",
+        "E": "Korteks mengeksitasi putamen, GPi terinhibisi, talamus terdisinhibisi, lalu korteks tereksitasi"
+      },
+      "answer": "E",
+      "explanation": "Direct pathway: glutamat korteks mengeksitasi putamen, GABA putamen menginhibisi GPi, sehingga talamus tidak ditekan dan mengeksitasi korteks, sehingga terjadi fasilitasi gerakan.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q4",
+      "category": "",
+      "question": "Pada indirect pathway, GPe yang terinhibisi kuat oleh putamen menyebabkan ...",
+      "questionImages": [],
+      "options": {
+        "A": "Nukleus subtalamikus terdisinhibisi sehingga GPi tereksitasi dan talamus terhambat",
+        "B": "Nukleus subtalamikus terinhibisi sehingga GPi terinhibisi dan talamus terangsang",
+        "C": "Nukleus subtalamikus terinhibisi sehingga GPi tereksitasi dan talamus terangsang",
+        "D": "Nukleus subtalamikus terdisinhibisi sehingga GPi terinhibisi dan talamus terangsang",
+        "E": "Nukleus subtalamikus tidak berubah sehingga talamus tidak terpengaruh"
+      },
+      "answer": "A",
+      "explanation": "Indirect pathway: putamen menginhibisi GPe, nukleus subtalamikus terlepas dari inhibisi, GPi tereksitasi dan menginhibisi talamus, sehingga gerakan ditekan (disinhibisi gerakan).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q5",
+      "category": "",
+      "question": "Penurunan dopamin pada penyakit Parkinson menyebabkan bradikinesia melalui ...",
+      "questionImages": [],
+      "options": {
+        "A": "Meningkatnya glutamat dari korteks pada kedua jalur sehingga gerakan terhambat",
+        "B": "Berkurangnya inhibisi D1 pada direct pathway dan meningkatnya eksitasi D2 pada indirect pathway",
+        "C": "Berkurangnya eksitasi D1 pada direct pathway dan berkurangnya inhibisi D2 pada indirect pathway",
+        "D": "Berkurangnya inhibisi D2 pada direct pathway dan berkurangnya inhibisi D1 pada indirect pathway",
+        "E": "Meningkatnya eksitasi D1 pada direct pathway dan berkurangnya eksitasi D2 pada indirect pathway"
+      },
+      "answer": "C",
+      "explanation": "D1 bersifat eksitatorik pada direct pathway dan D2 inhibitorik pada indirect pathway. Bila dopamin berkurang, direct pathway melemah dan indirect pathway menguat, sehingga terjadi bradikinesia.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q6",
+      "category": "",
+      "question": "Seorang laki-laki 65 tahun bergerak lambat, kaku, dan tangan bergetar saat istirahat. Kumpulan gejala yang lengkap pada teori lama parkinsonisme adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Tremor postural, rigiditas, korea, dan instabilitas postural",
+        "B": "Tremor istirahat, spastisitas, hiperrefleksia, dan klonus",
+        "C": "Tremor intensi, rigiditas, ataksia, dan disdiadokokinesia",
+        "D": "Tremor istirahat, rigiditas, akinesia, dan instabilitas postural",
+        "E": "Tremor aksi, spastisitas, akinesia, dan instabilitas postural"
+      },
+      "answer": "D",
+      "explanation": "TRAP: Tremor resting, Rigiditas, Akinesia (bradikinesia), dan Postural instability. Spastisitas dan hiperrefleksia berasal dari gangguan kortikospinal, bukan ganglia basalis.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q7",
+      "category": "",
+      "question": "Menurut kriteria yang lebih baru, parkinsonisme ditegakkan bila ada ...",
+      "questionImages": [],
+      "options": {
+        "A": "Rigiditas saja tanpa bradikinesia",
+        "B": "Tremor kinetik dan postural saja",
+        "C": "Tremor istirahat saja tanpa bradikinesia",
+        "D": "Bradikinesia ditambah rigiditas atau tremor istirahat",
+        "E": "Instabilitas postural dan tremor aksi"
+      },
+      "answer": "D",
+      "explanation": "Bradikinesia wajib ada, disertai rigiditas atau tremor istirahat. Tremor kinetik dan postural saja tidak memenuhi kriteria parkinsonisme.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q8",
+      "category": "",
+      "question": "Seorang laki-laki 70 tahun tampak berwajah datar dengan kedipan berkurang, berjalan dengan langkah kecil diseret tanpa ayunan lengan, dan sulit berdiri dari duduk. Temuan ini merupakan manifestasi ...",
+      "questionImages": [],
+      "options": {
+        "A": "Spastisitas",
+        "B": "Tremor intensi",
+        "C": "Ataksia serebelar",
+        "D": "Distonia",
+        "E": "Bradikinesia"
+      },
+      "answer": "E",
+      "explanation": "Bradikinesia berupa gerakan lambat, sulit menginisiasi gerakan, wajah topeng, langkah kecil dan diseret tanpa arm swing, serta sulit bangkit dari duduk.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q9",
+      "category": "",
+      "question": "Cara membedakan rigiditas dengan spastisitas yang benar adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Rigiditas bergantung pada kecepatan gerak pasif, sedangkan spastisitas tidak bergantung pada kecepatan",
+        "B": "Rigiditas berasal dari kortikospinal dan bersifat clasp-knife, sedangkan spastisitas berasal dari ganglia basalis",
+        "C": "Rigiditas disertai hiperrefleksia, sedangkan spastisitas tidak disertai perubahan refleks",
+        "D": "Rigiditas berasal dari ganglia basalis dan bersifat lead-pipe, sedangkan spastisitas berasal dari kortikospinal dengan refleks meningkat",
+        "E": "Rigiditas dan spastisitas sama-sama berasal dari ganglia basalis dan hanya berbeda derajat"
+      },
+      "answer": "D",
+      "explanation": "Rigiditas (lead-pipe atau cogwheel) adalah masalah ganglia basalis dan tidak bergantung kecepatan. Spastisitas (clasp-knife) adalah masalah kortikospinal dengan peningkatan refleks.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q10",
+      "category": "",
+      "question": "Pada pemeriksaan tonus, pasien Parkinson diminta menggerakkan lengan kontralateral secara volunter agar rigiditas lebih terdeteksi. Manuver ini disebut ...",
+      "questionImages": [],
+      "options": {
+        "A": "Tes tarik (pull test)",
+        "B": "Tes Romberg",
+        "C": "Manuver Myerson",
+        "D": "Tes hidung-jari-hidung",
+        "E": "Froment's maneuver"
+      },
+      "answer": "E",
+      "explanation": "Froment's maneuver adalah activating maneuver: gerakan volunter lengan kontralateral meningkatkan resistensi terhadap gerakan pasif pada lengan yang diperiksa.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q11",
+      "category": "",
+      "question": "Tremor istirahat pada penyakit Parkinson biasanya memiliki frekuensi ...",
+      "questionImages": [],
+      "options": {
+        "A": "4–6 Hz",
+        "B": "8–12 Hz",
+        "C": "1–2 Hz",
+        "D": "15–20 Hz",
+        "E": "2–3 Hz"
+      },
+      "answer": "A",
+      "explanation": "Resting tremor Parkinson bersifat ritmis, frekuensi 4–6 Hz dengan amplitudo sedang, timbul saat istirahat dan sering diawali di satu tangan (pill-rolling).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q12",
+      "category": "",
+      "question": "Seorang perempuan 62 tahun mengalami tremor saat mempertahankan posisi lengan terentang, yang muncul setelah beberapa saat, dan tetap tampak saat istirahat. Pernyataan yang tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Reemergent tremor dapat terjadi pada Parkinson asalkan tremor juga terlihat saat istirahat",
+        "B": "Tremor ini menyingkirkan Parkinson karena hanya muncul saat postur",
+        "C": "Tremor ini pasti tremor esensial karena muncul saat postur",
+        "D": "Tremor ini selalu menandakan lesi serebelum",
+        "E": "Tremor postural saja sudah cukup memenuhi kriteria parkinsonisme"
+      },
+      "answer": "A",
+      "explanation": "Tremor istirahat pada Parkinson dapat muncul lagi saat postur ditahan lama (reemergent tremor), tetapi untuk memenuhi kriteria tremor juga harus terlihat saat istirahat.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q13",
+      "category": "",
+      "question": "Seorang laki-laki 68 tahun berjalan dengan langkah kecil tanpa heel strike, tampak menyusuri lantai, dan kecepatannya meningkat ketika akan berhenti. Gejala yang terakhir ini disebut ...",
+      "questionImages": [],
+      "options": {
+        "A": "Festinasi",
+        "B": "Ataksia sensorik",
+        "C": "Freezing of gait",
+        "D": "Turn en bloc",
+        "E": "Marche à petit pas"
+      },
+      "answer": "A",
+      "explanation": "Pada Parkinson dijumpai shuffling gait (tanpa heel strike), festinasi (kecepatan meningkat saat akan berhenti), freezing of gait (berhenti mendadak), dan turn en bloc (berputar sekaligus satu blok).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q14",
+      "category": "",
+      "question": "Seorang pasien Parkinson berhenti tiba-tiba ketika berjalan seakan kakinya menempel di lantai. Fenomena ini disebut ...",
+      "questionImages": [],
+      "options": {
+        "A": "Festinasi",
+        "B": "Turn en bloc",
+        "C": "Freezing of gait",
+        "D": "Ataksia serebelar",
+        "E": "Retropulsi"
+      },
+      "answer": "C",
+      "explanation": "Freezing of gait adalah berhenti mendadak saat berjalan, yang berkaitan dengan degenerasi batang otak dan defisiensi noradrenergik akibat degenerasi locus coeruleus.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q15",
+      "category": "",
+      "question": "Posisi leher pada pasien dengan penyakit Parkinson dan Parkinson plus dibedakan oleh ...",
+      "questionImages": [],
+      "options": {
+        "A": "Retrokolis khas kedua kelompok tanpa perbedaan",
+        "B": "Tortikolis khas Parkinson, antekolis khas Parkinson plus",
+        "C": "Antekolis khas Parkinson, retrokolis khas Parkinson plus",
+        "D": "Retrokolis khas Parkinson, antekolis khas Parkinson plus",
+        "E": "Antekolis khas kedua kelompok tanpa perbedaan"
+      },
+      "answer": "C",
+      "explanation": "Antekolis (fleksi leher ke depan) khas penyakit Parkinson, sedangkan retrokolis (leher menengadah ke belakang) khas Parkinson plus seperti PSP.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q16",
+      "category": "",
+      "question": "Seorang laki-laki 72 tahun dengan Parkinson memiliki fleksi lateral batang tubuh minimal 15° yang berkurang saat telentang atau dengan mobilisasi pasif. Kelainan postur ini disebut ...",
+      "questionImages": [],
+      "options": {
+        "A": "Retrokolis",
+        "B": "Antekolis",
+        "C": "Sindrom Pisa",
+        "D": "Camptocormia",
+        "E": "Simian posture"
+      },
+      "answer": "C",
+      "explanation": "Sindrom Pisa adalah fleksi lateral minimal 15° yang berkurang dengan mobilisasi pasif atau telentang. Camptocormia adalah fleksi torakolumbar minimal 45° yang membaik saat telentang.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q17",
+      "category": "",
+      "question": "Seorang pria dengan Parkinson mengeluh sering tidak dapat mencium bau. Pernyataan yang benar mengenai gejala ini adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Hiposmia berkaitan dengan patologi awal di lobus temporal seperti Alzheimer",
+        "B": "Hiposmia hanya muncul pada tahap lanjut bersama demensia",
+        "C": "Hiposmia jarang ditemukan dan tidak berkaitan dengan Parkinson",
+        "D": "Hiposmia ditemukan pada lebih dari 80% pasien dan berkaitan dengan patologi awal di bulbus olfaktorius",
+        "E": "Hiposmia disebabkan lesi primer di nukleus kaudatus"
+      },
+      "answer": "D",
+      "explanation": "Pada tahap Braak 1, badan Lewy dimulai di bulbus olfaktorius, sehingga hiposmia ditemukan pada lebih dari 80% pasien PD dan bisa menjadi gejala prodromal.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q18",
+      "category": "",
+      "question": "Seorang laki-laki 63 tahun mengalami teriak dan gerakan kompleks saat tidur karena hilangnya atonia otot selama tidur REM. Kondisi ini merupakan ...",
+      "questionImages": [],
+      "options": {
+        "A": "Restless legs syndrome yang merupakan komplikasi terapi levodopa",
+        "B": "REM sleep behavior disorder yang merupakan gejala prodromal Parkinson",
+        "C": "Narkolepsi tipe 1 yang merupakan gejala prodromal Parkinson",
+        "D": "Mioklonus fisiologis yang tidak berkaitan dengan Parkinson",
+        "E": "Sleep apnea obstruktif yang merupakan gejala prodromal Parkinson"
+      },
+      "answer": "B",
+      "explanation": "RBD ditandai hilangnya atonia otot saat tidur REM dengan perilaku motorik kompleks saat bermimpi, dan merupakan gejala prodromal Parkinson.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q19",
+      "category": "",
+      "question": "Temuan patologi khas penyakit Parkinson adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Degenerasi neuron kolinergik nukleus basalis dengan neurofibrillary tangle",
+        "B": "Atrofi striatum dengan ekspansi ulangan CAG",
+        "C": "Lesi nukleus subtalamikus dengan gerakan melempar",
+        "D": "Degenerasi neuron dopaminergik substansia nigra pars kompakta dengan badan Lewy agregasi alfa-sinuklein",
+        "E": "Degenerasi sel Purkinje serebelum dengan hot cross bun sign"
+      },
+      "answer": "D",
+      "explanation": "Parkinson ditandai kehilangan neuron dopaminergik SNc dengan inklusi sitoplasmik Lewy body akibat agregasi alfa-sinuklein. NFT khas demensia Alzheimer.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q20",
+      "category": "",
+      "question": "Pada MRI pasien dengan parkinsonisme ditemukan hilangnya gambaran swallow tail di substansia nigra. Temuan ini mendukung ...",
+      "questionImages": [],
+      "options": {
+        "A": "Tremor esensial",
+        "B": "Penyakit Parkinson",
+        "C": "Chorea Huntington",
+        "D": "Progressive supranuclear palsy",
+        "E": "Normal"
+      },
+      "answer": "B",
+      "explanation": "Absent swallow tail sign pada MRI substansia nigra khas penyakit Parkinson, sedangkan gambaran normal menunjukkan swallow tail sign.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q21",
+      "category": "",
+      "question": "Perhatikan gambar pencitraan transporter dopamin (DaT-SPECT) berikut. Seorang pasien dengan parkinsonisme menunjukkan gambar yang mana, dan apa temuannya? ",
+      "questionImages": [
+        "images/packages/2h-persiapan-minites__gangguan-gerak-koordinasi/img-001.png"
+      ],
+      "options": {
+        "A": "Kedua gambar sama karena DaT-SPECT tidak dapat membedakan",
+        "B": "Gambar A dengan penurunan ambilan tracer di ganglia basalis",
+        "C": "Gambar B dengan penurunan ambilan tracer di ganglia basalis",
+        "D": "Gambar B dengan peningkatan ambilan tracer di ganglia basalis",
+        "E": "Gambar A dengan ambilan tracer normal di ganglia basalis"
+      },
+      "answer": "B",
+      "explanation": "Pada penyakit Parkinson, ambilan tracer transporter dopamin di striatum menurun (gambar A), sedangkan gambar normal menunjukkan bentuk koma yang jelas di kedua sisi (gambar B).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q22",
+      "category": "",
+      "question": "Perhatikan skala Hoehn & Yahr pada gambar. Seorang pasien Parkinson memiliki gejala bilateral ringan sampai sedang, mulai ada instabilitas postural, tetapi masih mandiri secara fisik. Stadium pasien ini adalah ... ",
+      "questionImages": [
+        "images/packages/2h-persiapan-minites__gangguan-gerak-koordinasi/img-002.png"
+      ],
+      "options": {
+        "A": "Stage 1",
+        "B": "Stage 4",
+        "C": "Stage 5",
+        "D": "Stage 3",
+        "E": "Stage 2"
+      },
+      "answer": "D",
+      "explanation": "Hoehn & Yahr stage 3 (moderate): penyakit bilateral ringan sampai sedang, ada instabilitas postural, masih mandiri. Stage 4 sudah disabilitas berat tetapi masih dapat berjalan atau berdiri tanpa bantuan.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q23",
+      "category": "",
+      "question": "Seorang laki-laki 66 tahun didiagnosis Parkinson. Alasan levodopa diberikan, bukan dopamin, adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Dopamin merupakan katekolamin nonpolar yang mudah terdegradasi oleh MAO-B",
+        "B": "Levodopa adalah asam amino prekursor dopamin yang dapat melewati sawar darah otak",
+        "C": "Dopamin melewati sawar darah otak tetapi cepat diubah menjadi epinefrin",
+        "D": "Levodopa menghambat COMT sehingga kadar dopamin di otak naik",
+        "E": "Levodopa adalah agonis reseptor D2 yang bekerja langsung di striatum"
+      },
+      "answer": "B",
+      "explanation": "Dopamin bersifat polar sehingga tidak menembus sawar darah otak. Levodopa adalah asam amino yang masuk lewat transporter asam amino dan diubah menjadi dopamin di otak.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q24",
+      "category": "",
+      "question": "Karbidopa atau benserazid ditambahkan pada levodopa karena ...",
+      "questionImages": [],
+      "options": {
+        "A": "Menghambat dekarboksilase di otak sehingga dopamin lebih lama bertahan",
+        "B": "Menghambat MAO-B di otak sehingga degradasi dopamin berkurang",
+        "C": "Menghambat dekarboksilase di perifer sehingga kadar levodopa yang masuk otak lebih tinggi dengan dosis lebih kecil",
+        "D": "Menghambat COMT di perifer sehingga levodopa berubah menjadi 3-OM-dopa",
+        "E": "Menstimulasi reseptor dopamin sehingga dosis levodopa dapat dikurangi"
+      },
+      "answer": "C",
+      "explanation": "Karbidopa dan benserazid adalah penghambat AADC/DDC perifer. Karena tidak menembus sawar darah otak, kadar levodopa yang sampai ke otak lebih tinggi dan efek sampingnya berkurang.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q25",
+      "category": "",
+      "question": "Karbidopa tidak menghambat DDC di otak karena ...",
+      "questionImages": [],
+      "options": {
+        "A": "Tidak memiliki gugus COOH sehingga tidak dapat melewati transporter asam amino",
+        "B": "Bersifat sangat larut lemak sehingga langsung terdegradasi hati",
+        "C": "Ditolak oleh reseptor dopamin D2 di sawar darah otak",
+        "D": "Terikat kuat pada albumin sehingga tidak masuk sirkulasi",
+        "E": "Dimetabolisme menjadi dopamin di perifer sehingga tidak tersisa"
+      },
+      "answer": "A",
+      "explanation": "Karbidopa tidak memiliki gugus COOH sehingga tidak dapat melewati transporter asam amino di sawar darah otak, dan hanya bekerja di perifer. Karbidopa tidak boleh diberikan tanpa levodopa.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q26",
+      "category": "",
+      "question": "Apomorfin diberikan secara subkutan pada pasien Parkinson karena ...",
+      "questionImages": [],
+      "options": {
+        "A": "Bioavailabilitas oral rendah sehingga butuh dosis sangat tinggi bila diberikan per oral",
+        "B": "Menembus sawar darah otak hanya bila diberikan intravena",
+        "C": "Tidak dapat diserap secara transdermal sehingga harus dipatch",
+        "D": "Merupakan inhibitor COMT yang rusak di lambung",
+        "E": "Bersifat antikolinergik yang hanya aktif melalui jalur subkutan"
+      },
+      "answer": "A",
+      "explanation": "Apomorfin adalah agonis dopamin dengan bioavailabilitas oral rendah, sehingga sediaan yang dipakai adalah subkutan.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q27",
+      "category": "",
+      "question": "Seorang pasien Parkinson dengan fluktuasi on-off mendapat entakapon sebagai tambahan levodopa. Mekanisme entakapon adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Menghambat MAO-B sehingga degradasi dopamin berkurang",
+        "B": "Menghambat reuptake dopamin di ujung saraf",
+        "C": "Memblok reseptor muskarinik di striatum",
+        "D": "Menstimulasi reseptor dopamin secara langsung",
+        "E": "Menghambat COMT sehingga levodopa tidak diubah menjadi 3-OM-dopa"
+      },
+      "answer": "E",
+      "explanation": "COMT mengubah levodopa menjadi 3-OM-dopa. Inhibitor COMT (entakapon) memperpanjang efek levodopa, terutama bila sudah ada fenomena on-off.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q28",
+      "category": "",
+      "question": "Alasan triheksifenidil diberikan pada Parkinson, terutama dengan tremor dominan, adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Terdapat kelebihan asetilkolin relatif dibanding dopamin di striatum",
+        "B": "Terdapat kelebihan dopamin relatif dibanding asetilkolin di striatum",
+        "C": "Terdapat kekurangan serotonin di nukleus rafe",
+        "D": "Terdapat kekurangan GABA di globus palidus internus",
+        "E": "Terdapat kelebihan glutamat di korteks motorik primer"
+      },
+      "answer": "A",
+      "explanation": "Pada Parkinson dopamin berkurang sehingga asetilkolin relatif berlebih. Antikolinergik (THP) menurunkan tremor, tetapi efek sampingnya berat (konfusi, konstipasi, retensi urin, mulut kering).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q29",
+      "category": "",
+      "question": "Seorang laki-laki 55 tahun dengan tremor kepala dan tangan bilateral saat aksi, tanpa tanda neurologis lain, ayahnya memiliki keluhan serupa, dan tremor berkurang setelah minum alkohol. Diagnosis yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Hemibalismus",
+        "B": "Tremor esensial",
+        "C": "Tremor serebelar",
+        "D": "Penyakit Parkinson",
+        "E": "Sindrom serotonin"
+      },
+      "answer": "B",
+      "explanation": "Tremor esensial: tremor aksi bilateral tanpa tanda neurologis lain, dengan kriteria pendukung riwayat keluarga, durasi lebih dari 3 tahun, dan membaik dengan alkohol. Menurut SKDI 2026 kompetensinya 4A.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q30",
+      "category": "",
+      "question": "Seorang laki-laki 50 tahun dengan tremor esensial tidak memiliki penyakit penyerta. Terapi lini pertama yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Klozapin",
+        "B": "Topiramat",
+        "C": "Toksin botulinum",
+        "D": "Gabapentin",
+        "E": "Propranolol"
+      },
+      "answer": "E",
+      "explanation": "Lini pertama tremor esensial adalah propranolol atau primidon. Gabapentin, topiramat, klozapin, dan klonazepam adalah lini kedua.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q31",
+      "category": "",
+      "question": "Pada seorang laki-laki 65 tahun dengan tremor esensial dan riwayat asma berat, pilihan terapi lini pertama yang lebih tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Klozapin",
+        "B": "Propranolol dosis tinggi",
+        "C": "Levodopa",
+        "D": "Toksin botulinum sistemik",
+        "E": "Primidon"
+      },
+      "answer": "E",
+      "explanation": "Propranolol dikontraindikasikan relatif pada asma, PPOK, gagal jantung, DM, dan blok AV. Primidon adalah lini pertama bila ada kontraindikasi propranolol.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q32",
+      "category": "",
+      "question": "Seorang anak 10 tahun mengalami gerakan tak beraturan, cepat, dan menyentak yang berpindah-pindah, muncul 3 minggu setelah radang tenggorok. Penyebab yang paling mungkin adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Efek samping antipsikotik jangka panjang",
+        "B": "Ekspansi ulangan CAG autosomal dominan",
+        "C": "Lesi iskemik nukleus subtalamikus",
+        "D": "Reaksi silang autoimun setelah infeksi streptokokus grup A beta-hemolitikus",
+        "E": "Hiperglikemia nonketotik"
+      },
+      "answer": "D",
+      "explanation": "Chorea Sydenham adalah manifestasi demam rematik akut akibat reaksi silang autoimun pasca infeksi GABHS, dengan lesi pada striatum.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q33",
+      "category": "",
+      "question": "Kerusakan struktur ganglia basalis yang tepat untuk gerakan lambat menggeliat dominan distal (athetosis) dan gerakan melempar proksimal amplitudo besar (ballismus) adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Nukleus subtalamikus untuk athetosis dan putamen untuk ballismus",
+        "B": "Putamen untuk athetosis dan nukleus subtalamikus untuk ballismus",
+        "C": "Globus palidus untuk athetosis dan striatum untuk ballismus",
+        "D": "Striatum untuk athetosis dan serebelum untuk ballismus",
+        "E": "Substansia nigra untuk athetosis dan talamus untuk ballismus"
+      },
+      "answer": "B",
+      "explanation": "Athetosis adalah gerakan menggeliat lambat dengan lesi putamen, ballismus adalah gerakan melempar proksimal dengan lesi nukleus subtalamikus (hemiballismus bila unilateral), dan chorea berkaitan dengan lesi striatum.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q34",
+      "category": "",
+      "question": "Seorang perempuan 44 tahun baru terdiagnosis diabetes dengan gula darah sewaktu 481 mg/dL mengalami gerakan meliuk-liuk tidak terkontrol pada anggota gerak kiri sejak 2 bulan. Langkah awal yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Memberikan benzodiazepin dan memulangkan pasien",
+        "B": "Memberikan levodopa karena diduga penyakit Parkinson",
+        "C": "Memulai EEG sebagai pemeriksaan tunggal",
+        "D": "Memeriksa ABC dan gula darah, mengelola hiperglikemia, dan CT scan kepala untuk menyingkirkan stroke",
+        "E": "Memberikan haloperidol tanpa memeriksa gula darah"
+      },
+      "answer": "D",
+      "explanation": "Hemichorea-hemiballismus sering disebabkan stroke atau hiperglikemia nonketotik. Lakukan ABC, konfirmasi fenomenologi, periksa GDS, HbA1c dan keton urin, atasi hiperglikemia, dan CT scan kepala.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q35",
+      "category": "",
+      "question": "Seorang laki-laki 40 tahun dengan skizofrenia yang lama memakai antipsikotik mengalami gerakan menjulurkan lidah, mengecap, dan mengunyah berulang. Diagnosis yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Chorea Huntington",
+        "B": "Sindrom neuroleptik maligna",
+        "C": "Sindrom serotonin",
+        "D": "Hemifacial spasm",
+        "E": "Sindrom tardif"
+      },
+      "answer": "E",
+      "explanation": "Sindrom tardif ditandai gerakan repetitif orofasial (protrusi lidah, menjilat, mengecap, mengerutkan bibir, mengunyah) akibat penggunaan antipsikotik jangka lama.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q36",
+      "category": "",
+      "question": "Seorang laki-laki 30 tahun dengan skizofrenia mengalami demam tinggi, rigiditas, kesadaran menurun, dan tekanan darah labil setelah dosis antipsikotik dinaikkan. Kadar CK sangat tinggi. Langkah yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Memulangkan pasien dengan observasi rawat jalan",
+        "B": "Menghentikan neuroleptik, terapi suportif seperti lorazepam, dan merujuk",
+        "C": "Menambah antikolinergik dosis tinggi sebagai terapi tunggal",
+        "D": "Memberi antipiretik saja tanpa menghentikan obat",
+        "E": "Menambah dosis antipsikotik karena dikira perburukan skizofrenia"
+      },
+      "answer": "B",
+      "explanation": "NMS: rigiditas, demam, disfungsi otonom, dan perubahan status mental dengan CK sangat meningkat dan leukositosis. Sering disalahartikan sebagai perburukan psikosis, sehingga neuroleptik harus dihentikan dan pasien dirujuk.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q37",
+      "category": "",
+      "question": "Seorang perempuan 35 tahun yang memakai SSRI dan tramadol mengalami agitasi, demam, hiperrefleksia, dan klonus termasuk klonus okular. Diagnosis yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Sindrom neuroleptik maligna",
+        "B": "Hemichorea nonketotik",
+        "C": "Sindrom serotonin",
+        "D": "Sindrom Tourette",
+        "E": "Sindrom tardif"
+      },
+      "answer": "C",
+      "explanation": "Sindrom serotonin ditandai riwayat obat serotonergik dengan hiperrefleksia dan klonus (termasuk klonus okular), dinilai dengan kriteria Hunter. CK bisa normal atau sedikit meningkat.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q38",
+      "category": "",
+      "question": "Perbedaan gangguan gerak hiperkinetik dengan kejang yang benar adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Gangguan gerak selalu diikuti paralisis Todd, sedangkan kejang tidak",
+        "B": "Kejang tidak memerlukan pemeriksaan EEG, sedangkan gangguan gerak memerlukannya",
+        "C": "Gangguan gerak umumnya sadar, hilang saat tidur, dan tanpa perubahan vital bermakna, sedangkan kejang dapat menurunkan kesadaran dan menyebabkan konfusi pascaiktal",
+        "D": "Gangguan gerak selalu disertai penurunan kesadaran dan perubahan SpO2",
+        "E": "Kejang hilang saat tidur, sedangkan gangguan gerak menetap saat tidur"
+      },
+      "answer": "C",
+      "explanation": "Gangguan gerak: sebagian besar sadar, hilang saat tidur, tidak ada perubahan vital bermakna. Kejang: ritmis, singkat, dapat menurunkan kesadaran, disertai perubahan vital dan konfusi atau paralisis Todd pascaiktal, dengan EEG sebagai penunjang.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q39",
+      "category": "",
+      "question": "Seorang laki-laki 25 tahun sering mengeluarkan bunyi dan gerakan mendadak berulang setelah merasakan dorongan sebelumnya (premonitory urge), dan dapat menahannya sementara. Diagnosis banding yang perlu dipikirkan adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Mioklonus",
+        "B": "Distonia",
+        "C": "Tremor esensial",
+        "D": "Chorea",
+        "E": "Tik"
+      },
+      "answer": "E",
+      "explanation": "Tik adalah gerakan atau suara yang involunter, singkat, dan berulang, didahului premonitory urge, dan dapat ditekan sementara. Koprolalia, ekolalia, dan palilalia dapat menyertainya.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q40",
+      "category": "",
+      "question": "Seorang perempuan 45 tahun mengalami kontraksi otot wajah kiri yang tidak disengaja, paroksismal, dan saat menutup mata kiri alis kiri justru naik. Penyebab tersering kelainan ini adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Degenerasi neuron dopaminergik substansia nigra",
+        "B": "Hiperglikemia nonketotik pada striatum",
+        "C": "Kompresi vaskular pada saraf fasialis oleh arteri serebelar",
+        "D": "Efek samping antipsikotik jangka lama",
+        "E": "Infeksi streptokokus grup A beta-hemolitikus"
+      },
+      "answer": "C",
+      "explanation": "Hemifacial spasm: kontraksi wajah unilateral yang diinervasi n. fasialis, tersering akibat kompresi vaskular oleh AICA, PICA, atau SCA. Terapi dengan injeksi botulinum.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q41",
+      "category": "",
+      "question": "Perbedaan klinis mioklonus dengan chorea yang benar adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Mioklonus berupa gerakan menggeliat lambat, sedangkan chorea berupa sentakan kilat",
+        "B": "Mioklonus selalu ritmis dan berlangsung menit, sedangkan chorea berlangsung kurang dari 100 ms",
+        "C": "Mioklonus berupa sentakan sangat singkat kurang dari 100 ms, sedangkan chorea berupa gerakan tidak beraturan yang mengalir dari satu bagian tubuh ke bagian lain",
+        "D": "Mioklonus selalu bertenaga menetap, sedangkan chorea selalu berupa postur abnormal",
+        "E": "Mioklonus hanya terjadi pada gangguan ganglia basalis, sedangkan chorea hanya terjadi pada epilepsi"
+      },
+      "answer": "C",
+      "explanation": "Mioklonus adalah kontraksi otot mendadak seperti sentakan, kurang dari 100 ms; mioklonus negatif adalah asteriksis. Chorea adalah gerakan involunter tidak beraturan, cepat, dan berpindah-pindah.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q42",
+      "category": "",
+      "question": "Kelompok parkinsonisme yang dibedakan dari penyakit Parkinson berdasarkan topografi lesi, bukan berdasarkan patologi dasar, adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Parkinson sekunder akibat obat",
+        "B": "Parkinson vaskular",
+        "C": "Parkinson heredodegeneratif",
+        "D": "Parkinson atipikal atau sindrom Parkinson plus",
+        "E": "Paralisis agitans idiopatik"
+      },
+      "answer": "D",
+      "explanation": "Atipikal parkinsonism (PSP, MSA, CBD) mirip secara patologi tetapi berbeda topis. Klasifikasi parkinsonisme: primer, sekunder, Parkinson plus, dan heredodegeneratif.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q43",
+      "category": "",
+      "question": "Seorang laki-laki 68 tahun dengan parkinsonisme, gangguan pandangan vertikal, jatuh dini, dan retrokolis. Gambaran MRI khas kelainan ini adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Absent swallow tail sign",
+        "B": "Alien limb sign",
+        "C": "Hummingbird sign",
+        "D": "Hot cross bun sign",
+        "E": "Signet ring sign"
+      },
+      "answer": "C",
+      "explanation": "PSP (Richardson's syndrome) ditandai instabilitas postural dini, gangguan pandangan vertikal supranuklear, dan hummingbird sign. Hot cross bun sign khas MSA.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q44",
+      "category": "",
+      "question": "Seorang laki-laki 60 tahun dengan parkinsonisme, hipotensi ortostatik berat, inkontinensia urin, dan sindrom serebelar. Diagnosis yang paling mungkin adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Penyakit Parkinson idiopatik",
+        "B": "Progressive supranuclear palsy",
+        "C": "Corticobasal degeneration",
+        "D": "Dementia with Lewy bodies",
+        "E": "Multiple system atrophy"
+      },
+      "answer": "E",
+      "explanation": "MSA ditandai parkinsonisme dengan disotonomia (hipotensi ortostatik, inkontinensia urin, disfungsi ereksi) dan sindrom serebelar pada MSA-C, dengan hot cross bun sign pada MRI.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q45",
+      "category": "",
+      "question": "Seorang laki-laki 72 tahun mengalami demensia dengan halusinasi visual berulang yang jelas, kognisi fluktuatif, dan parkinsonisme. Demensia muncul dalam 6 bulan setelah awitan parkinsonisme. Diagnosis yang paling mungkin adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Dementia with Lewy bodies berdasarkan one-year rule",
+        "B": "Multiple system atrophy berdasarkan one-year rule",
+        "C": "Corticobasal degeneration berdasarkan one-year rule",
+        "D": "Demensia vaskular berdasarkan one-year rule",
+        "E": "Parkinson disease dementia berdasarkan one-year rule"
+      },
+      "answer": "A",
+      "explanation": "One-year rule: bila demensia muncul dalam satu tahun dari awitan parkinsonisme, diagnosisnya DLB. Bila lebih dari satu tahun setelah parkinsonisme, disebut Parkinson disease dementia.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q46",
+      "category": "",
+      "question": "Seorang laki-laki 60 tahun didapati parkinsonisme setelah 2 minggu memakai haloperidol. Langkah tata laksana yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Menghentikan atau mengganti obat penyebab",
+        "B": "Menambah dosis haloperidol untuk mengatasi gejala",
+        "C": "Memberi injeksi botulinum pada otot yang kaku",
+        "D": "Memulai levodopa dosis tinggi tanpa mengubah obat",
+        "E": "Melakukan DBS sebagai terapi awal"
+      },
+      "answer": "A",
+      "explanation": "Drug-induced parkinsonism (antipsikotik, antiemetik seperti metoklopramid) ditangani dengan menghentikan atau mengganti obat penyebab, bukan menaikkan dosis. ---CATATAN GAMBAR--- q21 → source-file: Prof_Rizaldy_Taslim_Pinzon_-_Nyeri PDF, q_dat2.png q22 → source-file: Prof_Rizaldy_Taslim_Pinzon_-_Nyeri PDF, q_hy.png",
+      "explanationImages": [],
+      "isBroken": false
+    }
+  ]
+}

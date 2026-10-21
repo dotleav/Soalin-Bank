@@ -1,0 +1,922 @@
+{
+  "id": "latihan-kk7__edukasi-mpasi",
+  "tier": "reguler",
+  "title": "Edukasi MPASI",
+  "category": "Latihan KK7",
+  "questions": [
+    {
+      "id": "Q1",
+      "category": "",
+      "question": "Seorang ibu bertanya kepada dokter anak tentang apa yang dimaksud dengan MP-ASI. Pilihan manakah yang paling tepat sesuai definisi IDAI?",
+      "questionImages": [],
+      "options": {
+        "A": "Susu formula yang diberikan sejak bayi baru lahir sebagai pengganti ASI",
+        "B": "Pemberian ASI setiap dua jam tanpa tambahan makanan apa pun",
+        "C": "Makanan padat atau cair selain ASI yang diberikan saat ASI saja tidak lagi mencukupi kebutuhan",
+        "D": "Makanan khusus untuk ibu menyusui agar produksi ASI meningkat",
+        "E": "Suplemen vitamin dan mineral harian untuk mencegah anemia"
+      },
+      "optionExplanations": {
+        "A": "Tidak sesuai: formula pengganti ASI bukan definisi MP-ASI menurut IDAI.",
+        "B": "Tidak sesuai: ini merupakan pemberian ASI eksklusif, bukan MP-ASI.",
+        "C": "Sesuai dengan definisi IDAI tentang MP-ASI pada periode penyapihan.",
+        "D": "Tidak sesuai: MP-ASI ditujukan untuk bayi dan anak, bukan untuk ibu.",
+        "E": "Tidak sesuai: suplemen tidak termasuk definisi MP-ASI."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q2",
+      "category": "",
+      "question": "Ayah dari seorang anak perempuan berusia 4 tahun khawatir anaknya stunting karena tubuhnya tampak pendek. Pernyataan manakah yang paling tepat untuk menjelaskan kepada ayah tersebut?",
+      "questionImages": [],
+      "options": {
+        "A": "Tidak semua anak pendek disebut stunting, karena stunting berarti perawakan pendek akibat gangguan gizi atau penyakit kronis",
+        "B": "Setiap anak pendek pasti mengalami stunting dan perlu penanganan yang sama",
+        "C": "Stunting ditentukan hanya dari berat badan yang tidak naik, tanpa melihat tinggi badan",
+        "D": "Perawakan pendek yang diturunkan dari orang tua selalu merupakan stunting",
+        "E": "Stunting hanya terjadi bila anak tidak mendapat imunisasi lengkap"
+      },
+      "optionExplanations": {
+        "A": "Sesuai definisi WHO yang dikutip dalam materi.",
+        "B": "Keliru: semua anak stunting memang pendek, tetapi tidak semua anak pendek adalah stunting.",
+        "C": "Keliru: stunting berkaitan dengan perawakan pendek akibat gangguan pertumbuhan.",
+        "D": "Keliru: stunting dikaitkan dengan gangguan gizi atau penyakit kronis, bukan genetik semata.",
+        "E": "Keliru: imunisasi tidak lengkap hanya salah satu faktor risiko, bukan penyebab tunggal."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q3",
+      "category": "",
+      "question": "Keluarga seorang bayi bertanya apa saja yang dapat meningkatkan risiko stunting. Dari pilihan berikut, manakah yang merupakan faktor risiko stunting?",
+      "questionImages": [],
+      "options": {
+        "A": "Anak sering tidur siang lebih dari dua jam",
+        "B": "Anak memakai botol susu dengan ukuran yang cukup besar",
+        "C": "Orang tua memberikan pelukan dan pujian setiap hari",
+        "D": "Anak aktif bermain bersama teman sebaya di lingkungan rumah",
+        "E": "Bayi tidak diberikan ASI eksklusif"
+      },
+      "optionExplanations": {
+        "A": "Tidak sesuai: lama tidur siang tidak termasuk faktor risiko stunting dalam materi.",
+        "B": "Tidak sesuai: ukuran botol tidak termasuk faktor risiko stunting dalam materi.",
+        "C": "Tidak sesuai: ini termasuk pola pengasuhan yang baik, bukan faktor risiko.",
+        "D": "Tidak sesuai: aktivitas bermain bukan faktor risiko stunting.",
+        "E": "Sesuai: bayi yang tidak mendapat ASI eksklusif memiliki kekebalan tubuh lebih rendah sehingga rentan stunting."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q4",
+      "category": "",
+      "question": "Bayi laki-laki berusia 5 bulan 3 minggu dengan pertumbuhan yang baik. Ibunya ingin mulai memberikan bubur hari ini. Tindakan dokter yang paling tepat adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Segera memberikan bubur saring karena bayi sudah hampir enam bulan",
+        "B": "Menganjurkan ASI saja sampai usia 6 bulan karena pertumbuhannya baik",
+        "C": "Mengganti seluruh ASI dengan susu formula agar bayi lebih cepat kenyang",
+        "D": "Memberikan madu sebagai makanan pertama agar bayi lebih mudah menerima bubur",
+        "E": "Memberikan satu jenis sayur sebagai menu awal yang rutin setiap hari"
+      },
+      "optionExplanations": {
+        "A": "Keliru: pada pertumbuhan yang baik, MP-ASI dimulai sejak usia 6 bulan.",
+        "B": "Sesuai: ASI saja dianjurkan sampai 6 bulan bila pertumbuhan bayi baik.",
+        "C": "Keliru: bertentangan dengan anjuran ASI eksklusif.",
+        "D": "Keliru: madu tidak boleh diberikan pada anak usia kurang dari 1 tahun.",
+        "E": "Keliru: menu tunggal tidak dapat memenuhi kebutuhan nutrisi bayi."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q5",
+      "category": "",
+      "question": "Bayi berusia 18 minggu dengan pertumbuhan yang kurang baik sudah menunjukkan tanda siap menerima makanan. Ibunya ingin memulai MP-ASI lebih awal dari 6 bulan. Pernyataan yang paling tepat adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "MP-ASI harus ditunda sampai 6 bulan meskipun pertumbuhan bayi kurang baik",
+        "B": "MP-ASI dimulai karena bayi sudah berusia 18 minggu, tanpa perlu menilai kesiapannya",
+        "C": "MP-ASI boleh diberikan segera pada usia 10 minggu karena pertumbuhannya kurang baik",
+        "D": "MP-ASI boleh diberikan lebih awal karena pertumbuhan buruk, asalkan bayi sudah siap dan usianya minimal 17 minggu",
+        "E": "Susu formula diganti total dengan bubur sejak bayi baru lahir"
+      },
+      "optionExplanations": {
+        "A": "Keliru: bila pertumbuhan bayi buruk, MP-ASI boleh diberikan lebih awal.",
+        "B": "Keliru: kesiapan bayi tetap harus dinilai sebelum MP-ASI diberikan.",
+        "C": "Keliru: MP-ASI tidak boleh diberikan lebih awal dari 17 minggu.",
+        "D": "Sesuai: rekomendasi ESPGHAN dan syarat kesiapan bayi.",
+        "E": "Keliru: bertentangan dengan anjuran ASI dan waktu pemberian MP-ASI."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q6",
+      "category": "",
+      "question": "Bayi berusia 6 bulan datang untuk kontrol. Dokter ingin menilai apakah bayi sudah siap menerima MP-ASI. Temuan manakah yang paling mendukung kesiapan tersebut?",
+      "questionImages": [],
+      "options": {
+        "A": "Bayi mampu menegakkan kepala saat didudukkan, refleks ekstrusi berkurang, dan tampak tertarik pada makanan",
+        "B": "Bayi sering muntah setelah menyusu dan sulit tidur di malam hari",
+        "C": "Bayi sudah mampu berjalan sambil berpegangan pada perabot rumah",
+        "D": "Gigi bayi sudah tumbuh lengkap sebanyak dua puluh buah",
+        "E": "Berat badan bayi berada tepat pada garis tengah kurva pertumbuhan"
+      },
+      "optionExplanations": {
+        "A": "Sesuai: ketiga hal ini merupakan tanda kesiapan menerima MP-ASI.",
+        "B": "Tidak sesuai: tidak termasuk tanda kesiapan MP-ASI.",
+        "C": "Tidak sesuai: kemampuan berjalan bukan tanda kesiapan menurut materi.",
+        "D": "Tidak sesuai: jumlah gigi tidak digunakan sebagai tanda kesiapan dalam materi.",
+        "E": "Tidak sesuai: posisi berat badan bukan tanda kesiapan menerima MP-ASI."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q7",
+      "category": "",
+      "question": "Ahli gizi menyusun menu MP-ASI untuk bayi berusia 8 bulan. Komposisi makronutrien manakah yang paling sesuai dengan anjuran?",
+      "questionImages": [],
+      "options": {
+        "A": "Karbohidrat 60%, lemak 10%, dan protein 30% dari total kalori",
+        "B": "Protein 40%, lemak 40%, dan karbohidrat 20% dari total kalori",
+        "C": "Protein 15-20%, lemak 30-45%, dan sisanya karbohidrat dari total kalori",
+        "D": "Protein 5%, lemak 15%, dan karbohidrat 80% dari total kalori",
+        "E": "Protein 25%, lemak 25%, dan karbohidrat 50% dari total kalori"
+      },
+      "optionExplanations": {
+        "A": "Keliru: lemak terlalu rendah, protein terlalu tinggi, dan karbohidrat terlalu tinggi.",
+        "B": "Keliru: protein melebihi anjuran 15-20% dari total kalori.",
+        "C": "Sesuai dengan komposisi makronutrien MP-ASI yang baik menurut materi.",
+        "D": "Keliru: protein dan lemak terlalu rendah dibanding anjuran.",
+        "E": "Keliru: protein dan lemak di luar rentang anjuran."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q8",
+      "category": "",
+      "question": "Ibu dari bayi berusia 9 bulan membatasi lemak dalam menu anaknya karena khawatir anaknya menjadi gemuk. Sikap dokter yang paling tepat adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Mengurangi lemak karena kebutuhan lemak bayi sama dengan orang dewasa",
+        "B": "Membatasi lemak di bawah 10% dari total kalori agar anak tidak gemuk",
+        "C": "Menghindari minyak sama sekali dalam seluruh menu bayi",
+        "D": "Menggantikan lemak dengan buah agar anak lebih cepat kenyang",
+        "E": "Mempertahankan lemak 30-45% dari total kalori karena penting untuk pertumbuhan otak"
+      },
+      "optionExplanations": {
+        "A": "Keliru: kebutuhan lemak pada bayi justru lebih besar daripada dewasa.",
+        "B": "Keliru: anjuran lemak untuk bayi 30-45% dari total kalori.",
+        "C": "Keliru: lemak diperlukan untuk pertumbuhan otak dan penyerapan vitamin.",
+        "D": "Keliru: porsi buah tidak boleh menggantikan protein dan lemak.",
+        "E": "Sesuai: lemak cukup mendukung pertumbuhan otak dan penyerapan vitamin A, D, E, dan K."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q9",
+      "category": "",
+      "question": "Bayi berusia 7 bulan mendapat MP-ASI yang didominasi bubur oat utuh dan kacang-kacangan dalam porsi besar. Saran terbaik untuk pemilihan karbohidrat adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Memberikan whole grain cereal sebanyak mungkin agar menu lebih bergizi",
+        "B": "Memilih karbohidrat yang mudah dicerna dan membatasi whole grain serta kacang dalam jumlah besar",
+        "C": "Memberikan karbohidrat tinggi serat setiap hari untuk melancarkan buang air besar",
+        "D": "Menghindari seluruh karbohidrat karena kebutuhan energi sudah tercukupi dari protein",
+        "E": "Memberikan kacang-kacangan dalam porsi besar sebagai sumber energi utama"
+      },
+      "optionExplanations": {
+        "A": "Keliru: whole grain dalam jumlah besar memiliki densitas energi yang rendah.",
+        "B": "Sesuai: karbohidrat awal sebaiknya mudah dicerna, sedangkan whole grain dan kacang dibatasi.",
+        "C": "Keliru: serat tinggi membuat bayi cepat kenyang dan massa tinja besar sehingga sulit BAB.",
+        "D": "Keliru: karbohidrat tetap merupakan bagian penting dari makronutrien MP-ASI.",
+        "E": "Keliru: kacang-kacangan memiliki densitas energi rendah dan mengandung antinutrien."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q10",
+      "category": "",
+      "question": "Ibu menyusun menu bayi berusia 8 bulan hanya dari sayur, buah, dan kacang-kacangan tanpa daging, telur, atau ikan. Saran dokter yang paling tepat adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Cukup memberi kacang-kacangan karena kandungan proteinnya setara dengan protein hewani",
+        "B": "Mengganti protein dengan karbohidrat karena karbohidrat lebih mudah dicerna",
+        "C": "Memberikan protein hewani hanya sesekali ketika anak sedang sakit",
+        "D": "Menambahkan protein hewani pada setiap porsi MP-ASI karena asam aminonya lebih lengkap",
+        "E": "Memberikan sayur dalam porsi terbanyak agar anak mengenal rasa sayur"
+      },
+      "optionExplanations": {
+        "A": "Keliru: protein hewani memiliki asam amino lebih lengkap, sedangkan kacang mengandung antinutrien.",
+        "B": "Keliru: karbohidrat tidak dapat menggantikan protein dalam menu MP-ASI.",
+        "C": "Keliru: protein hewani harus ada dalam setiap MP-ASI.",
+        "D": "Sesuai: protein hewani diutamakan dan harus ada di tiap MP-ASI.",
+        "E": "Keliru: sayur tidak boleh mengalahkan porsi protein dan lemak."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q11",
+      "category": "",
+      "question": "Bayi berusia 8 bulan setiap hari hanya diberi bubur nasi dengan pisang. Penilaian dokter yang paling tepat adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Menu seperti ini tidak memenuhi kebutuhan nutrisi karena MP-ASI harus lengkap berisi karbohidrat, protein, lemak, dan mikronutrien",
+        "B": "Menu ini sudah cukup karena nasi dan pisang mengandung energi yang tinggi",
+        "C": "Menu ini cukup asalkan diberikan dalam porsi besar setiap kali makan",
+        "D": "Menu ini hanya kurang vitamin A, sehingga cukup ditambah suplemen saja",
+        "E": "Menu ini aman selama bayi tidak menunjukkan alergi terhadap pisang"
+      },
+      "optionExplanations": {
+        "A": "Sesuai: praktik menu tunggal tidak dapat memenuhi kebutuhan nutrisi bayi.",
+        "B": "Keliru: energi saja tidak cukup tanpa protein, lemak, dan mikronutrien.",
+        "C": "Keliru: jumlah porsi besar tidak menggantikan kelengkapan zat gizi.",
+        "D": "Keliru: kekurangan yang ada lebih luas daripada satu vitamin.",
+        "E": "Keliru: keamanan tidak menjamin kecukupan gizi."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q12",
+      "category": "",
+      "question": "Ibu bayi berusia 9 bulan memberikan porsi buah dan sayur paling banyak dalam setiap makan, dengan sedikit telur dan ikan. Nasihat dokter yang paling tepat adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Buah dan sayur harus menjadi porsi terbesar agar bayi terhindar dari sembelit",
+        "B": "Sayur cukup diberikan dalam jumlah kecil dan tidak perlu dikenalkan sejak awal",
+        "C": "Porsi buah dan sayur tidak boleh melebihi porsi protein dan lemak",
+        "D": "Daging dapat sepenuhnya digantikan buah karena keduanya sama-sama sumber serat",
+        "E": "Sayur sebaiknya dihentikan sejak bayi mulai makan agar tidak menimbulkan alergi"
+      },
+      "optionExplanations": {
+        "A": "Keliru: porsi buah dan sayur tidak boleh mengalahkan protein dan lemak.",
+        "B": "Keliru: sayur diberikan agar anak mengenal rasa dan tidak menolak di kemudian hari.",
+        "C": "Sesuai: buah dan sayur diberikan secukupnya, sementara protein dan lemak harus lebih diutamakan.",
+        "D": "Keliru: buah tidak dapat menggantikan protein hewani.",
+        "E": "Keliru: materi justru menganjurkan sayur diperkenalkan untuk melatih penerimaan rasa."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q13",
+      "category": "",
+      "question": "Bayi berusia 10 bulan dengan menu MP-ASI yang rendah lemak dikhawatirkan mengalami defisiensi vitamin tertentu. Vitamin apa saja yang penyerapannya bergantung pada lemak dalam makanan?",
+      "questionImages": [],
+      "options": {
+        "A": "Vitamin B1, B2, B6, dan B12",
+        "B": "Vitamin C dan vitamin B kompleks",
+        "C": "Vitamin A dan vitamin C saja",
+        "D": "Vitamin D dan vitamin B12 saja",
+        "E": "Vitamin A, D, E, dan K"
+      },
+      "optionExplanations": {
+        "A": "Keliru: vitamin golongan B merupakan vitamin larut air.",
+        "B": "Keliru: vitamin C dan B kompleks merupakan vitamin larut air.",
+        "C": "Keliru: vitamin C tidak termasuk vitamin larut lemak.",
+        "D": "Keliru: vitamin B12 tidak termasuk vitamin larut lemak.",
+        "E": "Sesuai: keempat vitamin ini larut lemak dan penyerapannya dibantu oleh lemak MP-ASI."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q14",
+      "category": "",
+      "question": "Bayi perempuan berusia 7 bulan baru mulai mendapat MP-ASI. Ibu bertanya berapa kali sehari dan bagaimana teksturnya. Jawaban yang paling tepat adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "3-4 kali sehari, setengah mangkuk 250 ml, tekstur finger food",
+        "B": "2-3 kali sehari, dimulai 2-3 sendok makan, tekstur puree",
+        "C": "1 kali sehari, satu sendok teh, tekstur cair",
+        "D": "4 kali sehari, tiga perempat mangkuk 250 ml, tekstur makanan keluarga",
+        "E": "5 kali sehari dengan selingan, tekstur cincang kasar"
+      },
+      "optionExplanations": {
+        "A": "Keliru: sesuai usia 9-12 bulan.",
+        "B": "Sesuai: frekuensi dan tekstur untuk usia 6-9 bulan menurut Tabel 1.",
+        "C": "Keliru: frekuensi dan jumlah terlalu sedikit untuk usia ini.",
+        "D": "Keliru: sesuai usia 12-23 bulan.",
+        "E": "Keliru: frekuensi dan tekstur belum sesuai untuk usia 7 bulan."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q15",
+      "category": "",
+      "question": "Bayi laki-laki berusia 10 bulan sudah makan bubur kental dan orang tuanya ingin menyesuaikan porsi dan teksturnya. Pilihan yang paling sesuai untuk usia ini adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "2-3 kali sehari, 2-3 sendok makan, tekstur puree",
+        "B": "3-4 kali sehari tanpa selingan, tiga perempat mangkuk, tekstur makanan keluarga",
+        "C": "1 kali sehari dengan selingan saja, 100 ml, tekstur cair",
+        "D": "3-4 kali sehari dan 1-2 kali selingan, setengah mangkuk 250 ml, tekstur cincang atau finger food",
+        "E": "6 kali sehari, satu mangkuk penuh, tekstur bubur saring"
+      },
+      "optionExplanations": {
+        "A": "Keliru: sesuai usia 6-9 bulan.",
+        "B": "Keliru: selingan dianjurkan, dan porsi serta tekstur keluarga sesuai usia 12-23 bulan.",
+        "C": "Keliru: frekuensi dan volume terlalu rendah.",
+        "D": "Sesuai dengan Tabel 1 untuk usia 9-12 bulan.",
+        "E": "Keliru: frekuensi dan tekstur tidak sesuai usia ini."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q16",
+      "category": "",
+      "question": "Anak berusia 15 bulan sudah makan bersama keluarga. Ibu bertanya tentang porsi dan frekuensi yang sesuai. Jawaban yang paling tepat adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "3-4 kali sehari dan 1-2 kali selingan, tiga perempat mangkuk 250 ml, makanan keluarga yang dicincang atau dihaluskan seperlunya",
+        "B": "2-3 kali sehari, 2-3 sendok makan, tekstur puree",
+        "C": "3-4 kali sehari, setengah mangkuk 250 ml, tekstur minced",
+        "D": "5 kali sehari, satu mangkuk penuh, makanan khusus bayi instan",
+        "E": "1 kali sehari, 100 ml, tekstur cair"
+      },
+      "optionExplanations": {
+        "A": "Sesuai dengan Tabel 1 untuk usia 12-23 bulan.",
+        "B": "Keliru: sesuai usia 6-9 bulan.",
+        "C": "Keliru: sesuai usia 9-12 bulan.",
+        "D": "Keliru: frekuensi dan porsi tidak sesuai, serta makanan keluarga dianjurkan.",
+        "E": "Keliru: frekuensi dan volume terlalu rendah untuk usia ini."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q17",
+      "category": "",
+      "question": "Ibu menyiapkan MP-ASI dengan memakai talenan yang sama untuk daging mentah dan sayur, lalu menyimpan bubur matang di meja selama 4 jam sebelum diberikan. Saran dokter yang paling tepat adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Makanan boleh disimpan hingga 4 jam asalkan wadahnya ditutup rapat",
+        "B": "Talenan boleh dipakai bergantian asalkan sudah dicuci sebelum digunakan",
+        "C": "Alat untuk bahan mentah dan matang dipisahkan, serta makanan matang tidak dibiarkan lebih dari 2 jam",
+        "D": "Daging cukup dicicipi untuk memastikan sudah matang sebelum diberikan",
+        "E": "Sayur mentah boleh dicampurkan ke bubur panas agar cepat menjadi hangat"
+      },
+      "optionExplanations": {
+        "A": "Keliru: makanan matang tidak boleh dibiarkan lebih dari 2 jam pada suhu kamar.",
+        "B": "Keliru: alat untuk bahan mentah dan matang harus dipisahkan.",
+        "C": "Sesuai dengan prinsip MP-ASI yang aman menurut materi.",
+        "D": "Keliru: daging, telur, dan ikan harus dimasak matang secara benar.",
+        "E": "Keliru: bahan yang sudah matang jangan dicampur dengan yang masih mentah."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q18",
+      "category": "",
+      "question": "Ibu bayi berusia 11 bulan ingin memberikan madu agar nafsu makan anaknya meningkat. Keputusan dokter yang paling tepat adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Boleh diberikan sedikit setiap pagi untuk menambah energi",
+        "B": "Boleh diberikan asalkan dicampur dengan air hangat terlebih dahulu",
+        "C": "Boleh diberikan setelah usia 6 bulan asalkan tidak setiap hari",
+        "D": "Boleh diberikan sebagai pengganti gula dalam bubur bayi",
+        "E": "Tidak boleh diberikan karena bayi berusia kurang dari 1 tahun"
+      },
+      "optionExplanations": {
+        "A": "Keliru: madu tidak boleh diberikan pada anak di bawah 1 tahun.",
+        "B": "Keliru: pencampuran tidak membuat madu aman untuk bayi di bawah 1 tahun.",
+        "C": "Keliru: larangan madu berlaku sampai usia di bawah 1 tahun.",
+        "D": "Keliru: madu tetap tidak boleh diberikan pada usia tersebut.",
+        "E": "Sesuai: madu tidak boleh diberikan pada anak usia kurang dari 1 tahun."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q19",
+      "category": "",
+      "question": "Bayi berusia 8 bulan sering diberi telur setengah matang oleh keluarga. Nasihat dokter yang paling tepat adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Telur setengah matang boleh diberikan asalkan tidak berbau",
+        "B": "Telur harus dimasak sampai matang sebelum diberikan kepada bayi",
+        "C": "Ikan cukup dikukus sebentar asalkan dagingnya tidak lagi amis",
+        "D": "Daging cukup dibolak-balik di wajan sampai bagian luarnya berubah warna",
+        "E": "Telur tidak perlu dimasak asalkan disimpan di dalam kulkas"
+      },
+      "optionExplanations": {
+        "A": "Keliru: aroma tidak menjamin telur sudah matang dan aman.",
+        "B": "Sesuai: daging, telur, dan ikan harus dimasak matang dalam MP-ASI.",
+        "C": "Keliru: ikan harus dimasak matang, bukan sekadar tidak berbau amis.",
+        "D": "Keliru: bagian dalam daging juga harus matang.",
+        "E": "Keliru: penyimpanan dingin tidak menggantikan kewajiban memasak matang."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q20",
+      "category": "",
+      "question": "Ibu memaksa bayi berusia 9 bulan menghabiskan bubur, padahal bayi sudah menutup mulut dan memalingkan wajah. Nasihat dokter yang paling tepat adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Menyuapi sampai makanan habis agar anak tidak kekurangan gizi",
+        "B": "Mengalihkan perhatian dengan gawai agar anak mau makan lebih banyak",
+        "C": "Menghentikan MP-ASI selama seminggu dan memberi ASI saja",
+        "D": "Memperhatikan sinyal lapar dan kenyang bayi, tidak memaksa, serta sabar memberi dorongan",
+        "E": "Menyamakan jumlah makanan dengan target harian yang diinginkan ibu"
+      },
+      "optionExplanations": {
+        "A": "Keliru: anak tidak boleh dipaksa makan.",
+        "B": "Keliru: MP-ASI harus diberikan secara responsif, bukan dengan cara memaksa atau mengalihkan.",
+        "C": "Keliru: penghentian MP-ASI tanpa alasan medis tidak dianjurkan.",
+        "D": "Sesuai: pemberian MP-ASI yang benar bersifat responsif.",
+        "E": "Keliru: anak tidak boleh dipaksa menghabiskan makanan sesuai keinginan ibu."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q21",
+      "category": "",
+      "question": "Keluarga seorang bayi tinggal di daerah dengan sumber air bersih terbatas dan tidak memiliki jamban layak. Dokter menjelaskan bahwa kondisi ini dapat meningkatkan risiko stunting. Faktor yang dimaksud adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Tidak tersedianya air dan fasilitas sanitasi yang baik",
+        "B": "Ibu bekerja di luar rumah sepanjang hari",
+        "C": "Bayi tinggal di dataran tinggi dengan suhu rendah",
+        "D": "Bayi sering mengalami gangguan tidur pada malam hari",
+        "E": "Orang tua membeli makanan siap saji dari luar rumah"
+      },
+      "optionExplanations": {
+        "A": "Sesuai: materi menyebut ketiadaan air dan sanitasi yang baik sebagai faktor stunting.",
+        "B": "Keliru: materi tidak menyebut status pekerjaan ibu sebagai faktor stunting.",
+        "C": "Keliru: lokasi geografis tidak termasuk faktor yang disebut dalam materi.",
+        "D": "Keliru: gangguan tidur bukan faktor risiko stunting dalam materi.",
+        "E": "Keliru: materi tidak menyebut pembelian makanan siap saji sebagai faktor langsung stunting."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q22",
+      "category": "",
+      "question": "Bayi berusia 14 bulan belum pernah mendapat imunisasi lengkap karena keluarga khawatir efek samping. Dokter menilai hal ini sebagai salah satu faktor yang dapat menyebabkan stunting. Pernyataan yang paling tepat adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Imunisasi tidak berpengaruh terhadap pertumbuhan anak",
+        "B": "Imunisasi yang tidak lengkap termasuk faktor yang dapat menyebabkan stunting",
+        "C": "Imunisasi hanya berpengaruh pada bayi berusia di bawah enam bulan",
+        "D": "Efek samping imunisasi selalu menyebabkan anak gagal tumbuh",
+        "E": "Stunting hanya dapat dicegah dengan memberikan vitamin tambahan"
+      },
+      "optionExplanations": {
+        "A": "Keliru: materi mencantumkan imunisasi tidak lengkap sebagai faktor stunting.",
+        "B": "Sesuai: imunisasi tidak lengkap merupakan salah satu faktor risiko stunting menurut materi.",
+        "C": "Keliru: materi tidak membatasi faktor ini pada usia tertentu.",
+        "D": "Keliru: materi tidak menyatakan efek samping imunisasi sebagai penyebab gagal tumbuh.",
+        "E": "Keliru: pencegahan stunting melibatkan beberapa faktor, bukan vitamin saja."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q23",
+      "category": "",
+      "question": "Seorang ibu sering membiarkan anaknya makan sendiri tanpa perhatian, dan jarang berbicara atau bermain bersama saat makan. Dokter menilai pola pengasuhan ini perlu diperbaiki. Pola pengasuhan yang tidak baik termasuk?",
+      "questionImages": [],
+      "options": {
+        "A": "Memberikan pujian saat anak mau mencoba makanan baru",
+        "B": "Memberikan ruang bermain yang aman dan nyaman",
+        "C": "Pola pengasuhan orang tua yang tidak baik, termasuk kurangnya perhatian saat anak makan",
+        "D": "Mengikuti jadwal tidur anak secara konsisten setiap malam",
+        "E": "Mengajak anak berjalan-jalan di taman setiap sore"
+      },
+      "optionExplanations": {
+        "A": "Keliru: sikap ini termasuk pengasuhan yang baik, bukan pengasuhan buruk.",
+        "B": "Keliru: lingkungan yang aman dan nyaman termasuk pengasuhan yang baik.",
+        "C": "Sesuai: pola pengasuhan yang tidak baik disebut sebagai faktor stunting dalam materi.",
+        "D": "Keliru: keteraturan jadwal tidur bukan faktor risiko stunting.",
+        "E": "Keliru: aktivitas fisik yang sehat tidak termasuk faktor risiko stunting."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q24",
+      "category": "",
+      "question": "Bayi berusia 9 bulan mendapat ASI dengan baik, tetapi berat badannya tidak naik optimal. Dokter menjelaskan bahwa setelah usia 6 bulan ASI saja tidak lagi mencukupi kebutuhan energi bayi. Kesenjangan energi ini disebut?",
+      "questionImages": [],
+      "options": {
+        "A": "Defisit cairan tubuh akibat pengeluaran berlebih",
+        "B": "Gap protein akibat rendahnya produksi asam amino",
+        "C": "Penyerapan mikronutrien yang terhambat oleh antinutrien",
+        "D": "Energy gap, yaitu kebutuhan kalori bayi yang tidak dapat dicukupi hanya dengan ASI",
+        "E": "Defisiensi vitamin larut lemak akibat menu rendah lemak"
+      },
+      "optionExplanations": {
+        "A": "Keliru: istilah ini tidak berkaitan dengan kesenjangan energi dari ASI.",
+        "B": "Keliru: kesenjangan yang dimaksud adalah energi, bukan protein.",
+        "C": "Keliru: antinutrien berkaitan dengan makanan nabati, bukan kesenjangan energi ASI.",
+        "D": "Sesuai: energy gap pada Gambar 1 materi harus dipenuhi oleh MP-ASI.",
+        "E": "Keliru: istilah ini merujuk pada defisiensi vitamin, bukan kesenjangan energi ASI."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q25",
+      "category": "",
+      "question": "Ahli gizi memeriksa menu MP-ASI bayi berusia 8 bulan. Menu sudah mengandung karbohidrat, protein, dan lemak, tetapi belum mengandung zat besi dan seng. Pernyataan yang paling tepat adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Menu sudah memenuhi syarat adekuat karena makronutriennya lengkap",
+        "B": "Zat besi dan seng tidak diperlukan pada bayi di atas 6 bulan",
+        "C": "Kekurangan zat besi cukup diatasi dengan memperbanyak buah",
+        "D": "Seng dapat digantikan oleh karbohidrat kompleks",
+        "E": "MP-ASI harus memenuhi kebutuhan mikronutrien seperti zat besi dan seng, selain makronutrien"
+      },
+      "optionExplanations": {
+        "A": "Keliru: syarat adekuat juga mencakup mikronutrien, bukan makronutrien saja.",
+        "B": "Keliru: zat besi dan seng termasuk kebutuhan mikronutrien bayi.",
+        "C": "Keliru: buah tidak menggantikan kebutuhan mikronutrien tersebut.",
+        "D": "Keliru: karbohidrat tidak menggantikan mikronutrien seperti seng.",
+        "E": "Sesuai: prinsip adekuat mencakup makronutrien dan mikronutrien."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q26",
+      "category": "",
+      "question": "Ibu bayi berusia 10 bulan ingin mengganti sumber protein hewani dengan kacang-kacangan dalam jumlah besar karena lebih murah. Dokter mengingatkan risiko yang perlu diperhatikan. Pernyataan yang paling tepat adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Kacang mengandung tanin dan fitat yang dapat menghambat penyerapan mikronutrien, sehingga protein hewani tetap diutamakan",
+        "B": "Kacang tidak mengandung zat yang memengaruhi penyerapan gizi sama sekali",
+        "C": "Kacang lebih baik daripada protein hewani karena menyediakan lemak yang lebih tinggi",
+        "D": "Kacang hanya berbahaya bila diberikan kepada bayi di bawah 6 bulan",
+        "E": "Kacang dapat menggantikan protein hewani asalkan porsinya dua kali lipat"
+      },
+      "optionExplanations": {
+        "A": "Sesuai: antinutrien pada kacang dapat menghalangi penyerapan mikronutrien, dan protein hewani lebih lengkap asam aminonya.",
+        "B": "Keliru: materi menyebut kacang mengandung antinutrien.",
+        "C": "Keliru: protein hewani diutamakan karena asam aminonya lebih lengkap.",
+        "D": "Keliru: kacang dalam jumlah besar dihindari pada MP-ASI secara umum karena densitas energi rendah.",
+        "E": "Keliru: porsi yang lebih besar tidak menutup kekurangan antinutrien dan asam amino."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q27",
+      "category": "",
+      "question": "Bayi berusia 12 bulan dengan menu MP-ASI yang sudah cukup karbohidrat dan protein. Dokter menilai kebutuhan lemak anak masih perlu diperhatikan karena alasan tertentu. Alasan yang paling tepat adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Lemak membuat anak cepat kenyang sehingga mengurangi asupan karbohidrat",
+        "B": "Kebutuhan lemak anak usia 6-23 bulan lebih tinggi karena asam lemak esensial sangat dibutuhkan",
+        "C": "Lemak tidak diperlukan karena anak sudah mendapat energi cukup dari buah",
+        "D": "Lemak hanya diperlukan untuk memperbaiki kulit yang kering",
+        "E": "Lemak perlu dibatasi agar penyerapan protein tidak terganggu"
+      },
+      "optionExplanations": {
+        "A": "Keliru: materi justru menyebut kebutuhan lemak pada anak usia 6-23 bulan lebih tinggi.",
+        "B": "Sesuai: asam lemak esensial sangat dibutuhkan, dan anjuran lemak 30-45% dari total kalori.",
+        "C": "Keliru: buah tidak menggantikan kebutuhan lemak.",
+        "D": "Keliru: materi menyebut lemak untuk pertumbuhan otak dan penyerapan vitamin.",
+        "E": "Keliru: materi menganjurkan lemak cukup, bukan dibatasi."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q28",
+      "category": "",
+      "question": "Ibu bertanya sampai kapan bayi perlu mendapat ASI. Dokter menjelaskan rekomendasi WHO mengenai ASI eksklusif dan lama pemberian ASI. Jawaban yang paling tepat adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "ASI eksklusif sampai 3 bulan, lalu dihentikan saat MP-ASI mulai diberikan",
+        "B": "ASI eksklusif sampai 4 bulan, lalu dilanjutkan sampai usia 1 tahun",
+        "C": "ASI eksklusif sampai 6 bulan, lalu dapat dilanjutkan sampai usia 2 tahun atau lebih",
+        "D": "ASI eksklusif sampai 12 bulan, lalu dihentikan saat gigi susu lengkap",
+        "E": "ASI eksklusif sampai 6 minggu, lalu wajib diganti dengan susu formula"
+      },
+      "optionExplanations": {
+        "A": "Keliru: ASI eksklusif dianjurkan sampai 6 bulan.",
+        "B": "Keliru: ASI eksklusif dianjurkan sampai 6 bulan.",
+        "C": "Sesuai: rekomendasi WHO yang dikutip dalam materi.",
+        "D": "Keliru: ASI eksklusif berlaku sampai 6 bulan, dan penghentian tidak dikaitkan dengan gigi.",
+        "E": "Keliru: ASI eksklusif tidak berakhir pada 6 minggu dan tidak wajib diganti formula."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q29",
+      "category": "",
+      "question": "Keluarga bayi berusia 10 bulan terbiasa memberi nasi, sayur, dan buah dalam porsi besar, tetapi hanya sedikit telur, ikan, dan daging. Dokter menilai menu ini perlu dikoreksi. Koreksi yang paling tepat adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Mengurangi porsi nasi dan menggantinya dengan buah yang lebih banyak",
+        "B": "Menghentikan pemberian sayur agar porsi lain bisa ditambah",
+        "C": "Menambah porsi sayur dan buah karena keduanya paling kaya mikronutrien",
+        "D": "Menambah protein hewani dan lemak, sehingga porsinya tidak kalah dari karbohidrat, buah, dan sayur",
+        "E": "Memberikan lebih banyak susu formula untuk menggantikan makanan padat"
+      },
+      "optionExplanations": {
+        "A": "Keliru: buah tidak menggantikan protein dan lemak.",
+        "B": "Keliru: sayur tetap dikenalkan, hanya porsinya tidak boleh mengalahkan protein dan lemak.",
+        "C": "Keliru: porsi sayur dan buah tidak boleh mengalahkan protein dan lemak.",
+        "D": "Sesuai: materi menegaskan protein hewani harus ada dan porsi buah dan sayur tidak boleh mengalahkan protein dan lemak.",
+        "E": "Keliru: materi tidak menganjurkan formula menggantikan MP-ASI padat sebagai koreksi."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q30",
+      "category": "",
+      "question": "Bayi berusia 5 bulan dengan pertumbuhan buruk dan tanda kesiapan belum jelas. Ibunya ingin menunda MP-ASI sampai bayi berusia 9 bulan agar lebih aman. Keputusan yang paling tepat adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Menunda MP-ASI sampai 9 bulan tanpa perlu memeriksa apa pun",
+        "B": "Memberikan MP-ASI segera karena bayi harus mengejar pertumbuhan dengan porsi besar",
+        "C": "Mengganti ASI dengan MP-ASI sepenuhnya sejak usia 5 bulan",
+        "D": "Menunda MP-ASI sampai 9 bulan karena pertumbuhan buruk selalu berarti bayi tidak siap",
+        "E": "Menilai kesiapan bayi terlebih dahulu, dan bila sudah siap, memulai MP-ASI tidak lebih awal dari 17 minggu dan tidak lebih lambat dari 26 minggu"
+      },
+      "optionExplanations": {
+        "A": "Keliru: penundaan yang terlalu lama tidak sesuai anjuran waktu MP-ASI.",
+        "B": "Keliru: MP-ASI dini hanya boleh bila bayi sudah siap, dan porsi harus sesuai usia.",
+        "C": "Keliru: MP-ASI melengkapi ASI, bukan menggantikannya sepenuhnya pada usia ini.",
+        "D": "Keliru: pertumbuhan buruk justru dapat menjadi alasan MP-ASI diberikan lebih awal.",
+        "E": "Sesuai: MP-ASI dini perlu memenuhi tanda kesiapan dan rentang usia rekomendasi ESPGHAN."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q31",
+      "category": "",
+      "question": "Dokter menjelaskan kepada orang tua bahwa angka stunting di Indonesia masih tinggi. Pada Riskesdas 2019, angka stunting nasional tercatat sebesar berapa?",
+      "questionImages": [],
+      "options": {
+        "A": "27,67%, yang berarti hampir sepertiga anak Indonesia",
+        "B": "17,67%, yang berarti sekitar seperenam anak Indonesia",
+        "C": "37,67%, yang berarti lebih dari sepertiga anak Indonesia",
+        "D": "7,67%, yang berarti hanya sebagian kecil anak Indonesia",
+        "E": "47,67%, yang berarti hampir separuh anak Indonesia"
+      },
+      "optionExplanations": {
+        "A": "Sesuai: angka Riskesdas 2019 yang dikutip dalam materi.",
+        "B": "Keliru: angka ini tidak sesuai dengan Riskesdas 2019 dalam materi.",
+        "C": "Keliru: angka ini tidak sesuai dengan Riskesdas 2019 dalam materi.",
+        "D": "Keliru: angka ini terlalu rendah dibanding data Riskesdas 2019.",
+        "E": "Keliru: angka ini tidak sesuai dengan Riskesdas 2019 dalam materi."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q32",
+      "category": "",
+      "question": "Orang tua seorang anak bertanya apa dampak stunting selain tubuh yang pendek. Dokter menjelaskan bahwa stunting berkaitan dengan kondisi tumbuh kembang anak secara keseluruhan. Pernyataan yang paling tepat adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Stunting hanya memengaruhi penampilan fisik dan tidak berdampak pada otak",
+        "B": "Stunting merupakan kekurangan gizi kronis yang menghambat pertumbuhan dan membuat kecerdasan anak tidak optimal",
+        "C": "Stunting hanya berdampak pada anak yang mengalami diare berulang",
+        "D": "Stunting tidak berdampak apabila anak mendapat ASI eksklusif",
+        "E": "Stunting menyebabkan anak selalu mengalami gangguan penglihatan"
+      },
+      "optionExplanations": {
+        "A": "Keliru: materi menyebut stunting berkaitan dengan kecerdasan anak yang tidak optimal.",
+        "B": "Sesuai: stunting sebagai gizi kronis yang menghambat pertumbuhan dan kecerdasan.",
+        "C": "Keliru: materi tidak membatasi dampak stunting pada penyebab tersebut.",
+        "D": "Keliru: ASI eksklusif mengurangi risiko, tetapi materi tidak menyatakan stunting tidak mungkin terjadi.",
+        "E": "Keliru: gangguan penglihatan tidak disebut sebagai dampak stunting dalam materi."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q33",
+      "category": "",
+      "question": "Ibu menyiapkan MP-ASI di dapur yang sama dengan daging mentah, lalu mencampurkan sayur yang belum dimasak ke dalam bubur yang sudah matang. Saran dokter yang paling tepat adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Mencampur bahan mentah ke bubur matang asalkan bubur masih hangat",
+        "B": "Mencuci sayur dengan air panas sebelum dicampurkan ke bubur matang",
+        "C": "Memasak sayur terlebih dahulu dan menjaga bahan matang tidak bercampur dengan bahan mentah",
+        "D": "Menyimpan bubur matang di dalam kulkas agar tidak perlu dipisahkan dari daging",
+        "E": "Menggunakan dapur yang berbeda hanya untuk memasak daging, tanpa memperhatikan sayur"
+      },
+      "optionExplanations": {
+        "A": "Keliru: bahan matang tidak boleh dicampur dengan bahan yang masih mentah.",
+        "B": "Keliru: bahan mentah tetap tidak boleh dicampur dengan bahan yang sudah matang.",
+        "C": "Sesuai: bahan yang sudah matang jangan dicampur dengan yang masih mentah.",
+        "D": "Keliru: penyimpanan dingin tidak menggantikan pemisahan bahan mentah dan matang.",
+        "E": "Keliru: pemisahan harus berlaku untuk seluruh bahan mentah dan matang."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q34",
+      "category": "",
+      "question": "Ibu menyimpan MP-ASI yang sudah dimasak selama beberapa jam di luar kulkas, lalu memberikannya kepada bayi karena tampak masih baik. Penjelasan dokter yang paling tepat adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Makanan yang tampak baik selalu aman untuk diberikan kapan pun",
+        "B": "Makanan matang boleh disimpan di suhu kamar selama sehari penuh asalkan ditutup",
+        "C": "Makanan yang sudah dipanaskan ulang selalu aman meskipun disimpan berjam-jam",
+        "D": "Makanan matang tidak boleh dibiarkan lebih dari 2 jam pada suhu kamar karena dapat menjadi basi",
+        "E": "Makanan yang disimpan di luar kulkas boleh diberikan setelah dicium dan tidak berbau"
+      },
+      "optionExplanations": {
+        "A": "Keliru: MP-ASI harus disiapkan higienis dan disimpan dengan baik sehingga tidak basi.",
+        "B": "Keliru: makanan matang tidak boleh dibiarkan lebih dari 2 jam pada suhu kamar.",
+        "C": "Keliru: pemanasan ulang tidak menghapus risiko makanan yang disimpan terlalu lama.",
+        "D": "Sesuai: materi menetapkan batas 2 jam pada suhu kamar agar MP-ASI aman.",
+        "E": "Keliru: bau tidak menjadi patokan keamanan dalam materi."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q35",
+      "category": "",
+      "question": "Anak berusia 10 bulan menolak makan bubur dan memalingkan wajahnya. Ibu merasa kesal dan ingin memaksa anak sampai habis. Sikap dokter yang paling tepat adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Memaksa anak makan sedikit demi sedikit agar penolakan segera berhenti",
+        "B": "Menghentikan MP-ASI sepenuhnya sampai anak mau makan dengan sendirinya",
+        "C": "Menurunkan jumlah makanan secara drastis tanpa melihat sinyal kenyang anak",
+        "D": "Mengganti bubur dengan makanan manis agar anak mau menghabiskan porsinya",
+        "E": "Memperhatikan sinyal kenyang anak, tidak memaksa, dan tetap sabar memberi dorongan"
+      },
+      "optionExplanations": {
+        "A": "Keliru: anak tidak boleh dipaksa makan.",
+        "B": "Keliru: materi menganjurkan ibu tetap sabar memberi dorongan, bukan menghentikan MP-ASI.",
+        "C": "Keliru: pemberian harus responsif terhadap sinyal lapar dan kenyang anak.",
+        "D": "Keliru: materi tidak menganjurkan makanan manis sebagai cara membujuk makan.",
+        "E": "Sesuai: pemberian MP-ASI yang benar bersifat responsif dan sabar."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q36",
+      "category": "",
+      "question": "Bayi berusia 7 bulan baru mulai makan MP-ASI. Ibu bertanya bagaimana cara menaikkan jumlah makanan secara bertahap. Anjuran yang paling tepat adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Mulai dari 2-3 sendok makan, lalu ditingkatkan perlahan sesuai kemampuan anak",
+        "B": "Langsung memberi satu mangkuk penuh 250 ml sejak hari pertama",
+        "C": "Memberi tiga perempat mangkuk sejak awal agar anak cepat tumbuh",
+        "D": "Memberi makanan keluarga yang belum dicincang sejak awal",
+        "E": "Menunda penambahan porsi sampai anak berusia 2 tahun"
+      },
+      "optionExplanations": {
+        "A": "Sesuai: materi menyebut jumlah awal 2-3 sendok makan yang ditingkatkan perlahan pada usia 6-9 bulan.",
+        "B": "Keliru: porsi penuh tidak sesuai untuk awal pemberian pada usia 6-9 bulan.",
+        "C": "Keliru: porsi tersebut merupakan anjuran usia 12-23 bulan.",
+        "D": "Keliru: tekstur pada usia 6-9 bulan adalah puree.",
+        "E": "Keliru: porsi perlu ditingkatkan bertahap sesuai usia, bukan ditunda sampai 2 tahun."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q37",
+      "category": "",
+      "question": "Dokter menjelaskan kepada ibu bayi berusia 7 bulan bahwa ASI saja tidak lagi memenuhi kebutuhan kalori anaknya. Pada grafik berikut, bagian yang diarsir mewakili apa? ",
+      "questionImages": [
+        "images/packages/latihan-kk7__edukasi-mpasi/img-001.jpeg"
+      ],
+      "options": {
+        "A": "Energi yang berasal dari ASI",
+        "B": "Energy gap, yaitu kebutuhan kalori yang belum terpenuhi oleh ASI",
+        "C": "Kebutuhan protein harian bayi",
+        "D": "Cadangan lemak tubuh bayi",
+        "E": "Jumlah antinutrien dalam makanan nabati"
+      },
+      "optionExplanations": {
+        "A": "Keliru: energi dari ASI digambarkan dengan warna terang di bagian bawah batang, bukan arsiran.",
+        "B": "Sesuai: bagian arsiran adalah selisih antara kebutuhan kalori bayi dan energi dari ASI, yang harus dipenuhi MP-ASI.",
+        "C": "Keliru: grafik hanya menunjukkan energi dalam kkal, bukan protein.",
+        "D": "Keliru: grafik tidak menggambarkan cadangan lemak tubuh.",
+        "E": "Keliru: antinutrien tidak termasuk dalam grafik energi ini."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q38",
+      "category": "",
+      "question": "Ibu dari bayi berusia 6 bulan bertanya mengapa bayinya perlu mulai mendapat MP-ASI, padahal ASI masih diberikan. Penjelasan dokter yang paling tepat tentang tujuan MP-ASI adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Menggantikan ASI sepenuhnya agar bayi tidak perlu menyusu lagi",
+        "B": "Membuat bayi cepat berjalan dan berbicara sesuai tahapan usianya",
+        "C": "Menambah berat badan secepat mungkin tanpa memperhatikan kebutuhan zat gizi",
+        "D": "Memenuhi kebutuhan gizi bayi yang tidak lagi tercukupi hanya dari ASI, sehingga membantu mencegah malnutrisi dan stunting",
+        "E": "Mengurangi frekuensi menyusu agar ibu lebih cepat pulih setelah melahirkan"
+      },
+      "optionExplanations": {
+        "A": "Keliru: MP-ASI melengkapi ASI, bukan menggantikannya.",
+        "B": "Keliru: tujuan MP-ASI tidak dikaitkan dengan kemampuan motorik atau bicara.",
+        "C": "Keliru: MP-ASI harus memenuhi kebutuhan zat gizi secara adekuat.",
+        "D": "Sesuai: setelah 6 bulan ASI saja tidak lagi mencukupi, dan MP-ASI membantu mencegah malnutrisi dan stunting.",
+        "E": "Keliru: tujuan MP-ASI tidak dikaitkan dengan pemulihan ibu."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    }
+  ]
+}

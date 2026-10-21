@@ -80,7 +80,7 @@ for (const p of packages) {
   if (slug !== p.id) questions = remapImages(questions, `images/packages/${p.id}/`, `images/packages/${slug}/`);
 
   const rel = `packages/${slug}.json`;
-  fs.writeFileSync(path.join(ROOT, rel), JSON.stringify({ id: slug, tier, title: p.title, category: p.category, questions }));
+  fs.writeFileSync(path.join(ROOT, rel), JSON.stringify({ id: slug, tier, title: p.title, category: p.category, questions }, null, 2));
   entries.push({ id: slug, tier, title: p.title, category: p.category, count: questions.length, file: rel });
 
   const imgSrc = path.join(STAGING, "images", "packages", p.id);

@@ -6,8 +6,10 @@
 //   node scripts/manage.js move <id> "Kategori baru"
 //   node scripts/manage.js delete <id>
 //   node scripts/manage.js rename-category "Kategori lama" "Kategori baru" [reguler|premium]
+//   node scripts/manage.js tier <id> reguler|premium
 //
 // id paket TIDAK pernah berubah: id adalah kunci progres belajar di app.
+// Karena id tetap, progres belajar ikut pindah bersama paket saat ganti tier.
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
@@ -50,7 +52,7 @@ function patchPackageFile(entry, fields) {
   const p = path.join(ROOT, entry.file);
   if (!fs.existsSync(p)) return;
   const data = JSON.parse(fs.readFileSync(p, "utf-8"));
-  fs.writeFileSync(p, JSON.stringify({ ...data, ...fields }));
+  fs.writeFileSync(p, JSON.stringify({ ...data, ...fields }, null, 2));
 }
 
 switch (cmd) {
@@ -105,6 +107,18 @@ switch (cmd) {
     console.log(`${hit.length} paket dipindah dari "${from}" ke "${to}".`);
     break;
   }
+  case "tier": {
+    const tier = clean(args[1]);
+    if (tier !== "reguler" && tier !== "premium") fail("tier harus reguler atau premium");
+    const idx = loadIndex();
+    const e = findEntry(idx, clean(args[0]));
+    if (e.tier === tier) fail(`paket sudah di tier ${tier}`);
+    e.tier = tier;
+    patchPackageFile(e, { tier });
+    saveIndex(idx);
+    console.log(`Tier diubah ke ${tier}: ${e.title}`);
+    break;
+  }
   default:
-    fail("perintah tidak dikenal: " + (cmd || "(kosong)") + " (pakai rename | move | delete | rename-category)");
+    fail("perintah tidak dikenal: " + (cmd || "(kosong)") + " (pakai rename | move | delete | rename-category | tier)");
 }

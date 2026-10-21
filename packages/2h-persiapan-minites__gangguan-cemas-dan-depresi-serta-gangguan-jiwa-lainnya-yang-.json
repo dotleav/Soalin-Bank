@@ -1,1 +1,692 @@
-{"id":"2h-persiapan-minites__gangguan-cemas-dan-depresi-serta-gangguan-jiwa-lainnya-yang-","tier":"reguler","title":"Gangguan Cemas dan Depresi serta Gangguan Jiwa Lainnya yang Sering Didapatkan pada praktek dokter umum","category":"2H - Persiapan Minites 1","questions":[{"id":"Q1","category":"","question":"Seorang laki-laki 25 tahun mengeluh sering merasa cemas dan menyadari bahwa dirinya terganggu, tetapi tidak tahu apa penyebabnya. Menurut konsep gangguan neurotik, kecemasan tersebut bersumber dari ...","questionImages":[],"options":{"A":"Kelainan organik pada saraf otonom yang terdeteksi pada pemeriksaan","B":"Kehilangan kontak dengan realitas disertai waham yang menetap","C":"Konflik yang berada di alam bawah sadar","D":"Gangguan struktur otak yang dapat dibuktikan pada pencitraan","E":"Objek nyata yang dikenali dan ditakuti pasien secara sadar"},"answer":"C","explanation":"Neurosis adalah gangguan jiwa kronik dengan kecemasan yang bersumber dari konflik alam bawah sadar, dan individu sadar bahwa ia terganggu. Bila ada objek yang jelas ditakuti, itu rasa takut, bukan cemas.","explanationImages":[],"isBroken":false},{"id":"Q2","category":"","question":"Seorang perempuan 27 tahun selalu menghindari lift, ruangan tertutup, dan pesawat karena ketakutan hebat yang tidak masuk akal. Mekanisme kecemasan yang menyebabkan gejalanya adalah ...","questionImages":[],"options":{"A":"Kecemasan yang disalahpindahkan ke objek tertentu","B":"Kecemasan yang disalurkan lewat saraf motorik menjadi kelumpuhan","C":"Kecemasan yang berubah menjadi perilaku berulang menetralisir pikiran","D":"Kecemasan yang dirasakan langsung tanpa objek yang jelas","E":"Kecemasan yang disalurkan lewat saraf vegetatif menjadi keluhan tubuh"},"answer":"A","explanation":"Kecemasan dapat dirasakan langsung (neurosis cemas), disalurkan lewat saraf vegetatif (psikosomatik), lewat saraf sensorik/motorik (parese, buta, plegi), atau disalahpindahkan sehingga menjadi fobia.","explanationImages":[],"isBroken":false},{"id":"Q3","category":"","question":"Seorang perempuan 32 tahun selama 8 bulan merasa khawatir berlebihan, tegang, sulit berkonsentrasi, sering sakit kepala, dan tidak bisa rileks, disertai jantung berdebar dan mulut kering. Tidak ada serangan mendadak. Diagnosis yang paling tepat adalah ...","questionImages":[],"options":{"A":"Gangguan fobik sosial","B":"Gangguan somatoform kronik","C":"Gangguan ansietas menyeluruh","D":"Gangguan obsesif kompulsif","E":"Gangguan panik berulang"},"answer":"C","explanation":"Gangguan ansietas menyeluruh ditandai kecemasan multipel: ketegangan mental (khawatir, konsentrasi buruk), ketegangan motorik (sakit kepala, tidak bisa rileks), dan kesiagaan fisik (berdebar, berkeringat, mulut kering).","explanationImages":[],"isBroken":false},{"id":"Q4","category":"","question":"Seorang laki-laki 24 tahun tiba-tiba merasa dada berdebar, pusing, perut seperti terbakar, dan yakin akan mati. Gejala memuncak dalam hitungan menit dan mereda sendiri. Pemeriksaan jantung dan laboratorium normal. Diagnosis yang paling tepat adalah ...","questionImages":[],"options":{"A":"Gangguan panik","B":"Gangguan campuran ansietas dan depresi","C":"Gangguan somatoform","D":"Gangguan ansietas menyeluruh","E":"Gangguan konversi"},"answer":"A","explanation":"Gangguan panik berupa serangan kecemasan yang tidak dapat dijelaskan, mendadak, menghebat cepat, dan biasanya berlangsung beberapa menit, dengan gejala fisik dan rasa akan mati atau kehilangan kontrol.","explanationImages":[],"isBroken":false},{"id":"Q5","category":"","question":"Perbedaan utama gangguan panik dengan gangguan ansietas menyeluruh terletak pada ...","questionImages":[],"options":{"A":"Adanya objek tertentu yang selalu dihindari oleh penderita","B":"Adanya rasa khawatir dan ketegangan mental yang terus menetap","C":"Adanya keluhan fisik yang tidak dijumpai pada gangguan cemas","D":"Awitan mendadak dengan serangan beberapa menit","E":"Keluhan fisik yang tidak berkaitan dengan faktor psikologis"},"answer":"D","explanation":"Keduanya bisa memiliki gejala fisik. Yang membedakan adalah pola waktu: panik muncul mendadak, memuncak cepat, dan hanya beberapa menit, sedangkan cemas menyeluruh berlangsung lebih persisten.","explanationImages":[],"isBroken":false},{"id":"Q6","category":"","question":"Seorang perempuan 30 tahun mengaku cemas dan sekaligus sedih, kehilangan minat, dan sulit tidur. Gejala cemas dan depresi muncul bersamaan tanpa ada yang dominan. Diagnosis yang paling tepat adalah ...","questionImages":[],"options":{"A":"Gangguan panik","B":"Gangguan campuran ansietas dan depresi","C":"Gangguan afektif bipolar episode campuran","D":"Episode depresi berat","E":"Gangguan ansietas menyeluruh"},"answer":"B","explanation":"Gangguan campuran ansietas dan depresi ditegakkan bila kecemasan dan depresi terjadi bersamaan dan tidak ada yang cukup dominan untuk diagnosis tersendiri.","explanationImages":[],"isBroken":false},{"id":"Q7","category":"","question":"Seorang pekerja menolak bonus perjalanan dinas ke luar negeri karena takut naik pesawat. Ia selalu meminta surat sakit setiap ada kegiatan outbound. Perilaku yang khas pada gangguan ini adalah ...","questionImages":[],"options":{"A":"Mengalami serangan mendadak yang memuncak dalam menit","B":"Kehilangan sebagian ingatan masa lalu setelah stresor","C":"Menghindari aktivitas karena ketakutan spesifik","D":"Mencari pemeriksaan medis berulang meski hasilnya negatif","E":"Mengulang tindakan tertentu untuk menetralisir pikirannya"},"answer":"C","explanation":"Gangguan fobik ditandai ketakutan hebat dan tidak masuk akal terhadap tempat atau situasi tertentu (pesawat, keramaian, ketinggian) yang membuat penderita menghindarinya.","explanationImages":[],"isBroken":false},{"id":"Q8","category":"","question":"Seorang laki-laki 35 tahun selama 2 tahun mengeluh nyeri kepala dan nyeri dada. CT, MRI, dan pemeriksaan penyakit dalam berulang normal, tetapi ia tetap meminta pemeriksaan dokter lain. Diagnosis yang paling tepat adalah ...","questionImages":[],"options":{"A":"Gangguan ansietas menyeluruh","B":"Gangguan panik","C":"Gangguan konversi","D":"Gangguan somatoform","E":"Gangguan fobik"},"answer":"D","explanation":"Gangguan somatoform: keluhan fisik berulang disertai permintaan pemeriksaan medis meskipun berkali-kali negatif dan sudah dijelaskan tidak ada kelainan fisik yang mendasarinya.","explanationImages":[],"isBroken":false},{"id":"Q9","category":"","question":"Untuk membedakan gangguan somatoform dengan gangguan ansietas menyeluruh, hal yang perlu dinilai adalah ...","questionImages":[],"options":{"A":"Adanya gejala fisik: hanya pada somatoform dan tidak pada GAD","B":"Usia awitan: somatoform hanya terjadi pada usia lanjut sekali","C":"Lamanya keluhan: somatoform lebih singkat dari gangguan cemas","D":"Keluhan dominan: fisik pada somatoform, cemas pada GAD","E":"Hasil penunjang: selalu abnormal pada gangguan cemas menyeluruh"},"answer":"D","explanation":"Pada somatoform, keluhan fisik menonjol dan kecemasan baru ditemukan setelah dieksplorasi. Pada gangguan cemas menyeluruh, keluhan dominan adalah kecemasan yang disertai keluhan fisik.","explanationImages":[],"isBroken":false},{"id":"Q10","category":"","question":"Seorang perempuan 40 tahun mencuci tangan berulang-ulang karena pikiran tangannya kotor, walau menyadari hal itu tidak perlu. Bila tidak mencuci ia menjadi sangat cemas. Perilaku mencuci tangan tersebut merupakan ...","questionImages":[],"options":{"A":"Kompulsi untuk menetralisir kecemasan obsesif","B":"Obsesi berupa pikiran berulang yang tidak bisa dihindari","C":"Fobia spesifik terhadap kuman dan kotoran","D":"Gejala psikosomatik melalui saraf vegetatif","E":"Reaksi konversi akibat konflik interpersonal"},"answer":"A","explanation":"Obsesi adalah pikiran berulang yang menimbulkan ansietas bermakna; kompulsi adalah perilaku berulang untuk menetralisir kecemasan tersebut. Mencuci tangan berulang adalah kompulsinya.","explanationImages":[],"isBroken":false},{"id":"Q11","category":"","question":"Seorang mahasiswi 20 tahun dibawa ke IGD dengan napas tersengal seperti orang sesak, tetapi tidak ada riwayat asma, tidak ditemukan mengi pada auskultasi, dan rontgen normal. Gejala muncul setelah bertengkar dengan pacarnya. Diagnosis yang paling mungkin adalah ...","questionImages":[],"options":{"A":"Gangguan obsesif kompulsif","B":"Gangguan panik dengan hiperventilasi","C":"Gangguan disosiasi atau konversi","D":"Gangguan ansietas menyeluruh","E":"Asma bronkial serangan akut"},"answer":"C","explanation":"Gejala fisik tanpa bukti kelainan organ yang berhubungan waktu dengan stresor atau konflik interpersonal, walau disangkal pasien, mengarah ke gangguan disosiasi (reaksi konversi). Pada asma akan ada mengi.","explanationImages":[],"isBroken":false},{"id":"Q12","category":"","question":"Seorang remaja mendadak tidak dapat berjalan. Pemeriksaan neurologis dan penunjang normal, dan kemudian terungkap ada stresor berat di sekolahnya. Kecemasan pada kasus ini disalurkan melalui ...","questionImages":[],"options":{"A":"Pemindahan objek sehingga muncul fobia spesifik","B":"Saraf sensorik sehingga muncul nyeri difus","C":"Sistem limbik sehingga muncul obsesi dan kompulsi","D":"Saraf vegetatif sehingga muncul gejala psikosomatik","E":"Saraf motorik sehingga muncul kelumpuhan tanpa lesi"},"answer":"E","explanation":"Kecemasan yang disalurkan lewat saraf sensorik atau motorik menimbulkan parese, buta, atau plegi tanpa lesi organik (gangguan konversi).","explanationImages":[],"isBroken":false},{"id":"Q13","category":"","question":"Depresi menurut WHO menempati urutan ke berapa di antara penyakit di dunia?","questionImages":[],"options":{"A":"Ketiga","B":"Kesepuluh","C":"Pertama","D":"Keempat","E":"Kedua"},"answer":"D","explanation":"WHO menyatakan depresi berada pada urutan ke-4 penyakit di dunia. Sekitar 20% wanita dan 12% pria pernah mengalami depresi seumur hidupnya.","explanationImages":[],"isBroken":false},{"id":"Q14","category":"","question":"Seorang laki-laki 60 tahun pascastroke enggan menjalani latihan dan merasa tidak bersemangat. Prevalensi komorbid depresi pada stroke sekitar ...","questionImages":[],"options":{"A":"5–10%","B":"70–80%","C":"30–40%","D":"10–15%","E":"50–60%"},"answer":"C","explanation":"Depresi sering komorbid dengan penyakit fisik, misalnya stroke (30–40%), tumor otak, dan gagal ginjal kronik, serta memperberat pengobatan dan penyembuhan.","explanationImages":[],"isBroken":false},{"id":"Q15","category":"","question":"Hipotesis biologis depresi yang berkaitan dengan pikiran depresif adalah ...","questionImages":[],"options":{"A":"Peningkatan GABA di sistem limbik","B":"Penurunan aktivitas seluruh jalur dopaminergik","C":"Peningkatan serotonin dan norepinefrin di celah sinaps","D":"Kelebihan asetilkolin pada korteks prefrontal","E":"Penurunan serotonin dan norepinefrin pada amin biogenik"},"answer":"E","explanation":"Faktor penyebab depresi meliputi genetik, ketidakseimbangan amin biogenik (serotonin dan norepinefrin turun), gangguan neuroendokrin, perubahan neurofisiologi, dan faktor psikologis.","explanationImages":[],"isBroken":false},{"id":"Q16","category":"","question":"Perhatikan gambar perjalanan depresi. Episode depresi yang tidak ditangani biasanya berlangsung selama ... ","questionImages":["images/packages/2h-persiapan-minites__gangguan-cemas-dan-depresi-serta-gangguan-jiwa-lainnya-yang-/img-001.png"],"options":{"A":"1–2 minggu","B":"6–24 bulan","C":"5–7 tahun","D":"3–6 minggu","E":"2–4 minggu"},"answer":"B","explanation":"Depresi bersifat episodik, dan episode tanpa pengobatan umumnya berlangsung 6–24 bulan lalu diikuti pulih atau remisi. Karena itu pasien tidak dibiarkan tanpa terapi agar fungsi dan belajarnya tidak terganggu.","explanationImages":[],"isBroken":false},{"id":"Q17","category":"","question":"Seorang mahasiswa dengan depresi sedang membaik setelah 4 minggu antidepresan dan ingin menghentikan obat. Tindakan yang paling tepat adalah ...","questionImages":[],"options":{"A":"Menghentikan obat lalu menunggu 6 bulan untuk melihat kambuh","B":"Mengganti dengan terapi herbal karena obat tidak perlu lama","C":"Melanjutkan terapi karena berhenti sebelum 3 bulan sering kambuh","D":"Menghentikan obat karena gejala sudah minimal dan fungsi baik","E":"Menurunkan dosis lalu berhenti setelah 2 minggu tanpa evaluasi"},"answer":"C","explanation":"Terapi depresi umumnya 3 bulan, tetapi prosedur bakunya 6 bulan agar tidak mudah kambuh. Penghentian antidepresan sebelum 3 bulan hampir selalu menimbulkan kekambuhan.","explanationImages":[],"isBroken":false},{"id":"Q18","category":"","question":"Perhatikan gambar fase terapi depresi. Depresi yang kembali muncul pada beberapa bulan pertama setelah remisi (fase kontinuasi 4–9 bulan), sebelum pulih sempurna, disebut ... ","questionImages":["images/packages/2h-persiapan-minites__gangguan-cemas-dan-depresi-serta-gangguan-jiwa-lainnya-yang-/img-002.png"],"options":{"A":"Relaps","B":"Episode akut","C":"Rekurensi","D":"Remisi","E":"Respons parsial"},"answer":"A","explanation":"Relaps adalah kembalinya depresi sebelum remisi penuh atau dalam beberapa bulan pertama setelah remisi. Rekurensi adalah kembalinya depresi setelah pasien benar-benar pulih (fase pemeliharaan).","explanationImages":[],"isBroken":false},{"id":"Q19","category":"","question":"Seorang laki-laki 45 tahun pulih penuh dari depresi dan telah menjalani terapi pemeliharaan selama 1,5 tahun. Tiba-tiba ia mengalami episode depresi baru. Kejadian ini disebut ...","questionImages":[],"options":{"A":"Rekurensi","B":"Remisi parsial","C":"Episode campuran","D":"Relaps","E":"Depresi berulang akibat efek obat"},"answer":"A","explanation":"Depresi yang kembali setelah pasien pulih sempurna (fase pemeliharaan, 1 tahun atau lebih) disebut rekurensi, sedangkan relaps terjadi sebelum pulih penuh atau pada bulan-bulan awal setelah remisi.","explanationImages":[],"isBroken":false},{"id":"Q20","category":"","question":"Seorang laki-laki 50 tahun mengeluh pusing, berdebar, dan nyeri ulu hati selama 6 bulan tanpa kelainan pada pemeriksaan. Ia juga kehilangan minat dan mudah lelah. Pernyataan yang tepat adalah ...","questionImages":[],"options":{"A":"Keluhan fisik menyingkirkan depresi karena depresi hanya berupa keluhan mood","B":"Keluhan fisik tanpa kelainan organik selalu berarti gangguan konversi","C":"Depresi hanya perlu dicurigai bila pasien menyatakan dirinya sedih","D":"Depresi hanya terjadi pada usia muda dan tidak pada usia paruh baya","E":"Depresi sering tidak terdiagnosis karena tampil sebagai keluhan fisik"},"answer":"E","explanation":"Depresi sering tidak terdiagnosis karena gejalanya muncul sebagai keluhan fisik tanpa penyebab jelas. Karena itu diagnosis banding harus disesuaikan dengan gejala yang ada.","explanationImages":[],"isBroken":false},{"id":"Q21","category":"","question":"Tiga gejala utama depresi adalah ...","questionImages":[],"options":{"A":"Konsentrasi berkurang, masa depan suram, dan gagasan bunuh diri","B":"Kehilangan minat, harga diri berkurang, dan rasa bersalah","C":"Afek depresif, gangguan tidur, dan nafsu makan berkurang","D":"Afek depresif, kehilangan minat, dan mudah lelah","E":"Afek depresif, retardasi psikomotor, dan waham kebesaran"},"answer":"D","explanation":"Gejala utama: afek depresif, kehilangan minat dan kegembiraan, dan berkurangnya energi yang menyebabkan mudah lelah. Konsentrasi, harga diri, rasa bersalah, pesimisme, gagasan bunuh diri, tidur, dan nafsu makan termasuk gejala lainnya.","explanationImages":[],"isBroken":false},{"id":"Q22","category":"","question":"Seorang perempuan 28 tahun selama 3 minggu merasa sedih, kehilangan minat, dan mudah lelah, disertai konsentrasi menurun dan harga diri berkurang. Ia hanya sedikit kesulitan dalam pekerjaan dan tidak ada gejala berat. Diagnosis yang paling tepat adalah ...","questionImages":[],"options":{"A":"Gangguan ansietas menyeluruh","B":"Episode depresi berat tanpa gejala psikotik","C":"Gangguan campuran ansietas dan depresi","D":"Episode depresi sedang","E":"Episode depresi ringan"},"answer":"E","explanation":"Depresi ringan: minimal 2 dari 3 gejala utama ditambah minimal 2 gejala lain, tanpa gejala berat, berlangsung minimal 2 minggu, dengan kesulitan kerja dan sosial yang sedikit.","explanationImages":[],"isBroken":false},{"id":"Q23","category":"","question":"Seorang laki-laki 35 tahun selama 3 minggu memiliki 3 gejala utama depresi dan 3 gejala lainnya. Ia mengalami kesulitan nyata menjalankan pekerjaan dan urusan rumah tangga, tanpa gejala berat. Diagnosis yang paling tepat adalah ...","questionImages":[],"options":{"A":"Episode depresi ringan","B":"Episode depresi berat tanpa gejala psikotik","C":"Episode depresi berat dengan gejala psikotik","D":"Distimia ringan","E":"Episode depresi sedang"},"answer":"E","explanation":"Depresi sedang: minimal 2 dari 3 gejala utama ditambah minimal 3 (sebaiknya 4) gejala lain, minimal sekitar 2 minggu, dengan kesulitan nyata dalam kegiatan sosial, pekerjaan, dan rumah tangga.","explanationImages":[],"isBroken":false},{"id":"Q24","category":"","question":"Kriteria diagnostik depresi berat tanpa gejala psikotik adalah ...","questionImages":[],"options":{"A":"Ketiga gejala utama plus minimal 4 gejala lain, sebagian berat","B":"Ketiga gejala utama plus minimal 2 gejala lain ringan","C":"Ketiga gejala utama plus minimal satu waham atau halusinasi","D":"Dua dari tiga gejala utama plus minimal 2 gejala lain","E":"Dua dari tiga gejala utama plus minimal 3 gejala lain"},"answer":"A","explanation":"Depresi berat (F32.2) membutuhkan ketiga gejala utama plus minimal 4 gejala lain dengan beberapa berat. Bila ada halusinasi atau waham, berarti depresi berat dengan gejala psikotik.","explanationImages":[],"isBroken":false},{"id":"Q25","category":"","question":"Seorang perempuan 42 tahun dengan depresi berat tampak diam, bicara sangat lambat, dan sulit menjawab. Keluarga mengantar dan menceritakan keluhannya. Langkah yang paling tepat untuk melengkapi anamnesis adalah ...","questionImages":[],"options":{"A":"Meminta pasien menuliskan semua gejalanya sendiri tanpa bantuan","B":"Menghentikan wawancara karena pasien dianggap menolak kerja sama","C":"Menyimpulkan tidak ada gejala karena pasien tidak menjawab","D":"Menunda anamnesis sampai pasien mampu berbicara dengan lancar","E":"Heteroanamnesis pada pengantar karena kemungkinan retardasi psikomotor"},"answer":"E","explanation":"Retardasi psikomotor (bicara lambat, diam) pada depresi berat membuat pasien tidak melaporkan gejala secara rinci. Klarifikasi dilakukan lewat heteroanamnesis pada pengantar.","explanationImages":[],"isBroken":false},{"id":"Q26","category":"","question":"Seorang mahasiswi 19 tahun mengirim pesan bahwa segalanya terasa berat dan ia memikirkan bunuh diri. Sikap dokter yang paling tepat adalah ...","questionImages":[],"options":{"A":"Menunggu sampai pasien menyebutkan rencana yang sangat jelas","B":"Menganggap serius, menilai risiko, melibatkan keluarga, kontrol segera","C":"Menganggapnya keluhan biasa karena pasien tidak memiliki energi bertindak","D":"Merahasiakan dari keluarga agar pasien tidak merasa dihakimi","E":"Menyarankan pasien menenangkan diri dan tidak perlu kontrol"},"answer":"B","explanation":"Sinyal pikiran bunuh diri tidak boleh dianggap remeh. Nilai risiko, ingatkan keluarga agar mengawasi, dan minta pasien segera kontrol kapan pun muncul dorongan tersebut.","explanationImages":[],"isBroken":false},{"id":"Q27","category":"","question":"Pernyataan epidemiologi depresi berat yang benar adalah ...","questionImages":[],"options":{"A":"Perempuan:laki-laki 1:2, 50% awitan usia lebih dari 60 tahun","B":"Perempuan:laki-laki 2:1, 50% awitan usia 20–50 tahun","C":"Perempuan:laki-laki 3:1, awitan rata-rata pada usia 20 tahun","D":"Perempuan:laki-laki 1:1, awitan hampir selalu di bawah 20 tahun","E":"Depresi tidak pernah terjadi pada anak sekolah maupun remaja"},"answer":"B","explanation":"Prevalensi seumur hidup sekitar 15% (sampai 25% pada perempuan), perempuan:laki-laki 2:1, usia rata-rata sekitar 40 tahun, 50% awitan 20–50 tahun, dan dapat terjadi di bawah 20 tahun (anak sekolah 2%, remaja 5%).","explanationImages":[],"isBroken":false},{"id":"Q28","category":"","question":"Pasien depresi mengeluh disfungsi seksual setelah minum antidepresan golongan serotonergik. Jalur serotonin yang berkaitan dengan keluhan ini adalah ...","questionImages":[],"options":{"A":"Neuron di pusat tidur batang otak yang mengatur tidur gelombang lambat","B":"Neuron serotonergik ke medula spinalis pengatur refleks seksual","C":"Proyeksi raphe ke korteks frontal yang mengatur mood","D":"Neuron serotonergik di hipotalamus yang mengatur nafsu makan","E":"Proyeksi raphe ke ganglia basalis yang mengatur agitasi"},"answer":"B","explanation":"Neuron serotonergik yang turun ke medula spinalis mengontrol refleks seksual seperti orgasme dan ejakulasi, sehingga gangguan serotonin dapat menimbulkan disfungsi seksual.","explanationImages":[],"isBroken":false},{"id":"Q29","category":"","question":"Pasien depresi mengalami gangguan nafsu makan dan gangguan tidur. Area yang mengatur kedua fungsi ini melalui serotonin adalah ...","questionImages":[],"options":{"A":"Hipotalamus untuk tidur dan sistem limbik untuk nafsu makan","B":"Medula spinalis untuk nafsu makan dan korteks frontal untuk tidur","C":"Hipotalamus untuk nafsu makan, batang otak untuk tidur","D":"Sistem limbik untuk nafsu makan dan medula spinalis untuk tidur","E":"Korteks frontal untuk nafsu makan dan ganglia basalis untuk tidur"},"answer":"C","explanation":"Proyeksi serotonergik ke hipotalamus mengatur nafsu makan, sedangkan neuron serotonergik di pusat tidur batang otak mengatur tidur, terutama tidur gelombang lambat.","explanationImages":[],"isBroken":false},{"id":"Q30","category":"","question":"Pasien yang baru memulai obat serotonergik mengeluh mual dan muntah. Mekanisme yang mendasari mual tersebut adalah ...","questionImages":[],"options":{"A":"Aktivasi reseptor 5-HT3 pada korteks frontal","B":"Aktivasi reseptor 5-HT3 pada chemoreceptor trigger zone di batang otak","C":"Penghambatan reseptor 5-HT3 pada sistem limbik","D":"Aktivasi reseptor 5-HT4 di medula spinalis","E":"Penghambatan reseptor 5-HT3 pada ganglia basalis"},"answer":"B","explanation":"Chemoreceptor trigger zone di batang otak dapat memicu muntah, terutama melalui reseptor 5-HT3. Reseptor 5-HT3 dan 5-HT4 di usus mengatur nafsu makan dan motilitas saluran cerna.","explanationImages":[],"isBroken":false},{"id":"Q31","category":"","question":"Pada gangguan bipolar, pernyataan yang benar adalah ...","questionImages":[],"options":{"A":"Selalu disertai halusinasi dan waham pada setiap episode yang muncul","B":"Ditandai hanya oleh episode depresi berulang tanpa fase mood normal","C":"Hanya terjadi pada perempuan setelah melahirkan anak pertamanya","D":"Gangguan mood akut yang hanya berlangsung sekali seumur hidup penderita","E":"Gangguan mood kronik berulang dengan episode mania dan depresi diselingi mood normal"},"answer":"E","explanation":"Gangguan bipolar adalah gangguan suasana perasaan yang pada dasarnya kronis dan berulang, ditandai episode mania dan depresi yang diselingi periode mood relatif normal.","explanationImages":[],"isBroken":false},{"id":"Q32","category":"","question":"Seorang laki-laki 28 tahun selama 10 hari tampak sangat gembira dan banyak bicara, tidur hanya 2 jam per malam tanpa lelah, ide meloncat-loncat, dan membeli rumah lewat ponsel. Ia merasa dirinya sangat istimewa. Diagnosis yang paling tepat adalah ...","questionImages":[],"options":{"A":"Episode manik","B":"Gangguan ansietas menyeluruh","C":"Gangguan panik","D":"Episode hipomanik","E":"Episode depresi berat dengan gejala psikotik"},"answer":"A","explanation":"Episode manik: mood meningkat/iritabel minimal 1 minggu yang mengganggu fungsi, dengan minimal 3 gejala (peningkatan aktivitas, bicara, lompatan gagasan, kebutuhan tidur berkurang, grandiositas, belanja berlebihan).","explanationImages":[],"isBroken":false},{"id":"Q33","category":"","question":"Seorang perempuan 30 tahun selama 5 hari tampak lebih bersemangat, lebih banyak bicara, tidur berkurang, dan sedikit boros, tetapi masih dapat bekerja. Diagnosis yang paling tepat adalah ...","questionImages":[],"options":{"A":"Episode manik tanpa gejala psikotik","B":"Episode manik dengan gejala psikotik","C":"Episode depresi ringan","D":"Episode hipomanik","E":"Gangguan campuran ansietas dan depresi"},"answer":"D","explanation":"Hipomania adalah peningkatan mood dan aktivitas yang lebih ringan, menetap minimal 4 hari berturut-turut, dengan minimal 3 gejala, dan tanpa gangguan fungsi seberat mania.","explanationImages":[],"isBroken":false},{"id":"Q34","category":"","question":"Menurut pedoman diagnostik, episode manik harus berlangsung sekurang-kurangnya ...","questionImages":[],"options":{"A":"2 hari","B":"4 hari","C":"2 minggu","D":"1 minggu","E":"1 bulan"},"answer":"D","explanation":"Episode manik memerlukan perubahan mood yang menetap sekurangnya 1 minggu, sedangkan hipomania minimal 4 hari berturut-turut dan episode depresi minimal 2 minggu.","explanationImages":[],"isBroken":false},{"id":"Q35","category":"","question":"Seorang perempuan 33 tahun datang dengan depresi berat. Dua tahun lalu ia pernah tampak sangat bersemangat, tidur sedikit, dan boros selama beberapa minggu. Diagnosis yang paling tepat adalah ...","questionImages":[],"options":{"A":"Gangguan konversi","B":"Gangguan ansietas menyeluruh","C":"Gangguan campuran ansietas dan depresi","D":"Bipolar episode kini depresi","E":"Episode depresi berat tunggal"},"answer":"D","explanation":"Pada pasien dengan depresi, gali riwayat mania atau hipomania sebelumnya. Bila ada, diagnosisnya bipolar episode kini depresi, bukan depresi biasa, karena pengobatannya berbeda.","explanationImages":[],"isBroken":false},{"id":"Q36","category":"","question":"Untuk menegakkan gangguan afektif bipolar episode kini hipomanik (F31.0), syarat yang harus dipenuhi adalah ...","questionImages":[],"options":{"A":"Kriteria mania penuh sekarang dan pernah mengalami psikosis","B":"Kriteria depresi berat sekarang dan pernah dirawat di rumah sakit","C":"Kriteria hipomania sekarang dan pernah ada satu episode afektif lain","D":"Kriteria hipomania sekarang, tanpa harus ada episode afektif sebelumnya","E":"Kriteria hipomania minimal 2 minggu berturut-turut sekarang"},"answer":"C","explanation":"Bipolar mensyaratkan episode berulang: episode sekarang memenuhi kriteria (hipo)manik dan harus ada sekurangnya satu episode afektif lain (hipomanik, manik, depresif, atau campuran) di masa lampau.","explanationImages":[],"isBroken":false},{"id":"Q37","category":"","question":"Perjalanan penyakit gangguan bipolar yang tepat adalah ...","questionImages":[],"options":{"A":"Manik rata-rata 2 tahun dan lebih lama dari episode depresi","B":"Masa remisi cenderung makin panjang setelah usia pertengahan","C":"Depresi selalu lebih singkat, hanya berlangsung 1–2 minggu","D":"Manik selalu didahului fase depresi minimal 1 tahun lamanya","E":"Manik mulai tiba-tiba dan berlangsung 2 minggu–4-5 bulan, depresi lebih lama"},"answer":"E","explanation":"Episode manik mulai mendadak dan berlangsung 2 minggu sampai 4–5 bulan (rata-rata 4 bulan), episode depresi lebih lama (rata-rata 6 bulan), dan setelah usia pertengahan remisi cenderung makin pendek.","explanationImages":[],"isBroken":false},{"id":"Q38","category":"","question":"Seorang perempuan 25 tahun, 3 minggu setelah melahirkan anak pertama, menjadi gelisah, sulit tidur, curiga, mengaku bayinya bukan miliknya, dan mendengar bisikan menyuruh menyakiti bayi. Diagnosis yang paling tepat adalah ...","questionImages":[],"options":{"A":"Depresi pascapersalinan ringan","B":"Psikosis pascapersalinan","C":"Gangguan panik","D":"Gangguan ansietas menyeluruh","E":"Postpartum blues"},"answer":"B","explanation":"Psikosis masa nifas (F53.1): depresi berat dengan waham, halusinasi, dan pikiran menyakiti bayi atau diri sendiri, timbul dalam 6 minggu setelah bersalin. Postpartum blues bersifat ringan dan singkat, tanpa psikosis.","explanationImages":[],"isBroken":false},{"id":"Q39","category":"","question":"Seorang perempuan 26 tahun, 3 hari setelah melahirkan, sering menangis, mudah tersinggung, dan lelah, tetapi masih mengurus bayinya. Gejala membaik dalam beberapa hari. Kondisi yang paling tepat adalah ...","questionImages":[],"options":{"A":"Gangguan disosiasi akibat konflik rumah tangga","B":"Postpartum blues yang normal pada 50% ibu","C":"Gangguan bipolar episode manik pascapersalinan","D":"Psikosis pascapersalinan yang memerlukan rawat inap segera","E":"Depresi berat pascapersalinan yang memerlukan antidepresan"},"answer":"B","explanation":"Postpartum blues normal terjadi pada sekitar 50% ibu segera setelah melahirkan, berupa sedih, lelah, dan iritabel selama beberapa hari, tanpa psikosis.","explanationImages":[],"isBroken":false},{"id":"Q40","category":"","question":"Seorang ibu dengan psikosis pascapersalinan menunjukkan percobaan bunuh diri dan ingin mendekati bayinya. Tata laksana yang paling tepat adalah ...","questionImages":[],"options":{"A":"Rawat psikiatri, beri terapi, dan awasi ketat kontak dengan bayi","B":"Pisahkan ibu dari keluarga agar tidak terpengaruh dukungan","C":"Beri obat tidur saja tanpa pemantauan yang ketat","D":"Rawat jalan dan minta ibu tetap merawat bayi sendirian di rumah","E":"Tunda terapi sampai gejala membaik dengan sendirinya"},"answer":"A","explanation":"Psikosis pascapersalinan adalah kedaruratan psikiatrik (risiko bunuh diri sekitar 5%, infanticide sekitar 4%). Percobaan bunuh diri memerlukan rawat psikiatri, kontak dengan bayi diawasi, dan dukungan suami dan keluarga. ---CATATAN GAMBAR--- q16 → source-file: Prof_Rizaldy_Taslim_Pinzon_-_Nyeri PDF, q_ep.png q18 → source-file: Prof_Rizaldy_Taslim_Pinzon_-_Nyeri PDF, q_rel.png","explanationImages":[],"isBroken":false}]}
+{
+  "id": "2h-persiapan-minites__gangguan-cemas-dan-depresi-serta-gangguan-jiwa-lainnya-yang-",
+  "tier": "reguler",
+  "title": "Gangguan Cemas dan Depresi serta Gangguan Jiwa Lainnya yang Sering Didapatkan pada praktek dokter umum",
+  "category": "2H - Persiapan Minites 1",
+  "questions": [
+    {
+      "id": "Q1",
+      "category": "",
+      "question": "Seorang laki-laki 25 tahun mengeluh sering merasa cemas dan menyadari bahwa dirinya terganggu, tetapi tidak tahu apa penyebabnya. Menurut konsep gangguan neurotik, kecemasan tersebut bersumber dari ...",
+      "questionImages": [],
+      "options": {
+        "A": "Kelainan organik pada saraf otonom yang terdeteksi pada pemeriksaan",
+        "B": "Kehilangan kontak dengan realitas disertai waham yang menetap",
+        "C": "Konflik yang berada di alam bawah sadar",
+        "D": "Gangguan struktur otak yang dapat dibuktikan pada pencitraan",
+        "E": "Objek nyata yang dikenali dan ditakuti pasien secara sadar"
+      },
+      "answer": "C",
+      "explanation": "Neurosis adalah gangguan jiwa kronik dengan kecemasan yang bersumber dari konflik alam bawah sadar, dan individu sadar bahwa ia terganggu. Bila ada objek yang jelas ditakuti, itu rasa takut, bukan cemas.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q2",
+      "category": "",
+      "question": "Seorang perempuan 27 tahun selalu menghindari lift, ruangan tertutup, dan pesawat karena ketakutan hebat yang tidak masuk akal. Mekanisme kecemasan yang menyebabkan gejalanya adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Kecemasan yang disalahpindahkan ke objek tertentu",
+        "B": "Kecemasan yang disalurkan lewat saraf motorik menjadi kelumpuhan",
+        "C": "Kecemasan yang berubah menjadi perilaku berulang menetralisir pikiran",
+        "D": "Kecemasan yang dirasakan langsung tanpa objek yang jelas",
+        "E": "Kecemasan yang disalurkan lewat saraf vegetatif menjadi keluhan tubuh"
+      },
+      "answer": "A",
+      "explanation": "Kecemasan dapat dirasakan langsung (neurosis cemas), disalurkan lewat saraf vegetatif (psikosomatik), lewat saraf sensorik/motorik (parese, buta, plegi), atau disalahpindahkan sehingga menjadi fobia.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q3",
+      "category": "",
+      "question": "Seorang perempuan 32 tahun selama 8 bulan merasa khawatir berlebihan, tegang, sulit berkonsentrasi, sering sakit kepala, dan tidak bisa rileks, disertai jantung berdebar dan mulut kering. Tidak ada serangan mendadak. Diagnosis yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Gangguan fobik sosial",
+        "B": "Gangguan somatoform kronik",
+        "C": "Gangguan ansietas menyeluruh",
+        "D": "Gangguan obsesif kompulsif",
+        "E": "Gangguan panik berulang"
+      },
+      "answer": "C",
+      "explanation": "Gangguan ansietas menyeluruh ditandai kecemasan multipel: ketegangan mental (khawatir, konsentrasi buruk), ketegangan motorik (sakit kepala, tidak bisa rileks), dan kesiagaan fisik (berdebar, berkeringat, mulut kering).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q4",
+      "category": "",
+      "question": "Seorang laki-laki 24 tahun tiba-tiba merasa dada berdebar, pusing, perut seperti terbakar, dan yakin akan mati. Gejala memuncak dalam hitungan menit dan mereda sendiri. Pemeriksaan jantung dan laboratorium normal. Diagnosis yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Gangguan panik",
+        "B": "Gangguan campuran ansietas dan depresi",
+        "C": "Gangguan somatoform",
+        "D": "Gangguan ansietas menyeluruh",
+        "E": "Gangguan konversi"
+      },
+      "answer": "A",
+      "explanation": "Gangguan panik berupa serangan kecemasan yang tidak dapat dijelaskan, mendadak, menghebat cepat, dan biasanya berlangsung beberapa menit, dengan gejala fisik dan rasa akan mati atau kehilangan kontrol.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q5",
+      "category": "",
+      "question": "Perbedaan utama gangguan panik dengan gangguan ansietas menyeluruh terletak pada ...",
+      "questionImages": [],
+      "options": {
+        "A": "Adanya objek tertentu yang selalu dihindari oleh penderita",
+        "B": "Adanya rasa khawatir dan ketegangan mental yang terus menetap",
+        "C": "Adanya keluhan fisik yang tidak dijumpai pada gangguan cemas",
+        "D": "Awitan mendadak dengan serangan beberapa menit",
+        "E": "Keluhan fisik yang tidak berkaitan dengan faktor psikologis"
+      },
+      "answer": "D",
+      "explanation": "Keduanya bisa memiliki gejala fisik. Yang membedakan adalah pola waktu: panik muncul mendadak, memuncak cepat, dan hanya beberapa menit, sedangkan cemas menyeluruh berlangsung lebih persisten.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q6",
+      "category": "",
+      "question": "Seorang perempuan 30 tahun mengaku cemas dan sekaligus sedih, kehilangan minat, dan sulit tidur. Gejala cemas dan depresi muncul bersamaan tanpa ada yang dominan. Diagnosis yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Gangguan panik",
+        "B": "Gangguan campuran ansietas dan depresi",
+        "C": "Gangguan afektif bipolar episode campuran",
+        "D": "Episode depresi berat",
+        "E": "Gangguan ansietas menyeluruh"
+      },
+      "answer": "B",
+      "explanation": "Gangguan campuran ansietas dan depresi ditegakkan bila kecemasan dan depresi terjadi bersamaan dan tidak ada yang cukup dominan untuk diagnosis tersendiri.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q7",
+      "category": "",
+      "question": "Seorang pekerja menolak bonus perjalanan dinas ke luar negeri karena takut naik pesawat. Ia selalu meminta surat sakit setiap ada kegiatan outbound. Perilaku yang khas pada gangguan ini adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Mengalami serangan mendadak yang memuncak dalam menit",
+        "B": "Kehilangan sebagian ingatan masa lalu setelah stresor",
+        "C": "Menghindari aktivitas karena ketakutan spesifik",
+        "D": "Mencari pemeriksaan medis berulang meski hasilnya negatif",
+        "E": "Mengulang tindakan tertentu untuk menetralisir pikirannya"
+      },
+      "answer": "C",
+      "explanation": "Gangguan fobik ditandai ketakutan hebat dan tidak masuk akal terhadap tempat atau situasi tertentu (pesawat, keramaian, ketinggian) yang membuat penderita menghindarinya.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q8",
+      "category": "",
+      "question": "Seorang laki-laki 35 tahun selama 2 tahun mengeluh nyeri kepala dan nyeri dada. CT, MRI, dan pemeriksaan penyakit dalam berulang normal, tetapi ia tetap meminta pemeriksaan dokter lain. Diagnosis yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Gangguan ansietas menyeluruh",
+        "B": "Gangguan panik",
+        "C": "Gangguan konversi",
+        "D": "Gangguan somatoform",
+        "E": "Gangguan fobik"
+      },
+      "answer": "D",
+      "explanation": "Gangguan somatoform: keluhan fisik berulang disertai permintaan pemeriksaan medis meskipun berkali-kali negatif dan sudah dijelaskan tidak ada kelainan fisik yang mendasarinya.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q9",
+      "category": "",
+      "question": "Untuk membedakan gangguan somatoform dengan gangguan ansietas menyeluruh, hal yang perlu dinilai adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Adanya gejala fisik: hanya pada somatoform dan tidak pada GAD",
+        "B": "Usia awitan: somatoform hanya terjadi pada usia lanjut sekali",
+        "C": "Lamanya keluhan: somatoform lebih singkat dari gangguan cemas",
+        "D": "Keluhan dominan: fisik pada somatoform, cemas pada GAD",
+        "E": "Hasil penunjang: selalu abnormal pada gangguan cemas menyeluruh"
+      },
+      "answer": "D",
+      "explanation": "Pada somatoform, keluhan fisik menonjol dan kecemasan baru ditemukan setelah dieksplorasi. Pada gangguan cemas menyeluruh, keluhan dominan adalah kecemasan yang disertai keluhan fisik.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q10",
+      "category": "",
+      "question": "Seorang perempuan 40 tahun mencuci tangan berulang-ulang karena pikiran tangannya kotor, walau menyadari hal itu tidak perlu. Bila tidak mencuci ia menjadi sangat cemas. Perilaku mencuci tangan tersebut merupakan ...",
+      "questionImages": [],
+      "options": {
+        "A": "Kompulsi untuk menetralisir kecemasan obsesif",
+        "B": "Obsesi berupa pikiran berulang yang tidak bisa dihindari",
+        "C": "Fobia spesifik terhadap kuman dan kotoran",
+        "D": "Gejala psikosomatik melalui saraf vegetatif",
+        "E": "Reaksi konversi akibat konflik interpersonal"
+      },
+      "answer": "A",
+      "explanation": "Obsesi adalah pikiran berulang yang menimbulkan ansietas bermakna; kompulsi adalah perilaku berulang untuk menetralisir kecemasan tersebut. Mencuci tangan berulang adalah kompulsinya.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q11",
+      "category": "",
+      "question": "Seorang mahasiswi 20 tahun dibawa ke IGD dengan napas tersengal seperti orang sesak, tetapi tidak ada riwayat asma, tidak ditemukan mengi pada auskultasi, dan rontgen normal. Gejala muncul setelah bertengkar dengan pacarnya. Diagnosis yang paling mungkin adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Gangguan obsesif kompulsif",
+        "B": "Gangguan panik dengan hiperventilasi",
+        "C": "Gangguan disosiasi atau konversi",
+        "D": "Gangguan ansietas menyeluruh",
+        "E": "Asma bronkial serangan akut"
+      },
+      "answer": "C",
+      "explanation": "Gejala fisik tanpa bukti kelainan organ yang berhubungan waktu dengan stresor atau konflik interpersonal, walau disangkal pasien, mengarah ke gangguan disosiasi (reaksi konversi). Pada asma akan ada mengi.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q12",
+      "category": "",
+      "question": "Seorang remaja mendadak tidak dapat berjalan. Pemeriksaan neurologis dan penunjang normal, dan kemudian terungkap ada stresor berat di sekolahnya. Kecemasan pada kasus ini disalurkan melalui ...",
+      "questionImages": [],
+      "options": {
+        "A": "Pemindahan objek sehingga muncul fobia spesifik",
+        "B": "Saraf sensorik sehingga muncul nyeri difus",
+        "C": "Sistem limbik sehingga muncul obsesi dan kompulsi",
+        "D": "Saraf vegetatif sehingga muncul gejala psikosomatik",
+        "E": "Saraf motorik sehingga muncul kelumpuhan tanpa lesi"
+      },
+      "answer": "E",
+      "explanation": "Kecemasan yang disalurkan lewat saraf sensorik atau motorik menimbulkan parese, buta, atau plegi tanpa lesi organik (gangguan konversi).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q13",
+      "category": "",
+      "question": "Depresi menurut WHO menempati urutan ke berapa di antara penyakit di dunia?",
+      "questionImages": [],
+      "options": {
+        "A": "Ketiga",
+        "B": "Kesepuluh",
+        "C": "Pertama",
+        "D": "Keempat",
+        "E": "Kedua"
+      },
+      "answer": "D",
+      "explanation": "WHO menyatakan depresi berada pada urutan ke-4 penyakit di dunia. Sekitar 20% wanita dan 12% pria pernah mengalami depresi seumur hidupnya.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q14",
+      "category": "",
+      "question": "Seorang laki-laki 60 tahun pascastroke enggan menjalani latihan dan merasa tidak bersemangat. Prevalensi komorbid depresi pada stroke sekitar ...",
+      "questionImages": [],
+      "options": {
+        "A": "5–10%",
+        "B": "70–80%",
+        "C": "30–40%",
+        "D": "10–15%",
+        "E": "50–60%"
+      },
+      "answer": "C",
+      "explanation": "Depresi sering komorbid dengan penyakit fisik, misalnya stroke (30–40%), tumor otak, dan gagal ginjal kronik, serta memperberat pengobatan dan penyembuhan.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q15",
+      "category": "",
+      "question": "Hipotesis biologis depresi yang berkaitan dengan pikiran depresif adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Peningkatan GABA di sistem limbik",
+        "B": "Penurunan aktivitas seluruh jalur dopaminergik",
+        "C": "Peningkatan serotonin dan norepinefrin di celah sinaps",
+        "D": "Kelebihan asetilkolin pada korteks prefrontal",
+        "E": "Penurunan serotonin dan norepinefrin pada amin biogenik"
+      },
+      "answer": "E",
+      "explanation": "Faktor penyebab depresi meliputi genetik, ketidakseimbangan amin biogenik (serotonin dan norepinefrin turun), gangguan neuroendokrin, perubahan neurofisiologi, dan faktor psikologis.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q16",
+      "category": "",
+      "question": "Perhatikan gambar perjalanan depresi. Episode depresi yang tidak ditangani biasanya berlangsung selama ... ",
+      "questionImages": [
+        "images/packages/2h-persiapan-minites__gangguan-cemas-dan-depresi-serta-gangguan-jiwa-lainnya-yang-/img-001.png"
+      ],
+      "options": {
+        "A": "1–2 minggu",
+        "B": "6–24 bulan",
+        "C": "5–7 tahun",
+        "D": "3–6 minggu",
+        "E": "2–4 minggu"
+      },
+      "answer": "B",
+      "explanation": "Depresi bersifat episodik, dan episode tanpa pengobatan umumnya berlangsung 6–24 bulan lalu diikuti pulih atau remisi. Karena itu pasien tidak dibiarkan tanpa terapi agar fungsi dan belajarnya tidak terganggu.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q17",
+      "category": "",
+      "question": "Seorang mahasiswa dengan depresi sedang membaik setelah 4 minggu antidepresan dan ingin menghentikan obat. Tindakan yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Menghentikan obat lalu menunggu 6 bulan untuk melihat kambuh",
+        "B": "Mengganti dengan terapi herbal karena obat tidak perlu lama",
+        "C": "Melanjutkan terapi karena berhenti sebelum 3 bulan sering kambuh",
+        "D": "Menghentikan obat karena gejala sudah minimal dan fungsi baik",
+        "E": "Menurunkan dosis lalu berhenti setelah 2 minggu tanpa evaluasi"
+      },
+      "answer": "C",
+      "explanation": "Terapi depresi umumnya 3 bulan, tetapi prosedur bakunya 6 bulan agar tidak mudah kambuh. Penghentian antidepresan sebelum 3 bulan hampir selalu menimbulkan kekambuhan.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q18",
+      "category": "",
+      "question": "Perhatikan gambar fase terapi depresi. Depresi yang kembali muncul pada beberapa bulan pertama setelah remisi (fase kontinuasi 4–9 bulan), sebelum pulih sempurna, disebut ... ",
+      "questionImages": [
+        "images/packages/2h-persiapan-minites__gangguan-cemas-dan-depresi-serta-gangguan-jiwa-lainnya-yang-/img-002.png"
+      ],
+      "options": {
+        "A": "Relaps",
+        "B": "Episode akut",
+        "C": "Rekurensi",
+        "D": "Remisi",
+        "E": "Respons parsial"
+      },
+      "answer": "A",
+      "explanation": "Relaps adalah kembalinya depresi sebelum remisi penuh atau dalam beberapa bulan pertama setelah remisi. Rekurensi adalah kembalinya depresi setelah pasien benar-benar pulih (fase pemeliharaan).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q19",
+      "category": "",
+      "question": "Seorang laki-laki 45 tahun pulih penuh dari depresi dan telah menjalani terapi pemeliharaan selama 1,5 tahun. Tiba-tiba ia mengalami episode depresi baru. Kejadian ini disebut ...",
+      "questionImages": [],
+      "options": {
+        "A": "Rekurensi",
+        "B": "Remisi parsial",
+        "C": "Episode campuran",
+        "D": "Relaps",
+        "E": "Depresi berulang akibat efek obat"
+      },
+      "answer": "A",
+      "explanation": "Depresi yang kembali setelah pasien pulih sempurna (fase pemeliharaan, 1 tahun atau lebih) disebut rekurensi, sedangkan relaps terjadi sebelum pulih penuh atau pada bulan-bulan awal setelah remisi.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q20",
+      "category": "",
+      "question": "Seorang laki-laki 50 tahun mengeluh pusing, berdebar, dan nyeri ulu hati selama 6 bulan tanpa kelainan pada pemeriksaan. Ia juga kehilangan minat dan mudah lelah. Pernyataan yang tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Keluhan fisik menyingkirkan depresi karena depresi hanya berupa keluhan mood",
+        "B": "Keluhan fisik tanpa kelainan organik selalu berarti gangguan konversi",
+        "C": "Depresi hanya perlu dicurigai bila pasien menyatakan dirinya sedih",
+        "D": "Depresi hanya terjadi pada usia muda dan tidak pada usia paruh baya",
+        "E": "Depresi sering tidak terdiagnosis karena tampil sebagai keluhan fisik"
+      },
+      "answer": "E",
+      "explanation": "Depresi sering tidak terdiagnosis karena gejalanya muncul sebagai keluhan fisik tanpa penyebab jelas. Karena itu diagnosis banding harus disesuaikan dengan gejala yang ada.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q21",
+      "category": "",
+      "question": "Tiga gejala utama depresi adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Konsentrasi berkurang, masa depan suram, dan gagasan bunuh diri",
+        "B": "Kehilangan minat, harga diri berkurang, dan rasa bersalah",
+        "C": "Afek depresif, gangguan tidur, dan nafsu makan berkurang",
+        "D": "Afek depresif, kehilangan minat, dan mudah lelah",
+        "E": "Afek depresif, retardasi psikomotor, dan waham kebesaran"
+      },
+      "answer": "D",
+      "explanation": "Gejala utama: afek depresif, kehilangan minat dan kegembiraan, dan berkurangnya energi yang menyebabkan mudah lelah. Konsentrasi, harga diri, rasa bersalah, pesimisme, gagasan bunuh diri, tidur, dan nafsu makan termasuk gejala lainnya.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q22",
+      "category": "",
+      "question": "Seorang perempuan 28 tahun selama 3 minggu merasa sedih, kehilangan minat, dan mudah lelah, disertai konsentrasi menurun dan harga diri berkurang. Ia hanya sedikit kesulitan dalam pekerjaan dan tidak ada gejala berat. Diagnosis yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Gangguan ansietas menyeluruh",
+        "B": "Episode depresi berat tanpa gejala psikotik",
+        "C": "Gangguan campuran ansietas dan depresi",
+        "D": "Episode depresi sedang",
+        "E": "Episode depresi ringan"
+      },
+      "answer": "E",
+      "explanation": "Depresi ringan: minimal 2 dari 3 gejala utama ditambah minimal 2 gejala lain, tanpa gejala berat, berlangsung minimal 2 minggu, dengan kesulitan kerja dan sosial yang sedikit.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q23",
+      "category": "",
+      "question": "Seorang laki-laki 35 tahun selama 3 minggu memiliki 3 gejala utama depresi dan 3 gejala lainnya. Ia mengalami kesulitan nyata menjalankan pekerjaan dan urusan rumah tangga, tanpa gejala berat. Diagnosis yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Episode depresi ringan",
+        "B": "Episode depresi berat tanpa gejala psikotik",
+        "C": "Episode depresi berat dengan gejala psikotik",
+        "D": "Distimia ringan",
+        "E": "Episode depresi sedang"
+      },
+      "answer": "E",
+      "explanation": "Depresi sedang: minimal 2 dari 3 gejala utama ditambah minimal 3 (sebaiknya 4) gejala lain, minimal sekitar 2 minggu, dengan kesulitan nyata dalam kegiatan sosial, pekerjaan, dan rumah tangga.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q24",
+      "category": "",
+      "question": "Kriteria diagnostik depresi berat tanpa gejala psikotik adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Ketiga gejala utama plus minimal 4 gejala lain, sebagian berat",
+        "B": "Ketiga gejala utama plus minimal 2 gejala lain ringan",
+        "C": "Ketiga gejala utama plus minimal satu waham atau halusinasi",
+        "D": "Dua dari tiga gejala utama plus minimal 2 gejala lain",
+        "E": "Dua dari tiga gejala utama plus minimal 3 gejala lain"
+      },
+      "answer": "A",
+      "explanation": "Depresi berat (F32.2) membutuhkan ketiga gejala utama plus minimal 4 gejala lain dengan beberapa berat. Bila ada halusinasi atau waham, berarti depresi berat dengan gejala psikotik.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q25",
+      "category": "",
+      "question": "Seorang perempuan 42 tahun dengan depresi berat tampak diam, bicara sangat lambat, dan sulit menjawab. Keluarga mengantar dan menceritakan keluhannya. Langkah yang paling tepat untuk melengkapi anamnesis adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Meminta pasien menuliskan semua gejalanya sendiri tanpa bantuan",
+        "B": "Menghentikan wawancara karena pasien dianggap menolak kerja sama",
+        "C": "Menyimpulkan tidak ada gejala karena pasien tidak menjawab",
+        "D": "Menunda anamnesis sampai pasien mampu berbicara dengan lancar",
+        "E": "Heteroanamnesis pada pengantar karena kemungkinan retardasi psikomotor"
+      },
+      "answer": "E",
+      "explanation": "Retardasi psikomotor (bicara lambat, diam) pada depresi berat membuat pasien tidak melaporkan gejala secara rinci. Klarifikasi dilakukan lewat heteroanamnesis pada pengantar.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q26",
+      "category": "",
+      "question": "Seorang mahasiswi 19 tahun mengirim pesan bahwa segalanya terasa berat dan ia memikirkan bunuh diri. Sikap dokter yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Menunggu sampai pasien menyebutkan rencana yang sangat jelas",
+        "B": "Menganggap serius, menilai risiko, melibatkan keluarga, kontrol segera",
+        "C": "Menganggapnya keluhan biasa karena pasien tidak memiliki energi bertindak",
+        "D": "Merahasiakan dari keluarga agar pasien tidak merasa dihakimi",
+        "E": "Menyarankan pasien menenangkan diri dan tidak perlu kontrol"
+      },
+      "answer": "B",
+      "explanation": "Sinyal pikiran bunuh diri tidak boleh dianggap remeh. Nilai risiko, ingatkan keluarga agar mengawasi, dan minta pasien segera kontrol kapan pun muncul dorongan tersebut.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q27",
+      "category": "",
+      "question": "Pernyataan epidemiologi depresi berat yang benar adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Perempuan:laki-laki 1:2, 50% awitan usia lebih dari 60 tahun",
+        "B": "Perempuan:laki-laki 2:1, 50% awitan usia 20–50 tahun",
+        "C": "Perempuan:laki-laki 3:1, awitan rata-rata pada usia 20 tahun",
+        "D": "Perempuan:laki-laki 1:1, awitan hampir selalu di bawah 20 tahun",
+        "E": "Depresi tidak pernah terjadi pada anak sekolah maupun remaja"
+      },
+      "answer": "B",
+      "explanation": "Prevalensi seumur hidup sekitar 15% (sampai 25% pada perempuan), perempuan:laki-laki 2:1, usia rata-rata sekitar 40 tahun, 50% awitan 20–50 tahun, dan dapat terjadi di bawah 20 tahun (anak sekolah 2%, remaja 5%).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q28",
+      "category": "",
+      "question": "Pasien depresi mengeluh disfungsi seksual setelah minum antidepresan golongan serotonergik. Jalur serotonin yang berkaitan dengan keluhan ini adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Neuron di pusat tidur batang otak yang mengatur tidur gelombang lambat",
+        "B": "Neuron serotonergik ke medula spinalis pengatur refleks seksual",
+        "C": "Proyeksi raphe ke korteks frontal yang mengatur mood",
+        "D": "Neuron serotonergik di hipotalamus yang mengatur nafsu makan",
+        "E": "Proyeksi raphe ke ganglia basalis yang mengatur agitasi"
+      },
+      "answer": "B",
+      "explanation": "Neuron serotonergik yang turun ke medula spinalis mengontrol refleks seksual seperti orgasme dan ejakulasi, sehingga gangguan serotonin dapat menimbulkan disfungsi seksual.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q29",
+      "category": "",
+      "question": "Pasien depresi mengalami gangguan nafsu makan dan gangguan tidur. Area yang mengatur kedua fungsi ini melalui serotonin adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Hipotalamus untuk tidur dan sistem limbik untuk nafsu makan",
+        "B": "Medula spinalis untuk nafsu makan dan korteks frontal untuk tidur",
+        "C": "Hipotalamus untuk nafsu makan, batang otak untuk tidur",
+        "D": "Sistem limbik untuk nafsu makan dan medula spinalis untuk tidur",
+        "E": "Korteks frontal untuk nafsu makan dan ganglia basalis untuk tidur"
+      },
+      "answer": "C",
+      "explanation": "Proyeksi serotonergik ke hipotalamus mengatur nafsu makan, sedangkan neuron serotonergik di pusat tidur batang otak mengatur tidur, terutama tidur gelombang lambat.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q30",
+      "category": "",
+      "question": "Pasien yang baru memulai obat serotonergik mengeluh mual dan muntah. Mekanisme yang mendasari mual tersebut adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Aktivasi reseptor 5-HT3 pada korteks frontal",
+        "B": "Aktivasi reseptor 5-HT3 pada chemoreceptor trigger zone di batang otak",
+        "C": "Penghambatan reseptor 5-HT3 pada sistem limbik",
+        "D": "Aktivasi reseptor 5-HT4 di medula spinalis",
+        "E": "Penghambatan reseptor 5-HT3 pada ganglia basalis"
+      },
+      "answer": "B",
+      "explanation": "Chemoreceptor trigger zone di batang otak dapat memicu muntah, terutama melalui reseptor 5-HT3. Reseptor 5-HT3 dan 5-HT4 di usus mengatur nafsu makan dan motilitas saluran cerna.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q31",
+      "category": "",
+      "question": "Pada gangguan bipolar, pernyataan yang benar adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Selalu disertai halusinasi dan waham pada setiap episode yang muncul",
+        "B": "Ditandai hanya oleh episode depresi berulang tanpa fase mood normal",
+        "C": "Hanya terjadi pada perempuan setelah melahirkan anak pertamanya",
+        "D": "Gangguan mood akut yang hanya berlangsung sekali seumur hidup penderita",
+        "E": "Gangguan mood kronik berulang dengan episode mania dan depresi diselingi mood normal"
+      },
+      "answer": "E",
+      "explanation": "Gangguan bipolar adalah gangguan suasana perasaan yang pada dasarnya kronis dan berulang, ditandai episode mania dan depresi yang diselingi periode mood relatif normal.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q32",
+      "category": "",
+      "question": "Seorang laki-laki 28 tahun selama 10 hari tampak sangat gembira dan banyak bicara, tidur hanya 2 jam per malam tanpa lelah, ide meloncat-loncat, dan membeli rumah lewat ponsel. Ia merasa dirinya sangat istimewa. Diagnosis yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Episode manik",
+        "B": "Gangguan ansietas menyeluruh",
+        "C": "Gangguan panik",
+        "D": "Episode hipomanik",
+        "E": "Episode depresi berat dengan gejala psikotik"
+      },
+      "answer": "A",
+      "explanation": "Episode manik: mood meningkat/iritabel minimal 1 minggu yang mengganggu fungsi, dengan minimal 3 gejala (peningkatan aktivitas, bicara, lompatan gagasan, kebutuhan tidur berkurang, grandiositas, belanja berlebihan).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q33",
+      "category": "",
+      "question": "Seorang perempuan 30 tahun selama 5 hari tampak lebih bersemangat, lebih banyak bicara, tidur berkurang, dan sedikit boros, tetapi masih dapat bekerja. Diagnosis yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Episode manik tanpa gejala psikotik",
+        "B": "Episode manik dengan gejala psikotik",
+        "C": "Episode depresi ringan",
+        "D": "Episode hipomanik",
+        "E": "Gangguan campuran ansietas dan depresi"
+      },
+      "answer": "D",
+      "explanation": "Hipomania adalah peningkatan mood dan aktivitas yang lebih ringan, menetap minimal 4 hari berturut-turut, dengan minimal 3 gejala, dan tanpa gangguan fungsi seberat mania.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q34",
+      "category": "",
+      "question": "Menurut pedoman diagnostik, episode manik harus berlangsung sekurang-kurangnya ...",
+      "questionImages": [],
+      "options": {
+        "A": "2 hari",
+        "B": "4 hari",
+        "C": "2 minggu",
+        "D": "1 minggu",
+        "E": "1 bulan"
+      },
+      "answer": "D",
+      "explanation": "Episode manik memerlukan perubahan mood yang menetap sekurangnya 1 minggu, sedangkan hipomania minimal 4 hari berturut-turut dan episode depresi minimal 2 minggu.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q35",
+      "category": "",
+      "question": "Seorang perempuan 33 tahun datang dengan depresi berat. Dua tahun lalu ia pernah tampak sangat bersemangat, tidur sedikit, dan boros selama beberapa minggu. Diagnosis yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Gangguan konversi",
+        "B": "Gangguan ansietas menyeluruh",
+        "C": "Gangguan campuran ansietas dan depresi",
+        "D": "Bipolar episode kini depresi",
+        "E": "Episode depresi berat tunggal"
+      },
+      "answer": "D",
+      "explanation": "Pada pasien dengan depresi, gali riwayat mania atau hipomania sebelumnya. Bila ada, diagnosisnya bipolar episode kini depresi, bukan depresi biasa, karena pengobatannya berbeda.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q36",
+      "category": "",
+      "question": "Untuk menegakkan gangguan afektif bipolar episode kini hipomanik (F31.0), syarat yang harus dipenuhi adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Kriteria mania penuh sekarang dan pernah mengalami psikosis",
+        "B": "Kriteria depresi berat sekarang dan pernah dirawat di rumah sakit",
+        "C": "Kriteria hipomania sekarang dan pernah ada satu episode afektif lain",
+        "D": "Kriteria hipomania sekarang, tanpa harus ada episode afektif sebelumnya",
+        "E": "Kriteria hipomania minimal 2 minggu berturut-turut sekarang"
+      },
+      "answer": "C",
+      "explanation": "Bipolar mensyaratkan episode berulang: episode sekarang memenuhi kriteria (hipo)manik dan harus ada sekurangnya satu episode afektif lain (hipomanik, manik, depresif, atau campuran) di masa lampau.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q37",
+      "category": "",
+      "question": "Perjalanan penyakit gangguan bipolar yang tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Manik rata-rata 2 tahun dan lebih lama dari episode depresi",
+        "B": "Masa remisi cenderung makin panjang setelah usia pertengahan",
+        "C": "Depresi selalu lebih singkat, hanya berlangsung 1–2 minggu",
+        "D": "Manik selalu didahului fase depresi minimal 1 tahun lamanya",
+        "E": "Manik mulai tiba-tiba dan berlangsung 2 minggu–4-5 bulan, depresi lebih lama"
+      },
+      "answer": "E",
+      "explanation": "Episode manik mulai mendadak dan berlangsung 2 minggu sampai 4–5 bulan (rata-rata 4 bulan), episode depresi lebih lama (rata-rata 6 bulan), dan setelah usia pertengahan remisi cenderung makin pendek.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q38",
+      "category": "",
+      "question": "Seorang perempuan 25 tahun, 3 minggu setelah melahirkan anak pertama, menjadi gelisah, sulit tidur, curiga, mengaku bayinya bukan miliknya, dan mendengar bisikan menyuruh menyakiti bayi. Diagnosis yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Depresi pascapersalinan ringan",
+        "B": "Psikosis pascapersalinan",
+        "C": "Gangguan panik",
+        "D": "Gangguan ansietas menyeluruh",
+        "E": "Postpartum blues"
+      },
+      "answer": "B",
+      "explanation": "Psikosis masa nifas (F53.1): depresi berat dengan waham, halusinasi, dan pikiran menyakiti bayi atau diri sendiri, timbul dalam 6 minggu setelah bersalin. Postpartum blues bersifat ringan dan singkat, tanpa psikosis.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q39",
+      "category": "",
+      "question": "Seorang perempuan 26 tahun, 3 hari setelah melahirkan, sering menangis, mudah tersinggung, dan lelah, tetapi masih mengurus bayinya. Gejala membaik dalam beberapa hari. Kondisi yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Gangguan disosiasi akibat konflik rumah tangga",
+        "B": "Postpartum blues yang normal pada 50% ibu",
+        "C": "Gangguan bipolar episode manik pascapersalinan",
+        "D": "Psikosis pascapersalinan yang memerlukan rawat inap segera",
+        "E": "Depresi berat pascapersalinan yang memerlukan antidepresan"
+      },
+      "answer": "B",
+      "explanation": "Postpartum blues normal terjadi pada sekitar 50% ibu segera setelah melahirkan, berupa sedih, lelah, dan iritabel selama beberapa hari, tanpa psikosis.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q40",
+      "category": "",
+      "question": "Seorang ibu dengan psikosis pascapersalinan menunjukkan percobaan bunuh diri dan ingin mendekati bayinya. Tata laksana yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Rawat psikiatri, beri terapi, dan awasi ketat kontak dengan bayi",
+        "B": "Pisahkan ibu dari keluarga agar tidak terpengaruh dukungan",
+        "C": "Beri obat tidur saja tanpa pemantauan yang ketat",
+        "D": "Rawat jalan dan minta ibu tetap merawat bayi sendirian di rumah",
+        "E": "Tunda terapi sampai gejala membaik dengan sendirinya"
+      },
+      "answer": "A",
+      "explanation": "Psikosis pascapersalinan adalah kedaruratan psikiatrik (risiko bunuh diri sekitar 5%, infanticide sekitar 4%). Percobaan bunuh diri memerlukan rawat psikiatri, kontak dengan bayi diawasi, dan dukungan suami dan keluarga. ---CATATAN GAMBAR--- q16 → source-file: Prof_Rizaldy_Taslim_Pinzon_-_Nyeri PDF, q_ep.png q18 → source-file: Prof_Rizaldy_Taslim_Pinzon_-_Nyeri PDF, q_rel.png",
+      "explanationImages": [],
+      "isBroken": false
+    }
+  ]
+}
