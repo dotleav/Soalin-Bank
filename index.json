@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T17:12:52.717Z",
+  "generatedAt": "2026-10-22T13:47:35.184Z",
   "packages": [
     {
       "id": "2h-persiapan-minites__cedera-kepala-trauma-medulla-spinalis",
@@ -8,7 +8,7 @@
       "title": "Cedera Kepala & Trauma Medulla Spinalis",
       "category": "2H - Persiapan Minites 1",
       "count": 30,
-      "file": "packages/2h-persiapan-minites__cedera-kepala-trauma-medulla-spinalis.json"
+      "file": "packages\/2h-persiapan-minites__cedera-kepala-trauma-medulla-spinalis.json"
     },
     {
       "id": "2h-persiapan-minites__epilepsi-bangkitan",
@@ -16,7 +16,7 @@
       "title": "Epilepsi & Bangkitan",
       "category": "2H - Persiapan Minites 1",
       "count": 38,
-      "file": "packages/2h-persiapan-minites__epilepsi-bangkitan.json"
+      "file": "packages\/2h-persiapan-minites__epilepsi-bangkitan.json"
     },
     {
       "id": "2h-persiapan-minites__fisiologi-tidur-gangguan-tidur",
@@ -24,7 +24,7 @@
       "title": "Fisiologi Tidur & Gangguan Tidur",
       "category": "2H - Persiapan Minites 1",
       "count": 53,
-      "file": "packages/2h-persiapan-minites__fisiologi-tidur-gangguan-tidur.json"
+      "file": "packages\/2h-persiapan-minites__fisiologi-tidur-gangguan-tidur.json"
     },
     {
       "id": "2h-persiapan-minites__gangguan-cemas-dan-depresi-serta-gangguan-jiwa-lainnya-yang-",
@@ -32,7 +32,7 @@
       "title": "Gangguan Cemas dan Depresi serta Gangguan Jiwa Lainnya yang Sering Didapatkan pada praktek dokter umum",
       "category": "2H - Persiapan Minites 1",
       "count": 40,
-      "file": "packages/2h-persiapan-minites__gangguan-cemas-dan-depresi-serta-gangguan-jiwa-lainnya-yang-.json"
+      "file": "packages\/2h-persiapan-minites__gangguan-cemas-dan-depresi-serta-gangguan-jiwa-lainnya-yang-.json"
     },
     {
       "id": "2h-persiapan-minites__gangguan-gerak-koordinasi",
@@ -40,7 +40,7 @@
       "title": "Gangguan Gerak & Koordinasi",
       "category": "2H - Persiapan Minites 1",
       "count": 46,
-      "file": "packages/2h-persiapan-minites__gangguan-gerak-koordinasi.json"
+      "file": "packages\/2h-persiapan-minites__gangguan-gerak-koordinasi.json"
     },
     {
       "id": "2h-persiapan-minites__gangguan-vestibular-neuro-oftalmologi",
@@ -48,7 +48,7 @@
       "title": "Gangguan Vestibular Neuro oftalmologi",
       "category": "2H - Persiapan Minites 1",
       "count": 59,
-      "file": "packages/2h-persiapan-minites__gangguan-vestibular-neuro-oftalmologi.json"
+      "file": "packages\/2h-persiapan-minites__gangguan-vestibular-neuro-oftalmologi.json"
     },
     {
       "id": "2h-persiapan-minites__infeksi-sistem-saraf",
@@ -56,15 +56,15 @@
       "title": "Infeksi Sistem Saraf",
       "category": "2H - Persiapan Minites 1",
       "count": 94,
-      "file": "packages/2h-persiapan-minites__infeksi-sistem-saraf.json"
+      "file": "packages\/2h-persiapan-minites__infeksi-sistem-saraf.json"
     },
     {
       "id": "2h-persiapan-minites__latihan-minites-1",
-      "tier": "reguler",
+      "tier": "premium",
       "title": "Latihan Minites 1",
       "category": "2H - Persiapan Minites 1",
       "count": 24,
-      "file": "packages/2h-persiapan-minites__latihan-minites-1.json"
+      "file": "packages\/2h-persiapan-minites__latihan-minites-1.json"
     },
     {
       "id": "2h-persiapan-minites-1__minites-1",
@@ -72,7 +72,7 @@
       "title": "Minites 1",
       "category": "2H - Persiapan Minites 1",
       "count": 30,
-      "file": "packages/2h-persiapan-minites-1__minites-1.json"
+      "file": "packages\/2h-persiapan-minites-1__minites-1.json"
     },
     {
       "id": "2h-persiapan-minites__neurobehavior-defisit-memori",
@@ -80,7 +80,7 @@
       "title": "Neurobehavior & Defisit Memori",
       "category": "2H - Persiapan Minites 1",
       "count": 30,
-      "file": "packages/2h-persiapan-minites__neurobehavior-defisit-memori.json"
+      "file": "packages\/2h-persiapan-minites__neurobehavior-defisit-memori.json"
     },
     {
       "id": "2h-persiapan-minites__neuromuskular-autoimun-saraf-tepi",
@@ -88,7 +88,7 @@
       "title": "Neuromuskular, Autoimun & Saraf Tepi",
       "category": "2H - Persiapan Minites 1",
       "count": 30,
-      "file": "packages/2h-persiapan-minites__neuromuskular-autoimun-saraf-tepi.json"
+      "file": "packages\/2h-persiapan-minites__neuromuskular-autoimun-saraf-tepi.json"
     },
     {
       "id": "2h-persiapan-minites__nyeri-nosiseptik-dkk",
@@ -96,7 +96,7 @@
       "title": "Nyeri (Nosiseptik dkk)",
       "category": "2H - Persiapan Minites 1",
       "count": 35,
-      "file": "packages/2h-persiapan-minites__nyeri-nosiseptik-dkk.json"
+      "file": "packages\/2h-persiapan-minites__nyeri-nosiseptik-dkk.json"
     },
     {
       "id": "2h-persiapan-minites__nyeri-kepala",
@@ -104,7 +104,7 @@
       "title": "Nyeri Kepala",
       "category": "2H - Persiapan Minites 1",
       "count": 63,
-      "file": "packages/2h-persiapan-minites__nyeri-kepala.json"
+      "file": "packages\/2h-persiapan-minites__nyeri-kepala.json"
     },
     {
       "id": "2h-persiapan-minites__nyeri-punggung",
@@ -112,7 +112,7 @@
       "title": "Nyeri punggung",
       "category": "2H - Persiapan Minites 1",
       "count": 45,
-      "file": "packages/2h-persiapan-minites__nyeri-punggung.json"
+      "file": "packages\/2h-persiapan-minites__nyeri-punggung.json"
     },
     {
       "id": "2h-persiapan-minites__penurunan-kesadaran-delirium-ensefalopati",
@@ -120,7 +120,7 @@
       "title": "Penurunan Kesadaran, Delirium & Ensefalopati",
       "category": "2H - Persiapan Minites 1",
       "count": 30,
-      "file": "packages/2h-persiapan-minites__penurunan-kesadaran-delirium-ensefalopati.json"
+      "file": "packages\/2h-persiapan-minites__penurunan-kesadaran-delirium-ensefalopati.json"
     },
     {
       "id": "2h-persiapan-minites__stroke-penyakit-serebrovaskular",
@@ -128,7 +128,7 @@
       "title": "Stroke & Penyakit Serebrovaskular",
       "category": "2H - Persiapan Minites 1",
       "count": 65,
-      "file": "packages/2h-persiapan-minites__stroke-penyakit-serebrovaskular.json"
+      "file": "packages\/2h-persiapan-minites__stroke-penyakit-serebrovaskular.json"
     },
     {
       "id": "2h-persiapan-minites__tetanus-rabies",
@@ -136,7 +136,7 @@
       "title": "Tetanus & Rabies",
       "category": "2H - Persiapan Minites 1",
       "count": 30,
-      "file": "packages/2h-persiapan-minites__tetanus-rabies.json"
+      "file": "packages\/2h-persiapan-minites__tetanus-rabies.json"
     },
     {
       "id": "2h-persiapan-minites-2__latihan-soal-kasus2-psikiatri-all-in-one-semua-materi-9-dokt",
@@ -144,7 +144,7 @@
       "title": "Latihan soal kasus2 psikiatri all in one (semua materi 9 dokter SpKJ)",
       "category": "2H - Persiapan Minites 2",
       "count": 110,
-      "file": "packages/2h-persiapan-minites-2__latihan-soal-kasus2-psikiatri-all-in-one-semua-materi-9-dokt.json"
+      "file": "packages\/2h-persiapan-minites-2__latihan-soal-kasus2-psikiatri-all-in-one-semua-materi-9-dokt.json"
     },
     {
       "id": "2h-persiapan-minites-2__latihan-soal-materi-dr-exnacius",
@@ -152,7 +152,7 @@
       "title": "Latihan soal Materi dr Exnacius",
       "category": "2H - Persiapan Minites 2",
       "count": 35,
-      "file": "packages/2h-persiapan-minites-2__latihan-soal-materi-dr-exnacius.json"
+      "file": "packages\/2h-persiapan-minites-2__latihan-soal-materi-dr-exnacius.json"
     },
     {
       "id": "2h-persiapan-minites-2__latihan-soal-materi-dr-heppi",
@@ -160,7 +160,7 @@
       "title": "Latihan soal Materi dr heppi",
       "category": "2H - Persiapan Minites 2",
       "count": 77,
-      "file": "packages/2h-persiapan-minites-2__latihan-soal-materi-dr-heppi.json"
+      "file": "packages\/2h-persiapan-minites-2__latihan-soal-materi-dr-heppi.json"
     },
     {
       "id": "2h-persiapan-minites-2__minites2-2h-2021-2022-crop-fixed",
@@ -168,7 +168,7 @@
       "title": "Minites2 2H 2021-2022 [Crop Fixed]",
       "category": "2H - Persiapan Minites 2",
       "count": 111,
-      "file": "packages/2h-persiapan-minites-2__minites2-2h-2021-2022-crop-fixed.json"
+      "file": "packages\/2h-persiapan-minites-2__minites2-2h-2021-2022-crop-fixed.json"
     },
     {
       "id": "2h-persiapan-minites__promosi-dan-pencegahan-kesehatan-jiwa-fase-prodromal-serta-p",
@@ -176,7 +176,7 @@
       "title": "Promosi dan Pencegahan Kesehatan Jiwa, Fase Prodromal, serta Penemuan Dini Gangguan Jiwa.",
       "category": "2H - Persiapan Minites 2",
       "count": 32,
-      "file": "packages/2h-persiapan-minites__promosi-dan-pencegahan-kesehatan-jiwa-fase-prodromal-serta-p.json"
+      "file": "packages\/2h-persiapan-minites__promosi-dan-pencegahan-kesehatan-jiwa-fase-prodromal-serta-p.json"
     },
     {
       "id": "2h-persiapan-minites__simtomatologi-psikiatri-faktor-gangguan-jiwa",
@@ -184,7 +184,7 @@
       "title": "Simtomatologi Psikiatri & Faktor Gangguan Jiwa",
       "category": "2H - Persiapan Minites 2",
       "count": 42,
-      "file": "packages/2h-persiapan-minites__simtomatologi-psikiatri-faktor-gangguan-jiwa.json"
+      "file": "packages\/2h-persiapan-minites__simtomatologi-psikiatri-faktor-gangguan-jiwa.json"
     },
     {
       "id": "2h-pa-1__latihan-pa-sist-saraf-gambar-v1",
@@ -192,7 +192,7 @@
       "title": "Latihan PA 2H - Bergambar V1",
       "category": "2H PA - Sistem Saraf",
       "count": 52,
-      "file": "packages/2h-pa-1__latihan-pa-sist-saraf-gambar-v1.json"
+      "file": "packages\/2h-pa-1__latihan-pa-sist-saraf-gambar-v1.json"
     },
     {
       "id": "2h-pa-1__latihan-pa-sist-saraf-gambar-v2",
@@ -200,7 +200,7 @@
       "title": "Latihan PA 2H - Bergambar V2",
       "category": "2H PA - Sistem Saraf",
       "count": 52,
-      "file": "packages/2h-pa-1__latihan-pa-sist-saraf-gambar-v2.json"
+      "file": "packages\/2h-pa-1__latihan-pa-sist-saraf-gambar-v2.json"
     },
     {
       "id": "2h-pa-sistem-saraf__latihan-pa-2h-bergambar-v3",
@@ -208,7 +208,7 @@
       "title": "Latihan PA 2H - Bergambar V3",
       "category": "2H PA - Sistem Saraf",
       "count": 25,
-      "file": "packages/2h-pa-sistem-saraf__latihan-pa-2h-bergambar-v3.json"
+      "file": "packages\/2h-pa-sistem-saraf__latihan-pa-2h-bergambar-v3.json"
     },
     {
       "id": "2h-pa-sistem-saraf__latihan-pa-2h-bergambar-v4",
@@ -216,7 +216,7 @@
       "title": "Latihan PA 2H - Bergambar V4",
       "category": "2H PA - Sistem Saraf",
       "count": 25,
-      "file": "packages/2h-pa-sistem-saraf__latihan-pa-2h-bergambar-v4.json"
+      "file": "packages\/2h-pa-sistem-saraf__latihan-pa-2h-bergambar-v4.json"
     },
     {
       "id": "2h-pa-sistem-saraf__latihan-pa-2h-bergambar-v5",
@@ -224,7 +224,7 @@
       "title": "Latihan PA 2H - Bergambar V5",
       "category": "2H PA - Sistem Saraf",
       "count": 25,
-      "file": "packages/2h-pa-sistem-saraf__latihan-pa-2h-bergambar-v5.json"
+      "file": "packages\/2h-pa-sistem-saraf__latihan-pa-2h-bergambar-v5.json"
     },
     {
       "id": "2h-pa-sistem-saraf__latihan-pa-2h-bergambar-v6",
@@ -232,7 +232,7 @@
       "title": "Latihan PA 2H - Bergambar V6",
       "category": "2H PA - Sistem Saraf",
       "count": 27,
-      "file": "packages/2h-pa-sistem-saraf__latihan-pa-2h-bergambar-v6.json"
+      "file": "packages\/2h-pa-sistem-saraf__latihan-pa-2h-bergambar-v6.json"
     },
     {
       "id": "2h-pa-1__lat-pa-sist-saraf-theory-only",
@@ -240,7 +240,7 @@
       "title": "Latihan PA 2H - Theory V1",
       "category": "2H PA - Sistem Saraf",
       "count": 42,
-      "file": "packages/2h-pa-1__lat-pa-sist-saraf-theory-only.json"
+      "file": "packages\/2h-pa-1__lat-pa-sist-saraf-theory-only.json"
     },
     {
       "id": "2h-pa-sistem-saraf__latihan-pa-2h-theory-v2",
@@ -248,7 +248,7 @@
       "title": "Latihan PA 2H - Theory V2",
       "category": "2H PA - Sistem Saraf",
       "count": 30,
-      "file": "packages/2h-pa-sistem-saraf__latihan-pa-2h-theory-v2.json"
+      "file": "packages\/2h-pa-sistem-saraf__latihan-pa-2h-theory-v2.json"
     },
     {
       "id": "2h-pa-sistem-saraf__latihan-pa-2h-theory-v3",
@@ -256,7 +256,7 @@
       "title": "Latihan PA 2H - Theory V3",
       "category": "2H PA - Sistem Saraf",
       "count": 70,
-      "file": "packages/2h-pa-sistem-saraf__latihan-pa-2h-theory-v3.json"
+      "file": "packages\/2h-pa-sistem-saraf__latihan-pa-2h-theory-v3.json"
     },
     {
       "id": "2h-pk-lcs-cairan-otak__latihan-pretes-lcs-cairan",
@@ -264,7 +264,7 @@
       "title": "Latihan Pretes Analisis LCS",
       "category": "2H PK - LCS Cairan Otak",
       "count": 40,
-      "file": "packages/2h-pk-lcs-cairan-otak__latihan-pretes-lcs-cairan.json"
+      "file": "packages\/2h-pk-lcs-cairan-otak__latihan-pretes-lcs-cairan.json"
     },
     {
       "id": "2h-pk-lcs-cairan-otak__latihan-responsi-analisis-lcs-v2",
@@ -272,7 +272,7 @@
       "title": "Latihan Responsi Analisis LCS V2",
       "category": "2H PK - LCS Cairan Otak",
       "count": 23,
-      "file": "packages/2h-pk-lcs-cairan-otak__latihan-responsi-analisis-lcs-v2.json"
+      "file": "packages\/2h-pk-lcs-cairan-otak__latihan-responsi-analisis-lcs-v2.json"
     },
     {
       "id": "2h-pk-lcs-cairan-otak__latihan-responsi-analisis-lcs-v3-isian",
@@ -280,7 +280,7 @@
       "title": "Latihan Responsi Analisis LCS V3 (isian)",
       "category": "2H PK - LCS Cairan Otak",
       "count": 40,
-      "file": "packages/2h-pk-lcs-cairan-otak__latihan-responsi-analisis-lcs-v3-isian.json"
+      "file": "packages\/2h-pk-lcs-cairan-otak__latihan-responsi-analisis-lcs-v3-isian.json"
     },
     {
       "id": "2h-pk-lcs-cairan-otak__latihan-responsi-analisis-lcs-v4-isian",
@@ -288,7 +288,7 @@
       "title": "Latihan Responsi Analisis LCS V4 (isian)",
       "category": "2H PK - LCS Cairan Otak",
       "count": 14,
-      "file": "packages/2h-pk-lcs-cairan-otak__latihan-responsi-analisis-lcs-v4-isian.json"
+      "file": "packages\/2h-pk-lcs-cairan-otak__latihan-responsi-analisis-lcs-v4-isian.json"
     },
     {
       "id": "2h-pk-lcs-cairan-otak__latihan-responsi-analisis-lcs-v5-isian",
@@ -296,7 +296,7 @@
       "title": "Latihan Responsi Analisis LCS V5 (isian)",
       "category": "2H PK - LCS Cairan Otak",
       "count": 66,
-      "file": "packages/2h-pk-lcs-cairan-otak__latihan-responsi-analisis-lcs-v5-isian.json"
+      "file": "packages\/2h-pk-lcs-cairan-otak__latihan-responsi-analisis-lcs-v5-isian.json"
     },
     {
       "id": "premium__blok-1j__minites-1",
@@ -304,7 +304,7 @@
       "title": "Minites 1",
       "category": "Blok 1J",
       "count": 30,
-      "file": "packages/premium__blok-1j__minites-1.json"
+      "file": "packages\/premium__blok-1j__minites-1.json"
     },
     {
       "id": "premium__blok-1j__minites-2",
@@ -312,7 +312,7 @@
       "title": "Minites 2",
       "category": "Blok 1J",
       "count": 25,
-      "file": "packages/premium__blok-1j__minites-2.json"
+      "file": "packages\/premium__blok-1j__minites-2.json"
     },
     {
       "id": "premium__blok-1j__ub-1j-temporary",
@@ -320,7 +320,7 @@
       "title": "UB 1J (Temporary)",
       "category": "Blok 1J",
       "count": 155,
-      "file": "packages/premium__blok-1j__ub-1j-temporary.json"
+      "file": "packages\/premium__blok-1j__ub-1j-temporary.json"
     },
     {
       "id": "premium__blok-2h__ub-2h",
@@ -328,7 +328,7 @@
       "title": "UB 2H",
       "category": "Blok 2H",
       "count": 121,
-      "file": "packages/premium__blok-2h__ub-2h.json"
+      "file": "packages\/premium__blok-2h__ub-2h.json"
     },
     {
       "id": "latihan-kk7__edukasi-mpasi",
@@ -336,7 +336,7 @@
       "title": "Edukasi MPASI",
       "category": "Latihan KK7",
       "count": 38,
-      "file": "packages/latihan-kk7__edukasi-mpasi.json"
+      "file": "packages\/latihan-kk7__edukasi-mpasi.json"
     },
     {
       "id": "latihan-kk7__latihan-dx-kasus-cr",
@@ -344,7 +344,7 @@
       "title": "Latihan Dx Kasus CR",
       "category": "Latihan KK7",
       "count": 30,
-      "file": "packages/latihan-kk7__latihan-dx-kasus-cr.json"
+      "file": "packages\/latihan-kk7__latihan-dx-kasus-cr.json"
     },
     {
       "id": "latihan-kk7__latihan-pemeriksaan-tanda-meningeal",
@@ -352,7 +352,7 @@
       "title": "Latihan Pemeriksaan Tanda Meningeal",
       "category": "Latihan KK7",
       "count": 60,
-      "file": "packages/latihan-kk7__latihan-pemeriksaan-tanda-meningeal.json"
+      "file": "packages\/latihan-kk7__latihan-pemeriksaan-tanda-meningeal.json"
     },
     {
       "id": "latihan-kk7__latihan-pemeriksaan-tanda-meningeal-v2",
@@ -360,7 +360,7 @@
       "title": "Latihan Pemeriksaan Tanda Meningeal - V2",
       "category": "Latihan KK7",
       "count": 65,
-      "file": "packages/latihan-kk7__latihan-pemeriksaan-tanda-meningeal-v2.json"
+      "file": "packages\/latihan-kk7__latihan-pemeriksaan-tanda-meningeal-v2.json"
     },
     {
       "id": "latihan-kk7__latihan-pretes-analisis-kasus-geriatri-dan-pemeriksaan-neuro",
@@ -368,7 +368,7 @@
       "title": "Latihan pretes ANALISIS KASUS GERIATRI DAN PEMERIKSAAN NEUROBEHAVIOR",
       "category": "Latihan KK7",
       "count": 46,
-      "file": "packages/latihan-kk7__latihan-pretes-analisis-kasus-geriatri-dan-pemeriksaan-neuro.json"
+      "file": "packages\/latihan-kk7__latihan-pretes-analisis-kasus-geriatri-dan-pemeriksaan-neuro.json"
     },
     {
       "id": "2h-sl-pungsi-lumbal__latihan-pretes-pungsi-lumbal",
@@ -376,7 +376,7 @@
       "title": "Latihan Pretes Pungsi Lumbal",
       "category": "Latihan KK7",
       "count": 25,
-      "file": "packages/2h-sl-pungsi-lumbal__latihan-pretes-pungsi-lumbal.json"
+      "file": "packages\/2h-sl-pungsi-lumbal__latihan-pretes-pungsi-lumbal.json"
     },
     {
       "id": "premium__mri-brain-lobes__lobus-otak-sagittal",
@@ -384,7 +384,7 @@
       "title": "Lobus Otak - MRI Sagittal",
       "category": "MRI Neuroanatomi",
       "count": 15,
-      "file": "packages/premium__mri-brain-lobes__lobus-otak-sagittal.json"
+      "file": "packages\/premium__mri-brain-lobes__lobus-otak-sagittal.json"
     }
   ]
 }
