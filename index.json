@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T14:04:01.089Z",
+  "generatedAt": "2026-10-22T14:04:30.760Z",
   "packages": [
     {
       "id": "2h-persiapan-minites__cedera-kepala-trauma-medulla-spinalis",
@@ -385,14 +385,6 @@
       "category": "MRI Neuroanatomi",
       "count": 15,
       "file": "packages\/premium__mri-brain-lobes__lobus-otak-sagittal.json"
-    },
-    {
-      "id": "premium__testing__soal-neuro-kuliah-dr-jimmy",
-      "tier": "premium",
-      "title": "soal-neuro-kuliah-dr-jimmy",
-      "category": "testing",
-      "count": 4,
-      "file": "packages\/premium__testing__soal-neuro-kuliah-dr-jimmy.json"
     }
   ]
 }
