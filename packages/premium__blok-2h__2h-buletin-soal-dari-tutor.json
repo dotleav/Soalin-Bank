@@ -1,0 +1,2060 @@
+{
+  "id": "premium__blok-2h__2h-buletin-soal-dari-tutor",
+  "tier": "premium",
+  "title": "2H buletin soal dari tutor",
+  "category": "Blok 2H",
+  "questions": [
+    {
+      "id": "Q1",
+      "category": "",
+      "question": "Seorang laki-laki 50 tahun, berat badan 50 kg, datang dengan hemiparesis dekstra. CT scan menunjukkan stroke iskemik dan pasien memenuhi kriteria trombolisis. Berapakah dosis alteplase yang sesuai?",
+      "questionImages": [],
+      "options": {
+        "A": "25–30 mg",
+        "B": "75–90 mg",
+        "C": "90 mg",
+        "D": "100 mg",
+        "E": "45–60 mg"
+      },
+      "optionExplanations": {},
+      "answer": "E",
+      "explanation": "Dosis alteplase 0,9 mg/kgBB (maks 90 mg); 50 kg x 0,9 = 45 mg.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q2",
+      "category": "",
+      "question": "Seorang pasien stroke iskemik datang 2 jam setelah onset dan CT scan kepala tidak menunjukkan perdarahan. Terapi reperfusi yang diberikan adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Antikoagulan oral jangka panjang",
+        "B": "Manitol",
+        "C": "Trombolisis intravena",
+        "D": "Kraniektomi dekompresi",
+        "E": "Observasi tanpa terapi"
+      },
+      "optionExplanations": {},
+      "answer": "C",
+      "explanation": "Onset <4,5 jam dan CT tanpa perdarahan: terapi reperfusi adalah trombolisis IV (alteplase).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q3",
+      "category": "",
+      "question": "Trombektomi mekanik pada stroke iskemik akibat oklusi pembuluh darah besar sirkulasi anterior dilakukan pada jendela waktu standar …",
+      "questionImages": [],
+      "options": {
+        "A": "< 6 jam",
+        "B": "< 1 jam",
+        "C": "< 3 jam",
+        "D": "< 12 jam",
+        "E": "< 48 jam"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Trombektomi mekanik oklusi pembuluh besar sirkulasi anterior: jendela standar <6 jam (dapat diperpanjang pada pasien terpilih dengan pencitraan perfusi).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q4",
+      "category": "",
+      "question": "Pemeriksaan penunjang pertama yang paling tepat untuk membedakan stroke hemoragik dari stroke iskemik adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "MRI kepala dengan kontras",
+        "B": "EEG",
+        "C": "Pungsi lumbal",
+        "D": "CT scan kepala tanpa kontras",
+        "E": "Angiografi serebral (DSA)"
+      },
+      "optionExplanations": {},
+      "answer": "D",
+      "explanation": "CT scan kepala tanpa kontras: cepat, tersedia luas, dan sensitif mendeteksi perdarahan akut (hiperdens).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q5",
+      "category": "",
+      "question": "Pada stroke iskemik akut, daerah otak yang sudah mengalami nekrosis ireversibel adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Penumbra",
+        "B": "Inti iskemik (ischemic core)",
+        "C": "Sirkulasi kolateral",
+        "D": "Zona oligemia",
+        "E": "Zona kompensasi"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Inti iskemik (ischemic core) = jaringan nekrosis ireversibel; penumbra masih dapat diselamatkan.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q6",
+      "category": "",
+      "question": "Pada stroke iskemik, daerah yang mengalami proses apoptosis dan masih dapat diselamatkan bila dilakukan reperfusi dini adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Inti iskemik",
+        "B": "Zona kompensasi",
+        "C": "Jaringan otak normal",
+        "D": "Ruang subaraknoid",
+        "E": "Penumbra"
+      },
+      "optionExplanations": {},
+      "answer": "E",
+      "explanation": "Penumbra: area hipoperfusi dengan apoptosis, masih viable bila reperfusi dini.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q7",
+      "category": "",
+      "question": "Seorang pasien mengalami kelemahan satu sisi tubuh selama kurang dari 1 jam dan pulih sempurna. CT scan kepala normal. Diagnosisnya adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Stroke iskemik",
+        "B": "Stroke hemoragik",
+        "C": "Transient ischemic attack (TIA)",
+        "D": "Migren dengan aura",
+        "E": "Epilepsi fokal"
+      },
+      "optionExplanations": {},
+      "answer": "C",
+      "explanation": "Defisit fokal <1 jam (umumnya <24 jam), pulih sempurna, tanpa infark pada pencitraan = TIA.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q8",
+      "category": "",
+      "question": "Pemeriksaan yang paling tepat untuk membedakan infark lama dan infark baru adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "MRI + DWI + ADC",
+        "B": "MR angiografi",
+        "C": "CT angiografi",
+        "D": "MRI dengan kontras",
+        "E": "CT scan kepala tanpa kontras"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "MRI DWI + ADC: infark baru restriksi difusi (DWI hiperintens, ADC hipointens); infark lama tidak.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q9",
+      "category": "",
+      "question": "Pemeriksaan non-invasif yang digunakan untuk menilai pembuluh darah arteri otak adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Digital subtraction angiography (DSA)",
+        "B": "Pungsi lumbal",
+        "C": "Elektroensefalografi (EEG)",
+        "D": "CT angiografi",
+        "E": "Elektromiografi (EMG)"
+      },
+      "optionExplanations": {},
+      "answer": "D",
+      "explanation": "CT angiografi non-invasif untuk menilai arteri otak; DSA invasif (baku emas).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q10",
+      "category": "",
+      "question": "Manakah yang merupakan tahap awal terjadinya aterosklerosis?",
+      "questionImages": [],
+      "options": {
+        "A": "Pembentukan plak fibrosa",
+        "B": "Disfungsi endotel",
+        "C": "Kalsifikasi plak",
+        "D": "Ruptur plak",
+        "E": "Trombosis oklusif"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Disfungsi endotel adalah tahap awal aterosklerosis, lalu fatty streak, plak fibrosa, kalsifikasi, ruptur, trombosis.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q11",
+      "category": "",
+      "question": "Seorang pasien mengeluh tremor bilateral, kesulitan berjalan ringan, dan gangguan keseimbangan. Berdasarkan skala Hoehn dan Yahr, pasien berada pada stadium …",
+      "questionImages": [],
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "4",
+        "D": "5",
+        "E": "3"
+      },
+      "optionExplanations": {},
+      "answer": "E",
+      "explanation": "Hoehn-Yahr 3: gejala bilateral disertai gangguan keseimbangan (instabilitas postural), masih mandiri.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q12",
+      "category": "",
+      "question": "Patogenesis utama penyakit Parkinson adalah perubahan neurotransmiter berupa …",
+      "questionImages": [],
+      "options": {
+        "A": "Peningkatan dopamin",
+        "B": "Peningkatan asetilkolin",
+        "C": "Penurunan dopamin",
+        "D": "Penurunan serotonin",
+        "E": "Peningkatan GABA"
+      },
+      "optionExplanations": {},
+      "answer": "C",
+      "explanation": "Parkinson: degenerasi neuron dopaminergik substansia nigra sehingga dopamin menurun.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q13",
+      "category": "",
+      "question": "Obat yang bekerja dengan menghambat katabolisme dopamin pada terapi Parkinson adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Inhibitor MAO-B (selegilin)",
+        "B": "Levodopa",
+        "C": "Trihexyphenidyl",
+        "D": "Haloperidol",
+        "E": "Amantadin"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Selegilin (inhibitor MAO-B) menghambat katabolisme dopamin; levodopa adalah prekursor dopamin.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q14",
+      "category": "",
+      "question": "Karakteristik rigiditas pada penyakit Parkinson adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Peningkatan tonus yang tiba-tiba melemah (clasp-knife)",
+        "B": "Tonus menurun (hipotonia)",
+        "C": "Peningkatan tonus hanya pada gerakan cepat",
+        "D": "Peningkatan tonus yang konstan sepanjang gerakan (lead-pipe/cogwheel)",
+        "E": "Tonus normal disertai klonus"
+      },
+      "optionExplanations": {},
+      "answer": "D",
+      "explanation": "Rigiditas Parkinson: tahanan konstan sepanjang gerak (lead-pipe), bila disertai tremor menjadi cogwheel.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q15",
+      "category": "",
+      "question": "Perbedaan spastisitas dengan rigiditas adalah pada spastisitas …",
+      "questionImages": [],
+      "options": {
+        "A": "Tahanan konstan sepanjang rentang gerak (lead-pipe)",
+        "B": "Peningkatan tonus muncul saat gerakan dan dapat tiba-tiba melemah (fenomena clasp-knife)",
+        "C": "Tidak dipengaruhi kecepatan gerak",
+        "D": "Disertai tremor istirahat",
+        "E": "Disebabkan lesi ekstrapiramidal"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Spastisitas: tonus meningkat bergantung kecepatan dan dapat tiba-tiba melemah (clasp-knife); rigiditas konstan.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q16",
+      "category": "",
+      "question": "Manakah yang termasuk gangguan gerak hipokinetik?",
+      "questionImages": [],
+      "options": {
+        "A": "Korea",
+        "B": "Balismus",
+        "C": "Tic",
+        "D": "Mioklonus",
+        "E": "Parkinsonisme"
+      },
+      "optionExplanations": {},
+      "answer": "E",
+      "explanation": "Parkinsonisme = hipokinetik (gerak miskin/lambat); korea, balismus, tic, mioklonus = hiperkinetik.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q17",
+      "category": "",
+      "question": "Gangguan gerak hiperkinetik ditandai oleh …",
+      "questionImages": [],
+      "options": {
+        "A": "Gerakan lambat dengan tonus meningkat",
+        "B": "Gerakan miskin dengan rigiditas",
+        "C": "Gerakan involunter berlebihan dengan tonus otot normal",
+        "D": "Gerakan involunter dengan spastisitas berat",
+        "E": "Kelumpuhan dengan refleks menurun"
+      },
+      "optionExplanations": {},
+      "answer": "C",
+      "explanation": "Hiperkinetik: gerakan involunter berlebihan dengan tonus otot normal.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q18",
+      "category": "",
+      "question": "Gerakan involunter berurutan yang muncul secara acak, berasal dari satu atau lebih gerakan atau fragmen gerakan yang tidak disengaja, disebut …",
+      "questionImages": [],
+      "options": {
+        "A": "Korea",
+        "B": "Atetosis",
+        "C": "Tremor",
+        "D": "Mioklonus",
+        "E": "Distonia"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Korea: gerakan involunter acak berurutan dari fragmen gerakan yang tidak disengaja.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q19",
+      "category": "",
+      "question": "Seorang pasien setelah mendapat haloperidol berjalan kaku seperti robot dan mengeluarkan air liur berlebih. Terapi yang tepat adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Haloperidol dosis ditingkatkan",
+        "B": "Diazepam dosis tinggi",
+        "C": "Levodopa",
+        "D": "Benztropin",
+        "E": "Fenitoin"
+      },
+      "optionExplanations": {},
+      "answer": "D",
+      "explanation": "Parkinsonisme akibat antipsikotik (haloperidol): beri antikolinergik (benztropin/triheksifenidil).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q20",
+      "category": "",
+      "question": "Antikonvulsan berikut yang bekerja meningkatkan inhibisi GABAergik adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Fenitoin",
+        "B": "Fenobarbital",
+        "C": "Karbamazepin",
+        "D": "Lamotrigin",
+        "E": "Etosuksimid"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Fenobarbital dan benzodiazepin meningkatkan inhibisi GABAergik; fenitoin, karbamazepin, lamotrigin menghambat kanal Na.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q21",
+      "category": "",
+      "question": "Antikonvulsan yang bekerja dengan menghambat kanal natrium adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Vigabatrin",
+        "B": "Tiagabin",
+        "C": "Diazepam",
+        "D": "Gabapentin",
+        "E": "Fenitoin"
+      },
+      "optionExplanations": {},
+      "answer": "E",
+      "explanation": "Fenitoin menghambat kanal natrium tergantung voltase.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q22",
+      "category": "",
+      "question": "Antikonvulsan pilihan untuk kejang fokal (focal onset seizure) adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Etosuksimid",
+        "B": "Vigabatrin",
+        "C": "Karbamazepin",
+        "D": "Piridoksin",
+        "E": "Prednison"
+      },
+      "optionExplanations": {},
+      "answer": "C",
+      "explanation": "Karbamazepin: pilihan untuk kejang fokal; etosuksimid untuk absans.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q23",
+      "category": "",
+      "question": "Pasien status epileptikus telah diberikan diazepam IV satu kali dan kejang masih berlangsung. Langkah selanjutnya adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Ulangi diazepam IV satu kali; bila belum berhenti berikan fenitoin sebagai lini kedua",
+        "B": "Langsung anestesi umum",
+        "C": "Tunggu 30 menit sambil observasi",
+        "D": "Berikan manitol",
+        "E": "Hentikan pengobatan dan rujuk tanpa terapi"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Status epileptikus: benzodiazepin IV dapat diulang sekali, bila belum berhenti lanjut lini kedua (fenitoin).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q24",
+      "category": "",
+      "question": "Batas waktu maksimal penanganan status epileptikus absans (kejang non-konvulsif) berdasarkan klasifikasi ILAE adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "10 menit",
+        "B": "30 menit",
+        "C": "90 menit",
+        "D": "60 menit",
+        "E": "Tidak ada batas"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Klasifikasi ILAE: status absans dimulai dianggap status pada t1 10-15 menit. [Angka t1; verifikasi dengan slide dosen]",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q25",
+      "category": "",
+      "question": "Antikonvulsan yang diberikan sebagai profilaksis kejang dini pada cedera kepala traumatik adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Etosuksimid",
+        "B": "Fenitoin",
+        "C": "Gabapentin",
+        "D": "Amitriptilin",
+        "E": "Haloperidol"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Fenitoin untuk profilaksis kejang dini (7 hari pertama) pada cedera kepala traumatik.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q26",
+      "category": "",
+      "question": "Kejang yang terjadi dengan kesadaran tetap utuh (simple partial seizure) menurut klasifikasi ILAE terbaru disebut …",
+      "questionImages": [],
+      "options": {
+        "A": "Focal impaired awareness seizure",
+        "B": "Generalized tonic-clonic seizure",
+        "C": "Absence seizure",
+        "D": "Focal to bilateral tonic-clonic seizure",
+        "E": "Focal aware seizure"
+      },
+      "optionExplanations": {},
+      "answer": "E",
+      "explanation": "Kejang dengan kesadaran utuh (dulu simple partial) = focal aware seizure.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q27",
+      "category": "",
+      "question": "Seorang mahasiswa kejang setelah mengerjakan skripsi di depan laptop selama 10 jam. Jenis kejang tersebut paling sesuai dengan …",
+      "questionImages": [],
+      "options": {
+        "A": "Kejang demam",
+        "B": "Status epileptikus",
+        "C": "Kejang refleks (reflex seizure)",
+        "D": "Kejang psikogenik",
+        "E": "Stroke"
+      },
+      "optionExplanations": {},
+      "answer": "C",
+      "explanation": "Kejang yang dipicu stimulus spesifik (visual/layar, lama membaca) = kejang refleks.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q28",
+      "category": "",
+      "question": "Mekanisme kerja amitriptilin dalam mengurangi nyeri neuropatik adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Menghambat ambilan kembali serotonin dan norepinefrin",
+        "B": "Menghambat kanal natrium",
+        "C": "Berikatan dengan subunit α2δ kanal kalsium",
+        "D": "Memblokade reseptor dopamin",
+        "E": "Berikatan dengan reseptor mu"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Amitriptilin (TCA) menghambat ambilan kembali serotonin dan norepinefrin sehingga meningkatkan inhibisi nyeri desendens.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q29",
+      "category": "",
+      "question": "Seorang pasien demam dengan sampel LCS yang diwarnai tinta India menunjukkan sel berkapsul. Etiologinya adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Mycobacterium tuberculosis",
+        "B": "Leptospira",
+        "C": "Streptococcus pneumoniae",
+        "D": "Cryptococcus neoformans",
+        "E": "Toxoplasma gondii"
+      },
+      "optionExplanations": {},
+      "answer": "D",
+      "explanation": "Tinta India pada LCS menampakkan sel berkapsul: Cryptococcus neoformans.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q30",
+      "category": "",
+      "question": "Bakteri penyebab meningitis/meningoensefalitis bakterial tersering pada lansia adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Haemophilus influenzae",
+        "B": "Streptococcus pneumoniae",
+        "C": "Neisseria meningitidis",
+        "D": "Listeria monocytogenes",
+        "E": "Streptococcus grup B"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Pada lansia tersering S. pneumoniae (Listeria juga penting, tetapi pneumokokus tersering).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q31",
+      "category": "",
+      "question": "Baku emas penegakan etiologi meningoensefalitis adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "CT scan kepala dengan kontras",
+        "B": "MRI kepala",
+        "C": "Tanda rangsang meningeal positif",
+        "D": "LED darah meningkat",
+        "E": "Pemeriksaan cairan serebrospinal (CSF)"
+      },
+      "optionExplanations": {},
+      "answer": "E",
+      "explanation": "Pemeriksaan cairan serebrospinal (pungsi lumbal) = baku emas penegakan etiologi.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q32",
+      "category": "",
+      "question": "Penyebab meningitis viral yang paling sering adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Cytomegalovirus",
+        "B": "Epstein-Barr virus",
+        "C": "Enterovirus",
+        "D": "Herpes virus",
+        "E": "Arbovirus"
+      },
+      "optionExplanations": {},
+      "answer": "C",
+      "explanation": "Enterovirus penyebab tersering meningitis viral.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q33",
+      "category": "",
+      "question": "Seorang pasien datang dengan demam, berkeringat, dan menggigil. Satu bulan lalu ia bepergian ke Indonesia timur. Pemeriksaan penunjang yang sesuai untuk menegakkan diagnosis adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Darah tepi (apusan darah/malaria)",
+        "B": "Sampel LCS",
+        "C": "LED darah",
+        "D": "SGOT/SGPT",
+        "E": "CT scan otak dengan kontras"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Demam, berkeringat, menggigil setelah ke daerah endemis (Indonesia timur): curiga malaria, periksa apusan darah tepi.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q34",
+      "category": "",
+      "question": "Seorang pasien tetanus menunjukkan kekakuan wajah (risus sardonikus). Terapi spesifik yang diberikan untuk menetralkan toksin yang belum terikat adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Vitamin B kompleks",
+        "B": "Parasetamol",
+        "C": "Fenitoin",
+        "D": "Human tetanus immunoglobulin (HTIG)",
+        "E": "Kortikosteroid"
+      },
+      "optionExplanations": {},
+      "answer": "D",
+      "explanation": "HTIG menetralkan toksin tetanus yang belum terikat saraf.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q35",
+      "category": "",
+      "question": "Tetanospasmin dari Clostridium tetani ditransmisikan ke sistem saraf pusat melalui …",
+      "questionImages": [],
+      "options": {
+        "A": "Transport ekstraaksonal",
+        "B": "Transport retrograde intraaksonal",
+        "C": "Transmisi aksodendritik",
+        "D": "Transmisi intradendritik",
+        "E": "Aliran CSF langsung"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Tetanospasmin naik ke SSP melalui transpor retrograde intraaksonal.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q36",
+      "category": "",
+      "question": "Clostridium tetani paling baik berkembang biak pada kondisi …",
+      "questionImages": [],
+      "options": {
+        "A": "Oksigen tinggi",
+        "B": "Suhu sangat dingin",
+        "C": "Lingkungan asam kuat",
+        "D": "Lingkungan hipertonik",
+        "E": "Oksigen rendah (anaerob)"
+      },
+      "optionExplanations": {},
+      "answer": "E",
+      "explanation": "C. tetani bakteri anaerob; berkembang pada oksigen rendah (luka dalam/nekrotik).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q37",
+      "category": "",
+      "question": "Gejala yang TIDAK mungkin ditemukan pada mielitis adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Retensi alvi",
+        "B": "Retensi atau inkontinensia urin",
+        "C": "Paresis fasial (Bell’s palsy)",
+        "D": "Paraparesis",
+        "E": "Gangguan sensorik setinggi lesi"
+      },
+      "optionExplanations": {},
+      "answer": "C",
+      "explanation": "Mielitis: gangguan motorik, sensorik, otonom setinggi lesi; paresis fasial perifer bukan gejalanya.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q38",
+      "category": "",
+      "question": "Mekanisme kerja piridostigmin pada miastenia gravis adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Menghambat asetilkolinesterase sehingga asetilkolin di celah sinaps meningkat",
+        "B": "Memblokade reseptor asetilkolin",
+        "C": "Menghambat pelepasan asetilkolin",
+        "D": "Menekan produksi antibodi",
+        "E": "Meningkatkan degradasi asetilkolin"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Piridostigmin: inhibitor asetilkolinesterase sehingga asetilkolin di celah sinaps meningkat.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q39",
+      "category": "",
+      "question": "Eksaserbasi berat miastenia gravis yang disertai gagal napas disebut …",
+      "questionImages": [],
+      "options": {
+        "A": "Krisis kolinergik",
+        "B": "Krisis tirotoksik",
+        "C": "Krisis hipertensi",
+        "D": "Krisis miastenik",
+        "E": "Status epileptikus"
+      },
+      "optionExplanations": {},
+      "answer": "D",
+      "explanation": "Krisis miastenik: eksaserbasi berat dengan gagal napas; krisis kolinergik karena kelebihan antikolinesterase.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q40",
+      "category": "",
+      "question": "Tumor ganas susunan saraf pusat yang paling sering ditemukan di serebelum pada anak adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Astrositoma pilositik",
+        "B": "Meduloblastoma",
+        "C": "Metastasis",
+        "D": "Limfoma",
+        "E": "Ependimoma"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Meduloblastoma: tumor ganas tersering di serebelum (vermis) pada anak.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q41",
+      "category": "",
+      "question": "Tumor yang paling sering berasal dari duramater/meningen adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Glioblastoma",
+        "B": "Schwannoma",
+        "C": "Meduloblastoma",
+        "D": "Ependimoma",
+        "E": "Meningioma"
+      },
+      "optionExplanations": {},
+      "answer": "E",
+      "explanation": "Meningioma berasal dari sel arachnoid, tumor tersering dari meningen.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q42",
+      "category": "",
+      "question": "Semua pernyataan berikut sesuai dengan oligodendroglioma, KECUALI …",
+      "questionImages": [],
+      "options": {
+        "A": "Berasal dari sel glia (oligodendrosit)",
+        "B": "Lebih sering pada dewasa",
+        "C": "Paling sering pada anak di serebelum",
+        "D": "Lokasi tersering di hemisfer serebri (lobus frontal)",
+        "E": "Sering menunjukkan kalsifikasi"
+      },
+      "optionExplanations": {},
+      "answer": "C",
+      "explanation": "Oligodendroglioma: dewasa, lobus frontal, kalsifikasi; tumor serebelum pada anak adalah meduloblastoma.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q43",
+      "category": "",
+      "question": "Sindrom von Hippel-Lindau disebabkan oleh …",
+      "questionImages": [],
+      "options": {
+        "A": "Faktor genetik (mutasi gen VHL)",
+        "B": "Imunosupresi",
+        "C": "Infeksi virus",
+        "D": "Paparan radiasi",
+        "E": "Defisiensi vitamin"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Von Hippel-Lindau: kelainan genetik autosomal dominan akibat mutasi gen VHL.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q44",
+      "category": "",
+      "question": "Gambaran CT scan epidural hematoma yang khas adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Bulan sabit (crescent) melewati sutura",
+        "B": "Hiperdens di sisterna basalis",
+        "C": "Lesi hipodens multipel",
+        "D": "Bikonveks (lentikular) dan tidak melewati sutura",
+        "E": "Hiperdens di ventrikel"
+      },
+      "optionExplanations": {},
+      "answer": "D",
+      "explanation": "Epidural hematoma: lesi hiperdens bikonveks (lentikular), tidak melewati sutura (arteri meningea media).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q45",
+      "category": "",
+      "question": "Berikut ini yang termasuk cedera kepala sekunder adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Kontusio serebri",
+        "B": "Hipoksia dan hipotensi yang menyebabkan iskemia otak",
+        "C": "Laserasi otak",
+        "D": "Fraktur linier tulang tengkorak",
+        "E": "Diffuse axonal injury"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Cedera sekunder: akibat hipoksia, hipotensi, iskemia, edema setelah trauma primer.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q46",
+      "category": "",
+      "question": "Berikut ini yang BUKAN merupakan kriteria Canadian CT Head Rule adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Usia ≥ 65 tahun",
+        "B": "Amnesia retrograde ≥ 30 menit",
+        "C": "GCS < 15 dua jam setelah cedera",
+        "D": "Curiga fraktur basis kranii",
+        "E": "Nyeri kepala hebat"
+      },
+      "optionExplanations": {},
+      "answer": "E",
+      "explanation": "Nyeri kepala hebat bukan kriteria Canadian CT Head Rule.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q47",
+      "category": "",
+      "question": "Tanda dan gejala yang menunjang herniasi serebral adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Asteriksis",
+        "B": "Kejang umum",
+        "C": "Pupil anisokor",
+        "D": "Pupil reaktif simetris",
+        "E": "Tremor halus"
+      },
+      "optionExplanations": {},
+      "answer": "C",
+      "explanation": "Herniasi: pupil anisokor akibat kompresi N. III.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q48",
+      "category": "",
+      "question": "Pola pernapasan yang khas pada cedera di pons adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Apneustik",
+        "B": "Cheyne-Stokes",
+        "C": "Kussmaul",
+        "D": "Ataksik (Biot) saja",
+        "E": "Normal"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Lesi pons: pernapasan apneustik.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q49",
+      "category": "",
+      "question": "Pada lesi medula spinalis servikal, pola pernapasan yang tampak adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Biot",
+        "B": "Apnea",
+        "C": "Kussmaul",
+        "D": "Pernapasan abdominal",
+        "E": "Cheyne-Stokes"
+      },
+      "optionExplanations": {},
+      "answer": "D",
+      "explanation": "Lesi medula spinalis servikal: otot interkostal lumpuh, diafragma (C3-5) masih bekerja sehingga pernapasan abdominal.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q50",
+      "category": "",
+      "question": "Seorang pasien membuka mata pada rangsang suara, berbicara dengan bingung (disorientasi), dan dapat mengikuti perintah. Nilai GCS-nya adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "9",
+        "B": "13",
+        "C": "11",
+        "D": "12",
+        "E": "15"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Buka mata pada suara E3 + bicara bingung V4 + ikut perintah M6 = 13.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q51",
+      "category": "",
+      "question": "Gejala khas ensefalopati hepatikum adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Klonus",
+        "B": "Tremor istirahat",
+        "C": "Distonia",
+        "D": "Korea",
+        "E": "Asteriksis"
+      },
+      "optionExplanations": {},
+      "answer": "E",
+      "explanation": "Asteriksis (flapping tremor) khas ensefalopati hepatikum.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q52",
+      "category": "",
+      "question": "Tatalaksana awal pada pasien dengan ensefalopati adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Langsung CT scan kepala",
+        "B": "Antibiotik empiris",
+        "C": "Stabilisasi jalan napas, pernapasan, dan sirkulasi (ABC)",
+        "D": "Pungsi lumbal",
+        "E": "Antikonvulsan profilaksis"
+      },
+      "optionExplanations": {},
+      "answer": "C",
+      "explanation": "Tatalaksana awal ensefalopati: stabilisasi ABC.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q53",
+      "category": "",
+      "question": "Tatalaksana utama pada ensefalopati hipoglikemik adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Pemberian dekstrosa intravena",
+        "B": "Manitol",
+        "C": "Insulin",
+        "D": "Fenitoin",
+        "E": "Kortikosteroid"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Ensefalopati hipoglikemik: koreksi dengan dekstrosa intravena.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q54",
+      "category": "",
+      "question": "Pernyataan yang benar mengenai manitol adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Merupakan cairan hipotonik",
+        "B": "Boleh diberikan pada pasien hipovolemia berat tanpa koreksi",
+        "C": "Dosis 0,05 mg/kgBB",
+        "D": "Dosis 0,25–1 g/kgBB",
+        "E": "Dikontraindikasikan pada peningkatan TIK"
+      },
+      "optionExplanations": {},
+      "answer": "D",
+      "explanation": "Manitol osmotik hipertonik, dosis 0,25-1 g/kgBB untuk TIK meningkat; hati-hati pada hipovolemia.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q55",
+      "category": "",
+      "question": "Metamfetamin memengaruhi susunan saraf pusat dengan cara …",
+      "questionImages": [],
+      "options": {
+        "A": "Menurunkan dopamin dan serotonin",
+        "B": "Meningkatkan dopamin, serotonin, dan norepinefrin",
+        "C": "Menghambat reseptor GABA",
+        "D": "Menghambat kanal natrium",
+        "E": "Meningkatkan asetilkolin saja"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Metamfetamin meningkatkan pelepasan dopamin, serotonin, dan norepinefrin.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q56",
+      "category": "",
+      "question": "Pernyataan yang benar tentang nyeri punggung bawah (NPB) akut adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Selalu memerlukan operasi",
+        "B": "Selalu disebabkan HNP",
+        "C": "Memerlukan tirah baring lama",
+        "D": "Selalu disertai defisit neurologis",
+        "E": "Sebagian besar bersifat self-limiting"
+      },
+      "optionExplanations": {},
+      "answer": "E",
+      "explanation": "Mayoritas NPB akut self-limiting; tirah baring lama tidak dianjurkan.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q57",
+      "category": "",
+      "question": "Batas atas regio nyeri punggung bawah adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Vertebra servikal",
+        "B": "Vertebra torakal T4",
+        "C": "Margo kosta inferior (iga ke-12)",
+        "D": "Garis bahu",
+        "E": "Skapula"
+      },
+      "optionExplanations": {},
+      "answer": "C",
+      "explanation": "Regio NPB dibatasi atas oleh margo kosta inferior (iga ke-12).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q58",
+      "category": "",
+      "question": "Seorang pasien nyeri punggung bawah menjalar ke tungkai kanan; refleks Achilles kanan menurun, kiri normal. Radiks saraf yang terkena adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "S1",
+        "B": "T10",
+        "C": "L2",
+        "D": "L4",
+        "E": "C7"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Refleks Achilles dipersarafi S1.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q59",
+      "category": "",
+      "question": "Seorang pasien dengan riwayat herpes zoster 2 bulan lalu kini merasakan nyeri seperti tersetrum dan terbakar tanpa tanda inflamasi kulit. Jenis nyeri tersebut adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Nosiseptif",
+        "B": "Viseral",
+        "C": "Somatik superfisial",
+        "D": "Neuropatik",
+        "E": "Psikogenik"
+      },
+      "optionExplanations": {},
+      "answer": "D",
+      "explanation": "Nyeri tersetrum/terbakar pascaherpes tanpa inflamasi: neuropatik (neuralgia pascaherpetik).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q60",
+      "category": "",
+      "question": "Nyeri otot akibat keseleo termasuk jenis nyeri …",
+      "questionImages": [],
+      "options": {
+        "A": "Neuropatik",
+        "B": "Nosiseptif",
+        "C": "Psikogenik",
+        "D": "Sentral",
+        "E": "Idiopatik"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Nyeri jaringan akibat cedera (keseleo) = nosiseptif.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q61",
+      "category": "",
+      "question": "Contoh nyeri viseral adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Nyeri otot keseleo",
+        "B": "Nyeri pascaherpetik",
+        "C": "Nyeri sendi lutut",
+        "D": "Nyeri tusuk kulit",
+        "E": "Kolik usus (intestinum)"
+      },
+      "optionExplanations": {},
+      "answer": "E",
+      "explanation": "Kolik usus adalah nyeri viseral.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q62",
+      "category": "",
+      "question": "Taut band merupakan temuan khas pada nyeri …",
+      "questionImages": [],
+      "options": {
+        "A": "Neuropatik",
+        "B": "Viseral",
+        "C": "Miofasial",
+        "D": "Radikular",
+        "E": "Sentral"
+      },
+      "optionExplanations": {},
+      "answer": "C",
+      "explanation": "Taut band khas nyeri miofasial (trigger point).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q63",
+      "category": "",
+      "question": "Pelepasan mediator inflamasi yang mengaktifkan nosiseptor, kemudian impuls diteruskan melalui serabut C, merupakan proses …",
+      "questionImages": [],
+      "options": {
+        "A": "Transduksi dan transmisi",
+        "B": "Modulasi dan persepsi",
+        "C": "Transmisi dan modulasi",
+        "D": "Persepsi dan transduksi",
+        "E": "Modulasi dan transduksi"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Mediator inflamasi mengaktivasi nosiseptor (transduksi), lalu impuls lewat serabut C (transmisi).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q64",
+      "category": "",
+      "question": "Seorang pasien dengan diabetes, hipertensi, dan gangguan fungsi ginjal memerlukan obat untuk nyeri sedang. Pilihan yang paling aman adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Ketorolac",
+        "B": "Ibuprofen",
+        "C": "Asam mefenamat",
+        "D": "Parasetamol",
+        "E": "Diklofenak"
+      },
+      "optionExplanations": {},
+      "answer": "D",
+      "explanation": "Parasetamol paling aman; NSAID berisiko ginjal, kardiovaskular, dan saluran cerna.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q65",
+      "category": "",
+      "question": "Saat dikejar anjing, seseorang tersandung batu tetapi tetap berlari dan tidak merasakan nyeri. Neurotransmiter yang paling berperan adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Dopamin",
+        "B": "Norepinefrin",
+        "C": "Serotonin",
+        "D": "GABA",
+        "E": "Asetilkolin"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Stress-induced analgesia: jalur desendens noradrenergik (dan opioid endogen) menekan nyeri saat fight-or-flight.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q66",
+      "category": "",
+      "question": "Tanda khas yang sering muncul pada spondilitis tuberkulosa (Morbus Pott) adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Skoliosis fungsional",
+        "B": "Lordosis lumbal berlebihan",
+        "C": "Ankilosis bambu",
+        "D": "Kifosis fisiologis",
+        "E": "Deformitas gibbus"
+      },
+      "optionExplanations": {},
+      "answer": "E",
+      "explanation": "Gibbus (kifosis tajam setempat) khas spondilitis TB.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q67",
+      "category": "",
+      "question": "Pemeriksaan dengan pemeriksa memegang tumit, tungkai pasien diluruskan dan dinaikkan setinggi tingginya adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Tes Patrick",
+        "B": "Tes Phalen",
+        "C": "Tes Lasègue (straight leg raising)",
+        "D": "Tes Tinel",
+        "E": "Tes Romberg"
+      },
+      "optionExplanations": {},
+      "answer": "C",
+      "explanation": "Tes Lasègue (SLR): tungkai diluruskan dan diangkat; positif pada iritasi radiks (HNP).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q68",
+      "category": "",
+      "question": "Tes untuk mengetahui nyeri pada sendi sakroiliaka adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Tes Patrick (FABER)",
+        "B": "Tes Lasègue",
+        "C": "Tes Phalen",
+        "D": "Tes Romberg",
+        "E": "Tes Tinel"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Tes Patrick/FABER menilai nyeri sendi sakroiliaka (juga panggul).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q69",
+      "category": "",
+      "question": "Pasien carpal tunnel syndrome diminta menyatukan kedua punggung tangan dan menekan sekeras mungkin. Tes tersebut adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Tes Tinel",
+        "B": "Tes Lasègue",
+        "C": "Tes Patrick",
+        "D": "Tes Phalen",
+        "E": "Tes Finkelstein"
+      },
+      "optionExplanations": {},
+      "answer": "D",
+      "explanation": "Tes Phalen: punggung tangan ditekan bersatu, positif pada carpal tunnel syndrome.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q70",
+      "category": "",
+      "question": "Refleks bulbokavernosus digunakan untuk menilai fungsi saraf …",
+      "questionImages": [],
+      "options": {
+        "A": "N. gluteus superior",
+        "B": "N. pudendus",
+        "C": "N. gluteus inferior",
+        "D": "N. iskiadikus",
+        "E": "N. femoralis"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Refleks bulbokavernosus mengevaluasi N. pudendus (S2-4).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q71",
+      "category": "",
+      "question": "Pemeriksaan skor ASIA mengevaluasi berapa otot kunci (key muscles) pada setiap sisi tubuh?",
+      "questionImages": [],
+      "options": {
+        "A": "4 otot",
+        "B": "6 otot",
+        "C": "8 otot",
+        "D": "12 otot",
+        "E": "10 otot"
+      },
+      "optionExplanations": {},
+      "answer": "E",
+      "explanation": "Skor ASIA: 10 otot kunci tiap sisi (5 ekstremitas atas, 5 bawah).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q72",
+      "category": "",
+      "question": "Pasien mengeluh nyeri kepala hebat di belakang bola mata yang berulang dan menyerang satu sisi. Diagnosisnya adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Migren",
+        "B": "Tension-type headache episodik",
+        "C": "Cluster headache",
+        "D": "Sinusitis",
+        "E": "Nyeri kepala servikogenik"
+      },
+      "optionExplanations": {},
+      "answer": "C",
+      "explanation": "Nyeri kepala hebat periorbital unilateral berulang = cluster headache.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q73",
+      "category": "",
+      "question": "Seorang wanita 40 tahun mengeluh nyeri kepala seperti tertekan selama sekitar 30 menit, hilang timbul hingga satu minggu, dipicu kurang tidur, pemeriksaan normal. Diagnosis klinisnya adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Tension-type headache episodik",
+        "B": "Migren",
+        "C": "Cluster headache",
+        "D": "Sinus headache",
+        "E": "Tension-type headache kronik"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Nyeri tertekan 30 menit-7 hari, dipicu kurang tidur, pemeriksaan normal = tension-type headache episodik.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q74",
+      "category": "",
+      "question": "Penyebab vertigo perifer yang paling sering adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Penyakit Meniere",
+        "B": "Neuritis vestibular",
+        "C": "Stroke batang otak",
+        "D": "Benign paroxysmal positional vertigo (BPPV)",
+        "E": "Tumor serebelopontin"
+      },
+      "optionExplanations": {},
+      "answer": "D",
+      "explanation": "BPPV penyebab vertigo perifer tersering.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q75",
+      "category": "",
+      "question": "Kanal semisirkular yang paling sering terlibat pada BPPV adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Kanal anterior",
+        "B": "Kanal posterior",
+        "C": "Kanal horizontal",
+        "D": "Koklea",
+        "E": "Sakulus"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Kanal posterior paling sering terlibat BPPV (debris otokonia).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q76",
+      "category": "",
+      "question": "Prognosis BPPV adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Buruk dan progresif",
+        "B": "Baik tanpa kekambuhan",
+        "C": "Fatal",
+        "D": "Selalu memerlukan operasi",
+        "E": "Baik, namun angka kekambuhan tinggi"
+      },
+      "optionExplanations": {},
+      "answer": "E",
+      "explanation": "BPPV prognosis baik, tetapi kekambuhan tinggi.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q77",
+      "category": "",
+      "question": "Nistagmus bidireksional pada vertigo menunjukkan lesi …",
+      "questionImages": [],
+      "options": {
+        "A": "Perifer",
+        "B": "Penyakit Meniere",
+        "C": "Sentral",
+        "D": "Labirinitis",
+        "E": "BPPV"
+      },
+      "optionExplanations": {},
+      "answer": "C",
+      "explanation": "Nistagmus bidireksional (berubah arah) menunjukkan lesi sentral.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q78",
+      "category": "",
+      "question": "Pemeriksaan untuk menilai fungsi saraf kranial VIII (vestibular) adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Tes kalori",
+        "B": "Tes Weber",
+        "C": "Refleks kornea",
+        "D": "Tes Lasègue",
+        "E": "Tes Phalen"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Tes kalori menilai fungsi vestibular (N. VIII).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q79",
+      "category": "",
+      "question": "Berikut ini yang BUKAN merupakan gejala penyakit Meniere adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Vertigo episodik",
+        "B": "Tinitus",
+        "C": "Rasa penuh pada telinga",
+        "D": "Hemiparesis",
+        "E": "Tuli sensorineural fluktuatif"
+      },
+      "optionExplanations": {},
+      "answer": "D",
+      "explanation": "Meniere: vertigo episodik, tinitus, rasa penuh, tuli sensorineural fluktuatif; hemiparesis bukan gejalanya.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q80",
+      "category": "",
+      "question": "Obat yang termasuk golongan antivertigo adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Amlodipin",
+        "B": "Betahistin",
+        "C": "Ketorolac",
+        "D": "Ranitidin",
+        "E": "Amoksisilin"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Betahistin: antivertigo.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q81",
+      "category": "",
+      "question": "Dalam klasifikasi gejala vestibular terbaru (Bárány), yang TIDAK termasuk kategori adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Vertigo",
+        "B": "Dizziness",
+        "C": "Gejala vestibulo-visual",
+        "D": "Gejala postural",
+        "E": "Disekuilibrium"
+      },
+      "optionExplanations": {},
+      "answer": "E",
+      "explanation": "Klasifikasi Bárány: vertigo, dizziness, gejala vestibulo-visual, gejala postural; disekuilibrium bukan kategori.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q82",
+      "category": "",
+      "question": "Afasia adalah gangguan …",
+      "questionImages": [],
+      "options": {
+        "A": "Kemampuan berjalan",
+        "B": "Penglihatan",
+        "C": "Kemampuan berbahasa",
+        "D": "Keseimbangan",
+        "E": "Pendengaran"
+      },
+      "optionExplanations": {},
+      "answer": "C",
+      "explanation": "Afasia: gangguan kemampuan berbahasa.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q83",
+      "category": "",
+      "question": "Afasia Broca (motorik) berkaitan dengan lesi pada lobus …",
+      "questionImages": [],
+      "options": {
+        "A": "Frontal",
+        "B": "Parietal",
+        "C": "Oksipital",
+        "D": "Temporal",
+        "E": "Serebelum"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Afasia Broca: lesi lobus frontal (area Broca, gyrus frontalis inferior).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q84",
+      "category": "",
+      "question": "Ciri khas afasia Broca adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Bicara lancar dengan pemahaman buruk",
+        "B": "Tidak mampu mengulang dan memahami",
+        "C": "Bicara lancar dan pemahaman baik",
+        "D": "Bicara tidak lancar dengan pemahaman yang relatif baik",
+        "E": "Tidak mampu mengenali wajah"
+      },
+      "optionExplanations": {},
+      "answer": "D",
+      "explanation": "Broca: bicara tidak lancar, pemahaman relatif baik.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q85",
+      "category": "",
+      "question": "Jenis afasia dengan bicara lancar tetapi sulit memahami perintah adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Afasia Broca",
+        "B": "Afasia Wernicke",
+        "C": "Afasia konduksi",
+        "D": "Afasia global",
+        "E": "Afasia anomik murni"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Wernicke: bicara lancar tetapi pemahaman buruk.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q86",
+      "category": "",
+      "question": "Gangguan motorik paling banyak berasal dari kelainan pada lobus …",
+      "questionImages": [],
+      "options": {
+        "A": "Oksipital",
+        "B": "Temporal",
+        "C": "Parietal",
+        "D": "Limbik",
+        "E": "Frontal"
+      },
+      "optionExplanations": {},
+      "answer": "E",
+      "explanation": "Korteks motorik di lobus frontal.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q87",
+      "category": "",
+      "question": "Seorang pasien tidak mampu mengenali benda yang dilihatnya meskipun penglihatan intak. Kelainan tersebut adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Buta kortikal",
+        "B": "Apraksia",
+        "C": "Agnosia visual",
+        "D": "Afasia anomik",
+        "E": "Hemianopia"
+      },
+      "optionExplanations": {},
+      "answer": "C",
+      "explanation": "Agnosia visual: tidak mengenali objek walau penglihatan intak.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q88",
+      "category": "",
+      "question": "Dokter bertanya “Nama ibu siapa?” Pasien menjawab, “Nama saya indah lho, Ibu Endang, dari Palembang, tadi ke sini naik pesawat, beli bawang merah dan bawang putih.” Kelainan bentuk pikir tersebut adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Sirkumstansial",
+        "B": "Flight of ideas",
+        "C": "Word salad",
+        "D": "Neologisme",
+        "E": "Blocking"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Flight of ideas: pikiran melompat cepat antar topik dengan asosiasi (termasuk asosiasi bunyi) dan tidak mencapai tujuan.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q89",
+      "category": "",
+      "question": "Obat insomnia yang bekerja menekan sinyal bangun (antagonis orexin) adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Zolpidem",
+        "B": "Zopiklon",
+        "C": "Melatonin",
+        "D": "Lemborexant/suvorexant",
+        "E": "Trazodon"
+      },
+      "optionExplanations": {},
+      "answer": "D",
+      "explanation": "Lemborexant/suvorexant: antagonis reseptor orexin (menekan sinyal bangun).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q90",
+      "category": "",
+      "question": "Struktur otak yang berperan memulai tidur adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Locus coeruleus",
+        "B": "Ventrolateral preoptic nucleus (VLPO)",
+        "C": "Nukleus raphe dorsalis",
+        "D": "Hipokampus",
+        "E": "Amigdala"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "VLPO memulai tidur dengan menghambat pusat bangun lewat GABA.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q91",
+      "category": "",
+      "question": "Jet lag termasuk dalam klasifikasi ICSD sebagai …",
+      "questionImages": [],
+      "options": {
+        "A": "Insomnia",
+        "B": "Parasomnia",
+        "C": "Hipersomnia sentral",
+        "D": "Gangguan pernapasan terkait tidur",
+        "E": "Gangguan ritme sirkadian tidur-bangun"
+      },
+      "optionExplanations": {},
+      "answer": "E",
+      "explanation": "Jet lag: gangguan ritme sirkadian tidur-bangun (ICSD).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q92",
+      "category": "",
+      "question": "Insomnia jangka pendek (short-term insomnia) didefinisikan bila berlangsung …",
+      "questionImages": [],
+      "options": {
+        "A": "< 1 minggu",
+        "B": "< 1 bulan",
+        "C": "< 3 bulan",
+        "D": "> 6 bulan",
+        "E": "> 1 tahun"
+      },
+      "optionExplanations": {},
+      "answer": "C",
+      "explanation": "Insomnia jangka pendek <3 bulan; kronik >=3 bulan.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q93",
+      "category": "",
+      "question": "Gambaran EEG yang khas pada tidur fase 2 (N2) adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Sleep spindle dan kompleks K",
+        "B": "Gelombang delta dominan",
+        "C": "Ritme alfa",
+        "D": "Gelombang gigi gergaji",
+        "E": "Aktivitas beta cepat dengan atonia"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "N2: sleep spindle dan kompleks K.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q94",
+      "category": "",
+      "question": "Terapi kejang listrik (ECT) diindikasikan antara lain pada …",
+      "questionImages": [],
+      "options": {
+        "A": "Demensia ringan",
+        "B": "Fobia sederhana",
+        "C": "Insomnia primer",
+        "D": "Depresi berat, mania, skizofrenia, dan katatonia",
+        "E": "Gangguan kepribadian ringan"
+      },
+      "optionExplanations": {},
+      "answer": "D",
+      "explanation": "ECT: depresi berat, mania, skizofrenia, katatonia.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q95",
+      "category": "",
+      "question": "Obat yang digunakan untuk mengatasi kecemasan adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Haloperidol",
+        "B": "Alprazolam",
+        "C": "Fenitoin",
+        "D": "Levodopa",
+        "E": "Lithium"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Alprazolam (benzodiazepin) untuk ansietas.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q96",
+      "category": "",
+      "question": "Seorang pasien datang ke puskesmas dan menyalahkan saudaranya yang mengirim jin sebagai penyebab pusingnya. Tilikan (insight) pasien tersebut adalah derajat …",
+      "questionImages": [],
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "4",
+        "D": "6",
+        "E": "3"
+      },
+      "optionExplanations": {},
+      "answer": "E",
+      "explanation": "Tilik derajat 3: sadar sakit tetapi menyalahkan orang lain/faktor eksternal.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q97",
+      "category": "",
+      "question": "Seorang perempuan dari Jawa dibawa ke Puskesmas di Papua dan diperiksa di ruangan gelap. Pertanyaan yang tepat untuk menilai orientasi waktu adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "“Sekarang jam berapa, Bu?”",
+        "B": "“Ibu berangkat dari Jawa kapan?”",
+        "C": "“Sekarang pagi, siang, sore, atau malam, Bu?”",
+        "D": "“Sudah berapa lama Ibu di sini?”",
+        "E": "“Berapa lama perjalanan Ibu?”"
+      },
+      "optionExplanations": {},
+      "answer": "C",
+      "explanation": "Ruang gelap: orientasi waktu dinilai dengan pertanyaan umum waktu (pagi/siang/sore/malam).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q98",
+      "category": "",
+      "question": "Seorang laki-laki 40 tahun mengalami flashback setiap mendengar suara gemuruh setelah gempa. Intervensi yang tepat adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Psikoedukasi: yakinkan bahwa suara gemuruh tidak selalu berarti gempa",
+        "B": "Menyarankan memakai penutup telinga terus-menerus",
+        "C": "Menyatakan bahwa ia sudah pulih",
+        "D": "Memberikan antipsikotik",
+        "E": "Menyarankan menghindari semua tempat ramai"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Flashback terpicu suara gemuruh: psikoedukasi agar membedakan pemicu dengan bahaya nyata.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q99",
+      "category": "",
+      "question": "Seorang ibu mudah marah dan mengamuk di depan anak balitanya. Saran terbaik untuk menjaga perkembangan anak adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Memasukkan anak ke panti asuhan",
+        "B": "Menyarankan anak diadopsi keluarga besar",
+        "C": "Menyuruh anak jangan meniru ibunya",
+        "D": "Menghadirkan figur pengganti ibu yang sehat jiwa",
+        "E": "Menyekolahkan anak hingga sore"
+      },
+      "optionExplanations": {},
+      "answer": "D",
+      "explanation": "Hadirkan figur pengganti yang sehat jiwa untuk perkembangan anak.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q100",
+      "category": "",
+      "question": "Seorang mahasiswa koas dengan IPK turun dari 3,95 menjadi 3,65 mengungkapkan niat bunuh diri. Tindakan yang paling tepat adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Menyatakan bahwa IPK bukan segalanya",
+        "B": "Menggali ide bunuh diri, memastikan keselamatan, dan merujuk ke layanan kesehatan jiwa",
+        "C": "Menceritakan orang lain yang bahagia dengan IPK biasa",
+        "D": "Menyarankan untuk tidak dipikirkan",
+        "E": "Memberi tugas tambahan"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Ide bunuh diri: gali, pastikan keselamatan, rujuk ke layanan jiwa.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q101",
+      "category": "",
+      "question": "Seorang perempuan 17 tahun yang baru melahirkan anak di luar nikah menyesal, sedih, dan murung secara menetap. Diagnosis yang paling mungkin adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Baby blues",
+        "B": "Psikosis pascasalin",
+        "C": "Gangguan cemas menyeluruh",
+        "D": "Skizofrenia",
+        "E": "Depresi pascasalin"
+      },
+      "optionExplanations": {},
+      "answer": "E",
+      "explanation": "Sedih, menyesal, murung menetap pascasalin = depresi pascasalin; baby blues singkat (<2 minggu).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q102",
+      "category": "",
+      "question": "Seorang perempuan mendengar bisikan untuk keluar rumah, berdandan menor, dan merasa dirinya seperti artis. Diagnosis yang paling sesuai adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Gangguan psikotik akut",
+        "B": "Gangguan bipolar depresi",
+        "C": "Gangguan manik (dengan gejala psikotik)",
+        "D": "Gangguan psikoafektif",
+        "E": "Skizofrenia paranoid"
+      },
+      "optionExplanations": {},
+      "answer": "C",
+      "explanation": "Waham kebesaran, halusinasi, perilaku berdandan berlebihan: mania dengan gejala psikotik.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q103",
+      "category": "",
+      "question": "Seorang istri membawa suaminya yang sering berbicara dan tersenyum sendiri tanpa sebab. Hal yang paling perlu ditanyakan kepada istri untuk menggali gejala tersebut adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Apakah suami tampak menanggapi seolah-olah ada yang berbicara kepadanya (halusinasi)",
+        "B": "Apakah suami pendiam",
+        "C": "Apakah suami punya teman dekat",
+        "D": "Apakah suami suka makanan tertentu",
+        "E": "Apakah suami sering menonton televisi"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Berbicara/tersenyum sendiri: gali halusinasi (apakah tampak menanggapi suara).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q104",
+      "category": "",
+      "question": "Seorang pasien merasa dirinya sering dibicarakan orang. Sikap yang tepat bagi tenaga kesehatan adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Mempertemukan pasien dengan orang yang dicurigai",
+        "B": "Menyetujui bahwa memang ia dibicarakan",
+        "C": "Memarahi pasien",
+        "D": "Empati dan mendengarkan tanpa membenarkan maupun berdebat dengan keyakinan pasien",
+        "E": "Mengabaikan sepenuhnya"
+      },
+      "optionExplanations": {},
+      "answer": "D",
+      "explanation": "Waham kecurigaan: empati dan mendengarkan tanpa membenarkan maupun berdebat.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q105",
+      "category": "",
+      "question": "Seorang pasien gangguan jiwa tampak malas-malasan dan merokok. Intervensi yang paling cocok adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Perawatan tirah baring",
+        "B": "Rehabilitasi psikososial (terapi okupasi dan latihan keterampilan)",
+        "C": "Hukuman disiplin",
+        "D": "Pembatasan aktivitas",
+        "E": "Rawat inap seumur hidup"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Gejala negatif/rehabilitasi: rehabilitasi psikososial (okupasi, latihan keterampilan).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q106",
+      "category": "",
+      "question": "Seorang laki-laki kehilangan pekerjaan, tampak murung, berbicara sedikit dan pelan, dan akan menikah sebulan lagi. Intervensi terapeutik awal yang tepat adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Rawat inap segera",
+        "B": "ECT",
+        "C": "Antipsikotik dosis tinggi",
+        "D": "Tidak diberikan terapi",
+        "E": "Terapi suportif dan psikoedukasi disertai evaluasi depresi"
+      },
+      "optionExplanations": {},
+      "answer": "E",
+      "explanation": "Gejala depresi ringan-sedang: terapi suportif, psikoedukasi, dan evaluasi depresi.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q107",
+      "category": "",
+      "question": "Puskesmas menghadapi masalah kesehatan jiwa dan psikososial yang kompleks dengan sumber daya terbatas. Intervensi yang tepat adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Menunggu psikiater tambahan",
+        "B": "Menutup layanan jiwa",
+        "C": "Melatih tenaga non-spesialis dan memperkuat jejaring rujukan (task sharing/mhGAP)",
+        "D": "Merujuk semua pasien tanpa asesmen",
+        "E": "Memberikan obat tanpa asesmen"
+      },
+      "optionExplanations": {},
+      "answer": "C",
+      "explanation": "Task sharing/mhGAP: melatih tenaga non-spesialis dan memperkuat jejaring rujukan.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q108",
+      "category": "",
+      "question": "Setelah bencana, ditemukan penyintas dengan iritabilitas. Intervensi komunitas yang tepat adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Pertolongan pertama psikologis dan dukungan psikososial dasar",
+        "B": "Injeksi haloperidol dekanoat massal",
+        "C": "Isolasi penyintas",
+        "D": "Pemberian antidepresan semua penyintas",
+        "E": "Dibiarkan sendiri"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Pascabencana: pertolongan pertama psikologis dan dukungan psikososial dasar.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q109",
+      "category": "",
+      "question": "Di tempat pengungsian terjadi pertengkaran akibat masalah sehari-hari dan rumah warga belum selesai dibangun. Tindakan yang tepat adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Memberi edukasi agar hidup rukun saja",
+        "B": "Memindahkan pihak yang bertikai ke pengungsian lain",
+        "C": "Menghukum pihak yang bertengkar",
+        "D": "Mengajak seluruh pengungsi dewasa bergotong royong membangun rumah",
+        "E": "Membiarkan"
+      },
+      "optionExplanations": {},
+      "answer": "D",
+      "explanation": "Intervensi komunitas: gotong royong membangun rumah mengatasi akar masalah.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q110",
+      "category": "",
+      "question": "Pandemi COVID-19 membuat anak usia sekolah sering bertengkar di rumah selama lockdown. Kegiatan yang dapat dilakukan adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Kegiatan belajar darurat",
+        "B": "Olahraga dan permainan",
+        "C": "Kesenian lokal",
+        "D": "Keterampilan penunjang masa depan",
+        "E": "Menambah tugas sekolah"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Anak sekolah: olahraga dan permainan menyalurkan energi serta menurunkan konflik.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q111",
+      "category": "",
+      "question": "Upaya mencegah kekambuhan, komplikasi lain, dan kecacatan disebut …",
+      "questionImages": [],
+      "options": {
+        "A": "Kuratif",
+        "B": "Promotif",
+        "C": "Preventif primer",
+        "D": "Sumatif",
+        "E": "Rehabilitatif"
+      },
+      "optionExplanations": {},
+      "answer": "E",
+      "explanation": "Mencegah kekambuhan dan kecacatan = rehabilitatif (pencegahan tersier).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q112",
+      "category": "",
+      "question": "Gejala inatensi pada ADHD yang tampak adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Berlari-lari berlebihan",
+        "B": "Menyela orang lain",
+        "C": "Tidak menyelesaikan tugas yang dikerjakan",
+        "D": "Sulit menunggu giliran",
+        "E": "Banyak bicara"
+      },
+      "optionExplanations": {},
+      "answer": "C",
+      "explanation": "Inatensi ADHD: tidak menyelesaikan tugas; lainnya hiperaktivitas/impulsivitas.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q113",
+      "category": "",
+      "question": "Seorang balita sering berbicara dalam “bahasa planet” dan dicurigai ASD. Perilaku yang paling mendukung diagnosis setelah diberi mobil-mobilan adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Hanya memutar roda mobil-mobilan",
+        "B": "Bermain mobilan ke depan sambil menirukan suara mobil",
+        "C": "Mulai menggambar mobil",
+        "D": "Menunjuk bagian mobil sambil bersuara",
+        "E": "Menyerahkan mobil ke ibu"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "ASD: perilaku repetitif/stereotipik, hanya memutar roda mainan.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q114",
+      "category": "",
+      "question": "Perkembangan motorik halus yang sudah seharusnya dicapai bayi usia 7 bulan adalah …",
+      "questionImages": [],
+      "options": {
+        "A": "Menggenggam pensil",
+        "B": "Menumpuk 2 kubus",
+        "C": "Mencoret-coret",
+        "D": "Memindahkan benda dari satu tangan ke tangan lain",
+        "E": "Menjepit dengan ibu jari dan telunjuk (pincer)"
+      },
+      "optionExplanations": {},
+      "answer": "D",
+      "explanation": "Usia 7 bulan: memindahkan benda antar tangan; pincer sekitar 9-10 bulan.",
+      "explanationImages": [],
+      "isBroken": false
+    }
+  ]
+}
