@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T06:41:26.525Z",
+  "generatedAt": "2026-10-25T20:15:07.423Z",
   "packages": [
     {
       "id": "2h-persiapan-minites__cedera-kepala-trauma-medulla-spinalis",
@@ -321,6 +321,14 @@
       "category": "Blok 2H",
       "count": 121,
       "file": "packages/premium__blok-2h__ub-2h.json"
+    },
+    {
+      "id": "premium__blok-2h__ub-2h-belajar-buat-remidi",
+      "tier": "premium",
+      "title": "UB 2H [Belajar Buat Remidi]",
+      "category": "Blok 2H",
+      "count": 172,
+      "file": "packages/premium__blok-2h__ub-2h-belajar-buat-remidi.json"
     },
     {
       "id": "latihan-kk7__edukasi-mpasi",
