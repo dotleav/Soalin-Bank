@@ -1,0 +1,930 @@
+{
+  "id": "premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy",
+  "tier": "premium",
+  "title": "Latihan soal kasus kasus nya dr Jimmy",
+  "category": "Blok 2H",
+  "questions": [
+    {
+      "id": "Q1",
+      "category": "",
+      "question": "Seorang laki-laki berusia 22 tahun mengalami kecelakaan lalu lintas. Awalnya ia sempat tidak sadarkan diri, lalu kembali sadar. Beberapa jam kemudian kantuknya semakin berat. Nilai GCS-nya 10, dan riwayat trauma kepala sebelumnya disangkal. Berdasarkan riwayat dan gambar berikut, diagnosis yang paling tepat adalah? ",
+      "questionImages": [
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-001.png"
+      ],
+      "options": {
+        "A": "Subdural hematoma bulan sabit di frontal kanan",
+        "B": "Perdarahan subaraknoid difus pada sulkus",
+        "C": "Epidural hematoma temporoparietal dekstra",
+        "D": "Kontusio serebri frontal dengan edema ringan",
+        "E": "Perdarahan intraserebral talamus dekstra"
+      },
+      "optionExplanations": {
+        "A": "Lesi SDH berbentuk bulan sabit dan melintasi sutura, sedangkan lesi pada gambar bikonveks.",
+        "B": "Perdarahan subaraknoid mengisi sulkus dan tidak membentuk massa bikonveks dengan efek desak ruang.",
+        "C": "Lesi bikonveks dengan midline shift ke kiri sesuai kasus; kehilangan kesadaran lalu sadar kembali (lucid interval) juga khas.",
+        "D": "Kontusio berupa perdarahan kecil dan tidak membentuk lesi bikonveks dengan efek desak ruang.",
+        "E": "Lokasi lesi berada di parenkim talamus, bukan di antara tulang kepala dan duramater temporoparietal."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q2",
+      "category": "",
+      "question": "Seorang laki-laki berusia 58 tahun mengalami kecelakaan lalu lintas dengan keluhan nyeri kepala dan mual muntah. Kemampuan komunikasinya makin lama makin menurun. GCS-nya 12. Berdasarkan riwayat dan gambar berikut, diagnosis yang paling tepat adalah? ",
+      "questionImages": [
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-002.png"
+      ],
+      "options": {
+        "A": "SDH frontal sinistra disertai SAH dan herniasi subfalks",
+        "B": "EDH frontal sinistra berbentuk bikonveks",
+        "C": "Hematoma intraserebral frontal kiri",
+        "D": "Infark arteri serebri media kanan",
+        "E": "Tumor frontal dengan edema perifokal"
+      },
+      "optionExplanations": {
+        "A": "Lesi bulan sabit frontal kiri, SAH pada sulkus, dan herniasi subfalks sesuai gambar; semua temuan konsisten.",
+        "B": "EDH bikonveks tidak melintasi sutura; bentuk lesi pada gambar berbeda.",
+        "C": "Perdarahan parenkim berbentuk bulat dengan batas di dalam otak, bukan di ruang subdural.",
+        "D": "Infark tidak menyebabkan perdarahan ekstra-aksial dan SAH seperti pada gambar.",
+        "E": "Massa tumor tampak sebagai lesi dengan penyangatan kontras, bukan perdarahan akut."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q3",
+      "category": "",
+      "question": "Seorang pasien berusia 25 tahun mengalami trauma kepala akibat pengeroyokan. GCS-nya 6, dan tidak tampak perdarahan di luar kepala. Berdasarkan riwayat dan gambar berikut, diagnosis yang paling tepat adalah? ",
+      "questionImages": [
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-003.png"
+      ],
+      "options": {
+        "A": "Edema serebri difus akibat hipoksia",
+        "B": "Kontusio serebri frontotemporal",
+        "C": "Diffuse axonal injury (DAI) grade 2 menurut Adams",
+        "D": "Epidural hematoma temporal dekstra",
+        "E": "Diffuse axonal injury (DAI) grade 1 menurut Adams"
+      },
+      "optionExplanations": {
+        "A": "Hipoksia tidak menimbulkan mikrobleed fokal dan kaburnya batas korteks-medula yang khas trauma.",
+        "B": "Kontusio berupa perdarahan kortikal fokal, tidak berupa lesi difus korteks-medula.",
+        "C": "Grade 2 mengharuskan lesi korpus kalosum; dosen menilai korpus kalosum pada kasus ini tidak terlibat.",
+        "D": "Tidak tampak perdarahan ekstra-aksial bikonveks pada gambar.",
+        "E": "Edema dan mikrobleed di temporal dan subkortikal dengan korpus kalosum tidak terlibat sesuai gambar."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q4",
+      "category": "",
+      "question": "Seorang laki-laki berusia 67 tahun datang dengan kelemahan anggota gerak sisi kanan yang muncul sekitar 1,5 jam sebelumnya. Berdasarkan riwayat dan gambar berikut, diagnosis yang paling tepat adalah? ",
+      "questionImages": [
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-004.png"
+      ],
+      "options": {
+        "A": "Perdarahan intraserebral lobus frontal kiri",
+        "B": "Stroke iskemik hiperakut dengan dense MCA sinistra",
+        "C": "Stroke iskemik kronik pada arteri serebri anterior",
+        "D": "Migren dengan aura menyerupai hemiparesis",
+        "E": "Tumor parietal dengan perdarahan kecil"
+      },
+      "optionExplanations": {
+        "A": "Tidak tampak perdarahan parenkim berbentuk massa; yang hiperdens pada gambar adalah arteri.",
+        "B": "Hiperdensitas MCA sinistra menandakan trombus pada fase hiperakut, sesuai onset 1,5 jam dan defisit motorik kanan.",
+        "C": "Infark kronik tampak hipodens dengan gliosis, bukan hiperdens, dan onsetnya tidak sesuai.",
+        "D": "Diagnosis eksklusi; defisit motorik akut dengan arteri hiperdens tidak sesuai migren.",
+        "E": "Tumor tidak menyebabkan defisit motorik akut dalam 1,5 jam dan tidak tampak hiperdensitas arteri."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q5",
+      "category": "",
+      "question": "Seorang laki-laki berusia 60 tahun mengalami penurunan kesadaran. Sebelum tidak sadarkan diri, ia tampak bingung dan sering mondar-mandir di tempat parkir. Berdasarkan riwayat dan gambar berikut, diagnosis yang paling tepat adalah? ",
+      "questionImages": [
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-005.png"
+      ],
+      "options": {
+        "A": "Perdarahan subaraknoid akibat ruptur aneurisma",
+        "B": "Infark talamus dekstra",
+        "C": "Tumor talamus dengan perdarahan kistik",
+        "D": "Perdarahan intraserebral talamus dekstra dengan IVH dan ventrikulomegali",
+        "E": "Hematoma epidural temporal kiri"
+      },
+      "optionExplanations": {
+        "A": "Perdarahan subaraknoid mengisi sulkus, bukan parenkim talamus dengan perluasan ke ventrikel.",
+        "B": "Infark akut tidak tampak hiperdens segera dan tidak menyebabkan perdarahan intraventrikular masif.",
+        "C": "Tumor tidak akut dan tidak sesuai dengan onset penurunan kesadaran yang mendadak.",
+        "D": "Perdarahan parenkim talamus yang meluas ke ventrikel sesuai temuan CT dan penurunan kesadaran akut.",
+        "E": "Lesi bikonveks dekat tulang; lokasi dan bentuknya tidak sesuai perdarahan talamus."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q6",
+      "category": "",
+      "question": "Seorang perempuan berusia 45 tahun mengeluh nyeri kepala yang sudah berlangsung sekitar 2 minggu. Setiap pagi ia mual dan muntah, dan dalam 2 minggu ini ia sering merasa mengantuk. Berdasarkan riwayat dan gambar berikut, diagnosis yang paling tepat adalah?  ",
+      "questionImages": [
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-006.png",
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-007.png"
+      ],
+      "options": {
+        "A": "Ventrikulomegali ex vacuo akibat atrofi otak",
+        "B": "Hidrosefalus obstruktif akut",
+        "C": "Tumor fossa posterior dengan hidrosefalus",
+        "D": "Abses serebri frontal",
+        "E": "Infark serebri bilateral"
+      },
+      "optionExplanations": {
+        "A": "Pelebaran ventrikel dengan sulkus lebar tanpa massa, infark, atau infeksi sesuai temuan dosen.",
+        "B": "Pada hidrosefalus obstruktif sulkus biasanya menyempit; pada kasus ini sulkus justru lebar.",
+        "C": "Tumor fossa posterior akan tampak sebagai massa dengan penyangatan; tidak ditemukan pada gambar.",
+        "D": "Abses memerlukan lesi dengan rim dan tanda infeksi; tidak tampak pada gambar.",
+        "E": "Infark tampak sebagai area hipodens vaskular, sedangkan gambar menunjukkan pelebaran ventrikel dan sulkus."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q7",
+      "category": "",
+      "question": "Seorang laki-laki berusia 21 tahun datang dalam keadaan tidak sadarkan diri. Sebelumnya ia hanya tidur-tiduran di kos. Teman kosnya mengatakan bahwa pasien sering mengeluh nyeri kepala, tengkuk tegang, dan demam. Tidak lama setelah tiba di IGD, ia mengalami kejang. Berdasarkan riwayat dan gambar berikut, diagnosis yang paling tepat adalah? ",
+      "questionImages": [
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-008.png"
+      ],
+      "options": {
+        "A": "Ensefalitis herpes simpleks",
+        "B": "Stroke hemoragik akibat aneurisma",
+        "C": "Meningitis dengan kemungkinan serebritis atau ventrikulitis",
+        "D": "Status epileptikus idiopatik",
+        "E": "Trombosis sinus vena"
+      },
+      "optionExplanations": {
+        "A": "Ensefalitis HSV menunjukkan lesi temporal dan tidak khas dengan penyangatan leptomeningeal.",
+        "B": "Tidak sesuai dengan riwayat demam dan tengkuk tegang yang mendahului kejadian.",
+        "C": "Riwayat demam, tengkuk tegang, kejang, dan penyangatan leptomeningeal mendukung meningitis.",
+        "D": "Kejang adalah gejala; diagnosis ini tidak menjelaskan demam dan tengkuk tegang.",
+        "E": "Tanda khasnya lesi vena dengan defisit fokal; tidak sesuai demam dan tengkuk tegang."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q8",
+      "category": "",
+      "question": "Seorang pasien berusia 35 tahun datang ke IGD dengan demam 39°C, nyeri kepala, dan batuk yang sudah lama. Berdasarkan riwayat dan gambar berikut, diagnosis yang paling tepat adalah? ",
+      "questionImages": [
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-009.png"
+      ],
+      "options": {
+        "A": "Glioma derajat tinggi",
+        "B": "Metastasis kanker paru dengan perdarahan",
+        "C": "Limfoma susunan saraf pusat",
+        "D": "Ensefalitis herpes",
+        "E": "Abses otak"
+      },
+      "optionExplanations": {
+        "A": "Glioma tidak menimbulkan demam tinggi dan jarang tampak sebagai lesi berkapsul dengan rim.",
+        "B": "Batuk lama memang bisa mengarah ke kanker paru, namun demam 39°C dan kapsul melingkar lebih mengarah ke abses.",
+        "C": "Limfoma sering tanpa demam tinggi dan jarang berbentuk rim tebal.",
+        "D": "Ensefalitis menyebabkan lesi temporal, bukan lesi fokal berkapsul.",
+        "E": "Demam, nyeri kepala, dan lesi dengan rim enhancement mendukung abses sebagai diagnosis utama."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q9",
+      "category": "",
+      "question": "Seorang laki-laki berusia 58 tahun mengeluh sakit kepala yang makin berat secara progresif selama 2 bulan. Ia juga mengalami mual, muntah, dan perubahan perilaku. GCS-nya 14, dan terdapat kelemahan anggota gerak. Berdasarkan riwayat dan gambar berikut, diagnosis yang paling tepat adalah?  ",
+      "questionImages": [
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-010.png",
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-011.png"
+      ],
+      "options": {
+        "A": "Meningioma falks frontal",
+        "B": "Butterfly glioblastoma",
+        "C": "Metastasis multipel frontal",
+        "D": "Abses otak frontal",
+        "E": "Hematoma subdural kronik"
+      },
+      "optionExplanations": {
+        "A": "Meningioma umumnya ekstra-aksial dengan dural tail, bukan massa parenkim dengan edema yang melintasi midline.",
+        "B": "Massa frontal yang melintasi midline dengan edema perifokal sesuai tumor supratentorial yang menyeberang midline.",
+        "C": "Metastasis biasanya multipel pada batas korteks-substansia alba; gambar menunjukkan massa tunggal.",
+        "D": "Abses disertai demam dan tanda infeksi, yang tidak ditemukan pada kasus ini.",
+        "E": "Hematoma subdural berbentuk bulan sabit di ruang ekstra-aksial, bukan massa parenkim."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q10",
+      "category": "",
+      "question": "Seorang laki-laki berusia 55 tahun mengeluh sakit kepala yang makin berat secara progresif selama 2 bulan. Ia juga mengalami mual, muntah, dan perubahan perilaku. GCS-nya 14, terdapat kelemahan anggota gerak, dan tidak ada riwayat trauma. Berdasarkan riwayat dan gambar berikut, diagnosis yang paling tepat adalah?  ",
+      "questionImages": [
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-012.png",
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-013.png"
+      ],
+      "options": {
+        "A": "Stroke iskemik subakut",
+        "B": "Abses otak frontal",
+        "C": "Glioblastoma multiforme",
+        "D": "Metastasis otak dengan edema vasogenik",
+        "E": "Limfoma primer susunan saraf pusat"
+      },
+      "optionExplanations": {
+        "A": "Stroke iskemik tidak menimbulkan lesi ring enhancement multipel dengan progresi 2 bulan.",
+        "B": "Abses umumnya disertai demam; kasus ini tanpa demam dan menunjukkan edema vasogenik menjari.",
+        "C": "GBM biasanya soliter dengan massa tebal, bukan lesi kecil multipel dengan edema menjari.",
+        "D": "Pola edema vasogenik menjari dan ring enhancement frontal sering pada metastasis; non-kontras kerap tidak jelas.",
+        "E": "Limfoma sering hiperdens pada non-kontras dan tidak khas dengan edema vasogenik menjari."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q11",
+      "category": "",
+      "question": "Seorang laki-laki berusia 35 tahun mengeluh nyeri yang menjalar dari bokong hingga tungkai. Pekerjaannya sebagai supir truk pengangkut muatan. Kadang saat mengubah posisi, ia merasakan sensasi tersengat. Berdasarkan riwayat dan gambar berikut, diagnosis yang paling tepat adalah?  ",
+      "questionImages": [
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-014.png",
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-015.png"
+      ],
+      "options": {
+        "A": "HNP lumbal L4-L5 dengan stenosis kanalis berat",
+        "B": "Spondilolistesis L5-S1 derajat berat",
+        "C": "Spondilitis tuberkulosis lumbal",
+        "D": "Metastasis vertebra L4 dengan destruksi korpus",
+        "E": "Tumor medula spinalis intradural"
+      },
+      "optionExplanations": {
+        "A": "Protrusi parasentral dan stenosis berat di L4-L5 menjelaskan radikulopati sesuai gambar MRI.",
+        "B": "Listesis tidak tampak pada temuan; keluhan radikular dengan protrusi lebih mengarah ke HNP.",
+        "C": "Spondilitis TB umumnya disertai abses paravertebral dan gejala sistemik, tidak tampak pada kasus.",
+        "D": "Metastasis biasanya disertai lesi destruktif dan penurunan berat badan; tidak tampak pada kasus.",
+        "E": "Tumor intradural tidak ditemukan pada MRI; temuan utama adalah degeneratif."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q12",
+      "category": "",
+      "question": "Seorang laki-laki berusia 38 tahun mengeluh nyeri punggung yang makin membesar sejak 3 bulan lalu. Ia juga merasakan malaise, berat badannya menurun, dan kesulitan berjalan. Berdasarkan riwayat dan gambar berikut, diagnosis yang paling tepat adalah?  ",
+      "questionImages": [
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-016.png",
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-017.png"
+      ],
+      "options": {
+        "A": "Spondilitis piogenik torakal",
+        "B": "Fraktur kompresi osteoporotik akut",
+        "C": "Spondilitis tuberkulosis dengan gibus TH12",
+        "D": "Metastasis karsinoma paru ke vertebra",
+        "E": "Hemangioma vertebra torakal"
+      },
+      "optionExplanations": {
+        "A": "Spondilitis piogenik umumnya lebih akut dan jarang menyebabkan gibus progresif selama 3 bulan.",
+        "B": "Fraktur osteoporotik akut biasanya dipicu trauma ringan dan tidak disertai abses paravertebral.",
+        "C": "Gibus TH12, abses paravertebral, dan gejala sistemik mendukung spondilitis TB.",
+        "D": "Metastasis tidak menyebabkan abses paravertebral; memerlukan konfirmasi kanker primer.",
+        "E": "Hemangioma jinak tidak disertai malaise, penurunan berat badan, dan abses paravertebral."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q13",
+      "category": "",
+      "question": "Seorang laki-laki berusia 22 tahun mengalami kecelakaan lalu lintas. Awalnya ia sempat tidak sadarkan diri, lalu kembali sadar. Beberapa jam kemudian kantuknya semakin berat. Nilai GCS-nya 10, dan riwayat trauma kepala sebelumnya disangkal. Temuan pencitraan yang paling mungkin pada kasus ini adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Perdarahan subaraknoid difus pada seluruh sulkus",
+        "B": "Lesi hipodens kecil di basal ganglia kiri",
+        "C": "Ventrikel melebar tanpa lesi ekstra-aksial",
+        "D": "Lesi tulang oksipital tanpa perdarahan intrakranial",
+        "E": "Lesi hiperdens bikonveks ekstra-aksial dengan midline shift"
+      },
+      "optionExplanations": {
+        "A": "SAH difus tidak menimbulkan lesi massa dengan efek desak ruang bikonveks seperti kasus ini.",
+        "B": "Lesi kecil hipodens tidak sesuai trauma dengan GCS 10 disertai efek massa.",
+        "C": "Tidak sesuai penurunan kesadaran akibat trauma yang disertai efek massa.",
+        "D": "Trauma tanpa perdarahan intrakranial tidak menjelaskan penurunan kesadaran.",
+        "E": "Lesi epidural akibat robekan arteri meningea membentuk bikonveks dan menggeser midline ke sisi kontralateral."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q14",
+      "category": "",
+      "question": "Seorang laki-laki berusia 58 tahun mengalami kecelakaan lalu lintas dengan keluhan nyeri kepala dan mual muntah. Kemampuan komunikasinya makin lama makin menurun. GCS-nya 12. Temuan pencitraan yang paling mungkin pada kasus ini adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Lesi hiperdens bikonveks ekstra-aksial temporal",
+        "B": "Lesi bulan sabit subdural frontal dengan SAH dan herniasi subfalks",
+        "C": "Perdarahan intraserebral talamus kanan",
+        "D": "Infark lakunar kecil di kapsula interna",
+        "E": "Massa ekstra-aksial kalsifikasi tanpa perdarahan akut"
+      },
+      "optionExplanations": {
+        "A": "Bentuk bikonveks tidak sesuai dengan trauma pada pasien usia lanjut dengan penurunan kognisi.",
+        "B": "Lesi subdural frontal bulan sabit, SAH sulkus, dan herniasi falks sesuai trauma usia lanjut.",
+        "C": "Hematoma parenkim tidak mengisi sulkus atau ruang subdural.",
+        "D": "Lakunar kecil tidak menyebabkan herniasi, SAH, maupun bulan sabit subdural.",
+        "E": "Meningioma tidak akut dan tidak disertai SAH serta lesi bulan sabit."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q15",
+      "category": "",
+      "question": "Seorang pasien berusia 25 tahun mengalami trauma kepala akibat pengeroyokan. GCS-nya 6, dan tidak tampak perdarahan di luar kepala. Temuan pencitraan yang paling mungkin pada kasus ini adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Hematoma subdural akut bulan sabit",
+        "B": "Kontusio serebri multipel di lobus frontal",
+        "C": "Infark vertebrobasiler",
+        "D": "Edema dengan mikrobleed dan batas korteks-medula kabur",
+        "E": "Hematoma epidural bikonveks temporal"
+      },
+      "optionExplanations": {
+        "A": "Lesi bersifat difus, bukan kumpulan ekstra-aksial bulan sabit.",
+        "B": "Kontusio berupa lesi fokal dengan perdarahan kortikal, bukan edema difus.",
+        "C": "Infark tidak menimbulkan mikrobleed temporal dan subkortikal yang khas pada trauma.",
+        "D": "Trauma akselerasi-deselerasi menyebabkan kerusakan aksonal difus di substansia alba korteks-medula.",
+        "E": "Lesi bikonveks khas ekstra-aksial; tidak sesuai dengan kerusakan parenkim difus."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q16",
+      "category": "",
+      "question": "Seorang laki-laki berusia 67 tahun datang dengan kelemahan anggota gerak sisi kanan yang muncul sekitar 1,5 jam sebelumnya. Temuan pencitraan yang paling mungkin pada kasus ini adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Hiperdensitas arteri serebri media sinistra dengan parenkim belum tampak infark",
+        "B": "Perdarahan intraserebral lobus frontal kanan",
+        "C": "Infark luas lobus temporal dengan edema masif",
+        "D": "Hematoma subdural bulan sabit parietal",
+        "E": "Lesi hipodens vaskular di korona radiata"
+      },
+      "optionExplanations": {
+        "A": "Dense MCA sign menandakan trombus pada fase hiperakut; parenkim belum menunjukkan infark pada jam pertama.",
+        "B": "Perdarahan akut tampak hiperdens sebagai massa, bukan hiperdensitas arteri.",
+        "C": "Infark luas belum tampak pada 1,5 jam dan tidak disertai hiperdensitas arteri.",
+        "D": "Lesi ekstra-aksial bulan sabit tidak menjelaskan defisit motorik akut dengan arteri hiperdens.",
+        "E": "Lesi hipodens belum tampak pada fase hiperakut dan tidak menjelaskan hiperdensitas arteri."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q17",
+      "category": "",
+      "question": "Seorang laki-laki berusia 60 tahun mengalami penurunan kesadaran. Sebelum tidak sadarkan diri, ia tampak bingung dan sering mondar-mandir di tempat parkir. Temuan pencitraan yang paling mungkin pada kasus ini adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Infark lakunar di nukleus kaudatus",
+        "B": "Hematoma subdural akut frontal",
+        "C": "Perdarahan parenkim talamus dekstra dekat ventrikel dengan IVH dan ventrikulomegali",
+        "D": "Glioma ventrikel III dengan perdarahan akut",
+        "E": "Perdarahan subaraknoid akibat aneurisma sirkulus Willis"
+      },
+      "optionExplanations": {
+        "A": "Lakunar kecil tidak menyebabkan perdarahan intraventrikular.",
+        "B": "Lesi bulan sabit ekstra-aksial tidak menimbulkan perdarahan intraventrikular.",
+        "C": "CT menunjukkan perdarahan talamus yang meluas ke ventrikel disertai dilatasi ventrikel.",
+        "D": "Glioma tidak menimbulkan perdarahan akut luas dengan gambaran hiperdens.",
+        "E": "Aneurisma pecah menyebabkan SAH, bukan perdarahan talamus dengan IVH."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q18",
+      "category": "",
+      "question": "Seorang perempuan berusia 45 tahun mengeluh nyeri kepala yang sudah berlangsung sekitar 2 minggu. Setiap pagi ia mual dan muntah, dan dalam 2 minggu ini ia sering merasa mengantuk. Temuan pencitraan yang paling mungkin pada kasus ini adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Massa tumor fossa posterior dengan penyangatan kontras",
+        "B": "Ventrikel melebar dengan Evans index di atas 0,3 dan sulkus lebar",
+        "C": "Area hipodens infark arteri serebri posterior",
+        "D": "Lesi abses dengan rim enhancement",
+        "E": "Perdarahan intraventrikular akut masif"
+      },
+      "optionExplanations": {
+        "A": "Lesi massa dengan penyangatan tidak tampak pada kasus.",
+        "B": "Dilatasi ventrikel dengan sulkus lebar menunjukkan ventrikulomegali ex vacuo.",
+        "C": "Infark tidak tampak pada kasus; tidak ada hipodensitas vaskular.",
+        "D": "Abses tidak tampak dan tidak ada tanda infeksi.",
+        "E": "Perdarahan akut tampak hiperdens di ventrikel, tidak sesuai gambaran kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q19",
+      "category": "",
+      "question": "Seorang laki-laki berusia 21 tahun datang dalam keadaan tidak sadarkan diri. Sebelumnya ia hanya tidur-tiduran di kos. Teman kosnya mengatakan bahwa pasien sering mengeluh nyeri kepala, tengkuk tegang, dan demam. Tidak lama setelah tiba di IGD, ia mengalami kejang. Temuan pencitraan yang paling mungkin pada kasus ini adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Hematoma epidural bikonveks temporal",
+        "B": "Infark serebri arteri serebri media kiri",
+        "C": "Hiperdensitas arteri serebri media kiri",
+        "D": "Massa kistik dengan kapsul tebal di serebelum",
+        "E": "Penyangatan leptomeningeal vaskular di perifer pada CT atau MRI kontras"
+      },
+      "optionExplanations": {
+        "A": "Lesi bikonveks trauma tidak sesuai dengan riwayat demam dan tengkuk tegang.",
+        "B": "Infark tidak menyebabkan penyangatan leptomeningeal khas pada kasus ini.",
+        "C": "Tanda trombus ini tidak sesuai dengan riwayat demam dan tengkuk tegang.",
+        "D": "Abses serebelum tidak sesuai dengan gambaran meningitis yang khas.",
+        "E": "Penyangatan vaskular di perifer merupakan temuan khas meningitis."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q20",
+      "category": "",
+      "question": "Seorang pasien berusia 35 tahun datang ke IGD dengan demam 39°C, nyeri kepala, dan batuk yang sudah lama. Temuan pencitraan yang paling mungkin pada kasus ini adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Massa kistik tanpa edema pada non-kontras",
+        "B": "Hipodensitas luas dengan efek massa tanpa penyangatan",
+        "C": "Perdarahan intraserebral akut hiperdens",
+        "D": "Gliosis dan edema fokal dengan lesi berkapsul yang menyangat kontras",
+        "E": "Infark hiperakut arteri serebri anterior"
+      },
+      "optionExplanations": {
+        "A": "Lesi kistik tanpa edema tidak sesuai dengan tanda infeksi akut.",
+        "B": "Lesi luas tanpa penyangatan kurang sesuai dengan tanda infeksi fokal.",
+        "C": "Perdarahan akut tampak hiperdens, bukan hipodens dengan gliosis awal.",
+        "D": "Abses awal menunjukkan gliosis dan edema yang tidak terlalu hebat, dengan kapsul pada kontras.",
+        "E": "Infark hiperakut tidak menjelaskan demam tinggi dengan batuk lama."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q21",
+      "category": "",
+      "question": "Seorang laki-laki berusia 58 tahun mengeluh sakit kepala yang makin berat secara progresif selama 2 bulan. Ia juga mengalami mual, muntah, dan perubahan perilaku. GCS-nya 14, dan terdapat kelemahan anggota gerak. Temuan pencitraan yang paling mungkin pada kasus ini adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Massa frontal yang melintasi midline dengan edema perifokal",
+        "B": "Lesi ekstra-aksial bikonveks dengan midline shift minimal",
+        "C": "Massa kecil di serebelum tanpa edema",
+        "D": "Lesi hiperdens dengan kapsul tipis di ganglia basal",
+        "E": "Area hipodens di kapsula interna tanpa efek massa"
+      },
+      "optionExplanations": {
+        "A": "CT kontras menunjukkan massa frontal melintasi midline dengan edema perifokal, sesuai temuan dosen.",
+        "B": "Lesi ekstra-aksial bikonveks tidak melintasi midline seperti pada kasus.",
+        "C": "Lesi serebelum kecil tidak sesuai dengan massa frontal yang melintasi midline.",
+        "D": "Lesi hiperdens berkapsul tipis mengarah ke perdarahan, bukan massa melintasi midline.",
+        "E": "Lesi lakunar kecil tanpa edema tidak sesuai gejala progresif 2 bulan."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q22",
+      "category": "",
+      "question": "Seorang laki-laki berusia 55 tahun mengeluh sakit kepala yang makin berat secara progresif selama 2 bulan. Ia juga mengalami mual, muntah, dan perubahan perilaku. GCS-nya 14, terdapat kelemahan anggota gerak, dan tidak ada riwayat trauma. Temuan pencitraan yang paling mungkin pada kasus ini adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Area hiperdens tanpa edema di ganglia basal",
+        "B": "Hematoma subdural bulan sabit dengan midline shift",
+        "C": "Area hipodens dengan edema vasogenik menjari pada non-kontras, lalu ring enhancement frontal pada kontras",
+        "D": "Infark lakunar multipel tanpa penyangatan",
+        "E": "Kalsifikasi intraparenkim luas tanpa edema"
+      },
+      "optionExplanations": {
+        "A": "Lesi hiperdens tanpa edema tidak sesuai dengan pola edema vasogenik menjari.",
+        "B": "Lesi ekstra-aksial bulan sabit tidak sesuai dengan pola edema menjari dan ring enhancement.",
+        "C": "Pola edema vasogenik menjari dan ring enhancement frontal sesuai dengan metastasis.",
+        "D": "Lakunar kecil tanpa penyangatan tidak menimbulkan edema vasogenik menjari.",
+        "E": "Kalsifikasi tidak disertai edema menjari maupun penyangatan cincin."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q23",
+      "category": "",
+      "question": "Seorang laki-laki berusia 35 tahun mengeluh nyeri yang menjalar dari bokong hingga tungkai. Pekerjaannya sebagai supir truk pengangkut muatan. Kadang saat mengubah posisi, ia merasakan sensasi tersengat. Temuan pencitraan yang paling mungkin pada kasus ini adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "X-ray L5-S1 dengan penyempitan diskus dan osteofit tanpa lesi L4-L5",
+        "B": "MRI L4-L5 dengan bulging sirkumferensial dan protrusio parasentral yang menekan thecal sac",
+        "C": "MRI L5-S1 dengan lesi destruktif korpus vertebra dan abses",
+        "D": "X-ray torakal dengan kompresi korpus TH12 dan gibus",
+        "E": "MRI L3-L4 dengan massa intradural yang menyangat kontras"
+      },
+      "optionExplanations": {
+        "A": "Penyempitan diskus L5-S1 adalah degenerasi, tetapi keluhan radikular sesuai lesi L4-L5 pada MRI.",
+        "B": "Temuan MRI ini menjelaskan radikulopati lumbal dengan stenosis kanalis.",
+        "C": "Abses dan destruksi tidak sesuai kasus; gambaran utama bersifat degeneratif.",
+        "D": "Gibus torakal bukan temuan lumbal pada keluhan ini.",
+        "E": "Massa intradural tidak ditemukan; temuan utama degeneratif di L4-L5."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q24",
+      "category": "",
+      "question": "Seorang laki-laki berusia 38 tahun mengeluh nyeri punggung yang makin membesar sejak 3 bulan lalu. Ia juga merasakan malaise, berat badannya menurun, dan kesulitan berjalan. Temuan pencitraan yang paling mungkin pada kasus ini adalah?",
+      "questionImages": [],
+      "options": {
+        "A": "Lesi litik multipel tanpa gibus dan tanpa abses",
+        "B": "Kompresi osteoporotik L1 akut dengan edema sumsum tulang",
+        "C": "Penipisan diskus L5-S1 dengan osteofit tanpa gibus",
+        "D": "Massa intradural torakal yang menyangat kontras",
+        "E": "Gibus setinggi TH12 dengan abses paravertebral pada MRI"
+      },
+      "optionExplanations": {
+        "A": "Tidak sesuai dengan gibus dan abses paravertebral yang khas.",
+        "B": "Fraktur kompresi tidak disertai abses paravertebral luas.",
+        "C": "Degeneratif tidak menyebabkan gibus progresif selama 3 bulan.",
+        "D": "Tumor intradural tidak menyebabkan gibus dengan abses paravertebral.",
+        "E": "Gibus dan abses paravertebral sesuai dengan spondilitis tuberkulosis."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q25",
+      "category": "",
+      "question": "Seorang laki-laki berusia 22 tahun mengalami kecelakaan lalu lintas. Awalnya ia sempat tidak sadarkan diri, lalu kembali sadar. Beberapa jam kemudian kantuknya semakin berat. Nilai GCS-nya 10, dan riwayat trauma kepala sebelumnya disangkal. Berdasarkan gambar berikut, diagnosis dan temuan pencitraan yang paling tepat adalah? ",
+      "questionImages": [
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-018.png"
+      ],
+      "options": {
+        "A": "SDH frontal kanan bulan sabit dengan SAH sulkus",
+        "B": "Kontusio temporal kiri dengan edema",
+        "C": "ICH talamus dekstra dengan IVH",
+        "D": "EDH temporoparietal dekstra bikonveks dengan midline shift ke kiri",
+        "E": "Stroke hemoragik ganglia basal kiri"
+      },
+      "optionExplanations": {
+        "A": "Lokasi dan bentuk bulan sabit tidak sesuai lesi temporoparietal bikonveks pada gambar.",
+        "B": "Lokasi dan bentuk tidak sesuai hematoma ekstra-aksial bikonveks.",
+        "C": "Perdarahan parenkim talamus tidak sesuai lesi ekstra-aksial pada gambar.",
+        "D": "Diagnosis dan temuan sesuai: lesi ekstra-aksial bikonveks dengan pergeseran ke sisi kontralateral.",
+        "E": "Lokasi dan bentuk tidak sesuai lesi epidural pada gambar."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q26",
+      "category": "",
+      "question": "Seorang laki-laki berusia 58 tahun mengalami kecelakaan lalu lintas dengan keluhan nyeri kepala dan mual muntah. Kemampuan komunikasinya makin lama makin menurun. GCS-nya 12. Berdasarkan gambar berikut, diagnosis dan temuan pencitraan yang paling tepat adalah? ",
+      "questionImages": [
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-019.png"
+      ],
+      "options": {
+        "A": "SDH frontal sinistra bulan sabit dengan SAH dan herniasi subfalks",
+        "B": "EDH frontal dekstra bikonveks dengan SAH difus",
+        "C": "Stroke iskemik MCA dekstra dengan edema sitotoksik",
+        "D": "Tumor frontal sinistra dengan penyangatan cincin",
+        "E": "Hematoma intraserebral frontal dengan ventrikel normal"
+      },
+      "optionExplanations": {
+        "A": "Diagnosis dan temuan sesuai: SDH bulan sabit frontal kiri dengan SAH dan herniasi subfalks.",
+        "B": "Lesi bikonveks tidak sesuai bentuk bulan sabit subdural pada gambar.",
+        "C": "Tidak ada lesi infark pada gambar; temuan utamanya perdarahan.",
+        "D": "Tumor tidak akut dan tidak sesuai dengan SAH serta lesi falks.",
+        "E": "Perdarahan parenkim tidak sesuai dengan lesi subdural bulan sabit."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q27",
+      "category": "",
+      "question": "Seorang pasien berusia 25 tahun mengalami trauma kepala akibat pengeroyokan. GCS-nya 6, dan tidak tampak perdarahan di luar kepala. Berdasarkan gambar berikut, diagnosis dan temuan pencitraan yang paling tepat adalah? ",
+      "questionImages": [
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-020.png"
+      ],
+      "options": {
+        "A": "Kontusio frontal grade 2 dengan korpus kalosum terlibat",
+        "B": "EDH temporal dengan edema tanpa mikrobleed",
+        "C": "DAI grade 1 menurut Adams dengan edema dan mikrobleed temporal-subkortikal",
+        "D": "Hipoksia serebri difus dengan batas korteks normal",
+        "E": "DAI grade 3 dengan lesi batang otak"
+      },
+      "optionExplanations": {
+        "A": "Korpus kalosum tidak terlibat menurut dosen pada gambar ini.",
+        "B": "Lesi bikonveks tidak sesuai dengan mikrobleed korteks-medula pada gambar.",
+        "C": "Diagnosis dan temuan sesuai: grade 1 tanpa keterlibatan korpus kalosum, dengan edema dan mikrobleed.",
+        "D": "Batas korteks-medula tampak kabur pada gambar, bukan normal.",
+        "E": "Lesi batang otak tidak tampak pada gambar; grade 1 sesuai temuan."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q28",
+      "category": "",
+      "question": "Seorang laki-laki berusia 67 tahun datang dengan kelemahan anggota gerak sisi kanan yang muncul sekitar 1,5 jam sebelumnya. Berdasarkan gambar berikut, diagnosis dan temuan pencitraan yang paling tepat adalah? ",
+      "questionImages": [
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-021.png"
+      ],
+      "options": {
+        "A": "Stroke hemoragik lobus frontal kanan dengan hematoma luas",
+        "B": "Infark kronik arteri serebri anterior kiri",
+        "C": "Tumor parietal kanan dengan edema",
+        "D": "Migren dengan aura dan CT normal",
+        "E": "Stroke iskemik hiperakut dengan dense MCA sinistra, parenkim belum tampak infark"
+      },
+      "optionExplanations": {
+        "A": "Hematoma parenkim tidak tampak; hiperdensitas pada gambar adalah arteri.",
+        "B": "Infark kronik tampak hipodens dengan gliosis, bukan hiperdensitas arteri.",
+        "C": "Tumor tidak menyebabkan hiperdensitas arteri hiperakut.",
+        "D": "Migren tidak menyebabkan hiperdensitas arteri pada CT.",
+        "E": "Diagnosis dan temuan sesuai: dense MCA sign sinistra dengan parenkim yang belum menunjukkan infark."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q29",
+      "category": "",
+      "question": "Seorang laki-laki berusia 60 tahun mengalami penurunan kesadaran. Sebelum tidak sadarkan diri, ia tampak bingung dan sering mondar-mandir di tempat parkir. Berdasarkan gambar berikut, diagnosis dan temuan pencitraan yang paling tepat adalah? ",
+      "questionImages": [
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-022.png"
+      ],
+      "options": {
+        "A": "Perdarahan subdural frontal kanan bulan sabit",
+        "B": "ICH talamus dekstra dengan IVH dan ventrikulomegali",
+        "C": "Infark talamus kiri tanpa perdarahan",
+        "D": "Tumor pineal dengan hidrosefalus",
+        "E": "Abses talamus dengan penyangatan cincin"
+      },
+      "optionExplanations": {
+        "A": "Lesi ekstra-aksial bulan sabit tidak menjelaskan IVH pada gambar.",
+        "B": "Diagnosis dan temuan sesuai: perdarahan talamus dekstra meluas ke ventrikel dengan ventrikulomegali.",
+        "C": "Infark tidak hiperdens dan tidak tampak perdarahan pada gambar.",
+        "D": "Tumor pineal tidak akut dan tidak menyebabkan perdarahan parenkim talamus.",
+        "E": "Abses tidak akut dan tidak hiperdens pada non-kontras."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q30",
+      "category": "",
+      "question": "Seorang perempuan berusia 45 tahun mengeluh nyeri kepala yang sudah berlangsung sekitar 2 minggu. Setiap pagi ia mual dan muntah, dan dalam 2 minggu ini ia sering merasa mengantuk. Berdasarkan gambar berikut, diagnosis dan temuan pencitraan yang paling tepat adalah?  ",
+      "questionImages": [
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-023.png",
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-024.png"
+      ],
+      "options": {
+        "A": "Hidrosefalus obstruktif dengan tumor fossa posterior",
+        "B": "Tumor ventrikel III dengan hidrosefalus",
+        "C": "Infark bilateral arteri serebri posterior dengan ventrikel melebar",
+        "D": "Ventrikulomegali ex vacuo akibat atrofi otak dengan sulkus lebar",
+        "E": "Abses frontal dengan ventrikel melebar"
+      },
+      "optionExplanations": {
+        "A": "Sulkus lebar dan tidak ada massa pada gambar; tidak sesuai.",
+        "B": "Tidak ditemukan massa pada gambar.",
+        "C": "Tidak ada infark pada gambar.",
+        "D": "Diagnosis dan temuan sesuai: Evans index di atas 0,3 dengan sulkus lebar tanpa massa, infark, atau infeksi.",
+        "E": "Tidak ada tanda infeksi atau rim enhancement pada gambar."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q31",
+      "category": "",
+      "question": "Seorang laki-laki berusia 21 tahun datang dalam keadaan tidak sadarkan diri. Sebelumnya ia hanya tidur-tiduran di kos. Teman kosnya mengatakan bahwa pasien sering mengeluh nyeri kepala, tengkuk tegang, dan demam. Tidak lama setelah tiba di IGD, ia mengalami kejang. Berdasarkan gambar berikut, diagnosis dan temuan pencitraan yang paling tepat adalah? ",
+      "questionImages": [
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-025.png"
+      ],
+      "options": {
+        "A": "Meningitis dengan leptomeningeal enhancement dan kemungkinan serebritis atau ventrikulitis",
+        "B": "Ensefalitis herpes dengan lesi temporal hiperdens",
+        "C": "Stroke hemoragik talamus dengan IVH",
+        "D": "Hematoma epidural temporal bikonveks",
+        "E": "Tumor meningeal dengan massa tunggal yang menyangat"
+      },
+      "optionExplanations": {
+        "A": "Diagnosis dan temuan sesuai: riwayat demam, tengkuk tegang, kejang, dan penyangatan leptomeningeal.",
+        "B": "Lesi temporal tidak sesuai dengan penyangatan leptomeningeal khas.",
+        "C": "Perdarahan akut tidak sesuai dengan kejang, demam, dan penyangatan leptomeningeal.",
+        "D": "Lesi bikonveks trauma tidak sesuai riwayat demam dan tengkuk tegang.",
+        "E": "Massa tunggal tidak sesuai dengan demam, tengkuk tegang, dan penyangatan leptomeningeal."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q32",
+      "category": "",
+      "question": "Seorang pasien berusia 35 tahun datang ke IGD dengan demam 39°C, nyeri kepala, dan batuk yang sudah lama. Berdasarkan gambar berikut, diagnosis dan temuan pencitraan yang paling tepat adalah? ",
+      "questionImages": [
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-026.png"
+      ],
+      "options": {
+        "A": "Glioblastoma frontal dengan nekrosis",
+        "B": "Limfoma SSP hiperdens pada non-kontras",
+        "C": "Abses otak awal dengan gliosis dan edema fokal berkapsul yang menyangat",
+        "D": "Metastasis paru dengan perdarahan hiperakut",
+        "E": "Ensefalitis herpes dengan lesi temporal bilateral"
+      },
+      "optionExplanations": {
+        "A": "Glioblastoma tidak sesuai dengan demam tinggi dan kapsul awal pada gambar.",
+        "B": "Limfoma tidak disertai demam dan tidak berkapsul tipis.",
+        "C": "Diagnosis dan temuan sesuai: abses awal dengan gliosis, edema fokal, dan kapsul menyangat.",
+        "D": "Perdarahan hiperakut tidak tampak; metastasis tidak sesuai dengan demam.",
+        "E": "Lesi temporal bilateral tidak sesuai dengan lesi fokal berkapsul."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q33",
+      "category": "",
+      "question": "Seorang laki-laki berusia 58 tahun mengeluh sakit kepala yang makin berat secara progresif selama 2 bulan. Ia juga mengalami mual, muntah, dan perubahan perilaku. GCS-nya 14, dan terdapat kelemahan anggota gerak. Berdasarkan gambar berikut, diagnosis dan temuan pencitraan yang paling tepat adalah?  ",
+      "questionImages": [
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-027.png",
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-028.png"
+      ],
+      "options": {
+        "A": "Meningioma parasagital dengan dural tail",
+        "B": "Metastasis multipel subkortikal dengan edema",
+        "C": "Abses frontal dengan demam",
+        "D": "Hematoma subdural kronik bulan sabit",
+        "E": "Butterfly glioblastoma dengan massa frontal melintasi midline dan edema perifokal"
+      },
+      "optionExplanations": {
+        "A": "Meningioma ekstra-aksial dan tidak khas melintasi midline seperti pada gambar.",
+        "B": "Lesi multipel tidak sesuai dengan massa tunggal yang melintasi midline.",
+        "C": "Abses tidak tampak pada gambar dan tidak ada demam pada kasus.",
+        "D": "Lesi ekstra-aksial bulan sabit tidak sesuai dengan massa parenkim.",
+        "E": "Diagnosis dan temuan sesuai: massa frontal melintasi midline dengan edema perifokal."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q34",
+      "category": "",
+      "question": "Seorang laki-laki berusia 55 tahun mengeluh sakit kepala yang makin berat secara progresif selama 2 bulan. Ia juga mengalami mual, muntah, dan perubahan perilaku. GCS-nya 14, terdapat kelemahan anggota gerak, dan tidak ada riwayat trauma. Berdasarkan gambar berikut, diagnosis dan temuan pencitraan yang paling tepat adalah?  ",
+      "questionImages": [
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-029.png",
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-030.png"
+      ],
+      "options": {
+        "A": "Stroke iskemik subakut dengan infark luas",
+        "B": "Metastasis otak dengan edema vasogenik menjari dan ring enhancement frontal",
+        "C": "Glioblastoma soliter dengan nekrosis hipodens",
+        "D": "Abses otak dengan demam tinggi",
+        "E": "Limfoma hiperdens dengan imunosupresi berat"
+      },
+      "optionExplanations": {
+        "A": "Infark tidak menyebabkan ring enhancement multipel frontal.",
+        "B": "Diagnosis dan temuan sesuai: edema vasogenik menjari pada non-kontras dan ring enhancement frontal pada kontras.",
+        "C": "Tidak sesuai dengan pola edema menjari dan ring enhancement pada metastasis.",
+        "D": "Tidak ada demam pada kasus ini.",
+        "E": "Limfoma tidak memiliki pola edema vasogenik menjari yang khas pada gambar."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q35",
+      "category": "",
+      "question": "Seorang laki-laki berusia 35 tahun mengeluh nyeri yang menjalar dari bokong hingga tungkai. Pekerjaannya sebagai supir truk pengangkut muatan. Kadang saat mengubah posisi, ia merasakan sensasi tersengat. Berdasarkan gambar berikut, diagnosis dan temuan pencitraan yang paling tepat adalah?  ",
+      "questionImages": [
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-031.png",
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-032.png"
+      ],
+      "options": {
+        "A": "Spondilolistesis L5-S1 derajat berat dengan stenosis sentral",
+        "B": "Spondilitis TB L4-L5 dengan abses psoas",
+        "C": "Metastasis L4 dengan destruksi korpus",
+        "D": "HNP lumbal L4-L5 dengan protrusio dan stenosis berat, serta spondilosis L5-S1",
+        "E": "Sindrom cauda equina akibat tumor intradural L3"
+      },
+      "optionExplanations": {
+        "A": "Listesis tidak tampak; spondilosis L5-S1 tanpa listesis pada gambar.",
+        "B": "Tidak ada abses dan gibus; gejala tidak sistemik.",
+        "C": "Destruksi korpus dan penurunan berat badan tidak ada pada kasus.",
+        "D": "Diagnosis dan temuan sesuai: protrusi dan stenosis berat L4-L5 dengan spondilosis L5-S1.",
+        "E": "Tumor intradural tidak ditemukan pada MRI."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q36",
+      "category": "",
+      "question": "Seorang laki-laki berusia 38 tahun mengeluh nyeri punggung yang makin membesar sejak 3 bulan lalu. Ia juga merasakan malaise, berat badannya menurun, dan kesulitan berjalan. Berdasarkan gambar berikut, diagnosis dan temuan pencitraan yang paling tepat adalah?  ",
+      "questionImages": [
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-033.png",
+        "images/packages/premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy/img-034.png"
+      ],
+      "options": {
+        "A": "Spondilitis tuberkulosis dengan gibus TH12 dan abses paravertebral",
+        "B": "Spondilitis piogenik lumbal dengan demam tinggi",
+        "C": "Osteoporosis dengan fraktur kompresi TH12 tanpa abses",
+        "D": "Metastasis karsinoma paru dengan lesi litik multipel",
+        "E": "Hemangioma vertebra dengan gibus TH12"
+      },
+      "optionExplanations": {
+        "A": "Diagnosis dan temuan sesuai: gibus TH12 dengan abses paravertebral pada MRI.",
+        "B": "Demam tinggi dan gibus lumbal tidak sesuai gambar.",
+        "C": "Tidak ada abses paravertebral pada MRI.",
+        "D": "Lesi litik multipel tidak sesuai dengan gibus dan abses paravertebral.",
+        "E": "Hemangioma jinak tidak disertai abses dan gejala sistemik."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    }
+  ]
+}
