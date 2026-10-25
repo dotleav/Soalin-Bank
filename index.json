@@ -67,14 +67,6 @@
       "file": "packages/2h-persiapan-minites__latihan-minites-1.json"
     },
     {
-      "id": "2h-persiapan-minites-1__minites-1",
-      "tier": "reguler",
-      "title": "Minites 1",
-      "category": "2H - Persiapan Minites 1",
-      "count": 30,
-      "file": "packages/2h-persiapan-minites-1__minites-1.json"
-    },
-    {
       "id": "2h-persiapan-minites__neurobehavior-defisit-memori",
       "tier": "reguler",
       "title": "Neurobehavior & Defisit Memori",
@@ -161,14 +153,6 @@
       "category": "2H - Persiapan Minites 2",
       "count": 77,
       "file": "packages/2h-persiapan-minites-2__latihan-soal-materi-dr-heppi.json"
-    },
-    {
-      "id": "2h-persiapan-minites-2__minites2-2h-2021-2022-crop-fixed",
-      "tier": "reguler",
-      "title": "Minites2 2H 2021-2022 [Crop Fixed]",
-      "category": "2H - Persiapan Minites 2",
-      "count": 111,
-      "file": "packages/2h-persiapan-minites-2__minites2-2h-2021-2022-crop-fixed.json"
     },
     {
       "id": "2h-persiapan-minites__promosi-dan-pencegahan-kesehatan-jiwa-fase-prodromal-serta-p",
