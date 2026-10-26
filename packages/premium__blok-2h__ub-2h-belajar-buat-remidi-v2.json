@@ -273,7 +273,7 @@
       "questionImages": [],
       "options": {
         "A": "Menghambat reuptake asetilkolin",
-        "B": "Meningkatkan pelepasan dopamin, serotonin, dan norepinefrin",
+        "B": "Meningkatkan pelepasan monoamin",
         "C": "Menghambat reseptor GABA",
         "D": "Mengaktifkan reseptor opioid",
         "E": "Menghambat kanal kalsium"
@@ -564,7 +564,7 @@
       "questionImages": [],
       "options": {
         "A": "Tonus meningkat konstan",
-        "B": "Tonus normal atau menurun (hipotonik)",
+        "B": "Tonus normal atau menurun",
         "C": "Tonus meningkat hanya pada fleksi",
         "D": "Rigiditas cogwheel",
         "E": "Klonus persisten"
@@ -744,7 +744,7 @@
       "options": {
         "A": "Insomnia",
         "B": "Parasomnia",
-        "C": "Circadian rhythm sleep-wake disorder",
+        "C": "Gangguan ritme sirkadian",
         "D": "Hipersomnia sentral",
         "E": "Gangguan pernapasan terkait tidur"
       },
@@ -790,7 +790,7 @@
       "question": "Perbedaan mendasar antara spastisitas dan rigiditas terletak pada:",
       "questionImages": [],
       "options": {
-        "A": "Pada spastisitas, peningkatan tonus tergantung kecepatan gerakan (clasp-knife phenomenon), sedangkan rigiditas tidak tergantung kecepatan",
+        "A": "Spastisitas tergantung kecepatan gerakan",
         "B": "Spastisitas hanya terjadi pada otot fleksor",
         "C": "Rigiditas hanya ditemukan pada lesi UMN",
         "D": "Spastisitas selalu disertai klonus, rigiditas tidak pernah",
@@ -817,7 +817,7 @@
       "questionImages": [],
       "options": {
         "A": "Buruk dengan risiko kecacatan permanen",
-        "B": "Baik, namun angka rekurensi cukup tinggi",
+        "B": "Baik dengan rekurensi cukup tinggi",
         "C": "Selalu memerlukan tindakan bedah",
         "D": "Bersifat progresif tanpa remisi",
         "E": "Berhubungan dengan mortalitas tinggi"
@@ -841,7 +841,7 @@
       "questionImages": [],
       "options": {
         "A": "Bamboo spine",
-        "B": "Gibbus deformity (tanda \"gabus\"/spine sign)",
+        "B": "Gibbus deformity",
         "C": "Codfish vertebrae",
         "D": "Sunburst appearance",
         "E": "Onion skin appearance"
@@ -939,7 +939,7 @@
         "A": "Kapan Ibu/mahasiswa berangkat dari Papua?",
         "B": "Sudah berapa lama berada di sini?",
         "C": "Sekarang kira-kira jam berapa?",
-        "D": "Sekarang pagi, siang, sore, atau malam?",
+        "D": "Sekarang bagian hari apa?",
         "E": "Berapa lama perjalanan yang ditempuh?"
       },
       "optionExplanations": {
@@ -985,7 +985,7 @@
       "questionImages": [],
       "options": {
         "A": "Menunggu tanpa tindakan tambahan",
-        "B": "Dapat diulang pemberian benzodiazepin 1 kali lagi, bila gejala menetap dilanjutkan lini kedua (misalnya fenitoin)",
+        "B": "Ulangi pemberian benzodiazepin satu kali lagi",
         "C": "Langsung diberikan anestesi umum",
         "D": "Menghentikan seluruh terapi karena dianggap gagal",
         "E": "Mengganti dengan antibiotik empiris"
@@ -1009,7 +1009,7 @@
       "questionImages": [],
       "options": {
         "A": "Lingkungan aerob kaya oksigen",
-        "B": "Lingkungan anaerob (oksigen rendah)",
+        "B": "Lingkungan anaerob",
         "C": "Lingkungan dengan pH sangat basa",
         "D": "Suhu rendah (<10°C)",
         "E": "Lingkungan kering"
@@ -1036,7 +1036,7 @@
       "questionImages": [],
       "options": {
         "A": "Selalu duduk diam tanpa bergerak",
-        "B": "Tidak dapat menyelesaikan tugas/pekerjaan yang diberikan",
+        "B": "Tidak dapat menyelesaikan tugas yang diberikan",
         "C": "Selalu tepat waktu",
         "D": "Hiperfokus pada satu aktivitas dalam waktu lama",
         "E": "Tidak pernah melakukan kesalahan ceroboh"
@@ -1166,7 +1166,7 @@
       "questionImages": [],
       "options": {
         "A": "Gangguan artikulasi akibat kelemahan otot bicara",
-        "B": "Gangguan kemampuan berbahasa (memahami dan/atau menghasilkan bahasa) akibat lesi otak",
+        "B": "Gangguan kemampuan berbahasa akibat lesi otak",
         "C": "Gangguan suara akibat kelainan pita suara",
         "D": "Gangguan pendengaran murni",
         "E": "Gangguan daya ingat jangka pendek"
@@ -1193,7 +1193,7 @@
       "options": {
         "A": "Tes Weber",
         "B": "Tes Rinne",
-        "C": "Tes kalori (caloric test)",
+        "C": "Tes kalori",
         "D": "Tes garpu tala",
         "E": "Audiometri nada murni"
       },
@@ -1269,7 +1269,7 @@
       "questionImages": [],
       "options": {
         "A": "Nukleus suprakiasmatik",
-        "B": "VLPO (Ventrolateral Preoptic nucleus)",
+        "B": "Nukleus VLPO",
         "C": "Lokus seruleus",
         "D": "Nukleus rafe dorsalis",
         "E": "Formatio retikularis"
@@ -1390,7 +1390,7 @@
       "options": {
         "A": "Ibuprofen",
         "B": "Ketorolac",
-        "C": "Parasetamol (PCT)",
+        "C": "Parasetamol",
         "D": "Diklofenak",
         "E": "Aspirin dosis tinggi"
       },
@@ -1485,7 +1485,7 @@
       "questionImages": [],
       "options": {
         "A": "Meningkatkan pelepasan asetilkolin presinaptik",
-        "B": "Menghambat enzim asetilkolinesterase sehingga kadar asetilkolin di celah sinaps meningkat",
+        "B": "Menghambat enzim asetilkolinesterase",
         "C": "Menstimulasi reseptor asetilkolin nikotinik secara langsung",
         "D": "Menghambat reseptor asetilkolin muskarinik",
         "E": "Meningkatkan jumlah reseptor asetilkolin postsinaptik"
@@ -1509,7 +1509,7 @@
       "questionImages": [],
       "options": {
         "A": "Myasthenic syndrome",
-        "B": "Krisis Miastenik (Myasthenic crisis)",
+        "B": "Krisis Miastenik",
         "C": "Krisis Kolinergik semata",
         "D": "Eksaserbasi ringan",
         "E": "Remisi parsial"
@@ -1688,7 +1688,7 @@
       "questionImages": [],
       "options": {
         "A": "Haloperidol",
-        "B": "Alprazolam (golongan benzodiazepin)",
+        "B": "Alprazolam",
         "C": "Litium",
         "D": "Karbamazepin",
         "E": "Klorpromazin"
@@ -1740,7 +1740,7 @@
       "questionImages": [],
       "options": {
         "A": "Bentuk bulan sabit (crescent) yang dapat melewati garis sutura",
-        "B": "Bentuk bikonveks/lentikular (menyerupai lensa) yang tidak melewati garis sutura",
+        "B": "Bentuk bikonveks yang tidak melewati garis sutura",
         "C": "Gambaran hipodens difus di ventrikel",
         "D": "Gambaran perdarahan subarachnoid di sulkus",
         "E": "Kalsifikasi berbentuk cincin"
@@ -1792,7 +1792,7 @@
       "questionImages": [],
       "options": {
         "A": "Pemberian insulin",
-        "B": "Koreksi kadar gula darah segera dengan dekstrosa intravena",
+        "B": "Koreksi kadar gula darah segera",
         "C": "Pemberian antikonvulsan profilaksis rutin",
         "D": "Pungsi lumbal segera",
         "E": "Observasi tanpa intervensi"
@@ -1817,7 +1817,7 @@
       "options": {
         "A": "Neuropatik",
         "B": "Visceral",
-        "C": "Nosiseptif (somatik)",
+        "C": "Nosiseptif",
         "D": "Psikogenik",
         "E": "Nyeri sentral"
       },
@@ -1842,7 +1842,7 @@
       "questionImages": [],
       "options": {
         "A": "Neuralgia trigeminal",
-        "B": "Nyeri myofascial (myofascial pain syndrome)",
+        "B": "Nyeri myofascial",
         "C": "Fibromyalgia sistemik",
         "D": "Neuropati perifer",
         "E": "Radikulopati"
@@ -1894,7 +1894,7 @@
       "questionImages": [],
       "options": {
         "A": "Tes Patrick",
-        "B": "Straight Leg Raise (tes Lasègue)",
+        "B": "Tes Lasègue",
         "C": "Tes Phalen",
         "D": "Tes Spurling",
         "E": "Tes Kernig"
@@ -1995,7 +1995,7 @@
       "question": "Baku emas (gold standard) untuk menegakkan etiologi meningoensefalitis adalah:",
       "questionImages": [],
       "options": {
-        "A": "Pemeriksaan cairan serebrospinal (CSF)",
+        "A": "Pemeriksaan cairan serebrospinal",
         "B": "CT scan kepala dengan kontras",
         "C": "Pemeriksaan tanda rangsang meningeal yang positif",
         "D": "MRI kepala",
@@ -2076,8 +2076,8 @@
       "question": "Simple partial seizure menurut terminologi ILAE terkini disebut sebagai:",
       "questionImages": [],
       "options": {
-        "A": "Focal seizure aware (kejang fokal dengan kesadaran baik)",
-        "B": "Focal seizure unaware (kejang fokal dengan gangguan kesadaran)",
+        "A": "Focal seizure aware",
+        "B": "Focal seizure unaware",
         "C": "Generalized tonic-clonic seizure",
         "D": "Absence seizure",
         "E": "Atonic seizure"
@@ -2102,7 +2102,7 @@
       "options": {
         "A": "Pembentukan plak fibrosa matang",
         "B": "Kalsifikasi dinding pembuluh darah",
-        "C": "Fatty streak (garis lemak) akibat akumulasi sel busa/foam cell",
+        "C": "Fatty streak",
         "D": "Ruptur plak",
         "E": "Trombosis oklusif total"
       },
@@ -2152,7 +2152,7 @@
       "options": {
         "A": "Kulit",
         "B": "Otot rangka",
-        "C": "Intestinum (usus)",
+        "C": "Intestinum",
         "D": "Sendi",
         "E": "Tulang"
       },
@@ -2384,7 +2384,7 @@
       "options": {
         "A": "Stroke iskemik",
         "B": "Stroke hemoragik",
-        "C": "Transient ischemic attack (TIA)",
+        "C": "Transient ischemic attack",
         "D": "Migren dengan aura",
         "E": "Epilepsi fokal"
       },
@@ -2745,7 +2745,7 @@
       "question": "Seorang perempuan berusia [...] tahun mengira suara mesin diesel sebagai suara gemuruh, karena ia teringat pernah mengalami bencana tsunami. Tatalaksananya adalah?",
       "questionImages": [],
       "options": {
-        "A": "Biasakan paparan suara diesel bersama pendamping.",
+        "A": "Paparan bertahap terhadap suara diesel",
         "B": "Terapi benzodiazepin jangka panjang",
         "C": "Psikoanalisis tanpa paparan bertahap",
         "D": "Pemberian antipsikotik",
@@ -2869,7 +2869,7 @@
       "questionImages": [],
       "options": {
         "A": "Depresi postpartum",
-        "B": "Phsycosis postpartum",
+        "B": "Psikosis postpartum",
         "C": "Schizoprenia",
         "D": "Baby blues",
         "E": "Gangguan bipolar"
