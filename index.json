@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T12:20:05.127Z",
+  "generatedAt": "2026-10-26T15:26:29.088Z",
   "packages": [
     {
       "id": "2h-persiapan-minites__cedera-kepala-trauma-medulla-spinalis",
@@ -313,6 +313,14 @@
       "category": "Blok 2H",
       "count": 114,
       "file": "packages/premium__blok-2h__2h-buletin-soal-dari-tutor.json"
+    },
+    {
+      "id": "premium__blok-2h__flashcard-soal-rusak-ub-2h",
+      "tier": "premium",
+      "title": "Flashcard soal rusak UB 2H",
+      "category": "Blok 2H",
+      "count": 48,
+      "file": "packages/premium__blok-2h__flashcard-soal-rusak-ub-2h.json"
     },
     {
       "id": "premium__blok-2h__latihan-soal-kasus-kasus-nya-dr-jimmy",
