@@ -1,0 +1,734 @@
+{
+  "id": "premium__blok-2h__rekonstruksi-soal-rusak-2h",
+  "tier": "premium",
+  "title": "Rekonstruksi soal rusak 2H",
+  "category": "Blok 2H",
+  "questions": [
+    {
+      "id": "Q1",
+      "category": "",
+      "question": "Seorang pasien skizofrenia mendapat antipsikotik dosis tinggi selama 5 hari. Kini pasien demam 39,2°C, tampak kaku di seluruh tubuh, kesadaran menurun, dan tekanan darah tidak stabil. Diagnosis yang paling mungkin adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Sindrom serotonin",
+        "B": "Neuroleptic malignant syndrome (NMS)",
+        "C": "Status epileptikus",
+        "D": "Distonia akut",
+        "E": "Hipertermia maligna"
+      },
+      "optionExplanations": {
+        "A": "Sindrom serotonin ditandai klonus, hiperrefleksia, dan diaforesis setelah obat serotonergik, bukan kaku dengan penurunan kesadaran pada pemakaian antipsikotik.",
+        "B": "Trias klasik NMS adalah demam, rigiditas, dan perubahan status mental, disertai disfungsi otonom, akibat blokade reseptor D2 oleh antipsikotik.",
+        "C": "Status epileptikus ditandai bangkitan berulang atau berkepanjangan, bukan rigiditas yang berkembang bersama demam dan disautonomia.",
+        "D": "Distonia akut berupa kontraksi otot mendadak tanpa demam dan tanpa perubahan status mental yang progresif.",
+        "E": "Hipertermia maligna terjadi saat anestesi dengan obat tertentu, bukan pada pemakaian antipsikotik jangka panjang."
+      },
+      "answer": "B",
+      "explanation": "Patofisiologi dan gejala utama NMS: demam, rigiditas, perubahan status mental, disautonomia, dan gangguan gerak. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-001.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q2",
+      "category": "",
+      "question": "Di puskesmas, masalah kesehatan jiwa dan psikososial di wilayahnya kompleks, tetapi sumber daya terbatas. Intervensi yang paling realistis dan bermanfaat dilakukan adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Merujuk semua pasien ke rumah sakit jiwa tanpa penapisan",
+        "B": "Rehabilitasi jangka panjang untuk pasien gangguan berat",
+        "C": "Memberi obat psikotropika kepada seluruh warga sebagai pencegahan",
+        "D": "Skrining dan deteksi dini gejala pada tahap subklinis, lalu intervensi sesegera mungkin",
+        "E": "Menunggu sampai gejala berat muncul agar mudah dikenali"
+      },
+      "optionExplanations": {
+        "A": "Rujukan massal tanpa penapisan membebani layanan tersier yang sudah terbatas dan tidak menjangkau kasus dini.",
+        "B": "Rehabilitasi termasuk prevensi tersier, yang ditujukan pada gangguan yang sudah ada, bukan tahap deteksi dini.",
+        "C": "Pemberian obat massal tidak dianjurkan sebagai pencegahan dan tidak sesuai prinsip intervensi psikososial.",
+        "D": "Deteksi dan intervensi dapat dilakukan di beberapa titik sepanjang perjalanan menuju gangguan jiwa, dan ini sesuai prevensi sekunder yang bisa dijalankan di layanan primer.",
+        "E": "Menunggu gejala berat berarti kehilangan kesempatan intervensi dini ketika gejala subklinis sudah bisa dikenali."
+      },
+      "answer": "D",
+      "explanation": "Tiga tahap prevensi, perjalanan menuju gangguan jiwa, serta contoh skrining cemas dan depresi. Kunci disimpulkan dari materi, mohon verifikasi dengan dosen.     ",
+      "explanationImages": [
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-002.png",
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-003.png",
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-004.png",
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-005.png",
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-006.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q3",
+      "category": "",
+      "question": "Pria 40 tahun mengalami flashback setelah gempa, terutama saat mendengar suara gemuruh yang mirip suara gempa. Pada fase akut, penanganan awal yang paling tepat adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Psychological first aid: mendengarkan aktif, menunjukkan empati, membantu kebutuhan dasar, dan tidak memaksa pasien bercerita",
+        "B": "Meyakinkan pasien bahwa suara gemuruh itu bukan suara gempa",
+        "C": "Memberi penutup telinga agar pasien menghindari suara pemicu",
+        "D": "Menyatakan bahwa pasien sudah pulih agar tidak cemas",
+        "E": "Memberi obat antiansietas atau antipsikotik sejak awal"
+      },
+      "optionExplanations": {
+        "A": "Pada fase akut, prinsipnya adalah mendampingi secara suportif dan memvalidasi pengalaman pasien tanpa memaksa dan tanpa obat.",
+        "B": "Membantah persepsi pasien secara logis tidak menolong dan dapat membuat pasien merasa tidak dipahami.",
+        "C": "Menghindar total dari pemicu justru memperkuat penghindaran dan tidak dianjurkan pada fase akut.",
+        "D": "Pemulihan belum terjadi, dan menyatakannya tanpa pendampingan mengabaikan kebutuhan pasien.",
+        "E": "Pada fase akut, intervensi psikososial didahulukan dan tidak memakai obat."
+      },
+      "answer": "A",
+      "explanation": "Psychological first aid pada fase akut, edukasi komunitas tentang natural recovery expectation, dan perjalanan dari reaksi stres akut menuju PTSD. Flashback pada kasus ini mengarah ke acute stress disorder bila masih dalam sebulan pertama, dan PTSD bila lebih dari sebulan.    ",
+      "explanationImages": [
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-007.png",
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-008.png",
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-009.png",
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-010.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q4",
+      "category": "",
+      "question": "Pemeriksaan pencitraan pembuluh darah otak yang bersifat invasif, yaitu memerlukan kateter intra-arteri, kontras, dan sinar-X, adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "CT angiografi (CTA)",
+        "B": "MR angiografi (MRA)",
+        "C": "Digital subtraction angiography (DSA)",
+        "D": "Transcranial Doppler (TCD)",
+        "E": "CT kepala tanpa kontras"
+      },
+      "optionExplanations": {
+        "A": "CTA memakai CT dengan kontras intravena sehingga tergolong non-invasif.",
+        "B": "MRA bersifat non-invasif dan dapat dilakukan tanpa kontras.",
+        "C": "DSA memakai kateter intra-arteri, kontras, dan sinar-X sehingga bersifat invasif, dan dianggap baku emas untuk menilai pembuluh otak.",
+        "D": "TCD adalah ultrasonografi Doppler yang non-invasif.",
+        "E": "CT kepala tanpa kontras tidak menilai pembuluh darah secara rinci."
+      },
+      "answer": "C",
+      "explanation": "Tabel perbandingan CTA, MRA, dan TCD (non-invasif) dengan DSA (invasif). Catatan: sumber asli soal dari GPT dan belum ditemukan di slide, mohon verifikasi. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-011.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q5",
+      "category": "",
+      "question": "Amitriptilin digunakan sebagai analgesik adjuvan untuk nyeri neuropatik. Mekanisme utama yang berkontribusi pada efek analgesiknya adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Agonis reseptor opioid mu di medula spinalis",
+        "B": "Blokade kanal natrium pada saraf perifer",
+        "C": "Peningkatan produksi GABA di korteks serebri",
+        "D": "Penghambatan enzim siklooksigenase perifer",
+        "E": "Menghambat reuptake serotonin dan norepinefrin sehingga memperkuat jalur inhibisi nyeri desenden"
+      },
+      "optionExplanations": {
+        "A": "Amitriptilin bukan agonis opioid, sehingga mekanisme ini tidak sesuai.",
+        "B": "Blokade kanal natrium adalah mekanisme anestesi lokal, bukan mekanisme utama amitriptilin untuk nyeri neuropatik.",
+        "C": "Amitriptilin tidak bekerja dengan meningkatkan produksi GABA di korteks.",
+        "D": "Penghambatan siklooksigenase adalah mekanisme OAINS, bukan amitriptilin.",
+        "E": "Amitriptilin menghambat reuptake serotonin dan norepinefrin, dan peningkatan keduanya memperkuat jalur inhibisi nyeri di sistem saraf pusat."
+      },
+      "answer": "E",
+      "explanation": "Cara kerja antidepresan trisiklik dibanding SSRI, MAOI, dan SNRI. Pada nyeri, amitriptilin bekerja sebagai analgesik adjuvan dengan mekanisme yang sama karena jalur inhibisi nyeri desenden ikut diperkuat. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-012.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q6",
+      "category": "",
+      "question": "Seorang pasien mengeluh nyeri di seluruh badan dan tampak bingung serta gelisah. Untuk membedakan gejala psikotik dari gangguan mental organik, langkah awal yang paling tepat adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Anggap sebagai gangguan psikotik primer dan langsung memberi antipsikotik",
+        "B": "Anggap gejala sebagai organik sampai terbukti sebaliknya, lalu cari penyebab medis termasuk riwayat obat",
+        "C": "Menilai keluhan secara detail karena pasien tampak mendramatisasi",
+        "D": "Menunda pemeriksaan sampai hasil konsultasi psikiatri keluar",
+        "E": "Meminta pasien kembali setelah nyeri hilang"
+      },
+      "optionExplanations": {
+        "A": "Diagnosis psikotik primer tanpa menyingkirkan penyebab organik berisiko melewatkan kondisi medis.",
+        "B": "Perubahan mental harus dianggap fisiologis sampai terbukti lain, sehingga penyebab medis dan obat dicari lebih dahulu.",
+        "C": "Keluhan yang tampak berlebihan tetap harus dinilai dan tidak boleh diabaikan sebagai dramatisasi.",
+        "D": "Penundaan pemeriksaan pada kondisi akut dapat melewatkan penyebab yang bisa diobati.",
+        "E": "Perubahan status mental akut tidak boleh ditunda karena dapat menunjukkan kondisi medis yang serius."
+      },
+      "answer": "B",
+      "explanation": "Dari gangguan mental organik dan etiologinya, protokol langkah demi langkah (asumsikan organik, bedakan tiga D, cari akar penyebab), hingga gangguan psikotik akut. Riwayat obat termasuk pemicu yang dicari. Protokol geriatri dipakai sebagai rujukan langkah.     ",
+      "explanationImages": [
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-013.png",
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-014.png",
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-015.png",
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-016.png",
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-017.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q7",
+      "category": "",
+      "question": "Istri membawa suaminya ke puskesmas karena sering bicara dan tersenyum sendiri tanpa sebab. Pertanyaan yang paling tepat untuk menggali gejala bicara sendiri adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Apakah Anda sering merasa sedih atau kehilangan minat?",
+        "B": "Apakah Anda pernah mengalami kecelakaan yang membentur kepala?",
+        "C": "Apakah Anda kesulitan tidur akhir-akhir ini?",
+        "D": "Apakah Anda mendengar suara-suara yang mengajak bercakap-cakap?",
+        "E": "Apakah Anda sering lupa hal-hal sederhana?"
+      },
+      "optionExplanations": {
+        "A": "Pertanyaan ini menggali gejala depresi, bukan halusinasi auditorik.",
+        "B": "Riwayat trauma kepala penting untuk penyebab organik, tetapi tidak menggali isi gejala bicara sendiri.",
+        "C": "Gangguan tidur adalah gejala umum, tetapi tidak spesifik untuk bicara sendiri.",
+        "D": "Pertanyaan ini menggali halusinasi auditorik, yang bisa menjadi sumber bicara sendiri.",
+        "E": "Pertanyaan ini menggali gangguan memori, bukan halusinasi auditorik."
+      },
+      "answer": "D",
+      "explanation": "Tabel cara bertanya untuk halusinasi auditorik beserta observasi pemeriksa, misalnya pasien tampak bicara atau tertawa sendiri. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-018.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q8",
+      "category": "",
+      "question": "Ciri-ciri oligodendroglioma, KECUALI:",
+      "questionImages": [],
+      "options": {
+        "A": "Paling sering ditemukan pada anak di bawah 5 tahun di fossa posterior",
+        "B": "Mencakup sekitar 5–15% dari glioma",
+        "C": "Paling sering terdeteksi pada dekade keempat dan kelima",
+        "D": "Sering disertai keluhan neurologis dan kejang selama beberapa tahun",
+        "E": "Lesi terutama di hemisfer otak, lobus frontal atau temporal"
+      },
+      "optionExplanations": {
+        "A": "Oligodendroglioma paling sering pada dekade keempat dan kelima dengan lesi di hemisfer, bukan pada anak di fossa posterior.",
+        "B": "Sesuai materi, oligodendroglioma mencakup 5–15% dari glioma.",
+        "C": "Sesuai materi, puncak deteksi oligodendroglioma pada dekade keempat dan kelima.",
+        "D": "Sesuai materi, keluhan neurologis dapat muncul bertahun-tahun dan sering termasuk kejang.",
+        "E": "Sesuai materi, lesi sebagian besar di hemisfer, terutama frontal atau temporal."
+      },
+      "answer": "A",
+      "explanation": "Ringkasan karakteristik oligodendroglioma dari slide. Kunci dipilih sebagai pengecualian dari ciri yang tercantum. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-019.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q9",
+      "category": "",
+      "question": "Dokter bertanya: nama ibu siapa? Pasien menjawab: nama saya Indah, Ibu Endang, dari Palembang, tadi ke sini naik pesawat, beli bawang merah dan bawang putih. Kelainan arus pikir yang paling tepat adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Asosiasi longgar",
+        "B": "Tangensial",
+        "C": "Sirkumstansial",
+        "D": "Inkoherensi (word salad)",
+        "E": "Flight of ideas"
+      },
+      "optionExplanations": {
+        "A": "Asosiasi longgar berupa perpindahan ide antarsubjek tanpa hubungan sama sekali, sedangkan pasien ini masih berputar pada pertanyaan.",
+        "B": "Tangensial berarti pasien tidak menjawab pertanyaan sama sekali, sedangkan pasien ini tetap memberi informasi yang berputar.",
+        "C": "Pasien melantur ke hal-hal yang tidak penting sebelum mencapai jawaban utama, sehingga pikiran tidak langsung sesuai tujuan.",
+        "D": "Inkoherensi berupa ucapan yang tidak dapat dipahami, sedangkan ucapan pasien ini masih mudah diikuti.",
+        "E": "Flight of ideas ditandai bicara cepat dengan lompatan ide, sedangkan pasien ini tidak tergesa-gesa."
+      },
+      "answer": "C",
+      "explanation": "Tabel arus pikir: asosiasi longgar, sirkumstansial, dan tangensial, serta tabel gangguan proses pikir yang menandai sirkumstansial.  ",
+      "explanationImages": [
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-020.png",
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-021.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q10",
+      "category": "",
+      "question": "Pada status epileptikus absans, berapa batas waktu maksimal (t1) untuk mulai tata laksana emergensi?",
+      "questionImages": [],
+      "options": {
+        "A": "5 menit",
+        "B": "30 menit",
+        "C": "Lebih dari 60 menit",
+        "D": "Tidak ada batas waktu yang baku",
+        "E": "10–15 menit"
+      },
+      "optionExplanations": {
+        "A": "Lima menit adalah t1 untuk status tonik-klonik, bukan absans.",
+        "B": "Tiga puluh menit adalah t2 untuk status tonik-klonik, yaitu saat konsekuensi jangka panjang dapat terjadi.",
+        "C": "Lebih dari 60 menit adalah t2 untuk status fokal dengan gangguan kesadaran.",
+        "D": "Materi menetapkan t1 untuk setiap tipe status, sehingga pernyataan ini tidak sesuai.",
+        "E": "Pada status absans, t1 adalah 10–15 menit, yaitu waktu maksimal tata laksana emergensi harus dimulai."
+      },
+      "answer": "E",
+      "explanation": "Tabel t1 (waktu mulai tata laksana) dan t2 (waktu konsekuensi jangka panjang) untuk tiap tipe status epileptikus. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-022.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q11",
+      "category": "",
+      "question": "Dokter meminta pasien mengangkat kedua lengan, lalu melepaskan tangannya sambil tetap mengajak pasien bicara. Pemeriksaan neurologis yang sedang dilakukan adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Tes Romberg",
+        "B": "Tes drift lengan (pronator drift)",
+        "C": "Tes Babinski",
+        "D": "Tes Rinne",
+        "E": "Tes finger-to-nose"
+      },
+      "optionExplanations": {
+        "A": "Romberg menilai keseimbangan dengan berdiri tegak, kaki rapat, dan mata tertutup.",
+        "B": "Tes ini menilai kelemahan motorik: lengan yang turun atau berputar ke arah pronasi menunjukkan lesi motor neuron atas, biasanya di sisi kontralateral.",
+        "C": "Babinski menilai refleks plantar, bukan kekuatan lengan.",
+        "D": "Rinne menilai gangguan pendengaran, bukan fungsi motorik lengan.",
+        "E": "Finger-to-nose menilai koordinasi serebelum, bukan drift lengan."
+      },
+      "answer": "B",
+      "explanation": "Tidak ada gambar di rekapan. Kunci disimpulkan dari deskripsi soal, mohon verifikasi dengan Modul Neuro 1 hal. 84.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q12",
+      "category": "",
+      "question": "Yang termasuk cedera kepala PRIMER, yaitu kerusakan yang terjadi saat benturan, adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Hipoksia otak",
+        "B": "Edema serebri",
+        "C": "Iskemia akibat hipotensi",
+        "D": "Kontusio serebri",
+        "E": "Peningkatan tekanan intrakranial"
+      },
+      "optionExplanations": {
+        "A": "Hipoksia terjadi setelah trauma dan termasuk cedera sekunder.",
+        "B": "Edema serebri berkembang setelah trauma dan termasuk cedera sekunder.",
+        "C": "Hipotensi yang berlanjut menyebabkan iskemia, yang merupakan cedera sekunder.",
+        "D": "Kontusio terjadi langsung saat benturan, sehingga termasuk cedera primer.",
+        "E": "Peningkatan tekanan intrakranial berkembang setelah cedera dan termasuk mekanisme sekunder."
+      },
+      "answer": "D",
+      "explanation": "Pembagian cedera primer (terjadi saat benturan) dan sekunder (berkembang setelahnya).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q13",
+      "category": "",
+      "question": "Secara anatomis, nyeri punggung bawah (regio lumbal) dibatasi di bagian atas oleh:",
+      "questionImages": [],
+      "options": {
+        "A": "Margin bawah costa XII",
+        "B": "Margin bawah costa IX",
+        "C": "Processus spinosus C7",
+        "D": "Krista iliaka",
+        "E": "Lipat gluteal"
+      },
+      "optionExplanations": {
+        "A": "Regio lumbal dibatasi di atas oleh margin bawah costa XII dan di bawah oleh lipat gluteal. Dari pengetahuan umum.",
+        "B": "Costa IX bukan batas atas regio lumbal.",
+        "C": "C7 berada di regio servikal, jauh di atas regio lumbal.",
+        "D": "Krista iliaka adalah batas bawah pinggang, bukan batas atas nyeri punggung bawah.",
+        "E": "Lipat gluteal adalah batas bawah regio lumbal, bukan batas atasnya."
+      },
+      "answer": "A",
+      "explanation": "Tidak ada gambar di rekapan. Batas dari pengetahuan umum, mohon verifikasi dengan Modul Neuro 1 hal. 668.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q14",
+      "category": "",
+      "question": "Pasien membuka mata saat dipanggil (respons terhadap suara), berbicara bingung, dan mengikuti perintah. Berapa skor GCS-nya?",
+      "questionImages": [],
+      "options": {
+        "A": "11",
+        "B": "12",
+        "C": "13",
+        "D": "14",
+        "E": "15"
+      },
+      "optionExplanations": {
+        "A": "Skor 11 memerlukan respons motorik atau verbal yang lebih rendah dari kondisi ini.",
+        "B": "Skor 12 tidak sesuai dengan penjumlahan E3, V4, dan M6.",
+        "C": "Komponen: E3 (membuka mata terhadap suara), V4 (bicara bingung), M6 (mengikuti perintah), total 13.",
+        "D": "Skor 14 memerlukan respons verbal orientasi penuh, sedangkan pasien ini bicara bingung.",
+        "E": "Skor 15 adalah GCS normal, sedangkan pasien ini mengalami gangguan kesadaran."
+      },
+      "answer": "C",
+      "explanation": "Skala Glasgow Coma Scale: pembukaan mata (E), respons motorik (M), dan respons verbal (V) beserta skornya. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-023.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q15",
+      "category": "",
+      "question": "Yang BUKAN merupakan gambaran khas penyakit Meniere adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Vertigo episodik",
+        "B": "Tinnitus",
+        "C": "Rasa penuh pada telinga",
+        "D": "Gangguan pendengaran fluktuatif",
+        "E": "Vertigo yang menetap lebih dari 24 jam"
+      },
+      "optionExplanations": {
+        "A": "Vertigo episodik merupakan gambaran khas Meniere.",
+        "B": "Tinnitus merupakan gejala khas Meniere.",
+        "C": "Rasa penuh pada telinga merupakan gejala khas Meniere.",
+        "D": "Gangguan pendengaran fluktuatif dengan sensorineural frekuensi rendah merupakan gejala khas Meniere.",
+        "E": "Pada Meniere, serangan vertigo bersifat episodik, berlangsung minimal 20 menit, dan tidak pernah lebih dari 24 jam."
+      },
+      "answer": "E",
+      "explanation": "Tabel perbandingan neuritis vestibular, labirintitis, dan Meniere: etiologi, gejala, dan tatalaksana. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-024.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q16",
+      "category": "",
+      "question": "Pada Canadian CT Head Rule, yang BUKAN merupakan kriteria risiko tinggi maupun risiko sedang adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Fraktur kepala terbuka atau tertekan",
+        "B": "Usia lebih dari 60 tahun",
+        "C": "Amnesia sebelum benturan lebih dari 30 menit",
+        "D": "GCS kurang dari 15 pada dua jam setelah cedera",
+        "E": "Muntah dua kali atau lebih"
+      },
+      "optionExplanations": {
+        "A": "Fraktur kepala terbuka atau tertekan termasuk kriteria risiko tinggi.",
+        "B": "Kriteria risiko tinggi adalah usia 65 tahun atau lebih, bukan lebih dari 60 tahun.",
+        "C": "Amnesia sebelum benturan 30 menit atau lebih termasuk kriteria risiko sedang.",
+        "D": "GCS kurang dari 15 dua jam setelah cedera termasuk kriteria risiko tinggi.",
+        "E": "Muntah dua kali atau lebih termasuk kriteria risiko tinggi."
+      },
+      "answer": "B",
+      "explanation": "Kriteria risiko tinggi dan risiko sedang Canadian CT Head Rule untuk cedera kepala ringan. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-025.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q17",
+      "category": "",
+      "question": "Seseorang dibawa temannya karena kejang setelah bekerja 10 jam tanpa henti di depan laptop. Tidak ada riwayat kejang sebelumnya. Jenis bangkitan yang paling tepat adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Bangkitan tanpa provokasi (unprovoked seizure)",
+        "B": "Bangkitan refleks (reflex seizure)",
+        "C": "Epilepsi idiopatik tanpa faktor pencetus",
+        "D": "Bangkitan provokasi (provoked seizure) akibat kurang tidur dan kelelahan",
+        "E": "Bangkitan psikogenik non-epileptik"
+      },
+      "optionExplanations": {
+        "A": "Unprovoked seizure didefinisikan tanpa faktor pencetus akut, sedangkan kasus ini memiliki pencetus kurang tidur.",
+        "B": "Bangkitan refleks dicetuskan stimulus spesifik yang konsisten, bukan kelelahan umum.",
+        "C": "Epilepsi idiopatik tidak memiliki pencetus akut yang jelas, sehingga tidak sesuai dengan kasus ini.",
+        "D": "Kurang tidur dan kelelahan merupakan faktor pencetus akut, sehingga bangkitan ini tidak termasuk unprovoked.",
+        "E": "Bangkitan psikogenik tidak disertai aktivitas listrik epileptik pada EEG, dan diagnosisnya memerlukan pemeriksaan tersebut."
+      },
+      "answer": "D",
+      "explanation": "Definisi bangkitan tanpa provokasi dan klasifikasi bangkitan karena penyakit dahulu. Kunci disesuaikan karena kurang tidur merupakan pencetus akut, mohon verifikasi dengan dosen. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-026.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q18",
+      "category": "",
+      "question": "Yang TIDAK termasuk dalam klasifikasi gangguan keseimbangan (vestibular) terbaru adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Disequilibrium",
+        "B": "Vertigo",
+        "C": "Dizziness",
+        "D": "Simptom vestibulo-visual",
+        "E": "Simptom postural"
+      },
+      "optionExplanations": {
+        "A": "Disequilibrium merupakan istilah klasifikasi lama, sedangkan klasifikasi baru menggunakan dizziness, simptom vestibulo-visual, dan simptom postural.",
+        "B": "Vertigo tetap termasuk klasifikasi baru.",
+        "C": "Dizziness termasuk klasifikasi baru.",
+        "D": "Simptom vestibulo-visual termasuk klasifikasi baru.",
+        "E": "Simptom postural termasuk klasifikasi baru."
+      },
+      "answer": "A",
+      "explanation": "Perbandingan klasifikasi lama dan baru gangguan vestibular. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-027.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q19",
+      "category": "",
+      "question": "Yang BUKAN merupakan tanda klinis herniasi serebral adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Anisokor pupil",
+        "B": "Pola napas Cheyne-Stokes",
+        "C": "Asterixis",
+        "D": "Penurunan kesadaran progresif",
+        "E": "Trias Cushing: hipertensi, bradikardi, dan napas tidak teratur"
+      },
+      "optionExplanations": {
+        "A": "Anisokor pupil dapat muncul akibat penekanan saraf okulomotor pada herniasi.",
+        "B": "Pola napas Cheyne-Stokes dapat muncul akibat gangguan batang otak pada herniasi.",
+        "C": "Asterixis (flapping tremor) lebih sering pada ensefalopati metabolik, misalnya hepatik, dan bukan tanda herniasi.",
+        "D": "Penurunan kesadaran progresif merupakan tanda klinis herniasi serebral.",
+        "E": "Trias Cushing menunjukkan peningkatan tekanan intrakranial dengan gangguan batang otak."
+      },
+      "answer": "C",
+      "explanation": "Gambar di rekapan lama berisi klasifikasi UMN dan LMN, tidak sesuai topik herniasi, sehingga tidak dimasukkan. Kunci disusun ulang dari pilihan soal, mohon verifikasi.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q20",
+      "category": "",
+      "question": "Pada pemeriksaan polisomnografi untuk gangguan tidur, komponen yang merekam aktivitas gelombang otak adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "EOG (elektrookulografi)",
+        "B": "EMG (elektromiografi)",
+        "C": "Spirometri",
+        "D": "Audiometri",
+        "E": "EEG (elektroensefalografi)"
+      },
+      "optionExplanations": {
+        "A": "EOG merekam gerak mata, bukan gelombang otak.",
+        "B": "EMG merekam aktivitas elektrikal otot, bukan gelombang otak.",
+        "C": "Spirometri menilai fungsi paru, bukan aktivitas otak.",
+        "D": "Audiometri menilai pendengaran, bukan aktivitas otak saat tidur.",
+        "E": "EEG merekam aktivitas gelombang otak sehingga digunakan untuk menentukan tahap tidur."
+      },
+      "answer": "E",
+      "explanation": "Definisi tidur dan jenis pemeriksaan elektrofisiologi: EEG, EOG, dan EMG. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-028.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q21",
+      "category": "",
+      "question": "Pasien merasa ada orang yang sering membicarakannya di belakangnya. Gejala utamanya berupa waham yang berkaitan dengan dikejar atau dibicarakan. Diagnosis F20 yang paling sesuai adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Skizofrenia hebefrenik (F20.1)",
+        "B": "Skizofrenia paranoid (F20.0)",
+        "C": "Skizofrenia katatonik (F20.2)",
+        "D": "Skizofrenia tak terinci (F20.3)",
+        "E": "Gangguan waham menetap (F22.0)"
+      },
+      "optionExplanations": {
+        "A": "Skizofrenia hebefrenik ditandai disorganisasi perilaku dan afek dangkal, dengan onset muda.",
+        "B": "Skizofrenia paranoid ditandai halusinasi dan waham yang mengancam, seperti merasa dikejar atau dibicarakan.",
+        "C": "Skizofrenia katatonik ditandai gejala motorik seperti negativisme, rigiditas, dan mutisme.",
+        "D": "Tipe tak terinci dipakai bila gambaran tidak jelas masuk tipe lain, sedangkan waham dikejar pada kasus ini sudah khas.",
+        "E": "Gangguan waham menetap tidak disertai halusinasi dan gejala skizofrenia lain yang memenuhi kriteria skizofrenia."
+      },
+      "answer": "B",
+      "explanation": "Subtipe skizofrenia F20 beserta gambaran khasnya. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-029.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q22",
+      "category": "",
+      "question": "Pasien wanita mendengar bisikan yang menyuruhnya keluar dari rumah. Ia juga berdandan berlebihan dan merasa dirinya seperti artis. Diagnosis yang paling sesuai adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Gangguan bipolar",
+        "B": "Gangguan manik",
+        "C": "Gangguan psikoafektif",
+        "D": "Gangguan psikotik dengan halusinasi auditorik dan waham kebesaran",
+        "E": "Gangguan kepribadian histrionik"
+      },
+      "optionExplanations": {
+        "A": "Gangguan bipolar ditandai episode mood yang jelas, dan gambaran ini tidak menyebutkan perubahan mood yang khas.",
+        "B": "Gangguan manik memerlukan gejala mania yang dominan, sedangkan gejala psikotik di sini lebih menonjol.",
+        "C": "Gangguan psikoafektif menonjolkan gangguan mood bersama gejala psikotik, yang tidak tergambar jelas di kasus ini.",
+        "D": "Halusinasi perintah dan waham kebesaran memenuhi gambaran gangguan psikotik.",
+        "E": "Gangguan kepribadian tidak menjelaskan adanya halusinasi auditorik perintah."
+      },
+      "answer": "D",
+      "explanation": "Subtipe waham: erotomanik, kebesaran (grandiose), cemburu, persekutorik, somatik, campuran, dan tidak spesifik. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-030.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q23",
+      "category": "",
+      "question": "Tumor SSP yang berasal dari sel ependimal, sering terlihat sebagai massa hiperdens di ventrikel pada CT, dan dapat menyebabkan hidrosefalus obstruktif, adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Ependimoma",
+        "B": "HIV",
+        "C": "Toksoplasmosis",
+        "D": "Meningioma",
+        "E": "Hemangioblastoma serebelum"
+      },
+      "optionExplanations": {
+        "A": "Ependimoma berasal dari sel ependimal yang melapisi sistem ventrikel, sering dekat ventrikel keempat, dan dapat menyebabkan hidrosefalus obstruktif.",
+        "B": "HIV bukan tumor ventrikel, meski dapat memengaruhi SSP dengan cara lain.",
+        "C": "Toksoplasmosis membentuk lesi dengan enhancement cincin, bukan massa dari sel ependimal.",
+        "D": "Meningioma berasal dari meninges, bukan dari sel ependimal di ventrikel.",
+        "E": "Hemangioblastoma adalah tumor vaskular dengan kista dan nodul mural, bukan berasal dari sel ependimal."
+      },
+      "answer": "A",
+      "explanation": "Perbandingan astrositoma pilositik dan ependimoma: lokasi, usia, dan keterlibatan ventrikel. Kunci dipilih berdasarkan asal sel ependimal.  ",
+      "explanationImages": [
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-031.png",
+        "images/packages/premium__blok-2h__rekonstruksi-soal-rusak-2h/img-032.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q24",
+      "category": "",
+      "question": "Dalam wawancara psikiatri, mengapa fungsi peran (pekerjaan, sekolah, keluarga) perlu ditanyakan?",
+      "questionImages": [],
+      "options": {
+        "A": "Untuk menentukan diagnosis pasti tanpa pemeriksaan lain",
+        "B": "Untuk menggantikan pemeriksaan status mental",
+        "C": "Untuk menilai dampak gangguan terhadap kehidupan sehari-hari dan tingkat disabilitas",
+        "D": "Untuk menentukan jenis obat secara langsung",
+        "E": "Untuk mengetahui riwayat keluarga saja"
+      },
+      "optionExplanations": {
+        "A": "Diagnosis tidak ditentukan hanya dari fungsi peran dan tetap membutuhkan pemeriksaan lain.",
+        "B": "Fungsi peran melengkapi, bukan menggantikan, pemeriksaan status mental.",
+        "C": "Fungsi peran menunjukkan seberapa besar gangguan mengganggu aktivitas dan tanggung jawab pasien. Dari pengetahuan umum.",
+        "D": "Pemilihan obat tidak ditentukan langsung oleh fungsi peran.",
+        "E": "Riwayat keluarga hanya sebagian kecil dari penilaian fungsi peran."
+      },
+      "answer": "C",
+      "explanation": "Tidak ada gambar di rekapan. Dari pengetahuan umum, belum ada di materi, mohon verifikasi.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "QB8",
+      "category": "Soal Rusak",
+      "question": "Ada bencana di suatu wilayah, korban gangguan jiwa mengalami iritabilitas. Apa yang dilakukan? [opsi selain a kosong, kunci tidak ada]",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": true
+    },
+    {
+      "id": "QB9",
+      "category": "Soal Rusak",
+      "question": "Upaya pencegahan faktor risiko dsb [soal tidak lengkap, tanpa opsi dan kunci]",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": true
+    },
+    {
+      "id": "QB13",
+      "category": "Soal Rusak",
+      "question": "Qq kerjanya di SSP bagaimana? [soal tidak lengkap]",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": true
+    },
+    {
+      "id": "QB24",
+      "category": "Soal Rusak",
+      "question": "Di tempat pengungsian terjadi pertengkaran karena masalah sehari-hari dan rumah warga yang belum selesai dibangun. [opsi D dan E kosong, kunci tidak ada]",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": true
+    },
+    {
+      "id": "QB26",
+      "category": "Soal Rusak",
+      "question": "Penyakit di negara berkembang dan berpenghasilan rendah yang penanganan psikososialnya buruk? [gambar rekapan tidak sesuai topik, kunci tidak ada]",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": true
+    },
+    {
+      "id": "QB27",
+      "category": "Soal Rusak",
+      "question": "Pandemi Covid-19, harus lockdown, anak-anak usia sekolah sering bertengkar di rumah, tindakan apa yang bisa dilakukan? [opsi tidak lengkap, kunci tidak ada]",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": true
+    },
+    {
+      "id": "QB29",
+      "category": "Soal Rusak",
+      "question": "20-30% berasal dari penyakit kelamin [kalimat terpotong, soal tidak lengkap]",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": true
+    },
+    {
+      "id": "QB32",
+      "category": "Soal Rusak",
+      "question": "Penyakit apa yang muncul di tempat pengungsian yang sudah lama dan berjubel? [kunci tidak ada]",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": true
+    },
+    {
+      "id": "QB33",
+      "category": "Soal Rusak",
+      "question": "Pasien datang diantar istrinya yang akan menikah 1 bulan lagi. Calon suaminya kehilangan pekerjaan, tampak murung, bicara sedikit dan pelan. Intervensi terapeutik apa? [kunci tidak ada]",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": true
+    }
+  ]
+}
