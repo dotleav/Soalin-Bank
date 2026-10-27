@@ -1,0 +1,1160 @@
+{
+  "id": "persiapan-minites-2i__endokrin-anak-kulpak-dr-devie",
+  "tier": "reguler",
+  "title": "Endokrin Anak (Kulpak dr.devie)",
+  "category": "Persiapan Minites 2I",
+  "questions": [
+    {
+      "id": "Q1",
+      "category": "",
+      "question": "Berat badan bayi dalam satu tahun pertama kehidupan meningkat hingga menjadi berapa kali berat lahir?",
+      "questionImages": [],
+      "options": {
+        "A": "3 kali",
+        "B": "5 kali",
+        "C": "10 kali",
+        "D": "1 kali",
+        "E": "2 kali"
+      },
+      "optionExplanations": {
+        "A": "Dalam satu tahun pertama berat badan bayi menjadi tiga kali berat lahir.",
+        "B": "Lima kali berat lahir melebihi laju pertumbuhan normal bayi tahun pertama.",
+        "C": "Sepuluh kali berat lahir tidak sesuai dengan pertumbuhan bayi normal.",
+        "D": "Berat badan belum berlipat ganda pada tahun pertama.",
+        "E": "Peningkatan menjadi dua kali belum sesuai dengan pertumbuhan pesat bayi."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q2",
+      "category": "",
+      "question": "Pada masa remaja, perbedaan pertumbuhan antara anak perempuan dan laki-laki yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Anak laki-laki matur lebih dahulu dan lebih pendek",
+        "B": "Anak perempuan matur lebih dahulu, laki-laki lebih tinggi",
+        "C": "Keduanya matur bersamaan dan memiliki tinggi yang sama",
+        "D": "Anak perempuan selalu lebih tinggi sepanjang masa remaja",
+        "E": "Tidak ada perbedaan pertumbuhan remaja berdasarkan jenis kelamin sama sekali"
+      },
+      "optionExplanations": {
+        "A": "Pernyataan ini terbalik, karena anak perempuan matur lebih dahulu.",
+        "B": "Anak perempuan matur lebih dahulu dan pada akhirnya laki-laki menjadi lebih tinggi.",
+        "C": "Keduanya bersamaan tidak sesuai dengan perbedaan waktu maturasi.",
+        "D": "Anak perempuan tidak selalu lebih tinggi sepanjang masa remaja.",
+        "E": "Perbedaan antara keduanya ada, meskipun pada bayi dan anak hanya sedikit."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q3",
+      "category": "",
+      "question": "Hormon yang menghambat sekresi growth hormone (GH) dari hipofisis anterior dikenal sebagai ...",
+      "questionImages": [],
+      "options": {
+        "A": "Estrogen",
+        "B": "Growth hormone-releasing hormone (GHRH)",
+        "C": "Somatostatin",
+        "D": "IGF-I",
+        "E": "Tiroksin"
+      },
+      "optionExplanations": {
+        "A": "Estrogen merupakan hormon seks yang menstimulasi percepatan pertumbuhan saat pubertas.",
+        "B": "GHRH justru menstimulasi sekresi GH, bukan menghambat.",
+        "C": "Somatostatin menekan sekresi GH dari hipofisis.",
+        "D": "IGF-I merupakan efek GH, bukan penghambat sekresinya.",
+        "E": "Tiroksin memengaruhi metabolisme, bukan penghambat langsung sekresi GH."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q4",
+      "category": "",
+      "question": "Kadar growth hormone dalam tubuh paling tinggi pada periode ...",
+      "questionImages": [],
+      "options": {
+        "A": "Remaja",
+        "B": "Dewasa muda",
+        "C": "Lanjut usia",
+        "D": "Janin",
+        "E": "Anak"
+      },
+      "optionExplanations": {
+        "A": "Pada remaja kadar GH meningkat kembali saat pubertas, tetapi tidak paling tinggi.",
+        "B": "Pada dewasa muda kadar GH sudah lebih rendah dibanding masa janin.",
+        "C": "Pada lanjut usia kadar GH rendah.",
+        "D": "Kadar GH paling tinggi pada masa janin, lalu menurun selama masa anak-anak.",
+        "E": "Pada masa anak kadar GH menurun, tidak paling tinggi."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q5",
+      "category": "",
+      "question": "Efek utama growth hormone pada pertumbuhan tulang dilakukan melalui produksi ...",
+      "questionImages": [],
+      "options": {
+        "A": "Kortisol, hormon adrenal yang mengatur stres",
+        "B": "Hormon tiroid, pengatur metabolisme basal",
+        "C": "Prolaktin, hormon yang merangsang laktasi",
+        "D": "Insulin, hormon pengatur kadar gula darah",
+        "E": "Insulin-like growth factor (IGF)"
+      },
+      "optionExplanations": {
+        "A": "Kortisol adalah hormon adrenal, bukan mediator utama GH.",
+        "B": "Hormon tiroid memiliki efek metabolik, bukan mediator utama GH.",
+        "C": "Prolaktin tidak termasuk mediator utama GH pada pertumbuhan.",
+        "D": "Insulin memiliki fungsi metabolik berbeda, bukan mediator utama GH.",
+        "E": "GH bekerja terutama melalui produksi IGF."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q6",
+      "category": "",
+      "question": "Efek hormon tiroid pada sistem kardiovaskular adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Kronotropik dan inotropik positif",
+        "B": "Hanya vasodilatasi perifer",
+        "C": "Penurunan laju denyut jantung tanpa efek kontraksi",
+        "D": "Tidak ada efek pada jantung",
+        "E": "Kronotropik dan inotropik negatif"
+      },
+      "optionExplanations": {
+        "A": "Hormon tiroid meningkatkan kronotropik dan inotropik positif pada kardiovaskular.",
+        "B": "Vasodilatasi perifer tidak menggambarkan efek utama yang tercantum.",
+        "C": "Penurunan laju denyut jantung tidak sesuai dengan efek hormon tiroid yang tercantum.",
+        "D": "Hormon tiroid memiliki efek pada jantung.",
+        "E": "Efek tiroid pada jantung bersifat positif, bukan negatif."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q7",
+      "category": "",
+      "question": "Hormon sex steroid yang berlebihan pada masa pubertas dapat menyebabkan perawakan pendek. Mekanismenya adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Peningkatan tinggi badan akibat pemanjangan tulang tanpa batas",
+        "B": "Penutupan epifisis dini",
+        "C": "Peningkatan kadar GH yang tidak terbatas",
+        "D": "Penurunan sekresi IGF-I pada kartilago",
+        "E": "Peningkatan massa otot yang menekan tulang"
+      },
+      "optionExplanations": {
+        "A": "Tulang tidak memanjang tanpa batas, karena pertumbuhan dibatasi oleh penutupan epifisis.",
+        "B": "Sex steroid yang berlebihan menyebabkan penutupan epifisis dini sehingga pertumbuhan berhenti lebih awal.",
+        "C": "Sex steroid justru menstimulasi produksi GH, bukan menyebabkan GH tidak terbatas sebagai mekanisme pendek.",
+        "D": "Sex steroid meningkatkan IGF-I pada kartilago, bukan menurunkannya.",
+        "E": "Peningkatan massa otot tidak menjelaskan perawakan pendek pada pubertas."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q8",
+      "category": "",
+      "question": "Seorang anak dikatakan pendek apabila panjang atau tinggi badannya berada pada ...",
+      "questionImages": [],
+      "options": {
+        "A": "Di atas persentil 50 kurva pertumbuhan",
+        "B": "Di antara persentil 25 dan 75",
+        "C": "Di bawah -2 SD kurva pertumbuhan",
+        "D": "Di atas +2 SD kurva pertumbuhan",
+        "E": "Sekitar -1 SD kurva pertumbuhan"
+      },
+      "optionExplanations": {
+        "A": "Persentil 50 adalah rata-rata dan tidak termasuk pendek.",
+        "B": "Rentang persentil 25 sampai 75 termasuk normal.",
+        "C": "Pendek bila tinggi badan di bawah -2 SD.",
+        "D": "Di atas +2 SD menggambarkan anak tinggi, bukan pendek.",
+        "E": "Sekitar -1 SD belum memenuhi kriteria pendek."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q9",
+      "category": "",
+      "question": "Seorang anak 9 tahun dengan tinggi badan di bawah -2 SD. Berat badannya normal atau mendekati gemuk, dan umur tulang terlambat. Kondisi ini paling sesuai dengan ...",
+      "questionImages": [],
+      "options": {
+        "A": "Pendek akibat gizi sangat buruk dengan berat badan rendah",
+        "B": "Tinggi badan normal dengan pubertas prekoks",
+        "C": "Akromegali dengan pembesaran tangan dan kaki",
+        "D": "Pendek karena terlambat, perlu cek gangguan endokrin",
+        "E": "Pendek genetik murni tanpa pemeriksaan lanjutan"
+      },
+      "optionExplanations": {
+        "A": "Gizi sangat buruk biasanya disertai berat badan yang rendah, tidak sesuai dengan kasus ini.",
+        "B": "Pubertas prekoks tidak berkaitan dengan tinggi badan di bawah -2 SD pada kasus ini.",
+        "C": "Akromegali disebabkan kelebihan GH setelah epifisis menutup, bukan pendek.",
+        "D": "Umur tulang terlambat dengan BB normal mengarah ke pendek karena terlambat atau endokrin.",
+        "E": "Pendek genetik murni biasanya tidak disertai umur tulang yang terlambat."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q10",
+      "category": "",
+      "question": "Laron dwarfism merupakan contoh abnormalitas kerja growth hormone yang berupa ...",
+      "questionImages": [],
+      "options": {
+        "A": "Kelebihan sekresi GH",
+        "B": "Defisiensi tiroid",
+        "C": "Penutupan epifisis dini akibat estrogen",
+        "D": "Defisiensi produksi GH di hipofisis",
+        "E": "Resistensi terhadap GH"
+      },
+      "optionExplanations": {
+        "A": "Kelebihan GH menyebabkan gigantisme atau akromegali, bukan Laron dwarfism.",
+        "B": "Defisiensi tiroid termasuk hipotiroidisme, bukan Laron dwarfism.",
+        "C": "Penutupan epifisis dini oleh estrogen bukan mekanisme Laron dwarfism.",
+        "D": "Defisiensi produksi GH adalah kelompok defisiensi GH, bukan abnormalitas kerja GH.",
+        "E": "Laron dwarfism adalah resistensi GH, yaitu tubuh tidak merespons GH."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q11",
+      "category": "",
+      "question": "Pemeriksaan kadar GH untuk menilai defisiensi GH tidak bisa dilakukan secara random. Pemeriksaan ini membutuhkan ...",
+      "questionImages": [],
+      "options": {
+        "A": "Tes stimulasi dengan persiapan khusus",
+        "B": "Foto rontgen tangan untuk menilai umur tulang anak",
+        "C": "Pemeriksaan urin 24 jam yang dikumpulkan di rumah",
+        "D": "Biopsi hipofisis melalui prosedur bedah saraf",
+        "E": "Pemeriksaan darah saat puasa biasa di laboratorium"
+      },
+      "optionExplanations": {
+        "A": "Pemeriksaan kadar GH memerlukan tes stimulasi dengan persiapan khusus.",
+        "B": "Foto rontgen tangan digunakan untuk menilai umur tulang, bukan kadar GH.",
+        "C": "Pemeriksaan urin tidak menggambarkan kadar GH.",
+        "D": "Biopsi hipofisis bukan pemeriksaan rutin untuk defisiensi GH.",
+        "E": "Pemeriksaan puasa biasa tidak menggambarkan GH yang bersifat pulsatil."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q12",
+      "category": "",
+      "question": "Pemeriksaan IGF-1 pada anak dengan dugaan defisiensi GH bertujuan untuk ...",
+      "questionImages": [],
+      "options": {
+        "A": "Menilai fungsi ginjal dan kadar kreatinin",
+        "B": "Menggambarkan kadar GH dalam tubuh",
+        "C": "Menilai umur tulang dengan rontgen tangan",
+        "D": "Menilai fungsi tiroid dengan TSH dan FT4",
+        "E": "Menilai kadar gula darah dengan pemeriksaan glukosa"
+      },
+      "optionExplanations": {
+        "A": "Fungsi ginjal dinilai dengan kreatinin dan laju filtrasi.",
+        "B": "IGF-1 merupakan hormon yang menggambarkan kadar GH dalam tubuh.",
+        "C": "Umur tulang dinilai dengan foto rontgen, bukan IGF-1.",
+        "D": "Fungsi tiroid dinilai dengan TSH dan FT4.",
+        "E": "Kadar gula darah dinilai dengan pemeriksaan glukosa."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q13",
+      "category": "",
+      "question": "Terapi definitif untuk defisiensi growth hormone pada anak adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Pemberian kortikosteroid dosis tinggi",
+        "B": "Pembedahan pengangkatan tumor hipofisis",
+        "C": "Injeksi GH sintetik harian",
+        "D": "Pemberian tiroksin",
+        "E": "Pemberian insulin"
+      },
+      "optionExplanations": {
+        "A": "Kortikosteroid dosis tinggi tidak termasuk terapi defisiensi GH.",
+        "B": "Pembedahan dilakukan untuk tumor, bukan terapi defisiensi GH secara umum.",
+        "C": "Terapi defisiensi GH adalah injeksi GH sintetik harian.",
+        "D": "Tiroksin adalah terapi hipotiroid, bukan defisiensi GH.",
+        "E": "Insulin adalah terapi diabetes melitus, bukan defisiensi GH."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q14",
+      "category": "",
+      "question": "Seorang bayi dengan berat lahir normal dan panjang badan sedikit di bawah normal. Laju pertumbuhannya makin menurun, umur tulang terlambat, dan kecerdasan normal. Diagnosis yang paling mungkin adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Pubertas prekoks, tanda pubertas sebelum usia 8 atau 9 tahun",
+        "B": "Gigantisme dengan tinggi badan berlebihan",
+        "C": "Hipotiroid kongenital dengan kulit kering dan kasar",
+        "D": "Defisiensi growth hormone dengan umur tulang terlambat",
+        "E": "Laron dwarfism dengan resistensi GH"
+      },
+      "optionExplanations": {
+        "A": "Pubertas prekoks ditandai munculnya tanda pubertas sebelum usia 8 atau 9 tahun, bukan kasus ini.",
+        "B": "Gigantisme ditandai tinggi badan berlebihan akibat kelebihan GH.",
+        "C": "Hipotiroid kongenital memiliki gejala tidak khas, tidak disebutkan di kasus ini.",
+        "D": "Laju pertumbuhan menurun progresif dengan kecerdasan normal.",
+        "E": "Laron dwarfism adalah resistensi GH dan tidak spesifik dengan gambaran ini."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q15",
+      "category": "",
+      "question": "Pada anak dengan defisiensi GH, gejala yang dapat tampak meliputi ...",
+      "questionImages": [],
+      "options": {
+        "A": "Tinggi badan di atas rata-rata dengan percepatan pertumbuhan",
+        "B": "Pembesaran dagu dan jari-jari tebal yang progresif",
+        "C": "Kulit tebal dan suara serak dengan bayi tidak aktif",
+        "D": "Peningkatan massa otot dan wajah tampak tua",
+        "E": "Pertumbuhan lambat dan wajah tampak lebih muda"
+      },
+      "optionExplanations": {
+        "A": "Tinggi badan di atas rata-rata tidak sesuai dengan defisiensi GH.",
+        "B": "Pembesaran dagu dan jari-jari tebal merupakan gambaran gigantisme.",
+        "C": "Kulit tebal dan suara serak merupakan gambaran hipotiroid kongenital.",
+        "D": "Peningkatan massa otot bukan gambaran defisiensi GH.",
+        "E": "Pertumbuhan lambat dan wajah lebih muda khas defisiensi GH."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q16",
+      "category": "",
+      "question": "Bayi berusia 3 minggu dengan ikterus neonatal yang berkepanjangan, fontanela anterior dan posterior lebar, suara serak dan dalam, serta hernia umbilikal. Diagnosis yang paling mungkin adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Hipotiroid kongenital",
+        "B": "Atresia duodenum",
+        "C": "Hirschsprung disease",
+        "D": "Gigantisme",
+        "E": "Defisiensi growth hormone"
+      },
+      "optionExplanations": {
+        "A": "Gejala tidak khas hipotiroid kongenital, sesuai kasus.",
+        "B": "Atresia duodenum ditandai muntah bilier dan double bubble, bukan gambaran ini.",
+        "C": "Hirschsprung ditandai mekonium tidak keluar dan kembung, bukan gambaran ini.",
+        "D": "Gigantisme tidak terjadi pada bayi dengan gambaran ini.",
+        "E": "Defisiensi GH tidak menyebabkan ikterus berkepanjangan dan fontanela lebar pada bayi."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q17",
+      "category": "",
+      "question": "Pada skrining hipotiroid kongenital, hasil TSH lebih dari 40 mU/L menunjukkan langkah berikutnya yang tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Mengulang pemeriksaan TSH dalam 1 sampai 2 minggu",
+        "B": "Diagnosis hipotiroid kongenital dan terapi",
+        "C": "Mengulang pemeriksaan TSH dalam 4 sampai 6 minggu",
+        "D": "Tidak perlu tindak lanjut karena hasil bisa normal",
+        "E": "Hanya memantau tumbuh kembang bayi secara rutin"
+      },
+      "optionExplanations": {
+        "A": "Mengulang pemeriksaan 1 sampai 2 minggu untuk TSH 20 sampai 40 mU/L, bukan lebih dari 40.",
+        "B": "TSH lebih dari 40 mU/L: diagnosis dan terapi segera.",
+        "C": "Pengulangan 4 sampai 6 minggu diperlukan bila TSH ulangan tetap tinggi, bukan langkah awal.",
+        "D": "Tidak perlu tindak lanjut tidak sesuai dengan hasil TSH yang tinggi.",
+        "E": "Pemantauan tumbuh kembang saja tidak cukup untuk hasil TSH tinggi."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q18",
+      "category": "",
+      "question": "Bayi dengan skrining TSH 25 mU/L. Langkah berikutnya yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Memberikan antibiotik spektrum luas pada bayi",
+        "B": "Langsung memulai terapi levotiroksin tanpa cek ulang",
+        "C": "Ulangi pemeriksaan TSH dalam 1 sampai 2 minggu",
+        "D": "Menghentikan pemantauan karena bayi tampak sehat",
+        "E": "Melakukan operasi tiroid sesegera mungkin"
+      },
+      "optionExplanations": {
+        "A": "Antibiotik tidak termasuk tata laksana hipotiroid kongenital.",
+        "B": "Terapi langsung diberikan bila TSH lebih dari 40 mU/L, bukan 20 sampai 40.",
+        "C": "TSH 20 sampai 40 mU/L perlu pengulangan.",
+        "D": "Menghentikan pemantauan tidak sesuai dengan hasil TSH yang masih tinggi.",
+        "E": "Operasi tiroid bukan tindakan pada hipotiroid kongenital."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q19",
+      "category": "",
+      "question": "Pernyataan yang tepat mengenai skrining hipotiroid kongenital adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Skrining tidak diperlukan bila ibu sehat",
+        "B": "Skrining dilakukan hanya setelah usia 1 tahun",
+        "C": "Hanya bayi dengan risiko tinggi yang perlu diskrining",
+        "D": "Semua bayi wajib diskrining hipotiroid kongenital",
+        "E": "Skrining dilakukan hanya bila ada gejala klinis"
+      },
+      "optionExplanations": {
+        "A": "Kesehatan ibu tidak menghapus kewajiban skrining.",
+        "B": "Skrining tidak ditunda hingga usia 1 tahun.",
+        "C": "Materi menyatakan semua bayi wajib diskrining, bukan hanya risiko tinggi.",
+        "D": "Semua bayi wajib diskrining hipotiroid kongenital.",
+        "E": "Skrining dilakukan sebelum muncul gejala karena gejala sering tidak khas."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q20",
+      "category": "",
+      "question": "Prognosis hipotiroid kongenital sangat dipengaruhi oleh kecepatan pemberian hormon pengganti. Keterlambatan terapi dapat menyebabkan ...",
+      "questionImages": [],
+      "options": {
+        "A": "Penurunan IQ, peningkatan IQ yang sejak awal terapi",
+        "B": "Pertumbuhan gigi yang lebih cepat dari normal",
+        "C": "Penurunan berat badan yang tidak sebanding",
+        "D": "Tidak ada pengaruh pada kecerdasan anak sama sekali",
+        "E": "Penurunan IQ sekitar satu poin tiap bulan"
+      },
+      "optionExplanations": {
+        "A": "Keterlambatan terapi tidak meningkatkan IQ.",
+        "B": "Pertumbuhan gigi tidak berkaitan dengan keterlambatan terapi.",
+        "C": "Penurunan berat badan tidak menjadi konsekuensi utama yang tercantum.",
+        "D": "Keterlambatan terapi memengaruhi kecerdasan, sehingga pernyataan ini tidak tepat.",
+        "E": "Keterlambatan terapi menyebabkan penurunan IQ sekitar satu poin setiap bulan."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q21",
+      "category": "",
+      "question": "Terapi hipotiroid kongenital dilakukan dengan pemberian hormon tiroksin, disertai pemantauan kadar ...",
+      "questionImages": [],
+      "options": {
+        "A": "TSH dan FT4",
+        "B": "Kalsium dan fosfor",
+        "C": "Kortisol pagi",
+        "D": "Hemoglobin dan ferritin",
+        "E": "Glukosa darah dan HbA1c"
+      },
+      "optionExplanations": {
+        "A": "Terapi hipotiroid kongenital dipantau dengan kadar TSH dan FT4.",
+        "B": "Kalsium dan fosfor tidak menjadi pemantauan utama hipotiroid.",
+        "C": "Kortisol pagi bukan pemantauan utama hipotiroid kongenital.",
+        "D": "Hemoglobin dan ferritin tidak menjadi pemantauan utama hipotiroid.",
+        "E": "Glukosa dan HbA1c dipantau pada diabetes melitus, bukan hipotiroid."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q22",
+      "category": "",
+      "question": "Hipotiroid akuisita pada anak paling sering disebabkan oleh ...",
+      "questionImages": [],
+      "options": {
+        "A": "Tumor hipofisis",
+        "B": "Tiroiditis autoimun",
+        "C": "Defisiensi iodium berat pada bayi",
+        "D": "Trauma kepala",
+        "E": "Infeksi sistem saraf pusat"
+      },
+      "optionExplanations": {
+        "A": "Tumor hipofisis menyebabkan defisiensi GH, bukan hipotiroid akuisita.",
+        "B": "Penyebab hipotiroid akuisita tersering adalah tiroiditis autoimun.",
+        "C": "Defisiensi iodium termasuk penyebab, tetapi bukan penyebab tersering pada materi ini.",
+        "D": "Trauma kepala tidak termasuk penyebab utama hipotiroid akuisita.",
+        "E": "Infeksi sistem saraf pusat tidak termasuk penyebab utama hipotiroid akuisita."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q23",
+      "category": "",
+      "question": "Hipotiroid akuisita pada anak lebih sering ditemukan pada perempuan dibanding laki-laki dengan perbandingan ...",
+      "questionImages": [],
+      "options": {
+        "A": "1 banding 1, perempuan dan laki-laki sama",
+        "B": "1 banding 3, laki-laki lebih sering",
+        "C": "3 banding 1, perempuan lebih sering",
+        "D": "2 banding 1, perempuan lebih sering",
+        "E": "5 banding 1, perempuan jauh lebih sering"
+      },
+      "optionExplanations": {
+        "A": "Perbandingan 1 banding 1 tidak menggambarkan dominasi perempuan.",
+        "B": "Perbandingan 1 banding 3 terbalik dari dominasi perempuan.",
+        "C": "Perempuan lebih sering, 3 banding 1.",
+        "D": "Perbandingan 2 banding 1 tidak sesuai dengan data yang tercantum.",
+        "E": "Perbandingan 5 banding 1 tidak sesuai dengan data yang tercantum."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q24",
+      "category": "",
+      "question": "Seorang anak 12 tahun dengan tinggi badan jauh di atas rata-rata, kaki dan tangan besar, jari-jari tebal, dan dagu membesar. Lempeng epifisis belum menutup. Penyebab yang paling mungkin adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Pubertas prekoks yang menyebabkan percepatan maturasi tulang",
+        "B": "Akromegali setelah epifisis menutup sempurna",
+        "C": "Defisiensi GH yang menyebabkan pertumbuhan pendek",
+        "D": "Kelebihan GH sebelum epifisis menutup",
+        "E": "Hipotiroid dengan pertumbuhan lambat dan lesu"
+      },
+      "optionExplanations": {
+        "A": "Pubertas prekoks tidak menjelaskan kelainan kaki, tangan, dan dagu.",
+        "B": "Akromegali terjadi setelah epifisis menutup, sedangkan kasus ini belum menutup.",
+        "C": "Defisiensi GH menyebabkan pendek, bukan tinggi badan berlebihan.",
+        "D": "Kelebihan GH sebelum epifisis menutup menyebabkan gigantisme.",
+        "E": "Hipotiroid menyebabkan pertumbuhan lambat, bukan tinggi berlebihan."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q25",
+      "category": "",
+      "question": "Seorang dewasa dengan pembesaran tangan, kaki, dan dagu, namun tinggi badannya tidak lagi bertambah karena lempeng epifisis sudah menutup. Kondisi ini disebut ...",
+      "questionImages": [],
+      "options": {
+        "A": "Defisiensi GH",
+        "B": "Hipotiroid akuisita",
+        "C": "Pubertas prekoks",
+        "D": "Gigantisme",
+        "E": "Akromegali"
+      },
+      "optionExplanations": {
+        "A": "Defisiensi GH menyebabkan pendek, bukan pembesaran akral.",
+        "B": "Hipotiroid akuisita tidak menyebabkan pembesaran akral.",
+        "C": "Pubertas prekoks tidak menyebabkan pembesaran akral pada dewasa.",
+        "D": "Gigantisme terjadi sebelum epifisis menutup, sehingga tidak sesuai dengan tinggi badan yang tidak lagi bertambah.",
+        "E": "Kelebihan GH setelah epifisis menutup."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q26",
+      "category": "",
+      "question": "Terapi untuk gigantisme akibat tumor yang memproduksi somatotropin meliputi ...",
+      "questionImages": [],
+      "options": {
+        "A": "Pembedahan atau analog somatostatin",
+        "B": "Pemberian tiroksin dosis rendah dan bertahap",
+        "C": "Pemberian insulin dosis tinggi harian",
+        "D": "Pemberian estrogen untuk menutup epifisis",
+        "E": "Pemberian GH sintetik harian dengan dosis meningkat bertahap"
+      },
+      "optionExplanations": {
+        "A": "Terapi gigantisme: bedah, radioterapi, analog somatostatin.",
+        "B": "Tiroksin tidak termasuk terapi gigantisme.",
+        "C": "Insulin dosis tinggi tidak termasuk terapi gigantisme.",
+        "D": "Estrogen tidak termasuk terapi gigantisme.",
+        "E": "GH sintetik justru memperburuk gigantisme."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q27",
+      "category": "",
+      "question": "Pada anak perempuan, pubertas prekoks dicurigai bila tanda seksual sekunder muncul sebelum usia ...",
+      "questionImages": [],
+      "options": {
+        "A": "6 tahun",
+        "B": "8 tahun",
+        "C": "9 tahun",
+        "D": "10 tahun",
+        "E": "12 tahun"
+      },
+      "optionExplanations": {
+        "A": "Usia 6 tahun adalah batas yang lebih awal dari batas pubertas prekoks anak perempuan.",
+        "B": "Pubertas prekoks dicurigai sebelum usia 8 tahun pada perempuan.",
+        "C": "Batas 9 tahun digunakan pada anak laki-laki.",
+        "D": "Usia 10 tahun melewati batas pubertas prekoks anak perempuan.",
+        "E": "Usia 12 tahun jauh melewati batas pubertas prekoks."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q28",
+      "category": "",
+      "question": "Pada anak laki-laki, pubertas prekoks dicurigai bila tanda pubertas muncul sebelum usia ...",
+      "questionImages": [],
+      "options": {
+        "A": "Sekitar usia 12 tahun pada anak laki-laki",
+        "B": "Sekitar usia 8 tahun pada anak laki-laki",
+        "C": "Sebelum usia 9 tahun pada anak laki-laki",
+        "D": "Sekitar usia 10 tahun pada anak laki-laki",
+        "E": "Sekitar usia 11 tahun pada anak laki-laki"
+      },
+      "optionExplanations": {
+        "A": "Usia 12 tahun jauh melewati batas pubertas prekoks laki-laki.",
+        "B": "Batas 8 tahun digunakan untuk anak perempuan.",
+        "C": "Batas pubertas prekoks laki-laki sebelum usia 9 tahun.",
+        "D": "Usia 10 tahun melewati batas pubertas prekoks laki-laki.",
+        "E": "Usia 11 tahun melewati batas pubertas prekoks laki-laki."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q29",
+      "category": "",
+      "question": "Seorang anak perempuan usia 7 tahun dengan pembesaran payudara tanpa tanda seksual sekunder lain dan tanpa menarche. Kondisi ini paling mungkin ...",
+      "questionImages": [],
+      "options": {
+        "A": "Gigantisme yang disebabkan tumor hipofisis pada anak",
+        "B": "Akromegali yang terjadi pada tulang yang sudah menutup",
+        "C": "Pubertas prekoks, tanda seksual muncul dini pada anak",
+        "D": "Prematur telarche sebagai varian normal bila tanpa tanda lain",
+        "E": "Hipogonadisme hipergonadotropik dengan kadar LH tinggi"
+      },
+      "optionExplanations": {
+        "A": "Gigantisme tidak berkaitan dengan pembesaran payudara dini.",
+        "B": "Akromegali terjadi pada tulang yang sudah menutup, tidak sesuai dengan kasus ini.",
+        "C": "Pubertas prekoks memerlukan terapi, tetapi kasus ini tanpa tanda seksual lain dan menarche.",
+        "D": "Prematur telarche normal bila tanpa tanda seks lain atau menarche.",
+        "E": "Hipogonadisme hipergonadotropik ditandai pubertas terlambat, bukan pembesaran payudara dini."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q30",
+      "category": "",
+      "question": "Pubertas prekoks yang disebabkan kelainan sistem saraf pusat dapat dipicu oleh ...",
+      "questionImages": [],
+      "options": {
+        "A": "Pemberian vitamin D dalam dosis tinggi setiap hari",
+        "B": "Olahraga rutin setiap pagi selama masa remaja",
+        "C": "Penggunaan kacamata untuk membaca dalam waktu lama",
+        "D": "Konsumsi makanan manis yang berlebihan setiap hari",
+        "E": "Tumor, trauma, infeksi, atau hidrosefalus"
+      },
+      "optionExplanations": {
+        "A": "Vitamin D tidak tercantum sebagai penyebab pubertas prekoks.",
+        "B": "Olahraga rutin bukan penyebab pubertas prekoks yang tercantum.",
+        "C": "Penggunaan kacamata tidak berhubungan dengan pubertas prekoks.",
+        "D": "Konsumsi makanan manis tidak tercantum sebagai penyebab kelainan sistem saraf pusat.",
+        "E": "Kelainan SSP seperti tumor, trauma, infeksi, hidrosefalus memicu prekoks."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q31",
+      "category": "",
+      "question": "Anak perempuan usia 6 tahun dengan pubertas prekoks. Awalnya tinggi badannya naik cepat. Prediksi tinggi badan dewasanya adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Lebih pendek karena penutupan epifisis dini",
+        "B": "Sama dengan tinggi badan tanpa pubertas prekoks",
+        "C": "Tidak dapat diprediksi",
+        "D": "Lebih tinggi karena pubertas dimulai awal",
+        "E": "Lebih tinggi dari rata-rata keluarga"
+      },
+      "optionExplanations": {
+        "A": "Pertumbuhan awal cepat diikuti penutupan epifisis dini sehingga tinggi badan akhir lebih pendek.",
+        "B": "Tinggi badan akhir tidak sama karena penutupan epifisis mempercepat berhentinya pertumbuhan.",
+        "C": "Tinggi badan akhir dapat diprediksi dari prinsip penutupan epifisis dini.",
+        "D": "Pubertas awal justru menurunkan tinggi badan akhir, bukan meningkatkan.",
+        "E": "Tinggi badan dewasa tidak lebih tinggi karena epifisis menutup lebih awal."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q32",
+      "category": "",
+      "question": "Pemeriksaan laboratorium awal untuk pubertas prekoks pada anak laki-laki adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Kadar TSH saja untuk menilai fungsi tiroid",
+        "B": "Kadar testosteron dan LH",
+        "C": "Kadar glukosa puasa dan HbA1c pada darah",
+        "D": "Kadar kalsium serum dan fosfat dalam darah",
+        "E": "Kadar IgE total dalam serum anak"
+      },
+      "optionExplanations": {
+        "A": "TSH saja tidak menilai aksis gonad pada pubertas prekoks.",
+        "B": "Diagnosis laki-laki dengan testosteron dan pemeriksaan LH.",
+        "C": "Glukosa puasa tidak menilai aksis gonad pada pubertas prekoks.",
+        "D": "Kalsium tidak menilai aksis gonad pada pubertas prekoks.",
+        "E": "IgE tidak menilai aksis gonad pada pubertas prekoks."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q33",
+      "category": "",
+      "question": "Terapi utama pubertas prekoks yang tercantum dalam materi adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Pembedahan tanpa terapi hormon",
+        "B": "Pemberian GH saja",
+        "C": "GnRH agonis dengan atau tanpa GH",
+        "D": "Pemberian estrogen dosis tinggi",
+        "E": "Pemberian kortikosteroid jangka panjang"
+      },
+      "optionExplanations": {
+        "A": "Pembedahan tanpa terapi hormon tidak termasuk terapi pubertas prekoks.",
+        "B": "GH saja tidak menjadi terapi utama pubertas prekoks.",
+        "C": "Terapi pubertas prekoks adalah GnRH agonis, dengan atau tanpa GH.",
+        "D": "Estrogen dosis tinggi memperburuk pubertas prekoks dan tidak menjadi terapi.",
+        "E": "Kortikosteroid jangka panjang tidak termasuk terapi pubertas prekoks."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q34",
+      "category": "",
+      "question": "Pubertas terlambat perlu dievaluasi pada anak perempuan yang belum menunjukkan perkembangan payudara pada usia ...",
+      "questionImages": [],
+      "options": {
+        "A": "Usia 15 tahun pada anak perempuan dengan menarche",
+        "B": "Usia 11 tahun pada anak perempuan",
+        "C": "Usia 12 tahun pada anak perempuan",
+        "D": "Usia 13 tahun pada anak perempuan",
+        "E": "Usia 14 tahun pada anak perempuan"
+      },
+      "optionExplanations": {
+        "A": "Batas evaluasi menarche adalah 15 tahun, bukan perkembangan payudara.",
+        "B": "Usia 11 tahun masih terlalu dini untuk dievaluasi.",
+        "C": "Usia 12 tahun belum menjadi batas yang tercantum.",
+        "D": "Pada usia 13 tahun belum ada payudara, perlu evaluasi.",
+        "E": "Usia 14 tahun melewati batas evaluasi perkembangan payudara."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q35",
+      "category": "",
+      "question": "Pubertas terlambat pada laki-laki perlu dievaluasi bila volume testis belum mencapai sekitar 4 mL pada usia ...",
+      "questionImages": [],
+      "options": {
+        "A": "Usia 15 tahun, dengan testis yang masih kecil",
+        "B": "Usia 16 tahun, dengan belum ada pembesaran testis",
+        "C": "Usia 12 tahun, dengan testis normal sementara",
+        "D": "Usia 13 tahun, dengan testis belum tumbuh",
+        "E": "Usia 14 tahun, dengan volume testis belum 4 mL"
+      },
+      "optionExplanations": {
+        "A": "Batas evaluasi tercantum pada usia 14 tahun, bukan 15 tahun.",
+        "B": "Usia 16 tahun melewati batas evaluasi yang tercantum.",
+        "C": "Usia 12 tahun terlalu dini untuk dievaluasi pubertas terlambat pada laki-laki.",
+        "D": "Usia 13 tahun belum menjadi batas evaluasi pada materi ini.",
+        "E": "Volume testis belum 4 mL pada usia 14 tahun perlu evaluasi."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q36",
+      "category": "",
+      "question": "Seorang remaja perempuan berusia 16 tahun belum mengalami menarche, sementara payudara mulai berkembang 4 tahun lalu. Kondisi ini sesuai dengan kriteria evaluasi pubertas terlambat karena ...",
+      "questionImages": [],
+      "options": {
+        "A": "Menarche belum terjadi pada usia 15 tahun atau lebih",
+        "B": "Payudara tumbuh terlalu cepat sebelum usia 8 tahun pada anak perempuan",
+        "C": "Tinggi badan di bawah -2 SD tanpa tanda pubertas sama sekali",
+        "D": "Belum mengalami pubertas pada usia 10 tahun dengan tinggi normal",
+        "E": "Tidak ada kriteria evaluasi yang terpenuhi pada remaja dengan kondisi tersebut"
+      },
+      "optionExplanations": {
+        "A": "Kriteria evaluasi terpenuhi karena menarche belum terjadi.",
+        "B": "Payudara yang tumbuh terlalu cepat tidak menjadi kriteria pubertas terlambat.",
+        "C": "Tinggi badan di bawah -2 SD tidak termasuk kriteria evaluasi pubertas terlambat.",
+        "D": "Usia 10 tahun terlalu dini untuk dinilai sebagai pubertas terlambat.",
+        "E": "Kriteria evaluasi terpenuhi karena menarche belum terjadi."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q37",
+      "category": "",
+      "question": "Pubertas terlambat yang disebabkan oleh keterlambatan maturasi sementara, dengan riwayat keluarga pubertas terlambat dan umur tulang tertinggal, paling sesuai dengan ...",
+      "questionImages": [],
+      "options": {
+        "A": "Diabetes melitus tipe 1 dengan gangguan glukosa",
+        "B": "Constitutional delay of growth and puberty (CDGP)",
+        "C": "Hipogonadisme hipergonadotropik akibat gangguan primer gonad",
+        "D": "Sindrom Turner dengan gangguan kromosom X",
+        "E": "Pubertas prekoks dengan tanda seks sekunder dini"
+      },
+      "optionExplanations": {
+        "A": "Diabetes melitus tipe 1 tidak termasuk penyebab pubertas terlambat.",
+        "B": "CDGP: pubertas lambat tetapi berkembang spontan, sering ada riwayat keluarga.",
+        "C": "Hipogonadisme hipergonadotropik disebabkan gangguan primer gonad dengan LH dan FSH meningkat.",
+        "D": "Sindrom Turner adalah contoh hipogonadisme hipergonadotropik, bukan CDGP.",
+        "E": "Pubertas prekoks adalah pubertas yang muncul terlalu awal."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q38",
+      "category": "",
+      "question": "Contoh hipogonadisme hipergonadotropik pada pubertas terlambat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Penyakit kronis",
+        "B": "Malnutrisi berat",
+        "C": "Sindrom Turner",
+        "D": "Olahraga berlebihan",
+        "E": "Defisiensi GnRH hipotalamus"
+      },
+      "optionExplanations": {
+        "A": "Penyakit kronis termasuk hipogonadisme hipogonadotropik fungsional.",
+        "B": "Malnutrisi termasuk hipogonadisme hipogonadotropik fungsional.",
+        "C": "Sindrom Turner adalah gangguan primer gonad dengan LH dan FSH tinggi.",
+        "D": "Olahraga berlebihan termasuk hipogonadisme hipogonadotropik fungsional.",
+        "E": "Defisiensi GnRH hipotalamus termasuk hipogonadisme hipogonadotropik."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q39",
+      "category": "",
+      "question": "Prinsip penatalaksanaan pubertas terlambat yang pertama dilakukan adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Langsung memberikan GH dosis tinggi setiap hari",
+        "B": "Menghentikan pemantauan pertumbuhan secara bertahap",
+        "C": "Langsung memberikan hormon seks sesuai usia",
+        "D": "Mengatasi penyakit dasar atau malnutrisi",
+        "E": "Melakukan operasi pengangkatan gonad sesegera mungkin"
+      },
+      "optionExplanations": {
+        "A": "GH dosis tinggi tidak menjadi langkah pertama.",
+        "B": "Pemantauan pertumbuhan perlu dilanjutkan, bukan dihentikan.",
+        "C": "Pemberian hormon seks langsung tidak menjadi langkah pertama.",
+        "D": "Mengatasi penyakit dasar, malnutrisi, dan defisit energi dulu.",
+        "E": "Operasi bukan tatalaksana utama pubertas terlambat."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q40",
+      "category": "",
+      "question": "Seorang remaja 15 tahun dengan pubertas terlambat dan kadar LH serta FSH yang tinggi disertai gonad primer yang gagal. Penyebab yang paling sesuai adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Olahraga berlebihan dan kurang tidur kronis",
+        "B": "Defisiensi GnRH hipotalamus yang berat",
+        "C": "Stres psikososial berat di lingkungan sekolah",
+        "D": "Malnutrisi berat dengan berat badan rendah",
+        "E": "Kerusakan gonad primer, misalnya Klinefelter"
+      },
+      "optionExplanations": {
+        "A": "Olahraga berlebihan termasuk hipogonadisme hipogonadotropik fungsional.",
+        "B": "Defisiensi GnRH termasuk hipogonadisme hipogonadotropik, dengan LH dan FSH rendah.",
+        "C": "Stres psikososial tidak menjelaskan gonad primer yang gagal.",
+        "D": "Malnutrisi termasuk hipogonadisme hipogonadotropik, dengan LH dan FSH rendah atau normal.",
+        "E": "Kerusakan gonad primer, seperti sindrom Klinefelter, menyebabkan LH dan FSH meningkat."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q41",
+      "category": "",
+      "question": "Diagnosis diabetes melitus tipe 1 pada anak dapat ditegakkan dengan kriteria HbA1c yang lebih besar dari ...",
+      "questionImages": [],
+      "options": {
+        "A": "lebih dari 6,5 persen",
+        "B": "lebih dari 5,5 persen",
+        "C": "lebih dari 6 persen",
+        "D": "lebih dari 4,5 persen",
+        "E": "lebih dari 6,0 persen"
+      },
+      "optionExplanations": {
+        "A": "HbA1c lebih dari 6,5 persen merupakan kriteria diagnosis.",
+        "B": "Kadar 5,5 persen belum memenuhi kriteria diagnosis yang tercantum.",
+        "C": "Kadar 6 persen belum memenuhi kriteria diagnosis yang tercantum.",
+        "D": "Kadar 4,5 persen terlalu rendah untuk kriteria diagnosis.",
+        "E": "Kadar 6,0 persen belum memenuhi kriteria diagnosis yang tercantum."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q42",
+      "category": "",
+      "question": "Anak 8 tahun dengan poliuria, polidipsia, polifagi, dan penurunan berat badan cepat dalam 3 minggu. Diagnosis yang paling mungkin adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Diabetes insipidus akibat defisit hormon antidiuretik",
+        "B": "Diabetes melitus tipe 1",
+        "C": "Hipotiroid akuisita dengan kelelahan dan berat badan naik",
+        "D": "Pubertas prekoks dengan pembesaran payudara dini",
+        "E": "Defisiensi GH dengan pertumbuhan lambat dan pendek"
+      },
+      "optionExplanations": {
+        "A": "Diabetes insipidus tidak menyebabkan polifagi dan hiperglikemia pada kasus ini.",
+        "B": "Poliuria, polidipsia, polifagi, dan penurunan berat badan cepat merupakan gejala khas DM tipe 1.",
+        "C": "Hipotiroid akuisita tidak menyebabkan penurunan berat badan cepat dengan polifagi.",
+        "D": "Pubertas prekoks tidak menyebabkan gejala metabolik ini.",
+        "E": "Defisiensi GH menyebabkan pertumbuhan lambat, bukan penurunan berat badan cepat."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q43",
+      "category": "",
+      "question": "Pada diabetes melitus tipe 1, penyebab utama yang tercantum dalam materi adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Gangguan fungsi tiroid yang bersifat autoimun pada anak",
+        "B": "Resistensi insulin akibat obesitas dan pola makan",
+        "C": "Kerusakan sel beta pankreas autoimun atau idiopatik",
+        "D": "Defisiensi GH yang menyebabkan pertumbuhan pendek",
+        "E": "Kelebihan GH yang menyebabkan tinggi badan berlebih"
+      },
+      "optionExplanations": {
+        "A": "Gangguan tiroid tidak menjadi penyebab DM tipe 1.",
+        "B": "Resistensi insulin akibat obesitas merupakan penyebab DM tipe 2.",
+        "C": "Kerusakan sel beta menyebabkan produksi insulin berkurang.",
+        "D": "Defisiensi GH tidak menjadi penyebab DM tipe 1.",
+        "E": "Kelebihan GH tidak menjadi penyebab DM tipe 1."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q44",
+      "category": "",
+      "question": "Terapi insulin pada diabetes melitus tipe 1 anak diberikan dengan regimen individual. Insulin diberikan minimal dalam ...",
+      "questionImages": [],
+      "options": {
+        "A": "Pemberian hanya melalui oral setiap hari",
+        "B": "Pemberian hanya saat terjadi koma hipoglikemia berat",
+        "C": "Satu kali injeksi insulin kerja panjang harian",
+        "D": "Dua kali injeksi, insulin cepat dan basal",
+        "E": "Tiga kali injeksi tanpa insulin basal sama sekali"
+      },
+      "optionExplanations": {
+        "A": "Insulin tidak diberikan secara oral.",
+        "B": "Insulin tidak diberikan hanya saat koma.",
+        "C": "Satu kali injeksi tidak memenuhi regimen minimal yang tercantum.",
+        "D": "Insulin diberikan minimal dua kali injeksi.",
+        "E": "Tiga kali injeksi tanpa insulin basal tidak sesuai dengan regimen yang tercantum."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q45",
+      "category": "",
+      "question": "Faktor yang menentukan dosis insulin pada anak dengan diabetes melitus tipe 1 meliputi ...",
+      "questionImages": [],
+      "options": {
+        "A": "Jenis kelamin saja tanpa melihat kondisi klinis anak",
+        "B": "Warna rambut dan jenis makanan yang dikonsumsi",
+        "C": "Lama tidur malam dan kebiasaan olahraga harian",
+        "D": "Warna kulit dan tinggi badan orang tua kandung",
+        "E": "Usia, berat badan, status pubertas, dan HbA1c"
+      },
+      "optionExplanations": {
+        "A": "Jenis kelamin saja tidak cukup untuk menentukan dosis.",
+        "B": "Warna rambut tidak menjadi faktor dosis insulin.",
+        "C": "Lama tidur saja tidak menjadi faktor dosis yang tercantum.",
+        "D": "Warna kulit dan tinggi badan orang tua tidak menjadi faktor dosis insulin.",
+        "E": "Dosis dipengaruhi usia, berat badan, status pubertas, dan HbA1c."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q46",
+      "category": "",
+      "question": "Diabetes melitus tipe 2 pada anak makin meningkat, terutama berkaitan dengan ...",
+      "questionImages": [],
+      "options": {
+        "A": "Obesitas dan pola makan yang tidak sehat",
+        "B": "Kekurangan vitamin C dalam jangka waktu lama",
+        "C": "Defisiensi growth hormone yang tidak diobati dengan baik",
+        "D": "Pubertas prekoks yang muncul sebelum usia delapan tahun",
+        "E": "Infeksi virus berulang yang menyerang sel pankreas"
+      },
+      "optionExplanations": {
+        "A": "Obesitas dan pola makan tidak sehat menjadi faktor risiko utama.",
+        "B": "Kekurangan vitamin C tidak menjadi faktor utama DM tipe 2.",
+        "C": "Defisiensi GH tidak menjadi faktor utama DM tipe 2.",
+        "D": "Pubertas prekoks tidak menjadi faktor utama DM tipe 2.",
+        "E": "Infeksi virus tidak menjadi faktor utama DM tipe 2."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q47",
+      "category": "",
+      "question": "Diagnosis klinis diabetes melitus tipe 2 pada anak dapat ditegakkan dengan gejala polifagi, polidipsi, poliuria, dan glukosa random lebih dari atau sama dengan ...",
+      "questionImages": [],
+      "options": {
+        "A": "180 mg/dL",
+        "B": "200 mg/dL",
+        "C": "100 mg/dL",
+        "D": "126 mg/dL",
+        "E": "150 mg/dL"
+      },
+      "optionExplanations": {
+        "A": "Kadar 180 mg/dL tidak sesuai dengan batas random yang tercantum.",
+        "B": "Glukosa random 200 mg/dL atau lebih dengan gejala klinis.",
+        "C": "Kadar 100 mg/dL belum memenuhi kriteria random yang tercantum.",
+        "D": "Kadar 126 mg/dL merupakan batas glukosa puasa, bukan random.",
+        "E": "Kadar 150 mg/dL tidak sesuai dengan batas random yang tercantum."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q48",
+      "category": "",
+      "question": "Terapi awal diabetes melitus tipe 2 pada anak yang tercantum dalam materi meliputi ...",
+      "questionImages": [],
+      "options": {
+        "A": "Kortikosteroid jangka panjang",
+        "B": "Insulin dosis tinggi tanpa perubahan gaya hidup",
+        "C": "Perubahan gaya hidup, metformin, dan insulin",
+        "D": "Hanya tiroksin",
+        "E": "Hanya GH sintetik"
+      },
+      "optionExplanations": {
+        "A": "Kortikosteroid jangka panjang tidak termasuk terapi DM tipe 2.",
+        "B": "Insulin dosis tinggi tanpa perubahan gaya hidup tidak sesuai dengan terapi yang tercantum.",
+        "C": "Terapi DM tipe 2 pada anak meliputi perubahan gaya hidup, metformin, dan insulin.",
+        "D": "Tiroksin tidak termasuk terapi DM tipe 2.",
+        "E": "GH sintetik tidak termasuk terapi DM tipe 2."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    }
+  ]
+}
