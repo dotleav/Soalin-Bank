@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T04:49:45.999Z",
+  "generatedAt": "2026-10-27T04:51:20.554Z",
   "packages": [
     {
       "id": "2h-persiapan-minites__cedera-kepala-trauma-medulla-spinalis",
@@ -409,6 +409,14 @@
       "category": "MRI Neuroanatomi",
       "count": 15,
       "file": "packages/premium__mri-brain-lobes__lobus-otak-sagittal.json"
+    },
+    {
+      "id": "persiapan-minites-2i__kongenital-anak",
+      "tier": "reguler",
+      "title": "Kongenital anak",
+      "category": "Persiapan minites 2I",
+      "count": 43,
+      "file": "packages/persiapan-minites-2i__kongenital-anak.json"
     },
     {
       "id": "persiapan-minites-2i__endokrin-anak-kulpak-dr-devie",

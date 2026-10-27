@@ -1,0 +1,1048 @@
+{
+  "id": "persiapan-minites-2i__kongenital-anak",
+  "tier": "reguler",
+  "title": "Kongenital anak",
+  "category": "Persiapan minites 2I",
+  "questions": [
+    {
+      "id": "Q1",
+      "category": "",
+      "question": "Seorang ibu hamil dengan diabetes mellitus yang tidak terkontrol melahirkan bayi dengan kelainan kongenital. Kondisi ibu tersebut termasuk kelompok penyebab kelainan kongenital yang mana?",
+      "questionImages": [],
+      "options": {
+        "A": "Faktor kondisi ibu berupa penyakit DM",
+        "B": "Faktor mekanik berupa oligohidramnion",
+        "C": "Faktor genetik berupa abnormalitas kromosom",
+        "D": "Faktor mekanik berupa uterus bikornis",
+        "E": "Faktor lingkungan berupa infeksi TORCH"
+      },
+      "optionExplanations": {
+        "A": "DM pada ibu termasuk faktor kondisi ibu yang dapat memengaruhi perkembangan janin.",
+        "B": "Oligohidramnion termasuk faktor mekanik, bukan penyakit yang diderita ibu.",
+        "C": "Abnormalitas kromosom termasuk faktor genetik, bukan kondisi ibu.",
+        "D": "Uterus bikornis adalah kelainan struktur rahim dan termasuk faktor mekanik.",
+        "E": "Infeksi TORCH termasuk faktor teratogenik lingkungan, bukan penyakit metabolik ibu."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q2",
+      "category": "",
+      "question": "Bayi lahir dengan lekukan jeratan pada jari dan ekstremitas serta pita fibrosa di permukaan tubuh. Tidak ada riwayat keluarga dengan kelainan serupa. Faktor penyebab yang paling mungkin adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Infeksi TORCH intrauterin",
+        "B": "Amniotic band syndrome",
+        "C": "Teratogen obat",
+        "D": "Gaya hidup ibu merokok",
+        "E": "Mutasi gen tunggal"
+      },
+      "optionExplanations": {
+        "A": "Infeksi TORCH termasuk faktor lingkungan dan tidak menghasilkan pita jeratan khas.",
+        "B": "Amniotic band syndrome termasuk faktor mekanik, yaitu pita amnion yang menjerat bagian tubuh janin.",
+        "C": "Obat teratogenik dapat menyebabkan kelainan, tetapi tidak menghasilkan pita jeratan khas.",
+        "D": "Gaya hidup ibu termasuk faktor kondisi ibu, bukan penyebab jeratan mekanik.",
+        "E": "Mutasi gen umumnya berkaitan dengan pola pewarisan atau riwayat keluarga yang tidak disebutkan di kasus ini."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q3",
+      "category": "",
+      "question": "Ibu hamil mengalami infeksi virus intrauterin pada awal kehamilan, lalu bayi lahir dengan kelainan kongenital. Infeksi tersebut termasuk dalam kelompok penyebab apa?",
+      "questionImages": [],
+      "options": {
+        "A": "Faktor genetik berupa mutasi gen yang diturunkan dalam keluarga",
+        "B": "Faktor mekanik berupa uterus bikornis pada struktur rahim",
+        "C": "Faktor lingkungan teratogenik berupa infeksi intrauterin TORCH",
+        "D": "Faktor kondisi ibu berupa gaya hidup dan kebiasaan sehari-hari",
+        "E": "Faktor mekanik berupa oligohidramnion yang menekan janin"
+      },
+      "optionExplanations": {
+        "A": "Mutasi gen termasuk faktor genetik, bukan infeksi.",
+        "B": "Uterus bikornis termasuk faktor mekanik, bukan infeksi.",
+        "C": "Infeksi intrauterin TORCH termasuk faktor teratogenik.",
+        "D": "Gaya hidup ibu termasuk faktor kondisi ibu, bukan infeksi.",
+        "E": "Oligohidramnion termasuk faktor mekanik, bukan infeksi."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q4",
+      "category": "",
+      "question": "Bayi cukup bulan lahir dengan muntah berwarna hijau berulang sejak pemberian minum pertama. Perut tampak tidak distensi dan bayi sudah mengeluarkan mekonium. Lokasi sumbatan yang paling mungkin adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Rektum, lokasi distal yang menimbulkan distensi perut dominan",
+        "B": "Kolon sigmoid, segmen distal kolon tanpa muntah bilier khas",
+        "C": "Ileum distal, dengan muntah bilier yang onsetnya lebih lambat",
+        "D": "Proksimal, di atas midileum misalnya duodenum",
+        "E": "Anus, lokasi paling distal yang jarang menimbulkan muntah pada neonatus"
+      },
+      "optionExplanations": {
+        "A": "Rektum adalah lokasi distal, obstruksi di sini menimbulkan distensi perut dominan.",
+        "B": "Sigmoid adalah segmen distal kolon, tidak sesuai dengan muntah hijau tanpa distensi.",
+        "C": "Ileum distal termasuk obstruksi distal, dengan muntah bilier yang onsetnya lebih lambat.",
+        "D": "Muntah hijau, perut tidak distensi, dan mekonium tetap keluar sesuai obstruksi proksimal.",
+        "E": "Anus adalah lokasi paling distal dan tidak menyebabkan muntah bilier."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q5",
+      "category": "",
+      "question": "Bayi 2 hari dengan perut membesar progresif, muntah hijau yang onsetnya lebih lambat, dan defekasi yang terganggu. Lokasi obstruksinya paling mungkin ...",
+      "questionImages": [],
+      "options": {
+        "A": "Di ampula vater, dengan muntah non-bilier",
+        "B": "Di esofagus proksimal, dengan distensi abdomen minimal",
+        "C": "Di pilorus, dengan muntah non-bilier segera setelah minum",
+        "D": "Proksimal di gaster, dengan distensi abdomen yang minimal",
+        "E": "Distal di bawah ileum, dengan distensi abdomen dominan"
+      },
+      "optionExplanations": {
+        "A": "Obstruksi di ampula vater menimbulkan muntah non-bilier, bukan distensi dominan.",
+        "B": "Atresia esofagus tidak menyebabkan distensi abdomen yang dominan.",
+        "C": "Atresia pilorus menyebabkan muntah non-bilier segera setelah minum.",
+        "D": "Obstruksi gaster menimbulkan distensi abdomen yang minimal.",
+        "E": "Distensi dominan dan muntah bilier onset lambat, sesuai distal."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q6",
+      "category": "",
+      "question": "Pada neonatus normal, gambaran udara pertama dalam saluran cerna pada foto polos abdomen tampak di ...",
+      "questionImages": [],
+      "options": {
+        "A": "Lambung",
+        "B": "Sigmoid",
+        "C": "Usus halus",
+        "D": "Duodenum",
+        "E": "Rektum"
+      },
+      "optionExplanations": {
+        "A": "Udara lambung nampak dalam beberapa menit setelah lahir.",
+        "B": "Udara sigmoid baru tampak sekitar 8 sampai 9 jam setelah lahir.",
+        "C": "Usus halus terisi udara setelah sekitar 3 jam.",
+        "D": "Udara mencapai duodenum dalam sekitar 30 menit, setelah lambung.",
+        "E": "Udara rektum baru tampak sekitar 12 sampai 24 jam setelah lahir."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q7",
+      "category": "",
+      "question": "Bayi laki-laki lahir dari ibu dengan riwayat polihidramnion. Sejak lahir tampak banyak sekret dari mulut. Saat diberi minum bayi tersedak dan sianosis. Selang orogastrik tidak dapat masuk ke lambung. Diagnosis yang paling mungkin adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Atresia duodenum",
+        "B": "Atresia esofagus",
+        "C": "Atresia ani",
+        "D": "Hernia diafragmatika",
+        "E": "Hirschsprung disease"
+      },
+      "optionExplanations": {
+        "A": "Atresia duodenum menimbulkan muntah bilier dan gambaran double bubble, bukan sekret mulut dengan sianosis saat menyusu.",
+        "B": "Riwayat polihidramnion, hipersalivasi, dan OGT yang tidak masuk ke lambung khas atresia esofagus.",
+        "C": "Atresia ani ditandai tidak adanya lubang anus, bukan gangguan menelan sejak lahir.",
+        "D": "Hernia diafragmatika menimbulkan distres napas dan perut cekung, bukan sekret mulut yang banyak.",
+        "E": "Hirschsprung ditandai mekonium tidak keluar dan kembung, bukan hipersalivasi."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q8",
+      "category": "",
+      "question": "Pada atresia esofagus, lokasi fistula trakeoesofagus yang paling sering ditemukan adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Fistula esofagus proksimal dengan trakea anterior",
+        "B": "Tidak ada fistula pada sebagian besar kasus atresia",
+        "C": "Fistula esofagus distal dengan trakea posterior",
+        "D": "Fistula esofagus dengan aorta torakalis yang berjalan dekat",
+        "E": "Fistula esofagus dengan bronkus kanan saja pada semua kasus"
+      },
+      "optionExplanations": {
+        "A": "Fistula proksimal jarang, sekitar 1 persen kasus.",
+        "B": "Sebagian besar kasus justru memiliki fistula, bukan tanpa fistula.",
+        "C": "Sekitar 85 persen kasus memiliki TEF distal.",
+        "D": "Fistula ke aorta tidak termasuk gambaran khas atresia esofagus.",
+        "E": "Bronkus kanan bukan lokasi fistula yang khas pada atresia esofagus."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q9",
+      "category": "",
+      "question": "Perhatikan foto dada dan abdomen bayi berikut. Pada foto dengan fistula (gambar kiri), udara yang tampak di lambung dan usus paling mungkin berasal dari ... ",
+      "questionImages": [
+        "images/packages/persiapan-minites-2i__kongenital-anak/img-001.png"
+      ],
+      "options": {
+        "A": "Pneumotoraks yang mendesak paru dan mediastinum",
+        "B": "Refluks lambung ke paru melalui saluran napas",
+        "C": "Produksi gas oleh bakteri di dalam saluran cerna",
+        "D": "Udara dari trakea melalui fistula distal ke saluran cerna",
+        "E": "Perforasi lambung dengan udara bebas di rongga abdomen"
+      },
+      "optionExplanations": {
+        "A": "Pneumotoraks tidak menjelaskan adanya gas di lambung dan usus.",
+        "B": "Refluks ke paru bukan mekanisme gambaran udara pada TEF.",
+        "C": "Produksi gas bakteri tidak menjelaskan udara di lambung dan usus pada atresia esofagus dengan fistula.",
+        "D": "Pada TEF distal, udara dari trakea masuk ke lambung dan usus melalui fistula.",
+        "E": "Perforasi menimbulkan udara bebas, bukan gambaran udara di dalam lambung dan usus."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q10",
+      "category": "",
+      "question": "Foto dada dan abdomen bayi dengan atresia esofagus TANPA fistula memperlihatkan ujung OGT melingkar di esofagus yang buntu. Temuan abdomen yang diharapkan adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Udara bebas di bawah diafragma akibat perforasi",
+        "B": "Gambaran double bubble pada dua gelembung gas",
+        "C": "Gas memenuhi seluruh kolon hingga rektum",
+        "D": "Lambung dan usus distensi berat disertai udara",
+        "E": "Tidak ada gambaran udara lambung dan usus"
+      },
+      "optionExplanations": {
+        "A": "Udara bebas menunjukkan perforasi, bukan gambaran khas atresia esofagus tanpa fistula.",
+        "B": "Double bubble adalah gambaran obstruksi duodenum.",
+        "C": "Gas kolon bukan temuan pada atresia esofagus tanpa fistula.",
+        "D": "Distensi lambung dan usus terjadi pada TEF distal, bukan pada atresia tanpa fistula.",
+        "E": "Tanpa TEF, udara tidak masuk ke saluran cerna."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q11",
+      "category": "",
+      "question": "Pada bayi dengan dugaan atresia esofagus, persiapan preoperatif yang tepat termasuk posisi kepala ...",
+      "questionImages": [],
+      "options": {
+        "A": "Elevasi 45 derajat",
+        "B": "Trendelenburg",
+        "C": "Tengkurap penuh",
+        "D": "Miring ke kiri penuh",
+        "E": "Datar 0 derajat"
+      },
+      "optionExplanations": {
+        "A": "Elevasi 45 derajat termasuk tata laksana preoperatif.",
+        "B": "Trendelenburg tidak dianjurkan pada bayi dengan sekret berlebih.",
+        "C": "Posisi tengkurap penuh tidak termasuk tata laksana preoperatif yang tercantum.",
+        "D": "Posisi miring penuh tidak termasuk tata laksana preoperatif yang tercantum.",
+        "E": "Posisi datar meningkatkan risiko aspirasi sekret, dari pengetahuan umum."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q12",
+      "category": "",
+      "question": "Bayi laki-laki berusia 1 hari mengalami muntah non-bilius segera setelah minum. Ibu memiliki riwayat polihidramnion. Foto polos abdomen menunjukkan gambaran single bubble. Diagnosis yang paling mungkin adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Atresia duodenum",
+        "B": "Atresia pilorus",
+        "C": "Hirschsprung disease",
+        "D": "Atresia ani",
+        "E": "Pancreas anulare"
+      },
+      "optionExplanations": {
+        "A": "Atresia duodenum menunjukkan gambaran double bubble, bukan single bubble.",
+        "B": "Single bubble, muntah non-bilius segera setelah minum, dan riwayat polihidramnion sesuai atresia pilorus.",
+        "C": "Hirschsprung tidak menyebabkan muntah segera setelah minum pada hari pertama dengan gambaran single bubble.",
+        "D": "Atresia ani tidak menimbulkan muntah dengan gambaran single bubble.",
+        "E": "Pancreas anulare menimbulkan muntah bilier dan gambaran double bubble."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q13",
+      "category": "",
+      "question": "Pada atresia pilorus, langkah tata laksana awal yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Observasi selama satu minggu sebelum tindakan",
+        "B": "Langsung memberikan susu tinggi kalori",
+        "C": "Dekompresi dengan OGT dan nutrisi parenteral",
+        "D": "Pemberian antibiotik saja tanpa tindakan lanjut",
+        "E": "Bilas lambung berulang secara rutin setiap jam"
+      },
+      "optionExplanations": {
+        "A": "Observasi lama menunda dekompresi dan berisiko dehidrasi.",
+        "B": "Pemberian minum langsung memicu muntah dan aspirasi pada atresia pilorus.",
+        "C": "Dekompresi OGT dan nutrisi parenteral adalah tata laksana utama.",
+        "D": "Antibiotik tidak mengatasi obstruksi lambung.",
+        "E": "Bilas lambung berulang tidak menjadi tata laksana yang dianjurkan."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q14",
+      "category": "",
+      "question": "Bayi dengan muntah bilier dan gambaran double bubble. Pada pancreas anulare, obstruksi duodenum terjadi karena ...",
+      "questionImages": [],
+      "options": {
+        "A": "Hilangnya sel neuroganglionik pada dinding duodenum",
+        "B": "Hipertrofi otot sfingter Oddi yang berlebihan",
+        "C": "Pankreas tumbuh ke dalam lumen duodenum",
+        "D": "Pankreas melingkari dan menjepit duodenum",
+        "E": "Batu pada duktus pankreas yang menyumbat aliran"
+      },
+      "optionExplanations": {
+        "A": "Hilangnya sel neuroganglionik merupakan mekanisme Hirschsprung, bukan pancreas anulare.",
+        "B": "Hipertrofi sfingter Oddi bukan mekanisme pancreas anulare.",
+        "C": "Pankreas tidak tumbuh ke dalam lumen; yang terjadi adalah melingkari dari luar.",
+        "D": "Pancreas anulare merupakan anomali perkembangan pankreas yang melingkari dan menjepit duodenum.",
+        "E": "Batu duktus tidak termasuk penyebab pancreas anulare."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q15",
+      "category": "",
+      "question": "Bayi baru lahir dengan atresia duodenum sering disertai sindrom tertentu. Sindrom yang paling sering menyertai adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Sindrom Marfan",
+        "B": "Sindrom Klinefelter",
+        "C": "Sindrom Prader-Willi",
+        "D": "Sindrom Turner",
+        "E": "Sindrom Down"
+      },
+      "optionExplanations": {
+        "A": "Sindrom Marfan bukan kelainan penyerta khas pada atresia duodenum.",
+        "B": "Sindrom Klinefelter bukan kelainan penyerta khas pada atresia duodenum.",
+        "C": "Sindrom Prader-Willi bukan kelainan penyerta khas pada atresia duodenum.",
+        "D": "Sindrom Turner bukan kelainan penyerta khas pada atresia duodenum.",
+        "E": "Sindrom Down termasuk kelainan penyerta yang sering menyertai atresia duodenum."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q16",
+      "category": "",
+      "question": "Foto polos abdomen bayi dengan muntah bilier menunjukkan gambaran double bubble. Pemeriksaan lanjutan yang paling tepat untuk menentukan letak sumbatan secara lebih tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Foto kontras",
+        "B": "CT scan kepala",
+        "C": "Biopsi rektum",
+        "D": "Tes keringat",
+        "E": "USG abdomen ulang"
+      },
+      "optionExplanations": {
+        "A": "Foto kontras menentukan letak sumbatan lebih tepat.",
+        "B": "CT scan kepala tidak menilai sumbatan saluran cerna.",
+        "C": "Biopsi rektum adalah pemeriksaan diagnosis Hirschsprung, bukan obstruksi duodenum.",
+        "D": "Tes keringat tidak berkaitan dengan obstruksi saluran cerna pada neonatus ini.",
+        "E": "USG abdomen tidak disebutkan sebagai pemeriksaan untuk menentukan letak sumbatan secara tepat."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q17",
+      "category": "",
+      "question": "Perhatikan foto polos abdomen neonatus pada gambar. Dua gelembung gas yang tampak, dengan panah merah, paling sesuai dengan ... ",
+      "questionImages": [
+        "images/packages/persiapan-minites-2i__kongenital-anak/img-002.png"
+      ],
+      "options": {
+        "A": "Lambung dan kolon sigmoid yang terisi gas",
+        "B": "Lambung dan duodenum proksimal",
+        "C": "Duodenum dan rektum yang menggembung",
+        "D": "Usus halus dan sekum yang terisi gas berlebihan",
+        "E": "Kolon transversum dan sigmoid pada bayi baru lahir"
+      },
+      "optionExplanations": {
+        "A": "Sigmoid bukan bagian dari gambaran double bubble.",
+        "B": "Double bubble terdiri dari lambung dan duodenum proksimal yang terisi gas.",
+        "C": "Rektum tidak tampak pada gambaran double bubble.",
+        "D": "Usus halus dan sekum bukan gelembung pada double bubble.",
+        "E": "Kolon bukan gelembung pada gambaran obstruksi duodenum."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q18",
+      "category": "",
+      "question": "Hirschsprung disease disebabkan oleh ...",
+      "questionImages": [],
+      "options": {
+        "A": "Stenosis anorektal yang menyempitkan kanal anus",
+        "B": "Hipertrofi otot sirkular pada dinding kolon distal",
+        "C": "Tidak adanya sel neuroganglionik di distal kolon",
+        "D": "Divertikulum Meckel yang berada di ileum terminal",
+        "E": "Malrotasi usus dengan kelainan rotasi berulang"
+      },
+      "optionExplanations": {
+        "A": "Stenosis anorektal bukan mekanisme Hirschsprung disease.",
+        "B": "Hipertrofi otot sirkular bukan penyebab Hirschsprung disease.",
+        "C": "Segmen distal aganglionik tidak dapat relaksasi, menyebabkan obstruksi.",
+        "D": "Divertikulum Meckel bukan penyebab Hirschsprung disease.",
+        "E": "Malrotasi merupakan kelainan rotasi usus, bukan penyebab Hirschsprung disease."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q19",
+      "category": "",
+      "question": "Bayi laki-laki berusia 36 jam belum mengeluarkan mekonium. Bayi tampak muntah dan kembung. Pada rectal toucher ampula kosong dan feses menyemprot saat jari ditarik. Diagnosis yang paling mungkin adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Obstruksi duodenum",
+        "B": "Atresia esofagus",
+        "C": "Atresia ani letak tinggi",
+        "D": "Hirschsprung disease",
+        "E": "Atresia pilorus"
+      },
+      "optionExplanations": {
+        "A": "Obstruksi duodenum menimbulkan muntah bilier, tetapi bayi masih dapat mengeluarkan mekonium.",
+        "B": "Atresia esofagus menyebabkan sekret mulut dan OGT tidak masuk, bukan kembung rektum.",
+        "C": "Atresia ani ditandai tidak adanya lubang anus, bukan ampula kosong dengan feses menyemprot.",
+        "D": "Mekonium terlambat, kembung, dan ampula kosong khas Hirschsprung.",
+        "E": "Atresia pilorus menyebabkan muntah non-bilius, bukan kembung dengan ampula kosong."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q20",
+      "category": "",
+      "question": "Diagnosis pasti Hirschsprung disease ditegakkan dengan ...",
+      "questionImages": [],
+      "options": {
+        "A": "USG abdomen untuk melihat distensi usus",
+        "B": "Pemeriksaan kadar TSH dalam darah",
+        "C": "Foto polos abdomen untuk melihat distensi",
+        "D": "Foto kontras barium enema untuk menilai kaliber kolon",
+        "E": "Biopsi segmen aganglionik pada kolon distal"
+      },
+      "optionExplanations": {
+        "A": "USG tidak menegakkan diagnosis pasti aganglionik.",
+        "B": "TSH berkaitan dengan hipotiroid kongenital, bukan Hirschsprung disease.",
+        "C": "Foto polos menunjukkan distensi, tetapi bukan diagnosis pasti.",
+        "D": "Colon in loop membantu, tetapi diagnosis pasti ditegakkan dengan biopsi.",
+        "E": "Biopsi segmen aganglionik adalah diagnosis pasti Hirschsprung disease."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q21",
+      "category": "",
+      "question": "Pada foto kontras kolon neonatus dengan Hirschsprung disease ditemukan gambaran colon in loop. Gambaran yang khas adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Zona transisi antara kolon sempit dan dilatasi",
+        "B": "Perforasi kolon sigmoid dengan udara bebas",
+        "C": "Invaginasi ileum ke dalam kolon",
+        "D": "Divertikel Meckel di sisi antimesenterik",
+        "E": "Dilatasi seluruh kolon tanpa perubahan kaliber sama sekali"
+      },
+      "optionExplanations": {
+        "A": "Zona transisi sempit dan dilatasi merupakan gambaran khas.",
+        "B": "Perforasi menimbulkan udara bebas dan bukan gambaran colon in loop.",
+        "C": "Invaginasi tidak termasuk gambaran colon in loop.",
+        "D": "Divertikel Meckel tidak menimbulkan zona transisi kolon seperti ini.",
+        "E": "Dilatasi seluruh kolon tidak sesuai dengan gambaran colon in loop."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q22",
+      "category": "",
+      "question": "Perhatikan foto kontras kolon pada gambar. Panah kuning menunjuk segmen usus yang ... ",
+      "questionImages": [
+        "images/packages/persiapan-minites-2i__kongenital-anak/img-003.png"
+      ],
+      "options": {
+        "A": "Melebar akibat dilatasi segmen usus proksimal",
+        "B": "Menyempit atau konstriksi pada segmen distal",
+        "C": "Terisi kontras secara normal tanpa hambatan aliran",
+        "D": "Berisi udara bebas di rongga peritoneum",
+        "E": "Mengalami invaginasi dengan gambaran target"
+      },
+      "optionExplanations": {
+        "A": "Segmen yang melebar ditunjuk panah merah, bukan panah kuning.",
+        "B": "Panah kuning menunjuk segmen yang menyempit (aganglionik).",
+        "C": "Gambaran normal tidak menunjukkan konstriksi.",
+        "D": "Udara bebas tidak ditunjukkan pada gambar kontras ini.",
+        "E": "Invaginasi tidak termasuk temuan pada gambar ini."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q23",
+      "category": "",
+      "question": "Bayi laki-laki dengan atresia ani letak tinggi. Fistula yang paling sering ditemukan pada kasus ini menuju ke ...",
+      "questionImages": [],
+      "options": {
+        "A": "Ureter kanan yang berjalan di belakang peritoneum",
+        "B": "Vagina, khas pada bayi perempuan",
+        "C": "Uretra atau kandung kemih pada bayi laki-laki",
+        "D": "Kulit perineum, anokutan yang lebih sering pada letak rendah",
+        "E": "Kandung empedu melalui duktus tertentu"
+      },
+      "optionExplanations": {
+        "A": "Ureter bukan lokasi fistula yang khas pada atresia ani.",
+        "B": "Vagina merupakan lokasi fistula pada bayi perempuan, bukan laki-laki.",
+        "C": "Pada letak tinggi laki-laki, fistula sering menuju uretra atau kandung kemih.",
+        "D": "Fistula kulit perineum lebih sering pada atresia ani letak rendah.",
+        "E": "Kandung empedu tidak berhubungan dengan rektum pada atresia ani."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q24",
+      "category": "",
+      "question": "Bayi laki-laki dengan atresia ani. Pada pemeriksaan, ujung rektum menembus otot levator ani dan jarak ke kulit kurang dari 1 cm. Klasifikasi atresia ani ini adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Atresia pilorus",
+        "B": "Hernia diafragmatika",
+        "C": "Letak tinggi (supralevator)",
+        "D": "Letak rendah (infralevator)",
+        "E": "Letak sedang (intermediate) pada beberapa klasifikasi"
+      },
+      "optionExplanations": {
+        "A": "Atresia pilorus tidak melibatkan rektum dan anus.",
+        "B": "Hernia diafragmatika tidak berhubungan dengan anus.",
+        "C": "Letak tinggi memiliki ujung rektum di atas otot levator dan jarak ke kulit lebih dari 1 cm.",
+        "D": "Ujung rektum yang menembus levator dengan jarak ke kulit kurang dari 1 cm termasuk letak rendah.",
+        "E": "Kelompok intermediate tidak sesuai dengan ujung rektum yang sudah menembus levator."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q25",
+      "category": "",
+      "question": "Pemeriksaan foto lateral cross-table prone pada atresia ani umumnya dilakukan pada waktu ...",
+      "questionImages": [],
+      "options": {
+        "A": "Setelah satu minggu kehidupan, saat bayi sudah stabil",
+        "B": "Saat usia enam bulan setelah lahir",
+        "C": "Segera setelah lahir, saat udara belum tampak",
+        "D": "Sekitar satu jam setelah lahir",
+        "E": "Sekitar 18 sampai 24 jam setelah lahir"
+      },
+      "optionExplanations": {
+        "A": "Pemeriksaan terlalu lambat untuk penilaian standar bayi baru lahir.",
+        "B": "Pemeriksaan pada usia 6 bulan tidak dilakukan untuk atresia ani neonatus.",
+        "C": "Pemeriksaan terlalu dini dapat menyesatkan.",
+        "D": "Dalam 1 jam udara belum mencapai kantong rektum distal.",
+        "E": "Waktu ini memungkinkan udara mencapai kantong rektum distal untuk dinilai."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q26",
+      "category": "",
+      "question": "Pada foto lateral cross-table prone, kantong rektum yang berisi gas tampak jauh dari kulit perineum. Temuan ini mengarah ke lesi ...",
+      "questionImages": [],
+      "options": {
+        "A": "Proksimal atau tinggi, lesi di atas levator",
+        "B": "Tidak ada kelainan pada pemeriksaan ini",
+        "C": "Hirschsprung disease yang berada di kolon",
+        "D": "Hanya intermediate pada beberapa klasifikasi",
+        "E": "Distal atau rendah di dekat perineum"
+      },
+      "optionExplanations": {
+        "A": "Kantong rektum jauh dari perineum mengarah ke proksimal.",
+        "B": "Temuan ini menunjukkan adanya kelainan, bukan pemeriksaan normal.",
+        "C": "Hirschsprung tidak dinilai dengan jarak kantong rektum ke perineum.",
+        "D": "Pilihan intermediate tidak sesuai dengan gambaran jauh dari perineum.",
+        "E": "Kantong rektum yang dekat perineum mengarah ke lesi distal atau rendah."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q27",
+      "category": "",
+      "question": "Tindakan awal pada bayi dengan atresia ani sebelum tindakan bedah definitif adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Pemberian ASI langsung",
+        "B": "Puasa dan dekompresi dengan OGT",
+        "C": "Pemberian antibiotik oral saja",
+        "D": "Operasi darurat tanpa pemeriksaan",
+        "E": "Kolostomi wajib pada semua kasus"
+      },
+      "optionExplanations": {
+        "A": "Pemberian minum ditunda karena puasa dan dekompresi diperlukan sebagai langkah awal.",
+        "B": "Puasa dan dekompresi OGT adalah langkah awal.",
+        "C": "Antibiotik oral bukan langkah utama dekompresi.",
+        "D": "Operasi tanpa evaluasi letak dan anatomi tidak dianjurkan.",
+        "E": "Kolostomi tidak selalu wajib dan bergantung pada letak dan anatomi."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q28",
+      "category": "",
+      "question": "Pada atresia ani letak rendah dengan anatomi yang sesuai, tindakan definitif yang dapat dilakukan tanpa kolostomi terlebih dahulu adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Transplantasi usus sebagai tindakan rutin",
+        "B": "Kolostomi pada semua kasus sebelum tindakan",
+        "C": "Operasi anoplasti korektif tanpa kolostomi",
+        "D": "Gastrostomi sebagai penanganan atresia ani",
+        "E": "Ileostomi sebagai langkah pertama pada letak rendah"
+      },
+      "optionExplanations": {
+        "A": "Transplantasi usus bukan tindakan rutin untuk atresia ani.",
+        "B": "Kolostomi tidak wajib pada semua kasus sebelum tindakan.",
+        "C": "Anoplasti dapat langsung dilakukan pada letak rendah.",
+        "D": "Gastrostomi tidak termasuk penanganan atresia ani.",
+        "E": "Ileostomi tidak diperlukan sebagai langkah pertama pada letak rendah."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q29",
+      "category": "",
+      "question": "Sekitar 80 persen hernia diafragmatika terletak pada diafragma sisi ...",
+      "questionImages": [],
+      "options": {
+        "A": "Tengah sternum",
+        "B": "Hiatus esofagus kiri",
+        "C": "Kanan melalui foramen Morgagni",
+        "D": "Kiri melalui foramen Bochdalek",
+        "E": "Kanan melalui foramen Bochdalek"
+      },
+      "optionExplanations": {
+        "A": "Tengah sternum bukan lokasi hernia diafragmatika.",
+        "B": "Hiatus esofagus berbeda dari foramen Bochdalek yang dimaksud.",
+        "C": "Foramen Morgagni di kanan tidak sesuai dengan lokasi tersering yang tercantum.",
+        "D": "Sekitar 80 persen kasus terdapat di diafragma kiri melalui foramen Bochdalek.",
+        "E": "Foramen Bochdalek umumnya berada di kiri, bukan kanan."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q30",
+      "category": "",
+      "question": "Neonatus dengan distres napas segera setelah lahir, perut cekung (scaphoid), dan suara peristaltik terdengar di dada kiri. Diagnosis yang paling mungkin adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Atresia esofagus dengan sekret mulut berlebihan",
+        "B": "Gastroschisis dengan defek dinding perut",
+        "C": "Omfalokel di pangkal tali pusat",
+        "D": "Pneumonia neonatal dengan batuk",
+        "E": "Hernia diafragmatika kiri dengan isi perut di dada"
+      },
+      "optionExplanations": {
+        "A": "Atresia esofagus tidak menimbulkan peristaltik di dada.",
+        "B": "Gastroschisis adalah defek dinding perut, bukan hernia diafragma.",
+        "C": "Omfalokel melibatkan pangkal tali pusat, bukan rongga dada.",
+        "D": "Pneumonia tidak menyebabkan perut cekung dan peristaltik di dada.",
+        "E": "Distres napas dan perut cekung khas hernia kiri."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q31",
+      "category": "",
+      "question": "Perhatikan foto dada neonatus pada gambar dengan dugaan hernia diafragmatika kiri. Temuan yang paling mendukung diagnosis adalah ... ",
+      "questionImages": [
+        "images/packages/persiapan-minites-2i__kongenital-anak/img-004.png"
+      ],
+      "options": {
+        "A": "Gelung usus di dalam hemitoraks kiri",
+        "B": "Pneumotoraks kanan dengan paru kolaps",
+        "C": "Paru kanan kolaps tanpa tanda infeksi",
+        "D": "Udara bebas subdiafragma akibat perforasi",
+        "E": "Jantung bergeser ke kiri akibat tekanan"
+      },
+      "optionExplanations": {
+        "A": "Gelung usus di hemitoraks kiri menunjukkan isi abdomen di dada.",
+        "B": "Pneumotoraks kanan tidak menjadi temuan utama pada hernia ini.",
+        "C": "Paru kanan kolaps bukan temuan khas hernia diafragmatika kiri.",
+        "D": "Udara bebas subdiafragma menunjukkan perforasi.",
+        "E": "Pada hernia diafragmatika kiri jantung biasanya bergeser ke kanan, bukan ke kiri."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q32",
+      "category": "",
+      "question": "Pada neonatus dengan hernia diafragmatika, tindakan yang harus dihindari sebelum intubasi adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Pemasangan OGT untuk dekompresi lambung",
+        "B": "Ventilasi tekanan positif dengan balon dan sungkup",
+        "C": "Pemeriksaan AGD untuk menilai kelainan",
+        "D": "Terapi bedah definitif sebagai tindakan akhir",
+        "E": "Intubasi endotrakeal bila terjadi distres respirasi berat"
+      },
+      "optionExplanations": {
+        "A": "OGT dipasang untuk dekompresi lambung dan tidak dilarang.",
+        "B": "Ventilasi sungkup harus dihindari karena paru tertekan.",
+        "C": "Pemeriksaan AGD dianjurkan untuk menilai dan mengoreksi kelainan.",
+        "D": "Terapi bedah definitif adalah tindakan akhir yang dianjurkan.",
+        "E": "Intubasi endotrakeal dianjurkan bila terjadi distres respirasi."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q33",
+      "category": "",
+      "question": "Defek dinding abdomen dengan isi perut yang keluar tanpa kantong pelindung, dan tali pusat utuh di sebelah kiri defek. Lokasi defek yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Di suprapubik, dengan tali pusat melekat",
+        "B": "Di kiri umbilikus, dengan tali pusat utuh di kanan defek",
+        "C": "Di kanan umbilikus, tali pusat utuh di kiri defek",
+        "D": "Tepat di umbilikus, dengan kantong pelindung",
+        "E": "Di kiri diafragma, dengan tali pusat tidak terlihat"
+      },
+      "optionExplanations": {
+        "A": "Defek suprapubik tidak termasuk gastroschisis.",
+        "B": "Defek umumnya berada di kanan umbilikus, bukan kiri.",
+        "C": "Gastroschisis biasanya di kanan umbilikus, tali pusat di kiri.",
+        "D": "Pada omfalokel tali pusat melekat pada kantong, bukan pada gastroschisis.",
+        "E": "Defek diafragma bukan defek dinding abdomen."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q34",
+      "category": "",
+      "question": "Defek dinding abdomen di garis tengah dengan organ intraabdomen yang keluar terbungkus kantong amnion dan peritoneum. Diagnosis yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Atresia ani",
+        "B": "Eventrasi diafragma",
+        "C": "Gastroschisis",
+        "D": "Omfalokel",
+        "E": "Hernia inguinalis"
+      },
+      "optionExplanations": {
+        "A": "Atresia ani tidak menyebabkan organ keluar dari dinding abdomen.",
+        "B": "Eventrasi diafragma tidak sesuai dengan defek dinding abdomen berkantung.",
+        "C": "Gastroschisis tidak memiliki kantong penutup.",
+        "D": "Organ yang keluar terbungkus kantong di garis tengah umbilikus merupakan omfalokel.",
+        "E": "Hernia inguinalis tidak melibatkan defek umbilikus."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q35",
+      "category": "",
+      "question": "Berapa persentase omfalokel yang disertai kelainan kongenital lain?",
+      "questionImages": [],
+      "options": {
+        "A": "60 sampai 70 persen",
+        "B": "Lebih dari 90 persen",
+        "C": "1 sampai 5 persen",
+        "D": "10 sampai 15 persen",
+        "E": "25 sampai 40 persen"
+      },
+      "optionExplanations": {
+        "A": "Angka ini melebihi rentang yang tercantum.",
+        "B": "Angka ini jauh melebihi proporsi yang tercantum.",
+        "C": "Persentase ini terlalu rendah dibanding rentang yang tercantum.",
+        "D": "Angka ini masih di bawah rentang yang tercantum untuk omfalokel.",
+        "E": "Sekitar 25 sampai 40 persen omfalokel disertai kelainan lain."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q36",
+      "category": "",
+      "question": "Gastroschisis diketahui sejak dalam kandungan. Cara persalinan yang sebaiknya dipilih adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Persalinan secara seksio sesarea (SC)",
+        "B": "Induksi persalinan dengan oksitosin pada usia 34 minggu",
+        "C": "Persalinan di fasilitas non-rumah sakit",
+        "D": "Menunda persalinan hingga bayi siap",
+        "E": "Persalinan pervaginam spontan tanpa tindakan khusus"
+      },
+      "optionExplanations": {
+        "A": "Bila diketahui sejak dalam kandungan, gastroschisis sebaiknya dilahirkan secara SC.",
+        "B": "Induksi persalinan tidak termasuk anjuran yang tercantum.",
+        "C": "Persalinan di fasilitas non-rumah sakit tidak sesuai untuk kasus yang memerlukan penanganan khusus.",
+        "D": "Penundaan persalinan tanpa indikasi tidak termasuk anjuran yang tercantum.",
+        "E": "Persalinan spontan tanpa perencanaan tidak sesuai dengan anjuran pada gastroschisis prenatal."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q37",
+      "category": "",
+      "question": "Neural tube defect berupa anensefali. Prognosis yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Bayi dapat bertahan hidup dengan defisit ringan",
+        "B": "Umumnya abortus, lahir mati, atau meninggal sesaat",
+        "C": "Dapat sembuh total setelah operasi korektif dini",
+        "D": "Bertahan hidup normal tanpa intervensi medis apa pun",
+        "E": "Biasanya hanya hidrosefalus ringan tanpa defisit"
+      },
+      "optionExplanations": {
+        "A": "Prognosis bertahan hidup dengan defisit ringan tidak sesuai dengan anensefali.",
+        "B": "Anensefali pada umumnya letal.",
+        "C": "Operasi tidak menyembuhkan anensefali.",
+        "D": "Bayi dengan anensefali tidak bertahan hidup normal.",
+        "E": "Hidrosefalus ringan bukan gambaran khas anensefali."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q38",
+      "category": "",
+      "question": "Bayi dengan defek tulang belakang tersembunyi tanpa herniasi meninges atau saraf, dan kulit di atasnya biasanya utuh. Diagnosis yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Meningocele dengan herniasi meninges saja",
+        "B": "Myelomeningocele dengan herniasi meninges dan saraf",
+        "C": "Spina bifida okulta tanpa herniasi",
+        "D": "Ensefalokel dengan defek tulang kranium",
+        "E": "Anensefali dengan defek kranial luas"
+      },
+      "optionExplanations": {
+        "A": "Meningocele memiliki herniasi meninges, sehingga tidak sesuai dengan kasus ini.",
+        "B": "Myelomeningocele memiliki herniasi meninges dan saraf yang terbuka, tidak sesuai dengan kulit utuh.",
+        "C": "Spina bifida okulta adalah defek tulang belakang tersembunyi tanpa herniasi meninges atau saraf.",
+        "D": "Ensefalokel melibatkan defek tulang kranium, bukan tulang belakang.",
+        "E": "Anensefali melibatkan defek kranial dan tidak sesuai dengan kasus ini."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q39",
+      "category": "",
+      "question": "Faktor risiko utama neural tube defect yang dapat dicegah adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Defisiensi zat besi",
+        "B": "Defisiensi vitamin D",
+        "C": "Defisiensi vitamin B12",
+        "D": "Defisiensi folat",
+        "E": "Kelebihan vitamin A"
+      },
+      "optionExplanations": {
+        "A": "Defisiensi zat besi tidak tercantum sebagai faktor risiko utama.",
+        "B": "Defisiensi vitamin D tidak tercantum sebagai faktor risiko utama.",
+        "C": "Defisiensi vitamin B12 bukan faktor risiko utama yang tercantum.",
+        "D": "Defisiensi folat merupakan faktor risiko utama.",
+        "E": "Kelebihan vitamin A tidak tercantum sebagai faktor risiko utama."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q40",
+      "category": "",
+      "question": "Variasi genetik yang dikaitkan dengan risiko neural tube defect dan memengaruhi enzim metabolisme folat adalah pada gen ...",
+      "questionImages": [],
+      "options": {
+        "A": "CFTR, gen yang berkaitan dengan fibrosis kistik",
+        "B": "BRCA1, gen yang berkaitan dengan kanker payudara",
+        "C": "HBB, gen yang berkaitan dengan produksi hemoglobin",
+        "D": "SMN1, gen yang berkaitan dengan atrofi otot spinal",
+        "E": "MTHFR, gen enzim metabolisme folat"
+      },
+      "optionExplanations": {
+        "A": "CFTR berkaitan dengan fibrosis kistik, bukan NTD (dari pengetahuan umum).",
+        "B": "BRCA1 berkaitan dengan kanker payudara, bukan NTD (dari pengetahuan umum).",
+        "C": "HBB berkaitan dengan hemoglobin, bukan NTD (dari pengetahuan umum).",
+        "D": "SMN1 berkaitan dengan atrofi otot spinal, bukan NTD (dari pengetahuan umum).",
+        "E": "MTHFR berkaitan dengan metabolisme folat dan risiko NTD."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q41",
+      "category": "",
+      "question": "Wanita tanpa riwayat kehamilan dengan neural tube defect sebelumnya dianjurkan mengonsumsi asam folat dengan dosis ...",
+      "questionImages": [],
+      "options": {
+        "A": "0,4 mg per hari, sebelum konsepsi hingga 12 minggu",
+        "B": "1 mg per hari sepanjang kehamilan",
+        "C": "4 sampai 5 mg per hari sebelum konsepsi",
+        "D": "10 mg per hari sampai melahirkan, tanpa batas",
+        "E": "50 mg per hari selama trimester pertama kehamilan saja"
+      },
+      "optionExplanations": {
+        "A": "Dosis 0,4 mg sampai 12 minggu untuk wanita tanpa riwayat NTD.",
+        "B": "Dosis 1 mg tidak tercantum sebagai anjuran pencegahan pada materi ini.",
+        "C": "Dosis 4 sampai 5 mg dianjurkan pada wanita dengan riwayat NTD, bukan tanpa riwayat.",
+        "D": "Dosis 10 mg tidak tercantum sebagai anjuran pencegahan.",
+        "E": "Dosis 50 mg tidak tercantum sebagai anjuran pencegahan."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q42",
+      "category": "",
+      "question": "Wanita dengan riwayat kehamilan neural tube defect sebelumnya dianjurkan mengonsumsi asam folat dosis tinggi, yang dapat mencegah 71 persen kasus. Waktu mulai yang tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Saat kehamilan sudah terdeteksi",
+        "B": "1 bulan sebelum hamil sampai 3 bulan hamil",
+        "C": "Mulai trimester kedua kehamilan",
+        "D": "Setelah melahirkan selama menyusui",
+        "E": "Hanya saat gejala NTD mulai muncul pada bayi"
+      },
+      "optionExplanations": {
+        "A": "Mulai saat kehamilan terdeteksi terlambat untuk pencegahan NTD yang optimal.",
+        "B": "Dimulai 1 bulan sebelum hamil, lanjut sampai 3 bulan kehamilan.",
+        "C": "Trimester kedua terlambat untuk pencegahan yang dimaksud.",
+        "D": "Setelah melahirkan tidak termasuk waktu pencegahan NTD.",
+        "E": "Pencegahan tidak menunggu munculnya gejala."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q43",
+      "category": "",
+      "question": "Upaya pencegahan neural tube defect yang tercantum dalam materi, selain asam folat, termasuk ...",
+      "questionImages": [],
+      "options": {
+        "A": "Mengonsumsi obat antiepileptik tanpa konsultasi",
+        "B": "Mengonsumsi alkohol dan rokok saat hamil",
+        "C": "Kontrol gula darah sebelum kehamilan",
+        "D": "Menambah berat badan sebanyak mungkin sebelum hamil",
+        "E": "Menghindari suplemen zat besi"
+      },
+      "optionExplanations": {
+        "A": "Obat antiepileptik merupakan faktor risiko, bukan upaya pencegahan.",
+        "B": "Alkohol dan rokok termasuk teratogen yang harus dihindari, bukan upaya pencegahan.",
+        "C": "Kontrol gula darah pra-kehamilan termasuk upaya pencegahan NTD.",
+        "D": "Menambah berat badan sebanyak mungkin bertentangan dengan manajemen berat badan yang dianjurkan.",
+        "E": "Menghindari suplemen zat besi tidak termasuk pencegahan NTD."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    }
+  ]
+}
