@@ -1,0 +1,3074 @@
+{
+  "id": "persiapan-minites-2i__patologis-neonatus",
+  "tier": "reguler",
+  "title": "Patologis Neonatus",
+  "category": "Persiapan Minites 2I",
+  "questions": [
+    {
+      "id": "Q1",
+      "category": "",
+      "question": "Seorang bayi baru lahir memerlukan resusitasi. Rasio kompresi dada terhadap ventilasi dalam satu siklus yang dianjurkan adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "3 kompresi : 1 ventilasi",
+        "B": "1 kompresi : 1 ventilasi",
+        "C": "2 kompresi : 1 ventilasi",
+        "D": "4 kompresi : 1 ventilasi",
+        "E": "5 kompresi : 1 ventilasi"
+      },
+      "optionExplanations": {
+        "A": "Satu siklus berisi tiga kompresi dan satu ventilasi dalam 2 detik.",
+        "B": "Rasio 1:1 tidak sesuai dengan koordinasi kompresi dan VTP.",
+        "C": "Rasio 2:1 tidak termasuk siklus yang dianjurkan. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Rasio 4:1 tidak termasuk siklus yang dianjurkan. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Rasio 5:1 tidak termasuk siklus yang dianjurkan. Pilihan ini tidak memenuhi kriteria pada kasus."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q2",
+      "category": "",
+      "question": "Pada resusitasi neonatus, kompresi dada dan VTP yang efektif dilakukan tanpa jeda selama ...",
+      "questionImages": [],
+      "options": {
+        "A": "120 detik",
+        "B": "60 detik",
+        "C": "30 detik",
+        "D": "45 detik",
+        "E": "90 detik"
+      },
+      "optionExplanations": {
+        "A": "Durasi 120 detik melebihi periode yang dianjurkan. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "B": "Kompresi dan VTP efektif dilakukan selama 60 detik tanpa jeda.",
+        "C": "Durasi 30 detik terlalu singkat untuk satu periode kompresi dan VTP.",
+        "D": "Durasi 45 detik tidak sesuai dengan anjuran periode resusitasi.",
+        "E": "Durasi 90 detik melebihi periode yang dianjurkan. Pilihan ini tidak sesuai dengan temuan klinis pada kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q3",
+      "category": "",
+      "question": "Penolong meletakkan kedua ibu jari pada sternum bagian bawah, sejajar satu jari di bawah puting susu, sementara jari-jari lainnya melingkari dada. Teknik kompresi dada tersebut adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Teknik kompresi pada abdomen",
+        "B": "Teknik kompresi pada klavikula",
+        "C": "Two thumb-encircling hands technique",
+        "D": "Two finger technique",
+        "E": "Teknik kompresi satu tangan"
+      },
+      "optionExplanations": {
+        "A": "Kompresi abdomen bukan lokasi kompresi dada yang dianjurkan. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "B": "Kompresi klavikula bukan lokasi kompresi dada yang dianjurkan. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "C": "Teknik ini menggunakan dua ibu jari yang dikelilingi jari lainnya.",
+        "D": "Two finger technique menggunakan jari tengah dan telunjuk, bukan ibu jari.",
+        "E": "Kompresi satu tangan tidak termasuk teknik yang dijelaskan. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q4",
+      "category": "",
+      "question": "Bayi laki-laki 3 kg tidak bernapas adekuat, frekuensi nadi tetap kurang dari 60 kali/menit setelah VTP dan kompresi dada efektif. Akses intravena tersedia. Dosis epinefrin intravena yang sesuai adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "0,5 sampai 1 mg",
+        "B": "0,05 sampai 0,10 mg",
+        "C": "1 sampai 3 mg",
+        "D": "0,03 sampai 0,09 mg",
+        "E": "0,15 sampai 0,30 mg"
+      },
+      "optionExplanations": {
+        "A": "Dosis ini terlalu besar untuk epinefrin intravena neonatus. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "B": "Rentang 0,05 sampai 0,10 mg/kgBB adalah dosis intratrakeal, bukan IV. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "Dosis ini terlalu besar untuk bayi 3 kg. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "D": "Epinefrin IV 0,01 sampai 0,03 mg/kgBB, untuk 3 kg menjadi 0,03 sampai 0,09 mg.",
+        "E": "Rentang ini melampaui dosis IV untuk bayi 3 kg. Kondisi ini tidak sesuai dengan data klinis yang diberikan."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q5",
+      "category": "",
+      "question": "Setelah pemberian epinefrin intravena pada neonatus, tindakan flushing yang dianjurkan adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "NaCl 0,9% 10 mL/kgBB",
+        "B": "Air steril 20 mL",
+        "C": "Dekstrosa 5% 5 mL",
+        "D": "Tidak perlu flushing",
+        "E": "NaCl 0,9% 2 sampai 3 mL"
+      },
+      "optionExplanations": {
+        "A": "Dosis 10 mL/kgBB adalah untuk pemberian cairan, bukan flushing.",
+        "B": "Air steril tidak termasuk flushing yang dianjurkan. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Dekstrosa tidak termasuk flushing yang dianjurkan. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Flushing dianjurkan setelah epinefrin IV. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Flushing NaCl 0,9% 2 sampai 3 mL diberikan setelah dosis IV."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q6",
+      "category": "",
+      "question": "Bayi pasca resusitasi mengalami hipoglikemia. Komponen prinsip STABLE yang paling tepat untuk ditangani adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Sugar and safe care",
+        "B": "Temperature",
+        "C": "Airway",
+        "D": "Blood pressure",
+        "E": "Emotional support"
+      },
+      "optionExplanations": {
+        "A": "Hipoglikemia termasuk komponen Sugar and safe care dalam prinsip STABLE.",
+        "B": "Temperature menilai suhu tubuh, bukan kadar gula darah. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Airway menilai jalan napas, bukan kadar gula darah. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Blood pressure menilai tekanan darah, bukan kadar gula darah. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Emotional support menilai dukungan keluarga, bukan kadar gula darah."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q7",
+      "category": "",
+      "question": "Seorang primigravida dengan perawakan kecil mengalami persalinan lama dan distosia. Faktor maternal yang dimaksud termasuk ...",
+      "questionImages": [],
+      "options": {
+        "A": "Penggunaan forsep",
+        "B": "Primigravida dan persalinan lama",
+        "C": "Makrosomia janin",
+        "D": "Presentasi sungsang",
+        "E": "Anomali janin"
+      },
+      "optionExplanations": {
+        "A": "Penggunaan forsep termasuk faktor lain, bukan faktor maternal. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "B": "Primigravida dan persalinan lama termasuk faktor maternal trauma lahir.",
+        "C": "Makrosomia termasuk faktor janin, bukan faktor maternal. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "D": "Presentasi sungsang termasuk faktor janin. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "E": "Anomali janin termasuk faktor janin. Pilihan ini tidak sesuai dengan temuan klinis pada kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q8",
+      "category": "",
+      "question": "Bayi lahir pervaginam. Pada kepala tampak benjolan lunak dengan batas tidak tegas yang melewati garis sutura, edema pitting, dan diperkirakan akan hilang dalam 2 sampai 5 hari. Diagnosis yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Fraktur tengkorak",
+        "B": "Epidural hemorrhage",
+        "C": "Caput succedaneum",
+        "D": "Cephalhematoma",
+        "E": "Perdarahan subgaleal"
+      },
+      "optionExplanations": {
+        "A": "Fraktur tengkorak memerlukan gambaran khas tulang yang tidak disebutkan. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "B": "Epidural hemorrhage tidak menimbulkan benjolan lunak melewati sutura. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "C": "Caput succedaneum bersifat edema jaringan lunak, melewati sutura, dan hilang dalam 2 sampai 5 hari.",
+        "D": "Cephalhematoma tidak melewati sutura dan hilang dalam 2 sampai 8 minggu. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "Perdarahan subgaleal dapat meluas dan bersifat progresif, bukan edema ringan. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q9",
+      "category": "",
+      "question": "Pada bayi dengan caput succedaneum, tatalaksana yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Pemberian antibiotik profilaksis",
+        "B": "Masase pada benjolan",
+        "C": "Transfusi darah segera",
+        "D": "Observasi dan pemberian ASI adekuat",
+        "E": "Aspirasi cairan benjolan"
+      },
+      "optionExplanations": {
+        "A": "Antibiotik tidak diindikasikan pada caput. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "B": "Masase tidak boleh dilakukan pada benjolan kepala. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "Transfusi tidak diindikasikan pada caput. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "D": "Caput tidak memerlukan pengobatan khusus dan menghilang sendiri.",
+        "E": "Aspirasi tidak dianjurkan pada caput yang bersifat edema. Kondisi ini tidak sesuai dengan data klinis yang diberikan."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q10",
+      "category": "",
+      "question": "Benjolan di atas tulang parietal, batas tegas sesuai tulang, tidak melewati garis sutura, mulai tampak 6 sampai 8 jam setelah lahir, dan membesar pada hari kedua atau ketiga. Diagnosisnya adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Caput succedaneum",
+        "B": "Perdarahan subgaleal",
+        "C": "Skull fracture",
+        "D": "Hematoma subdural",
+        "E": "Cephalhematoma"
+      },
+      "optionExplanations": {
+        "A": "Caput succedaneum melewati sutura dan menghilang dalam 48 sampai 72 jam.",
+        "B": "Perdarahan subgaleal dapat meluas melewati sutura dan bersifat progresif.",
+        "C": "Skull fracture tidak sesuai dengan benjolan lunak yang membesar. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Hematoma subdural tidak menimbulkan benjolan di permukaan kepala.",
+        "E": "Cephalhematoma terbatas di bawah periosteum sehingga tidak melewati sutura."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q11",
+      "category": "",
+      "question": "Pada cephalhematoma, tindakan yang tidak boleh dilakukan adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Masase pada benjolan",
+        "B": "Menjaga kebersihan benjolan",
+        "C": "Pemberian vitamin K",
+        "D": "Observasi resolusi spontan",
+        "E": "Pemberian ASI yang adekuat"
+      },
+      "optionExplanations": {
+        "A": "Masase dapat memperberat perdarahan dan tidak dianjurkan.",
+        "B": "Menjaga kebersihan benjolan dianjurkan. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Vitamin K dianjurkan sebagai pencegahan perdarahan.",
+        "D": "Resolusi spontan adalah prognosis cephalhematoma.",
+        "E": "ASI yang adekuat dianjurkan pada cephalhematoma."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q12",
+      "category": "",
+      "question": "Bayi lahir dengan vakum ekstraksi. Pada hari pertama tampak bengkak di kepala yang meluas ke area orbita dan leher, pergeseran daun telinga ke arah anterior, takikardia, hipotensi, dan kadar Hb yang menurun. Diagnosis yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Perdarahan subaraknoid",
+        "B": "Perdarahan subgaleal",
+        "C": "Cephalhematoma",
+        "D": "Caput succedaneum",
+        "E": "Fraktur depresi tengkorak"
+      },
+      "optionExplanations": {
+        "A": "Perdarahan subaraknoid tidak menyebabkan pergeseran daun telinga. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "B": "Perdarahan subgaleal berada di ruang subaponeurotik yang luas sehingga dapat meluas hingga orbita dan leher.",
+        "C": "Cephalhematoma terbatas di atas tulang parietal dan tidak meluas melewati sutura. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "D": "Caput succedaneum tidak menyebabkan takikardia, hipotensi, dan penurunan Hb. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "E": "Fraktur depresi tidak menimbulkan perluasan benjolan dan penurunan Hb. Pilihan ini tidak sesuai dengan temuan klinis pada kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q13",
+      "category": "",
+      "question": "Pada perdarahan subgaleal, tatalaksana awal yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Penundaan pemeriksaan darah",
+        "B": "Tanpa intervensi sama sekali",
+        "C": "Vitamin K 1 mg IM dosis tunggal",
+        "D": "Masase untuk mengurangi bengkak",
+        "E": "Aspirasi benjolan tanpa pemeriksaan"
+      },
+      "optionExplanations": {
+        "A": "Penundaan pemeriksaan darah berisiko memperlambat deteksi perdarahan.",
+        "B": "Perdarahan subgaleal memerlukan intervensi, bukan observasi saja.",
+        "C": "Vitamin K 1 mg IM diberikan sebagai terapi perdarahan subgaleal.",
+        "D": "Masase tidak boleh dilakukan pada perdarahan subgaleal. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "Aspirasi tanpa pemeriksaan tidak dianjurkan. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q14",
+      "category": "",
+      "question": "Pada bayi dengan perdarahan subgaleal, pemantauan yang dianjurkan adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Pemantauan suhu saja",
+        "B": "Pemeriksaan kadar glukosa saja",
+        "C": "Tanpa pemantauan lingkar kepala",
+        "D": "Lingkar kepala setiap 6 jam",
+        "E": "Lingkar kepala setiap 1 minggu"
+      },
+      "optionExplanations": {
+        "A": "Suhu saja tidak menilai perluasan perdarahan. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "B": "Glukosa saja tidak menilai perluasan perdarahan. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "Pemantauan lingkar kepala diperlukan karena perdarahan dapat progresif.",
+        "D": "Lingkar kepala dipantau setiap 6 jam untuk mendeteksi perluasan perdarahan.",
+        "E": "Pemantauan setiap 1 minggu terlalu jarang untuk perdarahan yang progresif."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q15",
+      "category": "",
+      "question": "Perbedaan utama caput succedaneum dan perdarahan subgaleal adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Caput berisi darah masif, sedangkan subgaleal berisi cairan getah bening",
+        "B": "Caput tidak melewati sutura, sedangkan subgaleal melewati sutura",
+        "C": "Caput menetap hingga 8 minggu, sedangkan subgaleal menghilang dalam 48 sampai 72 jam",
+        "D": "Keduanya tidak menimbulkan perubahan kadar hemoglobin",
+        "E": "Perdarahan subgaleal dapat meluas melewati orbita dan leher, sedangkan caput berisi edema"
+      },
+      "optionExplanations": {
+        "A": "Caput berisi getah bening dengan volume darah minimal, sebaliknya subgaleal bisa masif. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "B": "Caput memang dapat melewati sutura, sedangkan subgaleal tidak melewati sutura, sehingga pernyataan ini terbalik.",
+        "C": "Caput hilang dalam 48 sampai 72 jam, sedangkan subgaleal menetap beberapa minggu. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Perdarahan subgaleal dapat menurunkan kadar hemoglobin. Alternatif ini tidak menjelaskan temuan utama pada kasus. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "E": "Pada subgaleal, ruang subaponeurotik yang luas memungkinkan perluasan hingga orbita dan leher."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q16",
+      "category": "",
+      "question": "Benjolan kepala dengan batas sesuai tulang dan dapat dirasakan fluktuatif beberapa hari setelah lahir, namun tidak melewati garis sutura. Diagnosis yang paling sesuai adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Cephalhematoma",
+        "B": "Perdarahan subgaleal",
+        "C": "Caput succedaneum",
+        "D": "Hidrosefalus",
+        "E": "Ensefalokel"
+      },
+      "optionExplanations": {
+        "A": "Cephalhematoma dibatasi oleh tulang dan tidak melewati sutura.",
+        "B": "Perdarahan subgaleal tidak dibatasi tulang dan dapat melewati sutura.",
+        "C": "Caput tidak memiliki batas tegas sesuai tulang. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Hidrosefalus bukan benjolan yang dibatasi tulang kepala.",
+        "E": "Ensefalokel terdapat herniasi jaringan melalui defek tulang."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q17",
+      "category": "",
+      "question": "Bayi lahir dengan kepala bengkak akibat persalinan vakum. Pemeriksaan menunjukkan depresi tengkorak berbentuk cekungan yang menyerupai lekukan bola pingpong. Tatalaksana yang paling sesuai untuk fraktur depresi kecil dan asimtomatik adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Transfusi tukar",
+        "B": "Konservatif dengan observasi",
+        "C": "Elevasi bedah segera",
+        "D": "Kraniotomi total",
+        "E": "Pungsi lumbal berulang"
+      },
+      "optionExplanations": {
+        "A": "Transfusi tukar tidak diindikasikan pada fraktur depresi kecil. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "B": "Fraktur depresi kecil dan asimtomatik dapat ditatalaksana konservatif.",
+        "C": "Elevasi bedah diindikasikan pada fraktur besar, kominutif, atau disertai defisit neurologis.",
+        "D": "Kraniotomi total tidak diindikasikan pada fraktur depresi kecil. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "E": "Pungsi lumbal tidak disarankan untuk fraktur depresi kecil. Pilihan ini tidak sesuai dengan temuan klinis pada kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q18",
+      "category": "",
+      "question": "Pada fraktur tengkorak neonatus, indikasi elevasi bedah adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Benjolan kepala yang melewati sutura",
+        "B": "Hematoma kepala yang menghilang spontan",
+        "C": "Fraktur besar dan kominutif atau disertai defisit neurologis",
+        "D": "Fraktur linear sederhana tanpa gejala",
+        "E": "Fraktur depresi kecil yang asimtomatik"
+      },
+      "optionExplanations": {
+        "A": "Benjolan yang melewati sutura adalah caput, bukan indikasi bedah. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "B": "Hematoma yang menghilang spontan tidak memerlukan bedah. Pilihan ini tidak memenuhi kriteria pada kasus. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "Fraktur besar, kominutif, atau disertai defisit neurologis merupakan indikasi elevasi bedah.",
+        "D": "Fraktur linear sederhana umumnya cukup observasi. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "Fraktur depresi kecil asimtomatik ditatalaksana konservatif. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q19",
+      "category": "",
+      "question": "Perdarahan intrakranial yang terjadi antara dura mater dan tulang tengkorak, sering berkaitan dengan penggunaan forsep atau vakum, adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Subarakhnoid hemorrhage",
+        "B": "Intraventrikular hemorrhage",
+        "C": "Perdarahan parenkim",
+        "D": "Epidural hemorrhage",
+        "E": "Subdural hemorrhage"
+      },
+      "optionExplanations": {
+        "A": "Subarakhnoid berada di ruang antara arachnoid dan pia mater.",
+        "B": "Intraventrikular berada di dalam ventrikel otak. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "Perdarahan parenkim berada di dalam jaringan otak. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "D": "Epidural hemorrhage berada di antara dura mater dan tulang tengkorak.",
+        "E": "Subdural berada di antara dura dan arachnoid. Kondisi ini tidak sesuai dengan data klinis yang diberikan."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q20",
+      "category": "",
+      "question": "Perdarahan yang terjadi di area antara dura mater dan arachnoid, akibat persalinan traumatik atau persalinan berkepanjangan, adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Epidural hemorrhage",
+        "B": "Subarakhnoid hemorrhage",
+        "C": "Fraktur linear",
+        "D": "Caput succedaneum",
+        "E": "Subdural hemorrhage"
+      },
+      "optionExplanations": {
+        "A": "Epidural berada di antara dura dan tulang tengkorak. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "B": "Subarakhnoid berada di antara arachnoid dan pia mater.",
+        "C": "Fraktur linear adalah lesi tulang, bukan perdarahan. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Caput succedaneum adalah edema jaringan lunak. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Subdural hemorrhage berada di antara dura mater dan arachnoid."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q21",
+      "category": "",
+      "question": "Komplikasi perdarahan intrakranial pada neonatus yang tidak ditangani adekuat meliputi ...",
+      "questionImages": [],
+      "options": {
+        "A": "Hipoksik-iskemik ensefalopati dan gangguan neurologis jangka panjang",
+        "B": "Cephalhematoma yang menetap",
+        "C": "Caput succedaneum yang berulang",
+        "D": "Fraktur linear yang sembuh spontan",
+        "E": "Dermatitis popok berat"
+      },
+      "optionExplanations": {
+        "A": "Perdarahan intrakranial dapat menyebabkan hipoksik-iskemik ensefalopati dan gangguan neurologis jangka panjang.",
+        "B": "Cephalhematoma tidak menyebabkan komplikasi intrakranial. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "C": "Caput succedaneum tidak berulang dan tidak menyebabkan komplikasi intrakranial. Kondisi ini tidak sesuai dengan data klinis yang diberikan. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "D": "Fraktur linear umumnya sembuh spontan tanpa komplikasi berat. Alternatif ini tidak menjelaskan temuan utama pada kasus. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "E": "Dermatitis popok tidak berkaitan dengan perdarahan intrakranial. Pilihan ini tidak memenuhi kriteria pada kasus. Pilihan ini tidak sesuai dengan temuan klinis pada kasus."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q22",
+      "category": "",
+      "question": "Neonatus dengan lesi medula spinalis servikal tinggi akibat trauma persalinan menunjukkan gejala depresi napas berat dan hipotonia. Temuan ini paling mungkin berkaitan dengan ...",
+      "questionImages": [],
+      "options": {
+        "A": "Infeksi saluran kemih berulang",
+        "B": "Mortalitas dini akibat gangguan napas",
+        "C": "Paraplegia flaksid saja",
+        "D": "Atrofi otot kecil",
+        "E": "Sindrom Horner"
+      },
+      "optionExplanations": {
+        "A": "ISK berulang lebih sering pada lesi lebih distal. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "B": "Lesi servikal tinggi menyebabkan depresi napas berat dan berisiko mortalitas dini.",
+        "C": "Paraplegia flaksid adalah gambaran lesi lebih distal. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "D": "Atrofi otot bukan gambaran utama lesi servikal tinggi. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "E": "Sindrom Horner berkaitan dengan lesi pleksus brakialis. Pilihan ini tidak sesuai dengan temuan klinis pada kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q23",
+      "category": "",
+      "question": "Pada neonatus dengan dugaan cedera medula spinalis akibat trauma persalinan, pemeriksaan yang tidak disarankan adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Tatalaksana suportif",
+        "B": "Pemantauan respirasi",
+        "C": "Lumbal pungsi",
+        "D": "Foto rontgen servikal dan torakal",
+        "E": "Stabilisasi awal"
+      },
+      "optionExplanations": {
+        "A": "Tatalaksana suportif dianjurkan. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "B": "Pemantauan respirasi dianjurkan karena risiko depresi napas.",
+        "C": "Lumbal pungsi tidak disarankan pada cedera medula spinalis neonatus.",
+        "D": "Foto rontgen servikal dan torakal dianjurkan pada stabilisasi awal.",
+        "E": "Stabilisasi awal dianjurkan. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q24",
+      "category": "",
+      "question": "Bayi lahir dengan wajah tampak asimetris. Saat menangis, sudut mulut tertarik ke sisi yang sehat, dan lipatan nasolabial di sisi lesi menghilang. Temuan ini paling sesuai dengan ...",
+      "questionImages": [],
+      "options": {
+        "A": "Kelumpuhan total wajah",
+        "B": "Sindrom Horner",
+        "C": "Brachial plexus palsy",
+        "D": "Paralisis sentral nervus fasialis",
+        "E": "Paralisis perifer nervus fasialis"
+      },
+      "optionExplanations": {
+        "A": "Kelumpuhan total wajah tidak sesuai dengan gambaran lipatan nasolabial yang menghilang. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "B": "Sindrom Horner ditandai ptosis dan miosis, bukan kelumpuhan wajah. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "Brachial plexus palsy mengenai lengan, bukan wajah. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "D": "Paralisis sentral pada lesi supranuklear menimbulkan spastik dan lipatan nasolabial tetap ada pada sisi lesi.",
+        "E": "Paralisis perifer melibatkan seluruh hemifacial ipsilateral dengan tonus flaksid. Kondisi ini tidak sesuai dengan data klinis yang diberikan."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q25",
+      "category": "",
+      "question": "Pada paralisis fasialis perifer akibat trauma persalinan, tatalaksana konservatif yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Masase wajah intensif",
+        "B": "Transfusi darah",
+        "C": "Kemoterapi",
+        "D": "Imobilisasi total wajah",
+        "E": "Proteksi kornea dengan artificial tears"
+      },
+      "optionExplanations": {
+        "A": "Masase intensif tidak dianjurkan pada paralisis fasialis. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "B": "Transfusi darah tidak diindikasikan pada paralisis fasialis. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Kemoterapi tidak diindikasikan pada paralisis fasialis. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Imobilisasi total wajah tidak termasuk tatalaksana konservatif. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Proteksi kornea dengan artificial tears mencegah ulkus pada lagophthalmus."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q26",
+      "category": "",
+      "question": "Bayi lahir sungsang dengan lengan terekstensi. Saat diperiksa, lengan kanan tidak bergerak, posisi lengan menyerupai waiter's tip, dan abduksi bahu terbatas. Diagnosis yang paling sesuai adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Erb palsy",
+        "B": "Klumpke palsy",
+        "C": "Fraktur humerus",
+        "D": "Sindrom Horner",
+        "E": "Facial nerve palsy"
+      },
+      "optionExplanations": {
+        "A": "Erb palsy melibatkan akar C5 sampai C6 dan menghasilkan posisi waiter's tip.",
+        "B": "Klumpke palsy melibatkan C8 sampai T1 dan menghasilkan claw hand.",
+        "C": "Fraktur humerus ditandai krepitasi dan refleks Moro menurun, bukan posisi waiter's tip khas.",
+        "D": "Sindrom Horner adalah komplikasi, bukan diagnosis utama lengan tidak bergerak.",
+        "E": "Facial nerve palsy mengenai wajah, bukan lengan. Pilihan ini tidak memenuhi kriteria pada kasus."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q27",
+      "category": "",
+      "question": "Pada neonatus dengan Klumpke palsy, temuan khas yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Takipnea berat",
+        "B": "Claw hand dengan gangguan genggaman",
+        "C": "Posisi waiter's tip",
+        "D": "Paralisis wajah perifer",
+        "E": "Hipotonia batang otak"
+      },
+      "optionExplanations": {
+        "A": "Takipnea berat tidak termasuk gambaran khas Klumpke palsy. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "B": "Klumpke palsy melibatkan C8 sampai T1, sehingga menimbulkan claw hand.",
+        "C": "Posisi waiter's tip khas Erb palsy. Alternatif ini tidak menjelaskan temuan utama pada kasus, sehingga tidak sesuai dengan kasus.",
+        "D": "Paralisis wajah berkaitan dengan nervus fasialis. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "E": "Hipotonia batang otak tidak termasuk gambaran brachial plexus palsy. Pilihan ini tidak sesuai dengan temuan klinis pada kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q28",
+      "category": "",
+      "question": "Neonatus dengan brachial plexus palsy disertai sindrom Horner. Prognosis yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Tidak dapat diprediksi sama sekali",
+        "B": "Sembuh total setelah imobilisasi tiga hari",
+        "C": "Buruk, terutama bila keterlibatan pleksus total",
+        "D": "Baik dan pulih spontan dalam 48 jam",
+        "E": "Baik karena tidak ada gangguan fungsi, pada kondisi lain"
+      },
+      "optionExplanations": {
+        "A": "Prognosis dapat diperkirakan berdasarkan jenis keterlibatan pleksus. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "B": "Imobilisasi tiga hari tidak menyembuhkan pleksus brakialis. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "C": "Prognosis buruk bila terjadi keterlibatan pleksus total atau adanya sindrom Horner.",
+        "D": "Pemulihan spontan dalam 48 jam tidak sesuai dengan keterlibatan pleksus. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "Gangguan fungsi tetap ada pada kasus dengan sindrom Horner. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q29",
+      "category": "",
+      "question": "Bayi dengan fraktur humerus akibat persalinan sulit. Tatalaksana konservatif yang dianjurkan adalah imobilisasi lengan dalam posisi adduksi selama ...",
+      "questionImages": [],
+      "options": {
+        "A": "1 minggu",
+        "B": "6 sampai 8 minggu",
+        "C": "3 bulan",
+        "D": "2 sampai 4 minggu",
+        "E": "1 sampai 2 hari"
+      },
+      "optionExplanations": {
+        "A": "Durasi 1 minggu terlalu singkat untuk pembentukan kalus. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "B": "Durasi 6 sampai 8 minggu melebihi anjuran pada neonatus. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "Durasi 3 bulan melebihi anjuran pada neonatus. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "D": "Imobilisasi adduksi selama 2 sampai 4 minggu dianjurkan pada fraktur humerus neonatus.",
+        "E": "Durasi 1 sampai 2 hari terlalu singkat untuk pembentukan kalus. Kondisi ini tidak sesuai dengan data klinis yang diberikan."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q30",
+      "category": "",
+      "question": "Neonatus dengan fraktur femur akibat trauma persalinan sungsang menunjukkan deformitas paha, tungkai tidak digerakkan, dan nyeri saat gerak pasif. Tatalaksana yang paling sesuai adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Imobilisasi 1 hari",
+        "B": "Operasi segera",
+        "C": "Tanpa imobilisasi",
+        "D": "Pemberian antibiotik sistemik",
+        "E": "Traksi selama sekitar 3 sampai 4 minggu"
+      },
+      "optionExplanations": {
+        "A": "Imobilisasi 1 hari terlalu singkat. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "B": "Operasi segera tidak diindikasikan pada fraktur femur neonatus. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Tanpa imobilisasi tidak sesuai dengan tatalaksana fraktur. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Antibiotik sistemik tidak diindikasikan pada fraktur femur. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Traksi selama 3 sampai 4 minggu hingga terbentuk kalus yang adekuat."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q31",
+      "category": "",
+      "question": "Neonatus dengan cedera hepar akibat trauma persalinan mengalami benjolan dengan perdarahan. Pemeriksaan yang paling utama untuk deteksi dan monitoring perdarahan intrahepatik adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "USG abdomen",
+        "B": "Foto rontgen tulang panjang",
+        "C": "Lumbal pungsi",
+        "D": "Elektrokardiografi",
+        "E": "Ekokardiografi"
+      },
+      "optionExplanations": {
+        "A": "USG abdomen merupakan pemeriksaan utama untuk perdarahan intrahepatik.",
+        "B": "Foto tulang panjang tidak menilai perdarahan hepar.",
+        "C": "Lumbal pungsi tidak menilai cedera hepar. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "EKG tidak menilai cedera hepar. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Ekokardiografi menilai jantung, bukan hepar. Pilihan ini tidak memenuhi kriteria pada kasus."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q32",
+      "category": "",
+      "question": "Neonatus dengan ruptur lien menunjukkan pucat, tanda perdarahan intraabdomen, dan massa di kuadran kiri atas. Pemeriksaan yang dapat membantu adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Biopsi paru",
+        "B": "Paracentesis abdomen dan imaging",
+        "C": "Lumbal pungsi",
+        "D": "Tes tuberkulin",
+        "E": "Pemeriksaan kolesterol"
+      },
+      "optionExplanations": {
+        "A": "Biopsi paru tidak berkaitan dengan ruptur lien. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "B": "Paracentesis dan imaging membantu mendiagnosis hemoperitoneum akibat ruptur lien.",
+        "C": "Lumbal pungsi tidak menilai ruptur lien. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "D": "Tes tuberkulin tidak berkaitan dengan ruptur lien. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "E": "Kolesterol tidak berkaitan dengan diagnosis ruptur lien. Pilihan ini tidak sesuai dengan temuan klinis pada kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q33",
+      "category": "",
+      "question": "Neonatus dengan cedera intraabdomen yang stabil secara hemodinamik. Pendekatan tatalaksana yang paling utama adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Pemberian steroid dosis tinggi",
+        "B": "Pembedahan pada sebagian besar kasus",
+        "C": "Konservatif dengan monitoring ketat",
+        "D": "Laparotomi eksploratif segera",
+        "E": "Nefrektomi total"
+      },
+      "optionExplanations": {
+        "A": "Steroid dosis tinggi tidak termasuk tatalaksana cedera intraabdomen. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "B": "Pembedahan tidak dilakukan pada sebagian besar kasus. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "C": "Pendekatan konservatif menjadi pilihan utama bila pasien stabil dengan monitoring ketat.",
+        "D": "Laparotomi segera tidak diindikasikan pada pasien stabil. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "Nefrektomi total tidak menjadi tatalaksana rutin. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q34",
+      "category": "",
+      "question": "Bayi lahir dengan skor APGAR 5 pada menit ke-5. Kategori asfiksia yang paling sesuai menurut skor tersebut adalah ... ",
+      "questionImages": [
+        "images/packages/persiapan-minites-2i__patologis-neonatus/img-001.png"
+      ],
+      "options": {
+        "A": "Asfiksia berat",
+        "B": "Asfiksia ringan",
+        "C": "Tidak dapat ditentukan",
+        "D": "Asfiksia sedang",
+        "E": "Tidak asfiksia"
+      },
+      "optionExplanations": {
+        "A": "Skor di bawah 3 termasuk asfiksia berat. Pilihan ini tidak memenuhi kriteria pada kasus, sehingga tidak sesuai dengan kasus.",
+        "B": "Skor 7 sampai 9 termasuk kategori ringan. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "Skor dapat ditentukan dari lima komponen penilaian. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "D": "Skor 4 sampai 6 termasuk asfiksia ringan sampai sedang, dalam kategori sedang sesuai materi.",
+        "E": "Skor di atas 7 termasuk tidak asfiksia. Kondisi ini tidak sesuai dengan data klinis yang diberikan."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q35",
+      "category": "",
+      "question": "Pada asfiksia neonatorum, pemeriksaan analisis gas darah arteri umbilikal yang sesuai untuk memastikan asfiksia adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "pH lebih dari 7,35 dan base deficit kurang dari 2",
+        "B": "pH 7,40 dan PaCO2 40",
+        "C": "Kadar glukosa di atas 200 mg/dL",
+        "D": "Kadar natrium di bawah 120 mEq/L",
+        "E": "pH kurang dari 7 dan/atau base deficit minimal 12 mmol/L"
+      },
+      "optionExplanations": {
+        "A": "Nilai pH tersebut tidak menunjukkan asfiksia. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "B": "Nilai pH normal tidak menunjukkan asfiksia. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "C": "Glukosa tidak menjadi kriteria asfiksia. Kondisi ini tidak sesuai dengan data klinis yang diberikan. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "D": "Natrium tidak menjadi kriteria asfiksia. Alternatif ini tidak menjelaskan temuan utama pada kasus. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "E": "Asfiksia ditegakkan bila pH arteri umbilikal kurang dari 7 dan/atau base deficit minimal 12 mmol/L."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q36",
+      "category": "",
+      "question": "Bayi lahir tidak menangis dan tonus ototnya turun. Denyut jantung 90 kali/menit. Langkah awal tatalaksana yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Membersihkan jalan napas dengan kepala bayi direndahkan",
+        "B": "Pemberian cairan intravena langsung",
+        "C": "Pemberian antibiotik profilaksis",
+        "D": "Pemberian fenobarbital",
+        "E": "Operasi caesar darurat"
+      },
+      "optionExplanations": {
+        "A": "Membersihkan jalan napas dengan posisi kepala direndahkan membantu lendir mengalir.",
+        "B": "Cairan intravena belum menjadi langkah awal pada asfiksia. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Antibiotik profilaksis tidak menjadi langkah awal asfiksia. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Fenobarbital tidak diindikasikan sebagai langkah awal. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Operasi caesar tidak merupakan langkah awal tatalaksana di ruang bersalin. Pilihan ini tidak memenuhi kriteria pada kasus."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q37",
+      "category": "",
+      "question": "Setelah 20 detik bayi tidak bernapas meskipun jalan napas sudah dibersihkan. Tindakan berikutnya yang dianjurkan adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Lakukan operasi",
+        "B": "Rangsang refleks pernapasan",
+        "C": "Biarkan bayi tanpa tindakan",
+        "D": "Berikan cairan intravena",
+        "E": "Lakukan ekstubasi"
+      },
+      "optionExplanations": {
+        "A": "Operasi tidak diindikasikan sebagai tindakan rangsangan. Kondisi ini tidak sesuai dengan data klinis yang diberikan, sehingga tidak sesuai dengan kasus.",
+        "B": "Rangsangan refleks dilakukan setelah 20 detik tidak bernapas, misalnya dengan menekan telapak kaki.",
+        "C": "Membiarkan bayi tanpa tindakan tidak sesuai tatalaksana. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "D": "Cairan intravena tidak menjadi tindakan rangsangan pernapasan. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "E": "Ekstubasi tidak diindikasikan pada bayi yang belum bernapas. Pilihan ini tidak sesuai dengan temuan klinis pada kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q38",
+      "category": "",
+      "question": "Neonatus dengan asfiksia berat dapat mengalami komplikasi pada usus berupa ...",
+      "questionImages": [],
+      "options": {
+        "A": "Apendisitis akut",
+        "B": "Kolesistitis",
+        "C": "Enterokolitis nekrotikans",
+        "D": "Pankreatitis akut",
+        "E": "Divertikulitis"
+      },
+      "optionExplanations": {
+        "A": "Apendisitis akut bukan komplikasi asfiksia neonatal. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "B": "Kolesistitis bukan komplikasi asfiksia neonatal. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "C": "Asfiksia dapat menyebabkan enterokolitis nekrotikans pada saluran pencernaan.",
+        "D": "Pankreatitis akut tidak termasuk komplikasi yang disebutkan. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "Divertikulitis bukan komplikasi asfiksia neonatal. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q39",
+      "category": "",
+      "question": "Bayi prematur usia kehamilan 32 minggu mengalami henti napas selama 25 detik tanpa perubahan denyut jantung yang signifikan. Diagnosis yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Asfiksia berat",
+        "B": "Sindrom aspirasi mekonium",
+        "C": "Transient tachypnea",
+        "D": "Apnea of prematurity",
+        "E": "Periodic breathing"
+      },
+      "optionExplanations": {
+        "A": "Asfiksia berat ditandai skor APGAR dan AGD yang rendah, tidak sesuai kasus. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "B": "Sindrom aspirasi mekonium berkaitan dengan cairan ketuban bercampur mekonium. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "TTN ditandai takipnea, bukan henti napas. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "D": "Apnea of prematurity adalah henti napas lebih dari 20 detik pada usia kehamilan di bawah 37 minggu.",
+        "E": "Periodic breathing ditandai henti napas singkat 5 sampai 10 detik. Kondisi ini tidak sesuai dengan data klinis yang diberikan."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q40",
+      "category": "",
+      "question": "Bayi cukup bulan dengan pola napas normal diikuti henti napas singkat 5 sampai 10 detik berulang, tanpa perubahan denyut jantung maupun warna kulit. Kondisi ini paling mungkin ...",
+      "questionImages": [],
+      "options": {
+        "A": "Apnea sentral patologis",
+        "B": "Apnea obstruktif",
+        "C": "Sepsis neonatal",
+        "D": "RDS",
+        "E": "Periodic breathing"
+      },
+      "optionExplanations": {
+        "A": "Apnea sentral patologis memerlukan penanganan dan tidak bersifat fisiologis. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "B": "Apnea obstruktif melibatkan usaha napas yang terhambat. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Sepsis neonatal ditandai tanda infeksi sistemik. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "RDS ditandai takipnea dan sianosis sejak awal. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Periodic breathing ditandai pola napas normal diikuti henti napas singkat tanpa tanda klinis."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q41",
+      "category": "",
+      "question": "Neonatus tampak berusaha bernapas dengan gerakan dada, tetapi tidak terdengar aliran udara karena obstruksi jalan napas atas. Klasifikasi apnea yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Apnea obstruktif",
+        "B": "Apnea sentral",
+        "C": "Apnea campuran",
+        "D": "Periodic breathing",
+        "E": "Apnea of prematurity"
+      },
+      "optionExplanations": {
+        "A": "Apnea obstruktif terjadi bila usaha napas tetap ada tetapi aliran udara terhambat.",
+        "B": "Apnea sentral tidak memiliki usaha napas sama sekali. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Apnea campuran adalah kombinasi sentral dan obstruktif. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Periodic breathing adalah pola napas fisiologis. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Apnea of prematurity tidak dibedakan berdasarkan usaha napas. Pilihan ini tidak memenuhi kriteria pada kasus."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q42",
+      "category": "",
+      "question": "Pada apnea neonatus, terapi farmakologis pilihan yang disebutkan adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Ibuprofen",
+        "B": "Kafein sitrat",
+        "C": "Fenobarbital dosis tinggi",
+        "D": "Diazepam",
+        "E": "Morfin"
+      },
+      "optionExplanations": {
+        "A": "Ibuprofen tidak termasuk terapi apnea neonatus. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "B": "Kafein sitrat sebagai metilxantin merupakan terapi pilihan pada apnea.",
+        "C": "Fenobarbital dosis tinggi dapat menyebabkan apnea dan tidak dianjurkan.",
+        "D": "Diazepam dapat menyebabkan apnea dan tidak dianjurkan. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "E": "Morfin tidak termasuk terapi apnea neonatus. Pilihan ini tidak sesuai dengan temuan klinis pada kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q43",
+      "category": "",
+      "question": "Bayi prematur dengan apnea berulang. Selain stimulasi taktil, terapi non-farmakologis yang dianjurkan adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Pembatasan oksigen total",
+        "B": "Restriksi cairan total",
+        "C": "CPAP dengan tekanan 4 sampai 6 cmH2O",
+        "D": "CPAP dengan tekanan 15 cmH2O",
+        "E": "Intubasi rutin pada sebagian besar kasus"
+      },
+      "optionExplanations": {
+        "A": "Pembatasan oksigen total tidak dianjurkan. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "B": "Restriksi cairan total tidak termasuk terapi apnea. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "C": "CPAP dengan tekanan 4 sampai 6 cmH2O dianjurkan pada apnea berulang.",
+        "D": "Tekanan 15 cmH2O terlalu tinggi untuk CPAP pada apnea berulang. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "Intubasi rutin tidak dianjurkan pada sebagian besar kasus. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q44",
+      "category": "",
+      "question": "Neonatus usia 2 hari dengan takipnea dan demam. Ibu mengalami ketuban pecah dini lebih dari 18 jam dan demam intrapartum. Etiologi onset dini yang paling sering pada kasus ini adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Acinetobacter",
+        "B": "Candida albicans",
+        "C": "Toxoplasma gondii",
+        "D": "Group B Streptococcus",
+        "E": "Pseudomonas aeruginosa"
+      },
+      "optionExplanations": {
+        "A": "Acinetobacter merupakan etiologi onset lambat dari lingkungan. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "B": "Candida merupakan etiologi jamur yang tidak paling sering pada onset dini. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "Toxoplasma gondii merupakan parasit yang ditularkan transplasenta, bukan onset dini tersering.",
+        "D": "Group B Streptococcus merupakan etiologi onset dini melalui transmisi vertikal.",
+        "E": "Pseudomonas merupakan etiologi onset lambat dari lingkungan. Kondisi ini tidak sesuai dengan data klinis yang diberikan."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q45",
+      "category": "",
+      "question": "Bayi berusia 10 hari dengan pneumonia yang muncul setelah perawatan NICU selama dua minggu. Klasifikasi pneumonia yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Pneumonia kongenital",
+        "B": "Pneumonia awitan dini",
+        "C": "Pneumonia intrapartum",
+        "D": "Pneumonia aspirasi mekonium",
+        "E": "Pneumonia awitan lanjut"
+      },
+      "optionExplanations": {
+        "A": "Pneumonia kongenital terjadi intrauterin dan muncul sejak lahir. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "B": "Pneumonia awitan dini terjadi pada 48 jam sampai 7 hari. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Pneumonia intrapartum berkaitan dengan aspirasi saat persalinan. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Aspirasi mekonium berkaitan dengan cairan ketuban bercampur mekonium.",
+        "E": "Pneumonia awitan lanjut terjadi pada usia 7 sampai 28 hari dan sering nosokomial."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q46",
+      "category": "",
+      "question": "Pada pneumonia neonatus, pemeriksaan penunjang yang disebut sebagai gold standard untuk identifikasi kuman penyebab adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Kultur darah",
+        "B": "Foto rontgen dada",
+        "C": "USG paru",
+        "D": "Ekokardiografi",
+        "E": "EEG"
+      },
+      "optionExplanations": {
+        "A": "Kultur darah merupakan gold standard untuk identifikasi kuman penyebab infeksi.",
+        "B": "Foto rontgen dada menilai gambaran paru, bukan kuman penyebab. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "USG paru menilai gambaran paru, bukan kuman penyebab. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Ekokardiografi menilai jantung dan tekanan pulmonal. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "EEG menilai aktivitas listrik otak. Pilihan ini tidak memenuhi kriteria pada kasus."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q47",
+      "category": "",
+      "question": "Neonatus usia 3 hari dengan dugaan pneumonia onset dini. Antibiotik empiris lini pertama yang disebutkan adalah ampisilin ditambah gentamisin. Dosis ampisilin untuk usia 0 sampai 7 hari adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "200 mg/kgBB setiap 12 jam",
+        "B": "50 mg/kgBB setiap 12 jam",
+        "C": "50 mg/kgBB setiap 8 jam",
+        "D": "100 mg/kgBB setiap 6 jam",
+        "E": "10 mg/kgBB setiap 24 jam"
+      },
+      "optionExplanations": {
+        "A": "Dosis 200 mg/kgBB setiap 12 jam terlalu tinggi. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "B": "Usia 0 sampai 7 hari: ampisilin 50 mg/kgBB setiap 12 jam.",
+        "C": "Interval 8 jam digunakan untuk usia di atas 7 hari.",
+        "D": "Dosis 100 mg/kgBB setiap 6 jam tidak sesuai dengan anjuran.",
+        "E": "Dosis 10 mg/kgBB setiap 24 jam terlalu rendah. Pilihan ini tidak sesuai dengan temuan klinis pada kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q48",
+      "category": "",
+      "question": "Pada neonatus dengan dugaan infeksi nosokomial, sefalosporin generasi ketiga yang dipilih adalah cefotaxim. Dosis cefotaxim pada usia 7 hari atau kurang adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "200 mg/kgBB per hari dibagi tiap 8 jam",
+        "B": "25 mg/kgBB per hari dibagi tiap 24 jam",
+        "C": "100 mg/kgBB per hari dibagi tiap 12 jam",
+        "D": "150 mg/kgBB per hari dibagi tiap 12 jam",
+        "E": "50 mg/kgBB per hari dibagi tiap 6 jam"
+      },
+      "optionExplanations": {
+        "A": "Dosis 200 mg/kgBB per hari terlalu tinggi. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "B": "Dosis 25 mg/kgBB per hari terlalu rendah. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "C": "Usia 7 hari atau kurang: 100 mg/kgBB per hari dibagi tiap 12 jam.",
+        "D": "150 mg/kgBB per hari berlaku untuk usia di atas 7 hari. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "Interval 6 jam tidak sesuai dengan sediaan yang dianjurkan."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q49",
+      "category": "",
+      "question": "Pada pneumonia neonatus dengan antibiotik yang sesuai, durasi terapi antibiotik yang dianjurkan adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Enam bulan, tanpa temuan khas",
+        "B": "Hanya selama perawatan di ruang bersalin",
+        "C": "Selama 3 hari tanpa evaluasi",
+        "D": "10 sampai 21 hari, disesuaikan respons klinis dan kultur",
+        "E": "1 sampai 2 hari"
+      },
+      "optionExplanations": {
+        "A": "Enam bulan tidak sesuai durasi antibiotik pneumonia neonatus. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "B": "Terapi tidak dibatasi pada ruang bersalin. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "Durasi 3 hari tanpa evaluasi tidak sesuai dengan anjuran. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "D": "Antibiotik diberikan 10 sampai 21 hari sesuai respons klinis dan hasil kultur.",
+        "E": "Durasi 1 sampai 2 hari terlalu singkat untuk pneumonia neonatus. Kondisi ini tidak sesuai dengan data klinis yang diberikan."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q50",
+      "category": "",
+      "question": "Bayi cukup bulan lahir dari ibu dengan ketuban berwarna hijau kental dan kuku panjang. Bayi tampak takipnea, retraksi, grunting, dan dada hiperinflasi. Diagnosis yang paling mungkin adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Respiratory distress syndrome",
+        "B": "Transient tachypnea of the newborn",
+        "C": "Pneumonia onset dini",
+        "D": "Apnea of prematurity",
+        "E": "Sindrom aspirasi mekonium"
+      },
+      "optionExplanations": {
+        "A": "RDS terjadi pada bayi prematur dengan kekurangan surfaktan, bukan bayi cukup bulan dengan ketuban hijau.",
+        "B": "TTN ringan dan sementara, tidak disertai ketuban hijau kental. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Pneumonia onset dini tidak ditandai ketuban hijau sebagai temuan utama. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Apnea of prematurity terjadi pada bayi prematur dengan henti napas. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Ketuban hijau kental, tanda bayi lebih bulan, dan dada hiperinflasi mengarah ke sindrom aspirasi mekonium."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q51",
+      "category": "",
+      "question": "Foto rontgen dada pada sindrom aspirasi mekonium paling khas menunjukkan ... ",
+      "questionImages": [
+        "images/packages/persiapan-minites-2i__patologis-neonatus/img-002.png"
+      ],
+      "options": {
+        "A": "Infiltrat paru kasar dan tidak merata dengan area atelektasis dan hiperinflasi",
+        "B": "Ground-glass appearance pada kedua lapang paru",
+        "C": "Gambaran jantung membesar berat",
+        "D": "Gambaran paru yang sepenuhnya normal",
+        "E": "Gelembung gas di saluran cerna saja"
+      },
+      "optionExplanations": {
+        "A": "Patchy infiltrates dan area atelektasis berdampingan hiperinflasi merupakan gambaran khas aspirasi mekonium.",
+        "B": "Ground-glass appearance adalah gambaran RDS, bukan aspirasi mekonium. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Pembesaran jantung berat tidak menjadi gambaran khas aspirasi mekonium. Kondisi ini tidak sesuai dengan data klinis yang diberikan. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "D": "Gambaran paru normal tidak sesuai dengan distres napas. Alternatif ini tidak menjelaskan temuan utama pada kasus. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "E": "Gelembung gas saluran cerna tidak menggambarkan kelainan paru. Pilihan ini tidak memenuhi kriteria pada kasus. Pilihan ini tidak sesuai dengan temuan klinis pada kasus."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q52",
+      "category": "",
+      "question": "Pada gambar foto dada neonatus berikut, temuan yang paling sesuai dengan sindrom aspirasi mekonium adalah ... ",
+      "questionImages": [
+        "images/packages/persiapan-minites-2i__patologis-neonatus/img-003.png"
+      ],
+      "options": {
+        "A": "Gambaran udara bebas subdiafragma saja",
+        "B": "Infiltrat paru kasar dengan hiperinflasi dan atelektasis berdampingan",
+        "C": "Gambaran ground-glass pada kedua lapang paru",
+        "D": "Gambaran cairan di fisura minor",
+        "E": "Gambaran paru jernih tanpa infiltrat"
+      },
+      "optionExplanations": {
+        "A": "Udara bebas subdiafragma tidak menjadi gambaran utama aspirasi mekonium. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "B": "Gambaran infiltrat kasar dan hiperinflasi berdampingan atelektasis khas aspirasi mekonium.",
+        "C": "Ground-glass merupakan gambaran RDS pada bayi prematur. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "D": "Cairan di fisura minor merupakan gambaran TTN. Pilihan ini tidak memenuhi kriteria pada kasus. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "Paru jernih tidak sesuai dengan distres napas. Pilihan ini tidak sesuai dengan temuan klinis pada kasus. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q53",
+      "category": "",
+      "question": "Sindrom aspirasi mekonium pada bayi cukup bulan dengan distres napas. Tatalaksana yang paling sesuai mencakup ...",
+      "questionImages": [],
+      "options": {
+        "A": "Pemberian ASI dihentikan selama seminggu",
+        "B": "Tanpa tindakan suportif",
+        "C": "Oksigenasi, suction jalan napas, dan antibiotik bila perlu",
+        "D": "Pemberian tokolitik, tanpa temuan khas",
+        "E": "Pengikatan tali pusat ulang"
+      },
+      "optionExplanations": {
+        "A": "Penghentian ASI tidak termasuk tatalaksana. Alternatif ini tidak menjelaskan temuan utama pada kasus. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "B": "Tatalaksana suportif diperlukan pada aspirasi mekonium. Pilihan ini tidak memenuhi kriteria pada kasus. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "Oksigenasi, pembersihan jalan napas, dan antibiotik merupakan tatalaksana aspirasi mekonium.",
+        "D": "Tokolitik tidak termasuk tatalaksana aspirasi mekonium. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "Pengikatan tali pusat ulang tidak termasuk tatalaksana. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q54",
+      "category": "",
+      "question": "Bayi prematur usia 27 minggu lahir dengan takipnea sejak lahir, grunting, dan sianosis. Diagnosis yang paling sesuai adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Sindrom aspirasi mekonium",
+        "B": "Apnea of prematurity",
+        "C": "Pneumotoraks spontan",
+        "D": "Respiratory distress syndrome",
+        "E": "Transient tachypnea of the newborn"
+      },
+      "optionExplanations": {
+        "A": "Sindrom aspirasi mekonium berkaitan dengan cairan ketuban bercampur mekonium. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "B": "Apnea of prematurity ditandai henti napas, bukan takipnea sejak awal. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "Pneumotoraks spontan tidak menjadi diagnosis utama pada kasus ini. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "D": "RDS terjadi pada bayi prematur kurang dari 28 minggu dengan kekurangan surfaktan dan muncul segera setelah lahir.",
+        "E": "TTN terjadi pada bayi aterm atau late term, bukan prematur ekstrem. Kondisi ini tidak sesuai dengan data klinis yang diberikan."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q55",
+      "category": "",
+      "question": "Pada RDS, terapi farmakologis utama yang dianjurkan dengan dosis 4 mL/kgBB adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Kortikosteroid sistemik",
+        "B": "Antibiotik spektrum sempit",
+        "C": "Diuretik",
+        "D": "Bronkodilator",
+        "E": "Surfaktan"
+      },
+      "optionExplanations": {
+        "A": "Kortikosteroid sistemik tidak menjadi terapi utama RDS neonatal.",
+        "B": "Antibiotik spektrum sempit tidak sesuai dengan anjuran spektrum luas.",
+        "C": "Diuretik tidak menjadi terapi utama RDS. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Bronkodilator tidak menjadi terapi utama RDS. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Surfaktan 4 mL/kgBB per dosis terutama pada 6 jam pertama kehidupan."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q56",
+      "category": "",
+      "question": "Wanita dengan risiko persalinan preterm mendapat intervensi prenatal untuk mempercepat maturasi paru janin dan mengurangi risiko RDS. Obat yang dimaksud adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Kortikosteroid prenatal, misalnya betametason",
+        "B": "Magnesium sulfat tanpa indikasi",
+        "C": "Oksitosin",
+        "D": "Tokolitik jangka panjang",
+        "E": "Antiemetik, pada kondisi lain"
+      },
+      "optionExplanations": {
+        "A": "Kortikosteroid prenatal, misalnya betametason, mempercepat maturasi paru dan menurunkan kejadian RDS.",
+        "B": "Magnesium sulfat bukan indikasi untuk maturasi paru pada kasus ini. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Oksitosin merangsang kontraksi, bukan maturasi paru. Kondisi ini tidak sesuai dengan data klinis yang diberikan. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "D": "Tokolitik jangka panjang tidak dianjurkan untuk maturasi paru. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Antiemetik tidak berkaitan dengan maturasi paru. Pilihan ini tidak memenuhi kriteria pada kasus. Pilihan ini tidak sesuai dengan temuan klinis pada kasus."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q57",
+      "category": "",
+      "question": "Foto rontgen dada pada bayi dengan RDS, khas menunjukkan ... ",
+      "questionImages": [
+        "images/packages/persiapan-minites-2i__patologis-neonatus/img-004.png"
+      ],
+      "options": {
+        "A": "Gambaran paru normal",
+        "B": "Ground-glass appearance dan air bronchogram",
+        "C": "Hiperinflasi dengan perihilar streaking",
+        "D": "Infiltrat kasar dengan area atelektasis",
+        "E": "Cairan pada fisura minor"
+      },
+      "optionExplanations": {
+        "A": "Gambaran paru normal tidak sesuai dengan RDS. Kondisi ini tidak sesuai dengan data klinis yang diberikan. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "B": "Ground-glass appearance pada kedua lapang paru dan air bronchogram merupakan gambaran khas RDS.",
+        "C": "Hiperinflasi dan perihilar streaking merupakan gambaran TTN. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "D": "Infiltrat kasar dengan atelektasis merupakan gambaran aspirasi mekonium. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "E": "Cairan pada fisura minor merupakan gambaran TTN. Pilihan ini tidak sesuai dengan temuan klinis pada kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q58",
+      "category": "",
+      "question": "Pada gambar foto dada berikut, bayi dengan gangguan napas menunjukkan temuan yang paling sesuai dengan RDS, yaitu ... ",
+      "questionImages": [
+        "images/packages/persiapan-minites-2i__patologis-neonatus/img-005.png"
+      ],
+      "options": {
+        "A": "Infiltrat kasar tidak merata",
+        "B": "Pneumotoraks kanan",
+        "C": "Ground-glass appearance pada kedua lapang paru",
+        "D": "Hiperinflasi dengan diafragma mendatar saja",
+        "E": "Cairan pada fisura minor"
+      },
+      "optionExplanations": {
+        "A": "Infiltrat tidak merata merupakan gambaran aspirasi mekonium. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "B": "Pneumotoraks kanan bukan gambaran khas RDS. Pilihan ini tidak memenuhi kriteria pada kasus. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "Ground-glass appearance pada kedua lapang paru merupakan gambaran khas RDS.",
+        "D": "Diafragma mendatar dengan hiperinflasi merupakan gambaran aspirasi mekonium atau TTN.",
+        "E": "Cairan pada fisura minor merupakan gambaran TTN. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q59",
+      "category": "",
+      "question": "Bayi aterm lahir melalui seksio sesarea. Dalam dua jam pertama tampak takipnea lebih dari 60 kali/menit dan grunting ringan. Diagnosis yang paling mungkin adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Pneumonia onset dini",
+        "B": "Sindrom aspirasi mekonium",
+        "C": "Atresia koana",
+        "D": "Transient tachypnea of the newborn",
+        "E": "Respiratory distress syndrome"
+      },
+      "optionExplanations": {
+        "A": "Pneumonia onset dini memerlukan riwayat infeksi maternal yang tidak disebut. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "B": "Aspirasi mekonium memerlukan cairan ketuban bercampur mekonium. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "Atresia koana tidak menimbulkan takipnea dengan grunting. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus, sehingga tidak sesuai dengan kasus.",
+        "D": "TTN terjadi pada bayi aterm atau late term, dengan keterlambatan reabsorpsi cairan paru, terutama setelah SC.",
+        "E": "RDS terjadi pada bayi prematur dengan kekurangan surfaktan. Kondisi ini tidak sesuai dengan data klinis yang diberikan."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q60",
+      "category": "",
+      "question": "Pada foto dada neonatus dengan dugaan TTN, temuan yang paling khas adalah ... ",
+      "questionImages": [
+        "images/packages/persiapan-minites-2i__patologis-neonatus/img-006.png"
+      ],
+      "options": {
+        "A": "Ground-glass appearance pada kedua lapang paru",
+        "B": "Infiltrat paru kasar dengan atelektasis",
+        "C": "Gelembung gas di saluran cerna",
+        "D": "Gambaran jantung dan paru normal",
+        "E": "Hiperekspansi paru dengan perihilar streaking"
+      },
+      "optionExplanations": {
+        "A": "Ground-glass appearance merupakan gambaran RDS. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "B": "Infiltrat kasar dengan atelektasis merupakan gambaran aspirasi mekonium.",
+        "C": "Gelembung gas saluran cerna tidak menunjukkan TTN. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Gambaran normal tidak sesuai dengan takipnea TTN. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Hiperekspansi paru dengan perihilar streaking merupakan gambaran khas TTN."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q61",
+      "category": "",
+      "question": "Pada gambar foto dada bayi dengan TTN, bagian yang ditandai lingkaran menunjukkan ... ",
+      "questionImages": [
+        "images/packages/persiapan-minites-2i__patologis-neonatus/img-007.png"
+      ],
+      "options": {
+        "A": "Hiperekspansi paru dan perihilar streaking",
+        "B": "Ground-glass appearance pada kedua lapang paru",
+        "C": "Infiltrat kasar tidak merata",
+        "D": "Pneumotoraks kanan",
+        "E": "Atelektasis lobus bawah kanan"
+      },
+      "optionExplanations": {
+        "A": "Lingkaran pada gambar menunjukkan hiperekspansi paru dan perihilar streaking yang khas TTN.",
+        "B": "Ground-glass merupakan gambaran RDS. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Infiltrat kasar tidak merata merupakan gambaran aspirasi mekonium. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Pneumotoraks kanan bukan temuan khas TTN. Alternatif ini tidak menjelaskan temuan utama pada kasus. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "E": "Atelektasis lobus bawah kanan bukan temuan khas TTN. Pilihan ini tidak memenuhi kriteria pada kasus."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q62",
+      "category": "",
+      "question": "Pada TTN, pemeriksaan USG paru yang khas menunjukkan ...",
+      "questionImages": [],
+      "options": {
+        "A": "Massa mediastinum",
+        "B": "Double lung point dan comet tail artefact di lapang paru bawah",
+        "C": "Konsolidasi lobus atas",
+        "D": "Gambaran udara bebas",
+        "E": "Efusi pleura masif"
+      },
+      "optionExplanations": {
+        "A": "Massa mediastinum tidak menjadi temuan TTN. Kondisi ini tidak sesuai dengan data klinis yang diberikan. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "B": "Double lung point dan comet tail artefact pada lapang paru bawah merupakan temuan USG paru pada TTN.",
+        "C": "Konsolidasi lobus atas tidak menjadi temuan khas TTN. Alternatif ini tidak menjelaskan temuan utama pada kasus. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "D": "Udara bebas tidak menjadi temuan TTN. Pilihan ini tidak memenuhi kriteria pada kasus. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "Efusi pleura masif tidak menjadi temuan khas TTN. Pilihan ini tidak sesuai dengan temuan klinis pada kasus. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q63",
+      "category": "",
+      "question": "Neonatus dengan TTN memiliki RR 75 kali/menit dan SpO2 91%. Tatalaksana nutrisi yang paling sesuai adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Nutrisi parenteral total",
+        "B": "Pemberian susu formula tanpa batas",
+        "C": "Minum melalui pipa nasogastrik",
+        "D": "Puasa total",
+        "E": "Minum langsung dengan dot"
+      },
+      "optionExplanations": {
+        "A": "Nutrisi parenteral total tidak diperlukan pada TTN ringan. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "B": "Pemberian susu tanpa batas tidak sesuai tatalaksana. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "C": "RR 60 sampai 80 kali/menit diberikan minum melalui pipa nasogastrik.",
+        "D": "Puasa total dianjurkan bila RR lebih dari 60 kali/menit, bukan 60 sampai 80. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "Minum langsung dengan dot tidak sesuai dengan RR 60 sampai 80. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q64",
+      "category": "",
+      "question": "Pada TTN, target saturasi oksigen yang dianjurkan dan indikasi terapi oksigen adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Oksigen tidak diindikasikan sama sekali",
+        "B": "Target 80 sampai 85%",
+        "C": "Indikasi SpO2 di atas 95%",
+        "D": "Indikasi SpO2 kurang dari 90 sampai 92%, target 90 sampai 95%",
+        "E": "Indikasi SpO2 di atas 98%, target 100%"
+      },
+      "optionExplanations": {
+        "A": "Oksigen diindikasikan pada TTN dengan hipoksemia. Pilihan ini tidak memenuhi kriteria pada kasus. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "B": "Target 80 sampai 85% terlalu rendah untuk TTN. Pilihan ini tidak sesuai dengan temuan klinis pada kasus. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Indikasi SpO2 di atas 95% tidak sesuai tatalaksana TTN. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "D": "Terapi oksigen diindikasikan bila SpO2 kurang dari 90 sampai 92%, dengan target 90 sampai 95%.",
+        "E": "Indikasi SpO2 di atas 98% tidak sesuai dengan tatalaksana TTN. Kondisi ini tidak sesuai dengan data klinis yang diberikan."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q65",
+      "category": "",
+      "question": "Sepsis neonatus menurut AAP didefinisikan sebagai sindrom klinis dengan bakteremia yang dibuktikan dengan isolasi bakteri patogen dari kultur darah pada usia kehidupan ...",
+      "questionImages": [],
+      "options": {
+        "A": "Kurang dari atau sama dengan 7 hari",
+        "B": "Kurang dari atau sama dengan 90 hari",
+        "C": "Kurang dari atau sama dengan 1 tahun",
+        "D": "Kurang dari atau sama dengan 14 hari",
+        "E": "Kurang dari atau sama dengan 28 hari"
+      },
+      "optionExplanations": {
+        "A": "Batas 7 hari dipakai sebagian konsensus untuk onset, bukan batas usia definisi AAP.",
+        "B": "Batas 90 hari tidak sesuai dengan definisi neonatal. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Batas 1 tahun tidak sesuai dengan definisi neonatal. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Batas 14 hari tidak sesuai dengan definisi AAP. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Sepsis neonatal menurut AAP mencakup bakteremia pada usia kehidupan hingga 28 hari."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q66",
+      "category": "",
+      "question": "Bayi berusia 60 jam dengan tanda infeksi dan kultur darah positif. Berdasarkan klasifikasi waktu onset, kasus ini termasuk ...",
+      "questionImages": [],
+      "options": {
+        "A": "Early-onset sepsis",
+        "B": "Late-onset sepsis",
+        "C": "Sepsis kongenital",
+        "D": "Sepsis nosokomial lanjut",
+        "E": "Sepsis viral"
+      },
+      "optionExplanations": {
+        "A": "Early-onset sepsis terjadi sampai 72 jam setelah kelahiran.",
+        "B": "Late-onset sepsis terjadi setelah 72 jam. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Sepsis kongenital tidak disebutkan sebagai klasifikasi onset.",
+        "D": "Sepsis nosokomial lanjut tidak sesuai dengan usia 60 jam.",
+        "E": "Sepsis viral tidak sesuai dengan klasifikasi onset. Pilihan ini tidak memenuhi kriteria pada kasus."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q67",
+      "category": "",
+      "question": "Pada neonatus prematur dengan sepsis onset lambat, patogen yang paling sering ditemukan adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Herpes simplex virus",
+        "B": "Coagulase-negative staphylococci",
+        "C": "Group B streptococcus",
+        "D": "Listeria monocytogenes",
+        "E": "Toxoplasma gondii"
+      },
+      "optionExplanations": {
+        "A": "HSV merupakan virus yang tidak paling sering pada LOS prematur. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "B": "Coagulase-negative staphylococci merupakan patogen paling sering pada LOS neonatus prematur.",
+        "C": "Group B streptococcus lebih sering pada EOS. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "D": "Listeria monocytogenes termasuk patogen onset dini. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "E": "Toxoplasma gondii merupakan parasit transplasenta. Pilihan ini tidak sesuai dengan temuan klinis pada kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q68",
+      "category": "",
+      "question": "Faktor risiko yang meningkatkan kejadian sepsis pada neonatus prematur adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Berat lahir normal",
+        "B": "Lingkungan rumah bebas kuman",
+        "C": "Penggunaan kateter intravaskular dan invasive device",
+        "D": "Persalinan spontan pervaginam pada aterm",
+        "E": "Pemberian ASI eksklusif"
+      },
+      "optionExplanations": {
+        "A": "Berat lahir normal tidak meningkatkan risiko sepsis. Alternatif ini tidak menjelaskan temuan utama pada kasus. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "B": "Lingkungan bebas kuman bukan faktor risiko. Pilihan ini tidak memenuhi kriteria pada kasus. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "Invasive device seperti kateter intravaskular meningkatkan risiko sepsis pada prematur.",
+        "D": "Persalinan spontan pada aterm bukan faktor risiko utama pada prematur. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "ASI eksklusif bersifat protektif, bukan faktor risiko. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q69",
+      "category": "",
+      "question": "Neonatus aterm dengan demam dan kecurigaan sepsis. Suhu inti 38,7 derajat Celsius. Pada neonatus cukup bulan, instabilitas suhu yang lebih sering adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Hipotermia berat",
+        "B": "Suhu normal sepanjang sepsis",
+        "C": "Hipotermia pada sebagian besar kasus",
+        "D": "Demam",
+        "E": "Hipotermia"
+      },
+      "optionExplanations": {
+        "A": "Hipotermia berat tidak lebih sering pada neonatus cukup bulan dengan sepsis.",
+        "B": "Suhu normal sepanjang sepsis tidak sesuai dengan suhu 38,7 derajat.",
+        "C": "Hipotermia pada sebagian besar kasus tidak sesuai dengan temuan neonatus cukup bulan.",
+        "D": "Pada neonatus cukup bulan, sepsis lebih cenderung menimbulkan demam.",
+        "E": "Hipotermia lebih sering pada neonatus prematur. Kondisi ini tidak sesuai dengan data klinis yang diberikan."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q70",
+      "category": "",
+      "question": "Neonatus prematur 30 minggu dengan kecurigaan sepsis. Temuan suhu yang paling mungkin adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Demam lebih dari 38,5 derajat Celsius",
+        "B": "Suhu normal 36,5 derajat Celsius",
+        "C": "Hipertermia pada aksila 37,5 derajat Celsius",
+        "D": "Suhu tinggi 40 derajat Celsius",
+        "E": "Hipotermia kurang dari 36 derajat Celsius"
+      },
+      "optionExplanations": {
+        "A": "Demam lebih dari 38,5 derajat lebih khas pada neonatus cukup bulan. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "B": "Suhu 36,5 derajat termasuk normal, bukan temuan sepsis yang khas. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Hipertermia aksila 37,5 derajat belum memenuhi kriteria pada aksila di atas 37,9. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Suhu 40 derajat tidak sesuai dengan kasus prematur yang lebih sering hipotermia. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Pada neonatus prematur, hipotermia lebih sering dan dapat berupa suhu kurang dari 36 derajat Celsius."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q71",
+      "category": "",
+      "question": "Bayi dengan dugaan infeksi group B streptococcus menunjukkan gejala klasik berupa ...",
+      "questionImages": [],
+      "options": {
+        "A": "Apnea",
+        "B": "Ruam kulit vesikular",
+        "C": "Ikterus berat sejak lahir",
+        "D": "Kejang tonik",
+        "E": "Dermatitis popok"
+      },
+      "optionExplanations": {
+        "A": "Apnea merupakan gejala klasik infeksi GBS.",
+        "B": "Ruam vesikular merupakan gejala herpes, bukan GBS.",
+        "C": "Ikterus berat tidak menjadi gejala klasik GBS.",
+        "D": "Kejang tonik lebih mengarah ke meningitis.",
+        "E": "Dermatitis popok tidak menjadi gejala klasik GBS."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q72",
+      "category": "",
+      "question": "Neonatus dengan takikardia yang tidak dapat dijelaskan lebih dari 30 menit hingga 4 jam setelah lahir, tanpa stimulus eksternal dan tanpa obat yang memicu. Temuan ini paling mengarah ke ...",
+      "questionImages": [],
+      "options": {
+        "A": "Kejang demam",
+        "B": "Sepsis",
+        "C": "Hipoglikemia",
+        "D": "Hipotermia fisiologis",
+        "E": "Asfiksia ringan"
+      },
+      "optionExplanations": {
+        "A": "Kejang demam tidak terjadi pada neonatus dengan gejala ini. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "B": "Takikardia tanpa stimulus eksternal yang tidak dapat dijelaskan dapat mengarah ke sepsis.",
+        "C": "Hipoglikemia belum tentu memberi takikardia tanpa penyebab lain. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "D": "Hipotermia fisiologis tidak menyebabkan takikardia tanpa penyebab.",
+        "E": "Asfiksia ringan belum tentu tampak sebagai takikardia persisten. Pilihan ini tidak sesuai dengan temuan klinis pada kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q73",
+      "category": "",
+      "question": "Neonatus dengan kejang dan fontanel menonjol. Kecurigaan diagnosis yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Anemia fisiologis",
+        "B": "Caput succedaneum",
+        "C": "Meningitis neonatus",
+        "D": "Hipoglikemia ringan",
+        "E": "Hiperbilirubinemia fisiologis"
+      },
+      "optionExplanations": {
+        "A": "Anemia fisiologis tidak menyebabkan kejang. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "B": "Caput succedaneum tidak menyebabkan kejang. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "C": "Kejang pada sepsis harus dicurigai sebagai meningitis neonatus.",
+        "D": "Hipoglikemia ringan belum tentu menyebabkan kejang. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "Hiperbilirubinemia fisiologis tidak menyebabkan kejang."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q74",
+      "category": "",
+      "question": "Neonatus dengan tanda syok sepsis. Temuan klinis yang paling sesuai adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Takipnea ringan saja, dengan gambaran berbeda",
+        "B": "Urin normal dan tekanan darah tinggi",
+        "C": "Peningkatan berat badan",
+        "D": "Akral dingin, akrosianosis, pucat, dan oligouria",
+        "E": "Akral hangat dan nadi kuat"
+      },
+      "optionExplanations": {
+        "A": "Takipnea ringan saja tidak cukup menunjukkan syok. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "B": "Urin normal dan tekanan darah tinggi tidak sesuai dengan syok. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "Peningkatan berat badan tidak termasuk tanda syok. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "D": "Akral dingin, akrosianosis, pucat, dan oligouria merupakan tanda syok sepsis.",
+        "E": "Akral hangat dan nadi kuat tidak sesuai dengan syok. Kondisi ini tidak sesuai dengan data klinis yang diberikan."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q75",
+      "category": "",
+      "question": "Pungsi lumbal pada neonatus dengan kecurigaan sepsis dilakukan terutama bila ...",
+      "questionImages": [],
+      "options": {
+        "A": "Bayi tampak sehat tanpa tanda infeksi",
+        "B": "Ibu tidak memiliki riwayat infeksi, pada kasus berbeda",
+        "C": "Bayi berusia lebih dari 28 hari",
+        "D": "Hasil laboratorium normal",
+        "E": "Tampak sakit berat atau terdapat tanda neurologis, serta wajib bila kultur darah positif"
+      },
+      "optionExplanations": {
+        "A": "Bayi sehat tanpa tanda infeksi tidak menjadi indikasi pungsi lumbal. Pilihan ini tidak sesuai dengan temuan klinis pada kasus. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "B": "Riwayat ibu tidak menentukan indikasi pungsi lumbal. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "C": "Usia lebih dari 28 hari berada di luar definisi neonatus. Kondisi ini tidak sesuai dengan data klinis yang diberikan. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "D": "Hasil laboratorium normal tidak menyingkirkan indikasi pada kultur positif. Alternatif ini tidak menjelaskan temuan utama pada kasus. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "E": "Pungsi lumbal dilakukan bila sakit berat, tanda neurologis, atau wajib bila kultur darah positif."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q76",
+      "category": "",
+      "question": "Pada pemeriksaan cairan serebrospinal neonatus, kriteria yang mendukung meningitis adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "WBC CSF lebih dari 15 per µL dengan protein meningkat dan glukosa menurun",
+        "B": "WBC CSF kurang dari 5 per µL dengan glukosa meningkat",
+        "C": "Protein normal dengan glukosa meningkat",
+        "D": "Tidak ada sel dengan protein normal",
+        "E": "Glukosa normal dan WBC nol"
+      },
+      "optionExplanations": {
+        "A": "WBC CSF lebih dari 15 per µL, protein meningkat, dan glukosa menurun mendukung meningitis.",
+        "B": "WBC kurang dari 5 per µL tidak mendukung meningitis. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Glukosa meningkat tidak mendukung meningitis. Kondisi ini tidak sesuai dengan data klinis yang diberikan. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "D": "Tidak ada sel dengan protein normal tidak mendukung meningitis. Alternatif ini tidak menjelaskan temuan utama pada kasus, sehingga tidak sesuai dengan kasus.",
+        "E": "Glukosa normal dan WBC nol tidak mendukung meningitis. Pilihan ini tidak memenuhi kriteria pada kasus. Pilihan ini tidak sesuai dengan temuan klinis pada kasus."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q77",
+      "category": "",
+      "question": "Neonatus prematur dengan kultur darah positif Coagulase-negative staphylococci satu kali. Langkah yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Memberikan transfusi tukar",
+        "B": "Mengulang kultur darah satu kali lagi",
+        "C": "Langsung memastikan sepsis tanpa pemeriksaan ulang",
+        "D": "Menghentikan semua antibiotik",
+        "E": "Melakukan operasi"
+      },
+      "optionExplanations": {
+        "A": "Transfusi tukar tidak diindikasikan pada kasus ini. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "B": "Pada prematur dengan CoNS positif satu kali, kultur harus diulang satu kali lagi.",
+        "C": "Diagnosis sepsis tidak langsung dipastikan dari satu kultur CoNS, sehingga tidak sesuai dengan kasus.",
+        "D": "Antibiotik tidak dihentikan sebelum hasil kultur ulang. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "E": "Operasi tidak diindikasikan pada kasus ini. Pilihan ini tidak sesuai dengan temuan klinis pada kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q78",
+      "category": "",
+      "question": "Diagnosis sepsis neonatus ditegakkan berdasarkan kombinasi tiga komponen yang dinilai, yaitu ...",
+      "questionImages": [],
+      "options": {
+        "A": "Takipnea, kuning, dan rewel",
+        "B": "Kultur urin, foto dada, dan USG",
+        "C": "Infeksi, respons inflamasi, dan disfungsi organ",
+        "D": "Demam, batuk, dan diare",
+        "E": "Ikterus, anemia, dan kejang"
+      },
+      "optionExplanations": {
+        "A": "Takipnea dan kuning tidak mencakup seluruh komponen diagnosis. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "B": "Pemeriksaan penunjang tidak menggantikan komponen diagnosis. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "C": "Diagnosis sepsis mencakup infeksi, tanda respons inflamasi, dan tanda disfungsi organ.",
+        "D": "Demam, batuk, dan diare tidak mencakup komponen diagnosis sepsis. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "Ikterus, anemia, dan kejang bukan komponen diagnosis sepsis. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q79",
+      "category": "",
+      "question": "Neonatus dengan dugaan sepsis dan terkonfirmasi sepsis. Tempat perawatan yang harus dipilih adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Rumah dengan kontrol rutin",
+        "B": "Ruang bersalin",
+        "C": "Ruang rawat jalan",
+        "D": "NICU",
+        "E": "Ruang rawat gabung"
+      },
+      "optionExplanations": {
+        "A": "Perawatan di rumah tidak sesuai untuk sepsis terkonfirmasi.",
+        "B": "Ruang bersalin tidak sesuai untuk perawatan sepsis.",
+        "C": "Rawat jalan tidak sesuai untuk sepsis terkonfirmasi.",
+        "D": "Neonatus yang terkonfirmasi sepsis harus dirawat di NICU.",
+        "E": "Ruang rawat gabung tidak sesuai untuk sepsis terkonfirmasi."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q80",
+      "category": "",
+      "question": "Pemberian antibiotik empiris pada dugaan sepsis neonatus dianjurkan dimulai dalam waktu ...",
+      "questionImages": [],
+      "options": {
+        "A": "24 jam sejak lahir",
+        "B": "3 hari sejak gejala muncul",
+        "C": "Setelah hasil kultur keluar",
+        "D": "Setelah 1 minggu",
+        "E": "1 jam sejak terduga sepsis setelah kultur diambil"
+      },
+      "optionExplanations": {
+        "A": "24 jam terlalu lama untuk antibiotik empiris pada dugaan sepsis. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "B": "Tiga hari terlalu lama untuk antibiotik empiris. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Menunggu hasil kultur menunda terapi dan tidak dianjurkan. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Satu minggu terlalu lama untuk antibiotik empiris. Alternatif ini tidak menjelaskan temuan utama pada kasus, sehingga tidak sesuai dengan kasus.",
+        "E": "Antibiotik empiris diberikan 1 jam sejak terduga sepsis, setelah kultur diambil."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q81",
+      "category": "",
+      "question": "Pada neonatus dengan sepsis, pemeriksaan kadar glukosa darah dipertahankan dalam rentang ...",
+      "questionImages": [],
+      "options": {
+        "A": "50 sampai 180 mg/dL",
+        "B": "20 sampai 40 mg/dL",
+        "C": "200 sampai 250 mg/dL",
+        "D": "Di bawah 30 mg/dL",
+        "E": "Di atas 300 mg/dL"
+      },
+      "optionExplanations": {
+        "A": "Gula darah dipertahankan 50 sampai 180 mg/dL pada sepsis neonatus.",
+        "B": "Kadar 20 sampai 40 mg/dL terlalu rendah dan berisiko hipoglikemia.",
+        "C": "Kadar 200 sampai 250 mg/dL di atas target. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Kadar di bawah 30 mg/dL menunjukkan hipoglikemia. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Kadar di atas 300 mg/dL menunjukkan hiperglikemia. Pilihan ini tidak memenuhi kriteria pada kasus."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q82",
+      "category": "",
+      "question": "Neonatus dengan sepsis dan Hb 6,2 g/dL. Indikasi transfusi PRC dan target Hb yang dianjurkan adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Transfusi trombosit untuk Hb rendah",
+        "B": "Transfusi jika Hb kurang dari 7 g/dL dengan target lebih dari 10 g/dL",
+        "C": "Transfusi jika Hb di atas 12 g/dL",
+        "D": "Tidak perlu transfusi pada Hb 6,2",
+        "E": "Target Hb 5 g/dL"
+      },
+      "optionExplanations": {
+        "A": "Transfusi trombosit tidak ditujukan untuk Hb rendah. Kondisi ini tidak sesuai dengan data klinis yang diberikan. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "B": "Transfusi PRC diberikan bila Hb kurang dari 7 g/dL dengan target Hb lebih dari 10 g/dL.",
+        "C": "Transfusi pada Hb di atas 12 g/dL tidak sesuai dengan anjuran. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "D": "Hb 6,2 memerlukan transfusi sesuai anjuran. Pilihan ini tidak memenuhi kriteria pada kasus. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "Target 5 g/dL terlalu rendah. Pilihan ini tidak sesuai dengan temuan klinis pada kasus. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q83",
+      "category": "",
+      "question": "Neonatus dengan sepsis dan trombositopenia kurang dari 100.000/mm3 disertai perdarahan spontan. Tatalaksana yang paling sesuai adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Pemberian vitamin K saja",
+        "B": "Observasi tanpa tindakan",
+        "C": "Transfusi trombosit",
+        "D": "Transfusi PRC saja",
+        "E": "Antibiotik saja tanpa transfusi"
+      },
+      "optionExplanations": {
+        "A": "Vitamin K tidak mengatasi trombositopenia. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "B": "Observasi tanpa tindakan tidak sesuai dengan perdarahan spontan. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "C": "Transfusi trombosit diberikan bila trombosit kurang dari 100.000/mm3 dengan perdarahan spontan.",
+        "D": "Transfusi PRC tidak ditujukan untuk trombositopenia. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "Antibiotik saja tidak menangani trombositopenia dengan perdarahan. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q84",
+      "category": "",
+      "question": "Neonatus dengan sepsis yang berkembang menjadi DIC. Tatalaksana koagulasi yang dianjurkan adalah transfusi ...",
+      "questionImages": [],
+      "options": {
+        "A": "Dekstrosa 10%",
+        "B": "Natrium bikarbonat",
+        "C": "Kalsium glukonat",
+        "D": "Plasma beku segar",
+        "E": "Albumin 5%"
+      },
+      "optionExplanations": {
+        "A": "Dekstrosa tidak mengatasi DIC. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "B": "Natrium bikarbonat tidak menjadi tatalaksana utama DIC.",
+        "C": "Kalsium glukonat tidak menjadi tatalaksana utama DIC.",
+        "D": "Transfusi plasma diberikan pada pasien dengan DIC.",
+        "E": "Albumin tidak menjadi tatalaksana utama DIC. Kondisi ini tidak sesuai dengan data klinis yang diberikan."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q85",
+      "category": "",
+      "question": "Anemia pada neonatus didefinisikan sebagai kadar Hb atau Ht yang berada ... di bawah nilai normal sesuai usia gestasi dan postnatal.",
+      "questionImages": [],
+      "options": {
+        "A": "0,5 standar deviasi",
+        "B": "1 standar deviasi",
+        "C": "5 standar deviasi",
+        "D": "10 persen",
+        "E": "2 standar deviasi"
+      },
+      "optionExplanations": {
+        "A": "0,5 standar deviasi terlalu kecil untuk definisi anemia. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "B": "1 standar deviasi belum sesuai definisi anemia. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "5 standar deviasi terlalu besar sebagai definisi anemia. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "10 persen bukan definisi standar anemia neonatus. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Anemia didefinisikan sebagai Hb atau Ht lebih dari 2 standar deviasi di bawah nilai normal."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q86",
+      "category": "",
+      "question": "Bayi aterm usia 10 minggu dengan kadar Hb mencapai nadir sekitar 11 g/dL tanpa gejala klinis. Kondisi ini paling mungkin ...",
+      "questionImages": [],
+      "options": {
+        "A": "Anemia fisiologis",
+        "B": "Anemia hemolitik",
+        "C": "Anemia hipoproliferatif",
+        "D": "Perdarahan kronis",
+        "E": "Thalassemia mayor"
+      },
+      "optionExplanations": {
+        "A": "Anemia fisiologis pada bayi aterm mencapai nadir sekitar 11 g/dL pada usia 8 sampai 12 minggu.",
+        "B": "Anemia hemolitik ditandai hemolisis dan ikterus. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Anemia hipoproliferatif ditandai produksi eritrosit menurun dengan penyebab spesifik.",
+        "D": "Perdarahan kronis ditandai kehilangan darah berulang. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Thalassemia mayor memberikan gejala berat sejak awal. Pilihan ini tidak memenuhi kriteria pada kasus."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q87",
+      "category": "",
+      "question": "Bayi prematur usia 6 minggu dengan Hb 8 g/dL tanpa gejala. Kondisi ini paling sesuai dengan ...",
+      "questionImages": [],
+      "options": {
+        "A": "Infeksi kongenital",
+        "B": "Anemia fisiologis pada prematur",
+        "C": "Anemia hemolitik isoimun",
+        "D": "Sferositosis herediter",
+        "E": "Defisiensi G6PD"
+      },
+      "optionExplanations": {
+        "A": "Infeksi kongenital menyebabkan anemia dengan gejala infeksi. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "B": "Bayi prematur memiliki nadir Hb lebih dini, sekitar 4 sampai 8 minggu, dengan Hb 7 sampai 9 g/dL.",
+        "C": "Anemia hemolitik isoimun menyebabkan ikterus dan hemolisis. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "D": "Sferositosis herediter menyebabkan hemolisis dan ikterus. Pilihan ini tidak memenuhi kriteria pada kasus, sehingga tidak sesuai dengan kasus.",
+        "E": "Defisiensi G6PD menyebabkan hemolisis. Pilihan ini tidak sesuai dengan temuan klinis pada kasus. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q88",
+      "category": "",
+      "question": "Neonatus dengan anemia hipoproliferatif akibat infeksi parvovirus. Kelompok etiologi yang tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Defisiensi vitamin K",
+        "B": "Hemofilia A",
+        "C": "Penurunan produksi eritrosit",
+        "D": "Peningkatan destruksi eritrosit",
+        "E": "Kehilangan darah akut"
+      },
+      "optionExplanations": {
+        "A": "Defisiensi vitamin K menyebabkan perdarahan, bukan hipoproliferatif. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "B": "Hemofilia A menyebabkan perdarahan, bukan anemia hipoproliferatif. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "C": "Infeksi parvovirus termasuk anemia hipoproliferatif dengan penurunan produksi eritrosit.",
+        "D": "Peningkatan destruksi eritrosit termasuk anemia hemolitik. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "Kehilangan darah akut berbeda dengan hipoproliferatif. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q89",
+      "category": "",
+      "question": "Neonatus dengan anemia hemolitik isoimun berat dan kadar bilirubin yang terus meningkat. Tatalaksana yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Suplementasi zat besi saja",
+        "B": "Observasi tanpa terapi",
+        "C": "Pemberian antibiotik",
+        "D": "Transfusi tukar",
+        "E": "Pemberian vitamin K saja"
+      },
+      "optionExplanations": {
+        "A": "Suplementasi zat besi tidak mengatasi hemolisis. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "B": "Observasi tanpa terapi tidak sesuai dengan kondisi berat. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "Antibiotik tidak mengatasi hemolisis isoimun. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "D": "Transfusi tukar diindikasikan pada anemia hemolitik isoimun berat dan untuk menurunkan bilirubin akibat hemolisis.",
+        "E": "Vitamin K tidak mengatasi hemolisis isoimun. Kondisi ini tidak sesuai dengan data klinis yang diberikan."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q90",
+      "category": "",
+      "question": "Pada transfusi tukar, tujuan utama yang tercantum dalam materi adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Meningkatkan tekanan darah sistemik",
+        "B": "Menggantikan cairan intravena rutin",
+        "C": "Memberikan vitamin secara sistemik",
+        "D": "Meningkatkan jumlah trombosit",
+        "E": "Menghilangkan antibodi sirkulasi dan menurunkan bilirubin akibat hemolisis"
+      },
+      "optionExplanations": {
+        "A": "Transfusi tukar tidak bertujuan meningkatkan tekanan darah. Pilihan ini tidak sesuai dengan temuan klinis pada kasus. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "B": "Transfusi tukar tidak menggantikan cairan rutin. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "C": "Vitamin sistemik bukan tujuan transfusi tukar. Kondisi ini tidak sesuai dengan data klinis yang diberikan. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "D": "Peningkatan trombosit bukan tujuan utama transfusi tukar. Alternatif ini tidak menjelaskan temuan utama pada kasus. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "E": "Tujuan transfusi tukar adalah menghilangkan antibodi sirkulasi dan menurunkan bilirubin akibat hemolisis."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q91",
+      "category": "",
+      "question": "Neonatus prematur dengan anemia defisiensi besi akibat kehilangan darah kronis dan cadangan besi minimal. Dosis suplementasi Fe elemental yang dianjurkan adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "6 mg/kgBB per hari",
+        "B": "1 mg/kgBB per hari",
+        "C": "20 mg/kgBB per hari",
+        "D": "0,5 mg/kgBB per minggu",
+        "E": "100 mg/kgBB per hari"
+      },
+      "optionExplanations": {
+        "A": "Dosis Fe elemental yang dianjurkan adalah 6 mg/kgBB per hari.",
+        "B": "Dosis 1 mg/kgBB per hari terlalu rendah. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Dosis 20 mg/kgBB per hari terlalu tinggi. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Dosis 0,5 mg/kgBB per minggu tidak sesuai. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Dosis 100 mg/kgBB per hari terlalu tinggi. Pilihan ini tidak memenuhi kriteria pada kasus."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q92",
+      "category": "",
+      "question": "Bayi dengan korioretinitis, hidrosefalus, dan kalsifikasi intrakranial. Etiologi infeksi kongenital yang paling mungkin adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Rubella",
+        "B": "Toxoplasma gondii",
+        "C": "Varicella zoster",
+        "D": "Treponema pallidum",
+        "E": "Parvovirus B19"
+      },
+      "optionExplanations": {
+        "A": "Rubella menyebabkan gangguan pendengaran dan kelainan jantung. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "B": "Triad klasik toksoplasmosis adalah korioretinitis, hidrosefalus, dan kalsifikasi intrakranial.",
+        "C": "Varicella zoster menyebabkan kelainan kulit dan sindrom varicella kongenital. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "D": "Treponema pallidum menyebabkan hidrops nonimun dan anemia. Pilihan ini tidak memenuhi kriteria pada kasus, sehingga tidak sesuai dengan kasus.",
+        "E": "Parvovirus B19 menyebabkan hidrops fetalis dan keguguran. Pilihan ini tidak sesuai dengan temuan klinis pada kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q93",
+      "category": "",
+      "question": "Pada toksoplasmosis kongenital, terapi pyrimethamine yang dianjurkan dimulai dengan dosis 2 mg/kgBB per hari selama ...",
+      "questionImages": [],
+      "options": {
+        "A": "Tidak perlu lanjutan",
+        "B": "14 hari tanpa lanjutan",
+        "C": "2 hari, dilanjutkan 1 mg/kgBB per hari",
+        "D": "7 hari, dilanjutkan 5 mg/kgBB per hari",
+        "E": "1 bulan, dilanjutkan 2 mg/kgBB per hari"
+      },
+      "optionExplanations": {
+        "A": "Pyrimethamine dilanjutkan dengan dosis rumatan. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "B": "Empat belas hari tanpa lanjutan tidak sesuai dengan anjuran. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "C": "Pyrimethamine 2 mg/kgBB per hari selama 2 hari, dilanjutkan 1 mg/kgBB per hari.",
+        "D": "Tujuh hari dengan 5 mg/kgBB per hari tidak sesuai dengan anjuran. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "Satu bulan dengan dosis 2 mg/kgBB tidak sesuai dengan anjuran. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q94",
+      "category": "",
+      "question": "Ibu hamil trimester pertama terinfeksi varicella zoster. Bayi lahir dengan kelainan kulit dan gangguan neurologis. Infeksi tersebut dikenal sebagai ...",
+      "questionImages": [],
+      "options": {
+        "A": "Herpes neonatal",
+        "B": "Toxoplasmosis kongenital",
+        "C": "Rubella kongenital",
+        "D": "Sindrom varicella kongenital",
+        "E": "Varicella neonatus"
+      },
+      "optionExplanations": {
+        "A": "Herpes neonatal disebabkan HSV, bukan varicella zoster. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "B": "Toxoplasmosis kongenital disebabkan Toxoplasma gondii. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "Rubella kongenital disebabkan virus rubella. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "D": "Transplasenta pada awal kehamilan menyebabkan sindrom varicella kongenital.",
+        "E": "Varicella neonatus terjadi akibat transmisi saat persalinan. Kondisi ini tidak sesuai dengan data klinis yang diberikan."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q95",
+      "category": "",
+      "question": "Bayi dengan dugaan varicella neonatus akibat transmisi saat persalinan. Terapi antivirus pilihan yang disebutkan adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Pyrimethamine",
+        "B": "Penisilin G",
+        "C": "Ampisilin",
+        "D": "Oseltamivir",
+        "E": "Asiklovir"
+      },
+      "optionExplanations": {
+        "A": "Pyrimethamine digunakan pada toksoplasmosis. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "B": "Penisilin G digunakan pada sifilis. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Ampisilin merupakan antibiotik, bukan antivirus. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Oseltamivir digunakan pada influenza, bukan varicella. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Asiklovir merupakan terapi antivirus pilihan pada varicella neonatus."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q96",
+      "category": "",
+      "question": "Bayi dengan hidrops nonimun, anemia, trombositopenia, dan hepatosplenomegali. Infeksi yang paling sesuai dan tatalaksana yang diberikan adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Sifilis kongenital dengan penisilin",
+        "B": "Toksoplasmosis dengan pyrimethamine",
+        "C": "Rubella dengan vaksin MMR",
+        "D": "HIV dengan asiklovir",
+        "E": "Varicella dengan steroid"
+      },
+      "optionExplanations": {
+        "A": "Sifilis kongenital memberikan hidrops nonimun, anemia, dan hepatosplenomegali, dengan terapi penisilin.",
+        "B": "Toksoplasmosis memiliki triad korioretinitis, hidrosefalus, dan kalsifikasi. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Rubella dicegah dengan vaksin MMR dan tidak diobati dengan MMR pada bayi. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "HIV tidak diobati dengan asiklovir. Alternatif ini tidak menjelaskan temuan utama pada kasus. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "E": "Varicella diobati dengan asiklovir, bukan steroid. Pilihan ini tidak memenuhi kriteria pada kasus. Pilihan ini tidak sesuai dengan temuan klinis pada kasus."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q97",
+      "category": "",
+      "question": "Ibu hamil dengan infeksi parvovirus pada trimester pertama. Janin mengalami hidrops fetalis. Tatalaksana yang paling tepat pada parvovirus adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Operasi janin segera",
+        "B": "Suportif dengan pemantauan ketat kondisi janin",
+        "C": "Penisilin intravena",
+        "D": "Asiklovir dosis tinggi",
+        "E": "Pyrimethamine"
+      },
+      "optionExplanations": {
+        "A": "Operasi janin tidak termasuk tatalaksana parvovirus. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "B": "Tatalaksana parvovirus bersifat suportif dengan pemantauan ketat kondisi janin.",
+        "C": "Penisilin digunakan untuk sifilis. Alternatif ini tidak menjelaskan temuan utama pada kasus. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "D": "Asiklovir digunakan untuk HSV dan varicella. Pilihan ini tidak memenuhi kriteria pada kasus. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "Pyrimethamine digunakan untuk toksoplasmosis. Pilihan ini tidak sesuai dengan temuan klinis pada kasus. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q98",
+      "category": "",
+      "question": "Pada infeksi HIV vertikal, transmisi dapat terjadi melalui ...",
+      "questionImages": [],
+      "options": {
+        "A": "Makanan padat, dengan gambaran berbeda",
+        "B": "Air minum biasa",
+        "C": "Plasenta, persalinan, dan menyusui",
+        "D": "Kontak kulit tanpa luka",
+        "E": "Udara melalui batuk"
+      },
+      "optionExplanations": {
+        "A": "Makanan padat tidak menularkan HIV. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "B": "Air minum biasa tidak menularkan HIV. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "C": "HIV ditularkan vertikal melalui plasenta, persalinan, dan menyusui.",
+        "D": "Kontak kulit tanpa luka tidak menularkan HIV. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "HIV tidak menular melalui udara. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q99",
+      "category": "",
+      "question": "Bayi lahir dari ibu HIV positif. Pemeriksaan diagnostik yang sesuai pada bayi usia dini adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Tes tuberkulin",
+        "B": "Foto rontgen tulang",
+        "C": "Kultur urin saja",
+        "D": "PCR",
+        "E": "Pemeriksaan antibodi saat lahir"
+      },
+      "optionExplanations": {
+        "A": "Tes tuberkulin tidak digunakan untuk diagnosis HIV. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "B": "Foto tulang tidak diagnostik untuk HIV. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "Kultur urin saja tidak diagnostik untuk HIV. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "D": "PCR merupakan pemeriksaan diagnostik pada bayi, karena antibodi maternal masih ada.",
+        "E": "Antibodi pada bayi saat lahir belum menunjukkan infeksi karena berasal dari ibu, sehingga tidak sesuai dengan kasus."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q100",
+      "category": "",
+      "question": "Pemeriksaan antibodi HIV pada bayi dapat dilakukan secara bermakna setelah usia ...",
+      "questionImages": [],
+      "options": {
+        "A": "1 bulan",
+        "B": "3 bulan",
+        "C": "6 bulan",
+        "D": "7 hari",
+        "E": "18 bulan"
+      },
+      "optionExplanations": {
+        "A": "Usia 1 bulan terlalu dini untuk pemeriksaan antibodi. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "B": "Usia 3 bulan terlalu dini untuk pemeriksaan antibodi. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Usia 6 bulan terlalu dini sesuai anjuran. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Usia 7 hari terlalu dini untuk pemeriksaan antibodi. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Pemeriksaan antibodi dilakukan setelah usia 18 bulan atau lebih."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q101",
+      "category": "",
+      "question": "Ibu hamil trimester pertama terinfeksi virus rubella. Janin berisiko mengalami kelainan. Pencegahan yang dapat dilakukan pada anak adalah imunisasi ...",
+      "questionImages": [],
+      "options": {
+        "A": "MMR",
+        "B": "BCG",
+        "C": "Hepatitis B",
+        "D": "Polio oral saja",
+        "E": "DPT saja"
+      },
+      "optionExplanations": {
+        "A": "Imunisasi MMR mencakup campak, gondok, dan rubela sebagai pencegahan.",
+        "B": "BCG mencegah tuberkulosis, bukan rubela. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Hepatitis B mencegah hepatitis B, bukan rubela. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Polio oral mencegah polio, bukan rubela. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "DPT mencegah difteri, pertusis, dan tetanus, bukan rubela."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q102",
+      "category": "",
+      "question": "Bayi dengan gangguan pendengaran sensorineural, keterbelakangan mental, penyakit retina, dan cerebral palsy. Infeksi kongenital yang paling sesuai adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Toxoplasma gondii",
+        "B": "Cytomegalovirus",
+        "C": "Herpes simplex virus",
+        "D": "Varicella zoster",
+        "E": "Treponema pallidum"
+      },
+      "optionExplanations": {
+        "A": "Toksoplasmosis menyebabkan triad korioretinitis, hidrosefalus, dan kalsifikasi. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "B": "CMV merupakan penyebab utama infeksi kongenital dengan gangguan pendengaran sensorineural dan kelainan retina.",
+        "C": "HSV menyebabkan ruam vesikular dan ensefalitis. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "D": "Varicella menyebabkan kelainan kulit dan sindrom varicella kongenital. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "E": "Sifilis menyebabkan hidrops nonimun dan hepatosplenomegali. Pilihan ini tidak sesuai dengan temuan klinis pada kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q103",
+      "category": "",
+      "question": "Diagnosis CMV kongenital ditegakkan dengan mendeteksi virus dalam ...",
+      "questionImages": [],
+      "options": {
+        "A": "Darah tepi saja",
+        "B": "Keringat",
+        "C": "Urin atau air liur",
+        "D": "Serum sifilis",
+        "E": "Feses kering"
+      },
+      "optionExplanations": {
+        "A": "Darah tepi saja tidak cukup untuk diagnosis CMV. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "B": "Keringat tidak digunakan untuk diagnosis CMV. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "C": "Diagnosis CMV dilakukan dengan mendeteksi virus dalam urin atau air liur.",
+        "D": "Serum sifilis digunakan untuk sifilis, bukan CMV. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "Feses kering tidak digunakan untuk diagnosis CMV. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q104",
+      "category": "",
+      "question": "Neonatus dengan ruam kulit terlokalisir berupa sekelompok vesikel di dasar eritematosa, keratokonjungtivitis, dan ensefalitis pada usia 8 sampai 12 hari. Etiologi yang paling mungkin adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Rubella",
+        "B": "Toxoplasma gondii",
+        "C": "Sifilis",
+        "D": "Herpes simplex virus",
+        "E": "Varicella zoster"
+      },
+      "optionExplanations": {
+        "A": "Rubella tidak menimbulkan ruam vesikular dan ensefalitis tersebut. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "B": "Toxoplasma tidak menimbulkan ruam vesikular. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "Sifilis tidak menimbulkan vesikel lokal seperti pada HSV. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "D": "HSV menimbulkan ruam vesikular lokal, keratokonjungtivitis, dan ensefalitis pada usia 8 sampai 12 hari.",
+        "E": "Varicella menimbulkan ruam generalisata, bukan lokal dengan ensefalitis tersebut. Kondisi ini tidak sesuai dengan data klinis yang diberikan."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q105",
+      "category": "",
+      "question": "Bayi dengan ensefalitis akibat herpes simplex virus dan keterlibatan sistem saraf pusat. Dosis asiklovir intravena yang dianjurkan adalah 20 mg/kgBB per dosis, dan durasi terapi adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "7 hari",
+        "B": "3 hari",
+        "C": "14 hari",
+        "D": "30 hari",
+        "E": "21 hari"
+      },
+      "optionExplanations": {
+        "A": "Tujuh hari terlalu singkat untuk keterlibatan SSP. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "B": "Tiga hari terlalu singkat untuk keterlibatan SSP. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Empat belas hari digunakan untuk infeksi terbatas pada kulit, mata, dan mulut.",
+        "D": "Tiga puluh hari tidak sesuai dengan anjuran. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Keterlibatan SSP atau penyakit diseminata memerlukan asiklovir selama 21 hari."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q106",
+      "category": "",
+      "question": "Pada infeksi HSV yang terbatas pada kulit, mata, dan mulut, durasi asiklovir yang dianjurkan adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "14 hari",
+        "B": "21 hari",
+        "C": "7 hari",
+        "D": "30 hari",
+        "E": "1 hari"
+      },
+      "optionExplanations": {
+        "A": "Infeksi terbatas pada kulit, mata, dan mulut mendapat asiklovir selama 14 hari.",
+        "B": "Durasi 21 hari digunakan untuk keterlibatan SSP atau diseminata. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Tujuh hari terlalu singkat. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Tiga puluh hari tidak sesuai anjuran. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Satu hari terlalu singkat. Pilihan ini tidak memenuhi kriteria pada kasus, sehingga tidak sesuai dengan kasus."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q107",
+      "category": "",
+      "question": "Bayi dengan konjungtivitis purulen berat setelah persalinan. Ibu memiliki infeksi menular seksual yang berkaitan dengan kejadian tersebut. Penyakit IMS yang paling sesuai adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Sifilis",
+        "B": "Gonore",
+        "C": "Trikomoniasis",
+        "D": "Bacterial vaginosis",
+        "E": "Kandidiasis"
+      },
+      "optionExplanations": {
+        "A": "Sifilis tidak sesuai dengan konjungtivitis purulen berat sebagai gambaran utama.",
+        "B": "Gonore menyebabkan gonoblenorrhea neonatorum, yaitu konjungtivitis purulen berat.",
+        "C": "Trikomoniasis tidak paling sesuai dengan konjungtivitis purulen berat, sehingga tidak sesuai dengan kasus.",
+        "D": "Bacterial vaginosis tidak menyebabkan konjungtivitis purulen berat.",
+        "E": "Kandidiasis menyebabkan infeksi orofaring dan ruam popok. Pilihan ini tidak sesuai dengan temuan klinis pada kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q108",
+      "category": "",
+      "question": "Bayi dengan infeksi Group B Streptococcus yang didapat dari penularan vertikal saat persalinan pervaginam. Manifestasi yang tercantum meliputi ...",
+      "questionImages": [],
+      "options": {
+        "A": "Sindrom varicella kongenital",
+        "B": "Kelainan pendengaran sensorineural",
+        "C": "Pneumonia, respiratory distress, dan septikemia",
+        "D": "Hidrops fetalis dan keguguran",
+        "E": "Ruam vesikular di mata, pada kondisi lain"
+      },
+      "optionExplanations": {
+        "A": "Sindrom varicella kongenital khas varicella. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "B": "Kelainan pendengaran sensorineural khas CMV. Pilihan ini tidak memenuhi kriteria pada kasus. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "Penularan vertikal GBS dapat menyebabkan pneumonia, respiratory distress, dan septikemia.",
+        "D": "Hidrops fetalis lebih khas parvovirus. Pilihan ini tidak sesuai dengan temuan klinis pada kasus. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "E": "Ruam vesikular di mata khas HSV. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q109",
+      "category": "",
+      "question": "Bayi lahir dari ibu penderita DM dengan kadar glukosa darah yang tidak terkontrol. Risiko yang dapat terjadi pada bayi meliputi ...",
+      "questionImages": [],
+      "options": {
+        "A": "Ikterus hemolitik saja",
+        "B": "Kejang pada saat lahir saja",
+        "C": "Sindrom Down",
+        "D": "Makrosomia dan gangguan maturitas paru",
+        "E": "Mikrosefali dan anemia berat"
+      },
+      "optionExplanations": {
+        "A": "Ikterus hemolitik bukan satu-satunya risiko. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "B": "Kejang saat lahir bukan risiko utama yang disebutkan. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "Sindrom Down tidak terkait langsung dengan DM ibu pada materi ini. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "D": "Bayi dari ibu DM berisiko makrosomia dan gangguan maturitas paru.",
+        "E": "Mikrosefali dan anemia berat bukan risiko utama yang disebutkan. Kondisi ini tidak sesuai dengan data klinis yang diberikan."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q110",
+      "category": "",
+      "question": "Bayi lahir dari ibu DM, usia 2 jam. Pemeriksaan glukosa darah dianjurkan dilakukan pada usia ...",
+      "questionImages": [],
+      "options": {
+        "A": "12 jam",
+        "B": "24 jam",
+        "C": "72 jam",
+        "D": "1 minggu",
+        "E": "3 jam"
+      },
+      "optionExplanations": {
+        "A": "Usia 12 jam terlalu lambat untuk pemeriksaan awal. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "B": "Usia 24 jam terlalu lambat untuk pemeriksaan awal. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Usia 72 jam terlalu lambat untuk pemeriksaan awal. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Usia 1 minggu terlalu lambat untuk pemeriksaan awal. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Pemeriksaan glukosa dilakukan pada saat bayi datang atau pada usia 3 jam."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q111",
+      "category": "",
+      "question": "Bayi dari ibu DM dengan kadar glukosa darah 40 mg/dL dan tampak tremor. Tindakan yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Tangani sebagai hipoglikemia",
+        "B": "Pulangkan bayi tanpa tindakan",
+        "C": "Tunda pemberian ASI 24 jam",
+        "D": "Pemberian cairan hipotonik saja",
+        "E": "Observasi 1 minggu"
+      },
+      "optionExplanations": {
+        "A": "Glukosa 45 mg/dL atau kurang, atau tanda hipoglikemia seperti tremor, harus ditangani sebagai hipoglikemia.",
+        "B": "Bayi dengan tremor tidak boleh dipulangkan tanpa tindakan. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Penundaan ASI tidak dianjurkan. Kondisi ini tidak sesuai dengan data klinis yang diberikan. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "D": "Cairan hipotonik saja tidak sesuai tatalaksana hipoglikemia. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Observasi 1 minggu tidak sesuai dengan tatalaksana hipoglikemia. Pilihan ini tidak memenuhi kriteria pada kasus, sehingga tidak sesuai dengan kasus."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q112",
+      "category": "",
+      "question": "Bayi dari ibu DM yang dalam pengamatan tidak memiliki tanda hipoglikemia dan dapat minum dengan baik. Waktu pemulangan yang dianjurkan adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Setelah 2 minggu",
+        "B": "Hari ke-3",
+        "C": "Hari ke-1",
+        "D": "Hari ke-7",
+        "E": "Hari ke-10"
+      },
+      "optionExplanations": {
+        "A": "Dua minggu melebihi waktu pemulangan yang dianjurkan. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "B": "Bayi yang tidak memiliki tanda hipoglikemia dan dapat minum dengan baik dipulangkan pada hari ke-3.",
+        "C": "Hari ke-1 terlalu cepat untuk pemulangan pada pengamatan ini. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "D": "Hari ke-7 melebihi waktu pemulangan yang dianjurkan. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "E": "Hari ke-10 melebihi waktu pemulangan yang dianjurkan. Pilihan ini tidak sesuai dengan temuan klinis pada kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q113",
+      "category": "",
+      "question": "Ikterus pada neonatus akan terlihat secara klinis bila kadar bilirubin serum total melebihi ...",
+      "questionImages": [],
+      "options": {
+        "A": "15 mg/dL",
+        "B": "20 mg/dL",
+        "C": "5 mg/dL",
+        "D": "2 mg/dL",
+        "E": "10 mg/dL"
+      },
+      "optionExplanations": {
+        "A": "Kadar 15 mg/dL di atas ambang awal ikterus. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "B": "Kadar 20 mg/dL di atas ambang awal ikterus. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "C": "Ikterus terlihat bila kadar bilirubin serum total lebih dari 5 mg/dL.",
+        "D": "Kadar 2 mg/dL di bawah ambang klinis ikterus. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "Kadar 10 mg/dL di atas ambang awal ikterus. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q114",
+      "category": "",
+      "question": "Mekanisme fisiologis yang menyebabkan ikterus neonatal meliputi peningkatan beban bilirubin pada sel hati, penurunan ambilan bilirubin oleh hati, dan ...",
+      "questionImages": [],
+      "options": {
+        "A": "Peningkatan ekskresi melalui urin",
+        "B": "Penurunan produksi bilirubin",
+        "C": "Peningkatan absorpsi vitamin K",
+        "D": "Penurunan konjugasi bilirubin",
+        "E": "Peningkatan konjugasi bilirubin secara berlebihan"
+      },
+      "optionExplanations": {
+        "A": "Ekskresi melalui urin tidak menjadi mekanisme fisiologis utama. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "B": "Penurunan produksi bilirubin bertentangan dengan peningkatan beban. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "Absorpsi vitamin K tidak berkaitan dengan mekanisme ikterus. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "D": "Penurunan konjugasi bilirubin merupakan mekanisme fisiologis ikterus neonatal.",
+        "E": "Peningkatan konjugasi berlebihan tidak sesuai dengan mekanisme fisiologis."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q115",
+      "category": "",
+      "question": "Bayi usia 18 jam tampak kuning sampai wajah dan dada. Menurut kriteria bayi kuning patologis, temuan ini termasuk ...",
+      "questionImages": [],
+      "options": {
+        "A": "Too long",
+        "B": "Too high",
+        "C": "Normal fisiologis",
+        "D": "Breast milk jaundice",
+        "E": "Too early"
+      },
+      "optionExplanations": {
+        "A": "Too long berarti ikterus lebih dari 14 hari pada cukup bulan. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "B": "Too high berarti kadar bilirubin melampaui batas normal sesuai usia. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Ikterus pada usia 18 jam bukan fisiologis. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Breast milk jaundice terjadi setelah beberapa hari dengan ASI, sehingga tidak sesuai dengan kasus.",
+        "E": "Ikterus yang tampak dalam 24 jam pertama disebut too early, yaitu patologis."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q116",
+      "category": "",
+      "question": "Bayi cukup bulan dengan ikterus masih tampak pada usia 16 hari. Kriteria bayi kuning patologis yang terpenuhi adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Too long",
+        "B": "Too early",
+        "C": "Too high",
+        "D": "Tidak ada kriteria",
+        "E": "Breast milk jaundice"
+      },
+      "optionExplanations": {
+        "A": "Ikterus berlangsung lebih dari 14 hari pada bayi cukup bulan, sehingga termasuk too long.",
+        "B": "Too early berarti ikterus tampak dalam 24 jam pertama. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Too high berarti kadar bilirubin terlalu tinggi, bukan durasi. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Kriteria terpenuhi karena durasi lebih dari 14 hari. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Breast milk jaundice tidak ditentukan oleh durasi lebih dari 14 hari saja."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q117",
+      "category": "",
+      "question": "Bayi cukup bulan dengan bilirubin total 13 mg/dL pada hari ke-3. Kriteria patologis yang terpenuhi adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Breast milk jaundice",
+        "B": "Too high",
+        "C": "Too early",
+        "D": "Too long",
+        "E": "Tidak patologis"
+      },
+      "optionExplanations": {
+        "A": "Breast milk jaundice tidak ditentukan oleh kadar tersebut.",
+        "B": "Bilirubin total lebih dari 12 mg/dL pada bayi cukup bulan termasuk too high.",
+        "C": "Too early berarti ikterus tampak dalam 24 jam pertama, tidak sesuai kasus.",
+        "D": "Too long berarti lebih dari 14 hari, tidak sesuai kasus. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "E": "Kadar 13 mg/dL melampaui batas normal, sehingga patologis. Pilihan ini tidak sesuai dengan temuan klinis pada kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q118",
+      "category": "",
+      "question": "Penyebab patologis ikterus neonatal yang termasuk kolestasis adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Peningkatan konjugasi berlebih",
+        "B": "Ikterus fisiologis",
+        "C": "Atresia bilier",
+        "D": "Breast milk jaundice",
+        "E": "Inkompatibilitas ABO ringan"
+      },
+      "optionExplanations": {
+        "A": "Peningkatan konjugasi berlebih bukan penyebab patologis yang disebutkan.",
+        "B": "Ikterus fisiologis bukan penyebab patologis. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "C": "Atresia bilier merupakan penyebab kolestasis pada ikterus patologis.",
+        "D": "Breast milk jaundice bukan penyebab kolestasis. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "Inkompatibilitas ABO merupakan penyebab hemolisis."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q119",
+      "category": "",
+      "question": "Pada skala Kramer, penilaian ikterus dilakukan dengan menilai penyebaran warna kuning pada tubuh bayi. Gambar berikut menunjukkan area tubuh yang dinilai. Ikterus yang meliputi lengan dan tungkai (zona IV) sesuai dengan ... ",
+      "questionImages": [
+        "images/packages/persiapan-minites-2i__patologis-neonatus/img-008.png"
+      ],
+      "options": {
+        "A": "Kadar bilirubin serum lebih dari 25 mg/dL",
+        "B": "Kadar bilirubin serum 2 mg/dL",
+        "C": "Kadar bilirubin serum 30 mg/dL",
+        "D": "Kadar bilirubin serum 11 sampai 18 mg/dL",
+        "E": "Kadar bilirubin serum 5 mg/dL"
+      },
+      "optionExplanations": {
+        "A": "Kadar lebih dari 25 mg/dL terlalu tinggi untuk zona IV. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "B": "Kadar 2 mg/dL terlalu rendah untuk ikterus klinis. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "Kadar 30 mg/dL terlalu tinggi untuk zona IV. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "D": "Zona IV pada lengan dan tungkai sesuai kadar bilirubin serum 11 sampai 18 mg/dL.",
+        "E": "Kadar 5 mg/dL sesuai zona I, yaitu kepala dan leher. Kondisi ini tidak sesuai dengan data klinis yang diberikan."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q120",
+      "category": "",
+      "question": "Pada gambar skala Kramer berikut, ikterus yang hanya terlihat pada kepala dan leher menunjukkan zona ... ",
+      "questionImages": [
+        "images/packages/persiapan-minites-2i__patologis-neonatus/img-009.png"
+      ],
+      "options": {
+        "A": "II",
+        "B": "III",
+        "C": "IV",
+        "D": "V",
+        "E": "I"
+      },
+      "optionExplanations": {
+        "A": "Zona II mencakup kulit tubuh di atas umbilikus.",
+        "B": "Zona III mencakup kulit tubuh bawah umbilikus dan paha.",
+        "C": "Zona IV mencakup lengan dan tungkai.",
+        "D": "Zona V mencakup telapak tangan dan telapak kaki.",
+        "E": "Zona I mencakup kulit kepala dan leher."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q121",
+      "category": "",
+      "question": "Bayi usia 5 hari yang disusui dengan ASI adekuat, kenaikan berat badan baik, dan BAB BAK lancar, dengan ikterus yang sesuai pola fisiologis. Kondisi yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Breast milk jaundice",
+        "B": "Breastfeeding jaundice",
+        "C": "Hemolisis isoimun",
+        "D": "Atresia bilier",
+        "E": "Sepsis neonatal"
+      },
+      "optionExplanations": {
+        "A": "Breast milk jaundice terjadi pada bayi dengan pemberian ASI adekuat dan kondisi sehat.",
+        "B": "Breastfeeding jaundice terjadi pada ASI inadekuat dengan dehidrasi. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "C": "Hemolisis isoimun ditandai hemolisis, bukan kondisi sehat. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Atresia bilier ditandai kolestasis, bukan kondisi sehat. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Sepsis neonatal ditandai tanda infeksi sistemik. Pilihan ini tidak memenuhi kriteria pada kasus."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q122",
+      "category": "",
+      "question": "Bayi dengan ikterus, BB turun 9% dari berat lahir, BAB BAK sedikit, dan tampak dehidrasi karena ASI inadekuat. Diagnosis dan tatalaksana yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Sepsis dengan antibiotik saja",
+        "B": "Breastfeeding jaundice dengan perbaikan posisi dan frekuensi menyusui",
+        "C": "Breast milk jaundice dengan penghentian ASI",
+        "D": "Hemolisis dengan transfusi tukar segera",
+        "E": "Atresia bilier dengan operasi"
+      },
+      "optionExplanations": {
+        "A": "Antibiotik saja tidak menangani ASI inadekuat. Kondisi ini tidak sesuai dengan data klinis yang diberikan. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "B": "Breastfeeding jaundice terjadi pada ASI inadekuat, ditangani dengan memperbaiki posisi dan meningkatkan frekuensi menyusui.",
+        "C": "Breast milk jaundice tetap memberikan ASI, tidak dihentikan. Alternatif ini tidak menjelaskan temuan utama pada kasus. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "D": "Transfusi tukar tidak menjadi tatalaksana utama tanpa indikasi hemolisis berat. Pilihan ini tidak memenuhi kriteria pada kasus. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "Operasi atresia bilier tidak sesuai dengan kasus ini. Pilihan ini tidak sesuai dengan temuan klinis pada kasus. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q123",
+      "category": "",
+      "question": "Bayi dengan breast milk jaundice. Tatalaksana yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Transfusi tukar pada sebagian besar kasus",
+        "B": "Tanpa fototerapi meski ada indikasi",
+        "C": "Tetap memberikan ASI dan fototerapi sesuai indikasi",
+        "D": "Menghentikan ASI selama 3 hari",
+        "E": "Memberikan susu formula tanpa ASI"
+      },
+      "optionExplanations": {
+        "A": "Transfusi tukar tidak diberikan pada sebagian besar kasus. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "B": "Fototerapi diberikan bila ada indikasi. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "C": "Breast milk jaundice tetap diberi ASI dan fototerapi sesuai indikasi.",
+        "D": "Penghentian ASI tidak dianjurkan pada breast milk jaundice. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "Susu formula tanpa ASI tidak dianjurkan sebagai tatalaksana. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus."
+      },
+      "answer": "C",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q124",
+      "category": "",
+      "question": "Bayi usia 36 minggu dengan faktor risiko asfiksia. Berdasarkan kategori fototerapi, bayi tersebut termasuk ...",
+      "questionImages": [],
+      "options": {
+        "A": "Medium risk",
+        "B": "Tidak berisiko",
+        "C": "Low risk tanpa faktor",
+        "D": "Higher risk",
+        "E": "Lower risk"
+      },
+      "optionExplanations": {
+        "A": "Medium risk memerlukan usia 38 minggu atau lebih dengan faktor risiko tertentu. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "B": "Kategori tidak berisiko tidak termasuk dalam tabel fototerapi. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "C": "Low risk tanpa faktor bukan kategori yang tercantum. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "D": "Usia 35 sampai 37 6/7 minggu dengan faktor risiko seperti asfiksia termasuk higher risk.",
+        "E": "Lower risk memerlukan usia 38 minggu atau lebih tanpa faktor risiko. Kondisi ini tidak sesuai dengan data klinis yang diberikan."
+      },
+      "answer": "D",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q125",
+      "category": "",
+      "question": "Transfusi tukar pada hiperbilirubinemia bertujuan mengganti sebagian darah bayi dengan darah donor. Tujuan utamanya adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Meningkatkan berat badan bayi",
+        "B": "Mengganti cairan rutin harian",
+        "C": "Meningkatkan kadar albumin saja",
+        "D": "Memperbaiki kejang",
+        "E": "Menurunkan kadar bilirubin cepat dan menghilangkan antibodi atau eritrosit yang hemolisis"
+      },
+      "optionExplanations": {
+        "A": "Peningkatan berat badan bukan tujuan transfusi tukar. Pilihan ini tidak sesuai dengan temuan klinis pada kasus. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus.",
+        "B": "Cairan rutin harian bukan tujuan transfusi tukar. Hal ini tidak sejalan dengan gambaran yang disebutkan dalam kasus. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "C": "Albumin saja bukan tujuan utama transfusi tukar. Kondisi ini tidak sesuai dengan data klinis yang diberikan. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "D": "Perbaikan kejang bukan tujuan utama transfusi tukar. Alternatif ini tidak menjelaskan temuan utama pada kasus. Pilihan ini tidak memenuhi kriteria pada kasus. Pilihan ini tidak sesuai dengan temuan klinis pada kasus.",
+        "E": "Transfusi tukar menurunkan bilirubin dengan cepat dan menghilangkan antibodi atau eritrosit hemolisis."
+      },
+      "answer": "E",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q126",
+      "category": "",
+      "question": "Bayi hari ke-3, sehat, tanpa faktor risiko, dengan bilirubin total 19 mg/dL. Ambang terapi sinar pada kasus ini adalah 18 mg/dL. Tindakan yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Fototerapi, karena melewati ambang",
+        "B": "Transfusi tukar, karena melewati ambang",
+        "C": "Observasi saja",
+        "D": "Pemberian vitamin K",
+        "E": "Pulangkan tanpa tindakan"
+      },
+      "optionExplanations": {
+        "A": "Bilirubin 19 mg/dL melebihi ambang fototerapi 18 mg/dL, sehingga diindikasikan fototerapi.",
+        "B": "Transfusi tukar diindikasikan pada ambang yang lebih tinggi dengan faktor risiko.",
+        "C": "Observasi saja tidak sesuai karena bilirubin melewati ambang. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "D": "Vitamin K tidak mengatasi bilirubin yang tinggi. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "E": "Pemulangan tanpa tindakan tidak sesuai dengan bilirubin di atas ambang. Pilihan ini tidak memenuhi kriteria pada kasus."
+      },
+      "answer": "A",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q127",
+      "category": "",
+      "question": "Bayi hari ke-3 dengan faktor risiko, bilirubin total 21 mg/dL. Ambang transfusi tukar pada kondisi faktor risiko adalah 20 mg/dL. Tindakan yang paling tepat adalah ...",
+      "questionImages": [],
+      "options": {
+        "A": "Pemberian antibiotik",
+        "B": "Transfusi tukar, karena melewati ambang",
+        "C": "Fototerapi saja, karena di bawah ambang",
+        "D": "Observasi selama 24 jam",
+        "E": "Pemberian ASI dihentikan"
+      },
+      "optionExplanations": {
+        "A": "Antibiotik tidak diindikasikan hanya dari kadar bilirubin. Kondisi ini tidak sesuai dengan data klinis yang diberikan.",
+        "B": "Bilirubin 21 mg/dL melewati ambang transfusi tukar 20 mg/dL pada kondisi faktor risiko.",
+        "C": "Bilirubin 21 mg/dL tidak berada di bawah ambang 20 mg/dL. Alternatif ini tidak menjelaskan temuan utama pada kasus.",
+        "D": "Observasi 24 jam tidak sesuai dengan bilirubin di atas ambang transfusi tukar. Pilihan ini tidak memenuhi kriteria pada kasus.",
+        "E": "Penghentian ASI tidak dianjurkan pada hiperbilirubinemia. Pilihan ini tidak sesuai dengan temuan klinis pada kasus."
+      },
+      "answer": "B",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": false
+    }
+  ]
+}
