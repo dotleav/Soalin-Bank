@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T06:19:47.254Z",
+  "generatedAt": "2026-10-28T06:19:56.242Z",
   "packages": [
     {
       "id": "2h-persiapan-minites__cedera-kepala-trauma-medulla-spinalis",
@@ -409,14 +409,6 @@
       "category": "MRI Neuroanatomi",
       "count": 15,
       "file": "packages\/premium__mri-brain-lobes__lobus-otak-sagittal.json"
-    },
-    {
-      "id": "persiapan-minites-2i__patologis-neonatus",
-      "tier": "reguler",
-      "title": "Patologis Neonatus",
-      "category": "Persiapan Minites 2I",
-      "count": 127,
-      "file": "packages\/persiapan-minites-2i__patologis-neonatus.json"
     }
   ]
 }
