@@ -22,6 +22,12 @@
 //   Kurung kurawal boleh lanjut ke baris berikutnya sampai "}" ketemu.
 //   Kunci: X tetap wajib — menandai opsi yang benar.
 //
+//   ALTERNATIF — opsi berupa gambar: satu tabel 5 kolom di posisi opsi
+//     baris 1 : A | B | C | D | E          (header huruf)
+//     baris 2 : [gambar] | [gambar] | ...  (gambar tiap opsi)
+//     baris 3 : {penjelasan A} | {penjelasan B} | ...
+//   Penjelasan di baris 3 tetap pakai {...}. Kunci: X tetap wajib.
+//
 // === BAGIAN 2 — Soal Rusak ===
 // (heading H2: "Bagian 2" atau mengandung "Gagal Diperbaiki")
 // Berupa tabel dengan 3 kolom:
@@ -257,6 +263,68 @@ if (result.messages?.length) {
   console.log("Catatan dari mammoth:", result.messages.map((m) => m.message).join("; "));
 }
 
+// --- Tabel opsi gambar (5 kolom A–E) ---
+// Baris 1 = huruf A–E (header), baris 2 = gambar (dan/atau teks) tiap opsi,
+// baris 3 = penjelasan tiap opsi dalam {…}. Tabel ini bagian dari soal (opsinya),
+// bukan tabel Bagian 2/3, jadi di-stash dulu sebelum parser teks jalan.
+const OPT_LETTERS = ["A", "B", "C", "D", "E"];
+const OPT_TBL_RE = /^\[\[OPTTBL:(\d+)\]\]$/;
+
+function tableRows(tableHtml) {
+  return [...tableHtml.matchAll(/<tr[^>]*>([\s\S]*?)<\/tr>/gi)].map((m) =>
+    [...m[1].matchAll(/<t[dh][^>]*>([\s\S]*?)<\/t[dh]>/gi)].map((c) => c[1])
+  );
+}
+
+function isOptionTable(tableHtml) {
+  const head = tableRows(tableHtml)[0] || [];
+  return head.length === OPT_LETTERS.length &&
+    head.every((c, i) => cleanText(c).replace(/[.)]$/, "").toUpperCase() === OPT_LETTERS[i]);
+}
+
+// Tabel Bagian 2/3 = tabel pertama yang BUKAN tabel opsi.
+function firstDataTableIdx(html) {
+  for (const m of html.matchAll(/<table[\s\S]*?<\/table>/gi)) if (!isOptionTable(m[0])) return m.index;
+  return -1;
+}
+
+function parseOptionTable(tableHtml) {
+  const rows = tableRows(tableHtml);
+  const plain = (frag) => cleanText(frag.replace(/<\/p>|<br\s*\/?>/gi, " "));
+  if (rows.length > 3) gmbrWarnings.push("tabel opsi punya baris ekstra (diabaikan)");
+  const opts = {};
+  OPT_LETTERS.forEach((L, i) => {
+    const picCell = (rows[1] || [])[i] || "";
+    const expCell = (rows[2] || [])[i] || "";
+    const imgs = extractImages(picCell);
+    if (imgs.length > 1) gmbrWarnings.push(`opsi ${L} punya ${imgs.length} gambar (dipakai yang pertama)`);
+    const body = parseOptionBody(plain(expCell));
+    opts[L] = { text: plain(picCell), image: imgs[0] || "", exp: body.exp || body.text };
+  });
+  return opts;
+}
+
+// Ganti tiap tabel opsi dengan penanda paragraf "[[OPTTBL:n]]" agar parser teks melewatinya.
+function stashOptionTables(html, store) {
+  return html.replace(/<table[\s\S]*?<\/table>/gi, (t) => {
+    if (!isOptionTable(t)) return t;
+    store.push(parseOptionTable(t));
+    return `<p>[[OPTTBL:${store.length - 1}]]</p>`;
+  });
+}
+
+function applyOptionTable(q, opts) {
+  for (const L of OPT_LETTERS) {
+    const o = opts[L];
+    q.options[L] = o.text;
+    if (o.image) {
+      q.optionImages = q.optionImages || {};
+      q.optionImages[L] = o.image;
+    }
+    if (o.exp) q.optionExplanations[L] = o.exp;
+  }
+}
+
 // --- 2. Deteksi batas Bagian 1 vs Bagian 2 ---
 // Bagian 2 ditandai dengan heading yang mengandung "Bagian 2" atau
 // "Gagal Diperbaiki". Semua <table> di bawahnya dianggap tabel soal rusak.
@@ -283,7 +351,7 @@ function splitParts(html) {
     // Tidak ada Bagian 2 — cek apakah ada <table>, tapi jangan lewati heading
     // Bagian 3 kalau sudah ketemu, atau tabel isian ikut kesedot jadi Bagian 2.
     const searchHtml = lastPart3HeadingEnd >= 0 ? html.slice(0, lastPart3HeadingEnd) : html;
-    const tableIdx = searchHtml.indexOf("<table");
+    const tableIdx = firstDataTableIdx(searchHtml);
     if (tableIdx < 0) {
       return {
         part1Html: lastPart3HeadingEnd < 0 ? html : html.substring(0, lastPart3HeadingEnd),
@@ -452,6 +520,8 @@ function finalizeGmbr(questions, sourceByNo) {
 }
 
 function parsePart1(html) {
+  const optStore = [];
+  html = stashOptionTables(html, optStore);
   // Pecah HTML jadi baris-baris token (teks/gambar)
   const blockRegex = /<(p|h1|h2|h3|ol|ul)[^>]*>([\s\S]*?)<\/\1>/g;
   const lines = [];
@@ -527,6 +597,15 @@ function parsePart1(html) {
     const { images, isHeading, isListItem } = rawLine;
     const text = hl ? rawLine.text.slice(HL_MARK.length).trimStart() : rawLine.text;
     if (!text && !images.length) return; // baris ini tinggal tag [gmbr] (sudah diproses)
+    const optTbl = text.match(OPT_TBL_RE); // penanda tabel opsi gambar (lihat stashOptionTables)
+    if (optTbl) {
+      pendingOpt = null;
+      if (current) {
+        applyOptionTable(current, optStore[+optTbl[1]]);
+        mode = "options";
+      } else gmbrWarnings.push("tabel opsi di luar soal (diabaikan)");
+      return;
+    }
 
     if (pendingOpt && current) {
       // Lanjutan penjelasan opsi (kurung belum tertutup) sampai ketemu "}".
@@ -671,6 +750,7 @@ function parsePart2(html, startingQNumber) {
 
   while ((tableMatch = tableRegex.exec(html)) !== null) {
     const tableHtml = tableMatch[0];
+    if (isOptionTable(tableHtml)) continue; // tabel opsi gambar, bukan soal rusak/isian
     const rowRegex = /<tr[^>]*>([\s\S]*?)<\/tr>/gi;
     let rowMatch;
     let isFirstRow = true;
@@ -747,6 +827,7 @@ function parsePart3(html, startingQNumber) {
 
   while ((tableMatch = tableRegex.exec(html)) !== null) {
     const tableHtml = tableMatch[0];
+    if (isOptionTable(tableHtml)) continue; // tabel opsi gambar, bukan soal rusak/isian
     const rowRegex = /<tr[^>]*>([\s\S]*?)<\/tr>/gi;
     let rowMatch;
     let isFirstRow = true;
