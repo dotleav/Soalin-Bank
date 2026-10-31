@@ -723,6 +723,13 @@ $btnClearLog.Width = 130
 Style-Button $btnClearLog "default"
 $bar.Controls.Add($btnClearLog)
 
+$btnGmbr = New-Object System.Windows.Forms.Button
+$btnGmbr.Text = "Format gambar"
+$btnGmbr.Dock = "Right"
+$btnGmbr.Width = 130
+Style-Button $btnGmbr "default"
+$bar.Controls.Add($btnGmbr)
+
 # --- Header (Top). Ditambahkan terakhir.
 $header = New-Object System.Windows.Forms.Panel
 $header.Dock = "Top"
@@ -886,6 +893,19 @@ $btnPublish.Add_Click({ Publish-Files })
 
 $btnOpen.Add_Click({ Start-Process explorer.exe $root })
 $btnClearLog.Add_Click({ $txtLog.Clear() })
+$tip.SetToolTip($btnGmbr, "Lihat aturan tag gambar [gmbr A1-3] / [gmbr Q1-3] di file .docx.")
+$btnGmbr.Add_Click({
+    Show-Info ("TAG GAMBAR DI .DOCX`r`n`r`n" +
+        "Setiap gambar otomatis punya alamat: soal-nomor-gambar.`r`n" +
+        "A1-3 = gambar penjelasan ke-3 dari soal nomor 1`r`n" +
+        "Q1-3 = gambar pertanyaan ke-3 dari soal nomor 1`r`n`r`n" +
+        "Taruh tag di soal yang MENERIMA gambar:`r`n" +
+        "[gmbr A1-3]  = pakai gambar penjelasan 3 dari soal 1`r`n" +
+        "[gmbr A1-2, A1-3]  = pakai gambar 2 dan 3 dari soal 1`r`n" +
+        "[gmbr Q1-3]  = pakai gambar pertanyaan 3 dari soal 1`r`n" +
+        "[gmbr A1]  = pakai semua gambar penjelasan soal 1`r`n`r`n" +
+        "Gambar tidak perlu disisipkan lagi. Peringatan (alamat tidak ada, tag tidak dikenal) muncul di log saat PUBLISH.")
+})
 
 Refresh-Categories
 Refresh-Tree $null

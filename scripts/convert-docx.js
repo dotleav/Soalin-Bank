@@ -33,6 +33,17 @@
 //
 // ID soal akan dibuat otomatis (Q1, Q2, ...) kecuali kamu menulis baris
 // "ID: namaID" tepat sebelum nomor soal.
+//
+// === TAG GAMBAR [gmbr ...] ===
+// Setiap gambar penjelasan (A) dan gambar pertanyaan (Q) otomatis punya alamat
+// "soal-nomor-gambar" sesuai urutan di docx: A1-3 = gambar penjelasan ke-3 dari soal 1.
+//   [gmbr A1-3]          = salin gambar penjelasan ke-3 soal 1 ke soal ini (slot A)
+//   [gmbr A1-2, A1-3]    = salin gambar ke-2 dan ke-3 soal 1
+//   [gmbr Q1-3]          = salin gambar pertanyaan ke-3 soal 1 (slot Q)
+//   [gmbr A1]            = salin SEMUA gambar penjelasan soal 1
+// Tag ditaruh di soal yang menerima gambar. File gambar tidak diduplikat.
+// Tag yang merujuk soal sendiri diabaikan (gambarnya sudah ada).
+// Label unik per dokumen (A1 hanya boleh dipakai untuk satu gambar).
 
 import fs from "fs";
 import path from "path";
@@ -41,6 +52,7 @@ import mammoth from "mammoth";
 import { pdfToHtml } from "./pdf-lines.js";
 import { HL_MARK, docxWithHighlightMarks, finishHighlightQuestion } from "./highlight.js";
 import JSZip from "jszip";
+import crypto from "crypto";
 
 // sharp dipakai buat crop/rotasi gambar "literal" (lihat bagian 0 di bawah).
 // Di-load lazy (bukan static import) supaya kalau belum ke-install, error-nya
@@ -98,6 +110,10 @@ fs.mkdirSync(imagesDir, { recursive: true });
 fs.mkdirSync(dataDir, { recursive: true });
 
 let imageCounter = 0;
+
+// Gambar identik (isi file sama) hanya ditulis SEKALI ke images/, lalu semua
+// soal yang memakainya menunjuk ke file yang sama (hemat ruang & database).
+const imageByHash = new Map(); // sha1 -> src
 
 // --- 0. Baca crop/rotasi/flip "literal" tiap gambar langsung dari XML docx ---
 // Mammoth (dipakai buat ekstrak gambar) selalu mengembalikan gambar ASLI dari
@@ -226,8 +242,12 @@ const result = isPdf ? { value: await pdfToHtml(docxPath), messages: [] } : awai
       const transform = drawingTransforms[imageCounter - 1];
       buffer = await applyImageTransform(buffer, transform, filename);
 
+      const hash = crypto.createHash("sha1").update(buffer).digest("hex");
+      if (imageByHash.has(hash)) return { src: imageByHash.get(hash) };
       fs.writeFileSync(path.join(imagesDir, filename), buffer);
-      return { src: `${imagesUrlPrefix}/${filename}` };
+      const src = `${imagesUrlPrefix}/${filename}`;
+      imageByHash.set(hash, src);
+      return { src };
     }),
   }
 );
@@ -353,6 +373,84 @@ function parseOptionBody(raw) {
   return { text, exp: raw.slice(i + 1, j).trim(), open: false };
 }
 
+// --- Tag gambar [gmbr ...] ---
+const gmbrWarnings = [];
+let gmbrRefCount = 0;
+const GMBR_RE = /\[\s*gmbr\s+([^\]]*?)\s*\]/gi;
+
+// Ambil tag dari teks: {slot, qnum, idx}. idx null = semua gambar soal itu.
+function parseGmbrTags(text) {
+  const tags = [];
+  const clean = String(text).replace(GMBR_RE, (_, list) => {
+    const toks = list.replace(/\bdan\b/gi, ",").replace(/\s*-\s*/g, "-").split(/[\s,;]+/);
+    for (const tok of toks) {
+      if (!tok) continue;
+      const m = tok.match(/^([AQ])(\d+)(?:-(\d+))?$/i);
+      if (!m) {
+        gmbrWarnings.push(`tag "[gmbr ${tok}]" tidak dikenali (pakai A1-3 atau Q1-3)`);
+        continue;
+      }
+      tags.push({ slot: m[1].toUpperCase(), qnum: m[2], idx: m[3] ? parseInt(m[3], 10) : null });
+    }
+    return "";
+  });
+  return { tags, clean };
+}
+
+// Catat tag sebagai referensi untuk soal "dest". pos = posisi di antara gambar
+// asli soal itu, supaya gambar salinan tampil di urutan tag ditulis.
+function addGmbrRefs(tags, dest) {
+  for (const t of tags) {
+    const pos = t.slot === "Q" ? dest.questionImages.length : dest.explanationImages.length;
+    dest.refs.push({ ...t, pos });
+  }
+}
+
+// Setelah semua soal selesai: selesaikan referensi lalu gabungkan ke array gambar.
+// Sumber selalu gambar ASLI soal rujukan (bukan hasil salinan).
+function finalizeGmbr(questions, sourceByNo) {
+  const plans = questions.map((q) => {
+    const resolved = [];
+    for (const r of q.refs) {
+      const src = sourceByNo.get(r.qnum);
+      if (!src) {
+        gmbrWarnings.push(`[gmbr ${r.slot}${r.qnum}] soal ${r.qnum} tidak ditemukan (dipakai di soal ${q.docNo})`);
+        continue;
+      }
+      if (src === q) continue; // merujuk soal sendiri: gambarnya sudah ada
+      const own = r.slot === "Q" ? src.questionImages : src.explanationImages;
+      let srcs;
+      if (r.idx === null) srcs = [...own];
+      else if (r.idx >= 1 && r.idx <= own.length) srcs = [own[r.idx - 1]];
+      else {
+        gmbrWarnings.push(`[gmbr ${r.slot}${r.qnum}-${r.idx}] tidak ada (soal ${r.qnum} punya ${own.length} gambar ${r.slot === "Q" ? "pertanyaan" : "penjelasan"})`);
+        continue;
+      }
+      resolved.push({ slot: r.slot, pos: r.pos, srcs });
+      gmbrRefCount += srcs.length;
+    }
+    return resolved;
+  });
+
+  const merge = (own, refs) => {
+    const out = [];
+    for (let i = 0; i <= own.length; i++) {
+      for (const r of refs) if (r.pos === i) out.push(...r.srcs);
+      if (i < own.length) out.push(own[i]);
+    }
+    return out;
+  };
+
+  questions.forEach((q, i) => {
+    const qRefs = plans[i].filter((r) => r.slot === "Q");
+    const aRefs = plans[i].filter((r) => r.slot === "A");
+    q.questionImages = merge(q.questionImages, qRefs);
+    q.explanationImages = merge(q.explanationImages, aRefs);
+    delete q.refs;
+    delete q.docNo;
+  });
+}
+
 function parsePart1(html) {
   // Pecah HTML jadi baris-baris token (teks/gambar)
   const blockRegex = /<(p|h1|h2|h3|ol|ul)[^>]*>([\s\S]*?)<\/\1>/g;
@@ -395,6 +493,13 @@ function parsePart1(html) {
     });
   }
 
+  // Tag [gmbr] dipisah dari teks; diproses setelah baris ini dijalankan.
+  for (const ln of lines) {
+    const { tags, clean } = parseGmbrTags(ln.text);
+    ln.tags = tags;
+    ln.text = clean.trimEnd();
+  }
+
   // Parse baris jadi soal
   const questions = [];
   let current = null;
@@ -417,10 +522,11 @@ function parsePart1(html) {
     current = null;
   }
 
-  for (const rawLine of lines) {
+  const processLine = (rawLine) => {
     const hl = rawLine.text.startsWith(HL_MARK); // baris ini di-highlight (penanda kunci)
     const { images, isHeading, isListItem } = rawLine;
     const text = hl ? rawLine.text.slice(HL_MARK.length).trimStart() : rawLine.text;
+    if (!text && !images.length) return; // baris ini tinggal tag [gmbr] (sudah diproses)
 
     if (pendingOpt && current) {
       // Lanjutan penjelasan opsi (kurung belum tertutup) sampai ketemu "}".
@@ -429,24 +535,24 @@ function parsePart1(html) {
       current.optionExplanations[pendingOpt] = `${current.optionExplanations[pendingOpt] || ""} ${chunk}`.trim();
       current.explanationImages.push(...images);
       if (close >= 0) pendingOpt = null;
-      continue;
+      return;
     }
 
-    if (sumberLine.test(text)) continue;
+    if (sumberLine.test(text)) return;
 
     if (isHeading) {
       currentCategory = text;
-      continue;
+      return;
     }
 
     if (categoryLine.test(text)) {
       currentCategory = text.match(categoryLine)[1].trim();
-      continue;
+      return;
     }
 
     if (idLine.test(text)) {
       pendingId = text.match(idLine)[1].trim();
-      continue;
+      return;
     }
 
     if (isListItem) {
@@ -456,6 +562,8 @@ function parsePart1(html) {
       const inline = splitInlineQuestion(text);
       current = {
         id: autoId,
+        docNo: String(questions.length + 1),
+        refs: [],
         category: currentCategory,
         question: inline ? inline.question : text,
         questionImages: [...images],
@@ -467,7 +575,7 @@ function parsePart1(html) {
         isBroken: false,
       };
       mode = inline ? "answer" : "question";
-      continue;
+      return;
     }
 
     const qStart = text.match(questionStart);
@@ -479,6 +587,8 @@ function parsePart1(html) {
       const inline = splitInlineQuestion(rawQuestionText);
       current = {
         id: autoId,
+        docNo: String(qStart[1]),
+        refs: [],
         category: currentCategory,
         question: inline ? inline.question : rawQuestionText,
         questionImages: [...images],
@@ -490,10 +600,10 @@ function parsePart1(html) {
         isBroken: false,
       };
       mode = inline ? "answer" : "question";
-      continue;
+      return;
     }
 
-    if (!current) continue;
+    if (!current) return;
 
     const optMatch = text.match(optionLine);
     if (optMatch) {
@@ -505,14 +615,14 @@ function parsePart1(html) {
       if (hl) current.highlight = letter;
       current.questionImages.push(...images);
       mode = "options";
-      continue;
+      return;
     }
 
     const ansMatch = text.match(answerLine);
     if (ansMatch) {
       current.answer = ansMatch[1].toUpperCase();
       mode = "answer";
-      continue;
+      return;
     }
 
     const expMatch = text.match(explanationLine);
@@ -520,7 +630,7 @@ function parsePart1(html) {
       current.explanation = expMatch[1].trim();
       current.explanationImages.push(...images);
       mode = "explanation";
-      continue;
+      return;
     }
 
     if (mode === "question") {
@@ -531,6 +641,13 @@ function parsePart1(html) {
       current.explanationImages.push(...images);
     } else if (mode === "options" && images.length) {
       current.questionImages.push(...images);
+    }
+  };
+  for (const rawLine of lines) {
+    processLine(rawLine);
+    if (rawLine.tags.length) {
+      if (current) addGmbrRefs(rawLine.tags, current);
+      else gmbrWarnings.push(`tag [gmbr] di luar soal: ${rawLine.text.slice(0, 40)}`);
     }
   }
   pushCurrent();
@@ -588,17 +705,20 @@ function parsePart2(html, startingQNumber) {
       // col 1: broken question text
       // col 2: explanation (teks dan/atau gambar)
       const origNo = firstCellText;
-      const questionText = secondCellText;
-      const explanationImages = cells[2] ? extractImages(cells[2]) : [];
-      const explanation = cells[2] ? cellText(cells[2]) : "";
-      // Also grab any images from question cell itself
+      const qP = parseGmbrTags(secondCellText);
+      const eP = parseGmbrTags(cells[2] ? cellText(cells[2]) : "");
+      const questionText = qP.clean.trim();
+      const explanation = eP.clean.trim();
       const questionImages = extractImages(cells[1] || "");
+      const explanationImages = cells[2] ? extractImages(cells[2]) : [];
 
       if (!questionText) continue;
 
       const qNum = startingQNumber + brokenQuestions.length + 1;
-      brokenQuestions.push({
+      const brokenQ = {
         id: `QB${origNo || qNum}`,
+        docNo: origNo,
+        refs: [],
         category: "Soal Rusak",
         question: questionText,
         questionImages,
@@ -607,7 +727,9 @@ function parsePart2(html, startingQNumber) {
         explanation,
         explanationImages,
         isBroken: true,
-      });
+      };
+      addGmbrRefs([...qP.tags, ...eP.tags], brokenQ);
+      brokenQuestions.push(brokenQ);
     }
   }
 
@@ -649,25 +771,32 @@ function parsePart3(html, startingQNumber) {
 
       // col 0: nomor asli, col 1: teks soal, col 2: kunci jawaban (teks bebas)
       const origNo = firstCellText;
-      const questionText = cleanText(cells[1] || "");
-      const answerText = cleanText(cells[2] || "");
+      const qP = parseGmbrTags(cleanText(cells[1] || ""));
+      const aP = parseGmbrTags(cleanText(cells[2] || ""));
+      const questionText = qP.clean.trim();
+      const answerText = aP.clean.trim();
       const questionImages = extractImages(cells[1] || "");
+      const aImgs = [];
 
       if (!questionText) continue;
 
       const qNum = startingQNumber + isianQuestions.length + 1;
-      isianQuestions.push({
+      const isianQ = {
         id: `QI${origNo || qNum}`,
+        docNo: origNo,
+        refs: [],
         category: "Soal Isian",
         question: questionText,
         questionImages,
         options: {},
         answer: answerText,
         explanation: "",
-        explanationImages: [],
+        explanationImages: aImgs,
         isBroken: false,
         isIsian: true,
-      });
+      };
+      addGmbrRefs([...qP.tags, ...aP.tags], isianQ);
+      isianQuestions.push(isianQ);
     }
   }
 
@@ -679,6 +808,10 @@ const part1Questions = parsePart1(part1Html);
 const part2Questions = parsePart2(part2Html, part1Questions.length);
 const part3Questions = parsePart3(part3Html, part1Questions.length + part2Questions.length);
 const allQuestions = [...part1Questions, ...part2Questions, ...part3Questions];
+// Sumber salinan gambar = soal Bagian 1 (nomor soal dari docx).
+const sourceByNo = new Map();
+for (const q of part1Questions) if (!sourceByNo.has(q.docNo)) sourceByNo.set(q.docNo, q);
+finalizeGmbr(allQuestions, sourceByNo);
 
 // --- 8. Tulis hasil ke questions.js (mode lama: data/questions.js, mode paket: data/packages/<id>/questions.js) ---
 const outPath = path.join(dataDir, "questions.js");
@@ -738,6 +871,8 @@ export const packages = ${JSON.stringify(packages, null, 2)};
   return packages.length;
 }
 
+if (gmbrRefCount) console.log(`  Gambar disalin     : ${gmbrRefCount} (lewat tag [gmbr])`);
+for (const w of gmbrWarnings) console.log(`PERINGATAN gmbr: ${w}`);
 const part1Count = part1Questions.length;
 const part2Count = part2Questions.length;
 const part3Count = part3Questions.length;
@@ -750,7 +885,7 @@ if (usePackageMode) {
   console.log(`  Paket              : ${paketTitle} (id: ${packageId})`);
 }
 console.log(`-> ${outPath}`);
-console.log(`-> ${imagesDir} (${imageCounter} gambar)`);
+console.log(`-> ${imagesDir} (${imageByHash.size} file unik dari ${imageCounter} gambar)`);
 if (usePackageMode) {
   const totalPackages = await upsertManifest();
   console.log(`-> ${path.join(projectRoot, "data", "manifest.js")} (${totalPackages} paket terdaftar)`);
