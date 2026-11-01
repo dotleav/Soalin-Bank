@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T13:55:47.733Z",
+  "generatedAt": "2026-11-01T14:04:21.869Z",
   "packages": [
     {
       "id": "2h-persiapan-minites__cedera-kepala-trauma-medulla-spinalis",
@@ -297,6 +297,14 @@
       "category": "2I - Persiapan Minites 1",
       "count": 30,
       "file": "packages/2i-persiapan-minites-1__latihan-minites-1-soal-gemini-argon.json"
+    },
+    {
+      "id": "2i-persiapan-minites-1__soal-semua-sumber-claude",
+      "tier": "reguler",
+      "title": "Soal semua sumber (Claude)",
+      "category": "2I - Persiapan Minites 1",
+      "count": 166,
+      "file": "packages/2i-persiapan-minites-1__soal-semua-sumber-claude.json"
     },
     {
       "id": "premium__2i-persiapan-minites-1-premium__minites-1",
