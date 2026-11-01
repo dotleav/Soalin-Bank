@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T13:32:25.698Z",
+  "generatedAt": "2026-11-01T13:33:09.484Z",
   "packages": [
     {
       "id": "2h-persiapan-minites__cedera-kepala-trauma-medulla-spinalis",
@@ -289,6 +289,14 @@
       "category": "2I - Persiapan Minites 1",
       "count": 30,
       "file": "packages/2i-persiapan-minites-1__latihan-minites-1-soal-gemini-argon.json"
+    },
+    {
+      "id": "2i-persiapan-minites-1__latihan-soal-minites-1-gemini-argon",
+      "tier": "reguler",
+      "title": "Latihan soal minites 1 (Gemini Argon)",
+      "category": "2I - Persiapan Minites 1",
+      "count": 30,
+      "file": "packages/2i-persiapan-minites-1__latihan-soal-minites-1-gemini-argon.json"
     },
     {
       "id": "premium__2i-persiapan-minites-1-premium__minites-1",
