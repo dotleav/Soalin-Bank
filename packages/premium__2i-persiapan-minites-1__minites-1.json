@@ -1,0 +1,728 @@
+{
+  "id": "premium__2i-persiapan-minites-1__minites-1",
+  "tier": "premium",
+  "title": "Minites 1",
+  "category": "2I - Persiapan Minites 1",
+  "questions": [
+    {
+      "id": "Q1",
+      "category": "",
+      "question": "Skrining hipotiroid dilakukan dengan pemeriksaan:",
+      "questionImages": [],
+      "options": {
+        "A": "T4",
+        "B": "TSH",
+        "C": "T3",
+        "D": "TRH",
+        "E": "T3 dan T4"
+      },
+      "optionExplanations": {
+        "A": "Kadar T4 bebas saja kurang sensitif untuk skrining hipotiroid primer. Pada hipotiroid primer dini, T4 bebas bisa masih berada dalam rentang normal karena tiroid dan hipofisis mengompensasi dengan meningkatkan TSH, sehingga pemeriksaan T4 tunggal sering melewatkan kasus.",
+        "B": "TSH meningkat pada hipotiroid primer karena hipofisis merespons rendahnya hormon tiroid dengan sekresi TSH berlebih. Perubahan ini terjadi lebih dulu dan lebih sensitif dibanding perubahan T4, sehingga TSH menjadi pemeriksaan skrining yang paling sensitif.",
+        "C": "T3 sering masih normal pada hipotiroid awal karena tubuh mempertahankan produksi T3 melalui konversi T4 di jaringan perifer. Karena itu T3 kurang sensitif untuk mendeteksi hipotiroid dini dan tidak dipakai sebagai skrining utama.",
+        "D": "TRH tidak digunakan untuk skrining rutin karena pemeriksaan TSH sudah langsung mencerminkan fungsi tiroid dan lebih praktis.",
+        "E": "Pemeriksaan kombinasi T3 dan T4 tidak diperlukan untuk skrining, karena TSH sudah cukup sensitif sebagai penanda awal. Menambahkan T3 dan T4 hanya meningkatkan biaya tanpa menambah kemampuan deteksi pada tahap skrining."
+      },
+      "answer": "B",
+      "explanation": "TSH. Pada hipotiroid primer, kelenjar tiroid tidak menghasilkan cukup hormon tiroid, sehingga hipofisis meningkatkan sekresi TSH sebagai kompensasi. Peningkatan TSH terjadi lebih dulu dan lebih sensitif dibanding penurunan T4 bebas, sehingga TSH menjadi pemeriksaan skrining utama. ",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-001.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q2",
+      "category": "",
+      "question": "Pubertas prekoks menyebabkan:",
+      "questionImages": [],
+      "options": {
+        "A": "Stunting",
+        "B": "Menstruasi terlambat",
+        "C": "Pada anak laki-laki, pubertas terjadi setelah usia 12 tahun",
+        "D": "Salah satu gejalanya adalah gangguan mental",
+        "E": "Perawakan pendek"
+      },
+      "optionExplanations": {
+        "A": "Pubertas prekoks justru memicu percepatan pertumbuhan pada awalnya, sehingga stunting bukan efek langsungnya. Stunting baru terjadi kemudian akibat penutupan lempeng epifisis dini.",
+        "B": "Pada pubertas prekoks yang terjadi adalah menstruasi dini, bukan terlambat.",
+        "C": "Pada laki-laki, pubertas prekoks didefinisikan sebelum usia 9 tahun. Pubertas yang mulai setelah usia 12 tahun bukan pubertas prekoks.",
+        "D": "Gangguan mental bukan gejala pubertas prekoks. Gejala khasnya berupa perkembangan seksual dini, seperti pembesaran payudara atau testis serta rambut pubis atau aksila sebelum usia normal.",
+        "E": "Percepatan maturasi tulang menyebabkan penutupan lempeng epifisis dini sehingga tinggi akhir menjadi pendek."
+      },
+      "answer": "E",
+      "explanation": "Perawakan pendek. Pubertas prekoks mempercepat maturasi tulang dan penutupan lempeng epifisis. Pertumbuhan awal memang cepat, tetapi masa tumbuh berakhir lebih dini sehingga tinggi akhir lebih pendek. ",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-002.png",
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-003.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q3",
+      "category": "",
+      "question": "Fungsi hormon tiroid pada bayi dan anak adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Pertumbuhan tinggi badan dan metabolisme sel",
+        "B": "Mempengaruhi pubertas",
+        "C": "Mengatur keseimbangan asam basa",
+        "D": "Mengatur keseimbangan elektrolit tubuh",
+        "E": "Memperlambat kerja jantung"
+      },
+      "optionExplanations": {
+        "A": "Hormon tiroid penting untuk pertumbuhan linier tulang dan otak serta mengatur laju metabolisme sel. Kekurangan hormon ini menyebabkan hambatan pertumbuhan dan keterlambatan perkembangan.",
+        "B": "Pubertas diatur terutama oleh GnRH, hipofisis, dan hormon seks. Peran tiroid bersifat tidak langsung.",
+        "C": "Keseimbangan asam basa diatur oleh ginjal dan paru, bukan tiroid.",
+        "D": "Elektrolit diatur terutama oleh ginjal dan aldosteron, bukan tiroid.",
+        "E": "Hormon tiroid justru meningkatkan frekuensi dan kontraktilitas jantung, sehingga tidak memperlambat kerja jantung."
+      },
+      "answer": "A",
+      "explanation": "Pertumbuhan tinggi badan dan metabolisme sel. Hormon tiroid mengatur pertumbuhan linier dan maturasi tulang serta laju metabolisme sel. Pada bayi dan anak, kekurangannya menyebabkan hambatan pertumbuhan dan keterlambatan perkembangan. ",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-004.png",
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-005.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q4",
+      "category": "",
+      "question": "Perawakan tinggi (tall stature) akibat kelebihan GH bisa disebabkan oleh:",
+      "questionImages": [],
+      "options": {
+        "A": "Tumor pada kelenjar adrenal",
+        "B": "Malnutrisi",
+        "C": "Tumor pada kelenjar hipofisis",
+        "D": "Defisiensi TSH",
+        "E": "Defisiensi somatotropin"
+      },
+      "optionExplanations": {
+        "A": "Tumor adrenal tidak meningkatkan GH. Gambaran yang khas adalah sindrom Cushing atau virilisasi, bergantung jenis tumornya.",
+        "B": "Malnutrisi menyebabkan perawakan pendek, bukan tinggi.",
+        "C": "Adenoma hipofisis penghasil GH merupakan penyebab tersering kelebihan GH. Pada masa anak menyebabkan gigantisme, sedangkan pada dewasa menyebabkan akromegali.",
+        "D": "Defisiensi TSH menyebabkan hipotiroid dan perawakan pendek, bukan tinggi.",
+        "E": "Defisiensi GH menyebabkan perawakan pendek, bukan tinggi."
+      },
+      "answer": "C",
+      "explanation": "Tumor pada kelenjar hipofisis. Adenoma hipofisis penghasil GH menyebabkan kelebihan GH. Sebelum lempeng epifisis menutup, kondisi ini menghasilkan gigantisme. ",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-006.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q5",
+      "category": "",
+      "question": "Atresia duodenum pada bayi ditandai oleh:",
+      "questionImages": [],
+      "options": {
+        "A": "Gambaran ronsen abdomen single bubble",
+        "B": "Gambaran ronsen abdomen double bubble",
+        "C": "Muntah tidak hijau",
+        "D": "Tidak bisa BAB dalam 24 jam setelah lahir",
+        "E": "Bayi nampak kembung besar"
+      },
+      "optionExplanations": {
+        "A": "Single bubble lebih sesuai dengan atresia esofagus tanpa fistula. Untuk atresia duodenum, gambaran khasnya adalah double bubble.",
+        "B": "Double bubble merupakan gambaran khas atresia duodenum, berupa gelembung lambung dan duodenum proksimal yang melebar.",
+        "C": "Pada atresia duodenum muntah umumnya berwarna hijau (bilious), karena obstruksi berada distal dari ampula Vater. Muntah tidak hijau tidak khas.",
+        "D": "Penundaan BAB lebih dari 24 jam setelah lahir merupakan tanda umum obstruksi, bukan penanda khas atresia duodenum.",
+        "E": "Distensi abdomen berat tidak khas karena obstruksi berada proksimal, sehingga lambung dan duodenum dapat dekompresi lewat muntah."
+      },
+      "answer": "B",
+      "explanation": "Double bubble. Gambaran ronsen abdomen double bubble khas atresia duodenum, berupa gelembung lambung dan duodenum proksimal yang melebar. ",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-007.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q6",
+      "category": "",
+      "question": "Penyebab spina bifida pada bayi:",
+      "questionImages": [],
+      "options": {
+        "A": "Faktor genetic",
+        "B": "Kerusakan gen saat di dalam kandungan",
+        "C": "Keurangan iodium",
+        "D": "Kekurangan asam folat",
+        "E": "Gangguan hormonal yang merangsang pertumbuhan saraf"
+      },
+      "optionExplanations": {
+        "A": "Faktor genetik berperan sebagai faktor risiko, tetapi bukan penyebab utama spina bifida.",
+        "B": "Kerusakan gen langsung saat dalam kandungan bukan mekanisme utama. Defek penutupan tabung neural lebih berkaitan dengan defisiensi folat.",
+        "C": "Defisiensi iodium berkaitan dengan gangguan tiroid, bukan spina bifida.",
+        "D": "Kekurangan asam folat pada awal kehamilan merupakan penyebab utama defek tabung neural, termasuk spina bifida, dan dapat dicegah dengan suplementasi folat.",
+        "E": "Spina bifida tidak disebabkan gangguan hormonal, melainkan kegagalan penutupan tabung neural pada awal kehamilan."
+      },
+      "answer": "D",
+      "explanation": "Kekurangan asam folat. Kegagalan penutupan tabung neural pada awal kehamilan menyebabkan spina bifida. Kekurangan asam folat merupakan faktor risiko utama yang dapat dicegah dengan suplementasi folat. ",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-008.png",
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-009.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q7",
+      "category": "",
+      "question": "Penanganan atresia esofagus preoperatif:",
+      "questionImages": [],
+      "options": {
+        "A": "Pemasangan rectal tube segera",
+        "B": "Elevasi bayi 45 derajat, kepala lebih tinggi",
+        "C": "Bayi boleh minum asalkan melalui pipa lambung",
+        "D": "Pasang pipa endotrakeal segera",
+        "E": "Foto kontras esofagus"
+      },
+      "optionExplanations": {
+        "A": "Rectal tube tidak diindikasikan pada atresia esofagus preoperatif karena tidak membantu dan dapat mengganggu.",
+        "B": "Posisi kepala lebih tinggi (elevasi 45 derajat) mengurangi refluks lambung dan risiko aspirasi saliva.",
+        "C": "Bayi tidak boleh diberi minum. Pipa lambung dipasang untuk dekompresi dengan suction, bukan untuk nutrisi.",
+        "D": "Intubasi tidak dilakukan rutin dan hanya dilakukan bila ada gangguan napas.",
+        "E": "Kontras oral berisiko aspirasi. Diagnosis cukup dengan pemasangan kateter dan foto polos."
+      },
+      "answer": "B",
+      "explanation": "Elevasi bayi 45 derajat, kepala lebih tinggi. Posisi ini mengurangi refluks lambung dan risiko aspirasi saliva, sementara pipa lambung dipasang untuk dekompresi. ",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-010.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q8",
+      "category": "",
+      "question": "Yang benar mengenai gastroschisis :",
+      "questionImages": [],
+      "options": {
+        "A": "Usus yang keluar di dinding abdomen terbungkus membran",
+        "B": "Operasi penutupan defek bisa ditunda sampai bayi berusia 10 bulan",
+        "C": "Bila diketahui sejak dari dalam kandungan, harus diterminasi segera karena tidak ada kemungkinan hidup",
+        "D": "Nama lainnya adalah omphalocele",
+        "E": "Bayi harus dilahirkan secara section caesarea"
+      },
+      "optionExplanations": {
+        "A": "Pada gastroschisis usus keluar tanpa membran. Yang terbungkus membran adalah omphalocele.",
+        "B": "Penutupan defek dilakukan segera setelah lahir, bukan ditunda. Usus yang terpapar cairan amnion dan lingkungan berisiko rusak dan infeksi.",
+        "C": "Diagnosis prenatal bukan indikasi terminasi. Prognosis umumnya baik dengan penanganan neonatal yang tepat.",
+        "D": "Omphalocele adalah kelainan berbeda, yaitu organ keluar melalui cincin umbilikus dan tertutup membran. Gastroschisis tidak disebut omphalocele.",
+        "E": "Sesuai kunci sumber, SC dianjurkan pada gastroschisis. [Perlu verifikasi kunci: pedoman terkini umumnya membolehkan persalinan pervaginam bila kondisi obstetri memungkinkan; SC dipilih atas indikasi obstetri.]"
+      },
+      "answer": "E",
+      "explanation": "Bayi harus dilahirkan secara section caesarea. Sesuai kunci sumber. Perlu verifikasi kunci, karena persalinan pervaginam juga dapat dipertimbangkan bila kondisi obstetri memungkinkan. ",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-011.png",
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-012.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q9",
+      "category": "",
+      "question": "Seorang bayi perempuan dengan berat badan 10 kg dibawa ke puskesmas karena diare. Bayi tersebut BAB sebanyak 10 kali dalam sehari. Pada pemeriksaan didapatkan turgor kulit jelek, menetek rakus, dan produksi urine berkurang. Bayi ini tidak syok. Defisit cairan pada bayi ini diperkirakan sebanyak….",
+      "questionImages": [],
+      "options": {
+        "A": "1900-2000 ml",
+        "B": "1400-1500 ml",
+        "C": "700-1000 ml",
+        "D": "400-500 ml",
+        "E": "200-250 ml"
+      },
+      "optionExplanations": {
+        "A": "Jumlah ini setara sekitar 19-20% dari BB, yaitu dehidrasi berat. Tidak sesuai tanda klinis yang ada tanpa syok.",
+        "B": "Jumlah ini setara sekitar 14-15% dari BB, lebih sesuai dehidrasi berat dibanding tanda klinis yang ada.",
+        "C": "Dehidrasi sedang (5-10%) pada BB 10 kg setara 500-1000 ml. Turgor kulit jelek dan urine berkurang tanpa syok sesuai dehidrasi sedang.",
+        "D": "Jumlah ini setara sekitar 4-5% dari BB, sesuai dehidrasi ringan yang belum menimbulkan turgor kulit jelek.",
+        "E": "Jumlah ini setara sekitar 2% dari BB, belum menimbulkan tanda dehidrasi yang tampak."
+      },
+      "answer": "C",
+      "explanation": "700-1000 ml. Dehidrasi sedang (5-10%) pada BB 10 kg setara 500-1000 ml. Tanda klinis berupa turgor kulit jelek dan urine berkurang tanpa syok sesuai dehidrasi sedang.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q10",
+      "category": "",
+      "question": "Anak-anak perempuan usia 8 tahun dibawa orangtuanya dengan keluhan diare. BAB sekitar 6 kali sehari disertai dengan nyeri perut. Dari feses tampak ada darah dan lendir. Dari pemeriksaan mikroskopis ditemukan kista seperti gambar di bawah ini. Apakah terapi medikamentosa yang tepat pada kasus di atas adalah…. ",
+      "questionImages": [
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-013.jpeg"
+      ],
+      "options": {
+        "A": "Cotrimoxazole",
+        "B": "Amoxiciline",
+        "C": "Doxycycline",
+        "D": "Kloramfenikol",
+        "E": "Metronidazole"
+      },
+      "optionExplanations": {
+        "A": "Kotrimoksazol adalah antibakteri dan tidak efektif terhadap amoeba jaringan.",
+        "B": "Amoksisilin adalah antibiotik beta-laktam dan tidak efektif terhadap Entamoeba histolytica.",
+        "C": "Doksisiklin adalah antibiotik dan tidak merupakan terapi amebiasis.",
+        "D": "Kloramfenikol tidak tepat untuk amebiasis dan memiliki risiko toksisitas, termasuk supresi sumsum tulang.",
+        "E": "Metronidazol adalah terapi pilihan untuk amebiasis invasif (kolitis amuba), diikuti amebisid luminal untuk membersihkan kista."
+      },
+      "answer": "E",
+      "explanation": "Metronidazole. Kista Entamoeba histolytica pada feses dengan darah dan lendir menunjukkan amebiasis invasif (kolitis amuba). Terapi pilihannya metronidazol, diikuti amebisid luminal untuk membersihkan kista.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q11",
+      "category": "",
+      "question": "Seorang anak perempuan usia 2 tahun datang dengan keluhan adanya BAB cair lebih dari 3 kali sehari. Sejak mengkonsumsi susu formula, kotorannya cenderung berbau asam. Pada pemeriksaan fisik ditemukan adanya meteorismus, nyeri pada abdomen pada saat dipalpasi, dan eritema sekitar anus. Apakah kemungkinan diagnosis pada anak tersebut?",
+      "questionImages": [],
+      "options": {
+        "A": "Diare persisten",
+        "B": "Malabsorbsi lemak",
+        "C": "Intoleransi laktosa",
+        "D": "Diare disentriform",
+        "E": "Diare sekretorik"
+      },
+      "optionExplanations": {
+        "A": "Durasi diare lebih dari 14 hari tidak disebutkan dalam kasus, sehingga diare persisten belum dapat ditegakkan.",
+        "B": "Feses berlemak atau berbau tengik tidak disebutkan dalam kasus. Malabsorpsi lemak tidak sesuai dengan gambaran ini.",
+        "C": "Laktosa yang tidak tercerna difermentasi bakteri kolon menghasilkan asam dan gas, sesuai feses berbau asam, meteorismus, dan eritema perianal setelah konsumsi susu formula.",
+        "D": "Diare disentriform ditandai lendir dan darah, yang tidak disebutkan dalam kasus.",
+        "E": "Diare sekretorik tidak disertai feses asam, meteorismus, dan tanda fermentasi."
+      },
+      "answer": "C",
+      "explanation": "Intoleransi laktosa. Laktosa yang tidak tercerna difermentasi bakteri kolon menghasilkan asam dan gas, sehingga feses berbau asam, perut kembung (meteorismus), dan iritasi perianal.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q12",
+      "category": "",
+      "question": "Ibu membawa seorang bayi laki-laki berusia 2 bulan ke poliklinik  dengan keluhan ikterik yang menetap. Bayi tersebut juga memiliki warna urine seperti teh dan BAB berwarna pucat. Kondisi yang terjadi pada bayi tersebut yang harus segera mendapatkan penanganan sebelum berusia 2 bulan adalah….",
+      "questionImages": [],
+      "options": {
+        "A": "Penyakit metabolism",
+        "B": "Kista ductus choledocus",
+        "C": "Penyakit Carolli",
+        "D": "Hepatitis neonatal",
+        "E": "Atresia bilier"
+      },
+      "optionExplanations": {
+        "A": "Penyakit metabolik tidak menyebabkan urine seperti teh dan BAB pucat secara khas.",
+        "B": "Kista duktus koledokus dapat memberi gejala serupa, tetapi onsetnya biasanya lebih lambat dan lebih jarang.",
+        "C": "Penyakit Caroli jarang muncul sebagai ikterik menetap pada bayi.",
+        "D": "Hepatitis neonatal dapat menyerupai, tetapi kolestasis obstruktif (atresia bilier) lebih mendesak untuk ditangani segera.",
+        "E": "Atresia bilier adalah kolestasis ekstrahepatik dengan urine gelap dan BAB pucat. Operasi Kasai perlu dilakukan sebelum usia sekitar 2 bulan."
+      },
+      "answer": "E",
+      "explanation": "Atresia bilier. Ikterik menetap, urine seperti teh, dan BAB pucat menunjukkan kolestasis ekstrahepatik. Kondisi ini perlu tindakan segera, yaitu operasi Kasai, sebelum usia sekitar 2 bulan.  ",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-014.png",
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-015.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q13",
+      "category": "",
+      "question": "Berikut ini didapatkan pada pasien ASD (Atrial Septal Defect), yaitu…",
+      "questionImages": [],
+      "options": {
+        "A": "Bila besar didapatkan gambaran hipertrofi ventrikel kanan tipe tekanan",
+        "B": "Pada ASD primum aksis EKG selalu superior",
+        "C": "Bentuk jantung seperti sepatu",
+        "D": "Gagal jantung sering terjadi pada usia 5 tahun",
+        "E": "Sering menyebabkan endokarditis infektif"
+      },
+      "optionExplanations": {
+        "A": "Pada ASD ditemukan hipertrofi ventrikel kanan tipe volume karena beban volume dari pirau kiri ke kanan, bukan tipe tekanan.",
+        "B": "Aksis superior memang khas ASD primum, tetapi kata 'selalu' terlalu absolut.",
+        "C": "Bentuk seperti sepatu (coeur en sabot) khas tetralogi Fallot, bukan ASD.",
+        "D": "Sesuai kunci sumber. [Perlu verifikasi kunci: gagal jantung pada ASD umumnya baru muncul pada usia dewasa, bukan usia 5 tahun.]",
+        "E": "Endokarditis infektif jarang terjadi pada ASD dibanding VSD atau PDA."
+      },
+      "answer": "D",
+      "explanation": "Sesuai kunci sumber. Perlu verifikasi kunci, karena gagal jantung pada ASD umumnya baru muncul pada usia dewasa.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q14",
+      "category": "",
+      "question": "Seorang anak usia 4 tahun 7 bulan , datang ke dokter karena keluhan sering biru. Pada pemeriksaan fisik, dokter mendengar suara jantung S2 tunggal dan terdapat bising ejeksi sistolik di ruang intercostal I-II. Pemeriksaan Ro Thorak didapatkan apek jantung terangkat dan penurunan corakan vaskuler pulmo. Hasil ekokardiografi menunjukkan adanya malalignment VSD dengan overriding aorta. Berikut ini tanda dan gejala yang terdapat pada anak tersebut, kecuali…",
+      "questionImages": [],
+      "options": {
+        "A": "Cyanotic spell",
+        "B": "Cerebral abses",
+        "C": "Congestive heart failure",
+        "D": "Gagal tumbuh",
+        "E": "Fatigue"
+      },
+      "optionExplanations": {
+        "A": "Serangan sianotik (spell) merupakan gejala khas tetralogi Fallot, sering dipicu menangis atau aktivitas.",
+        "B": "Abses otak merupakan komplikasi sianosis kronik pada tetralogi Fallot, karena emboli paradoks melalui pirau kanan ke kiri.",
+        "C": "Gagal jantung kongestif tidak lazim pada tetralogi Fallot karena aliran darah ke paru berkurang akibat stenosis pulmonal.",
+        "D": "Gagal tumbuh sering ditemukan pada sianosis kronik akibat hipoksemia.",
+        "E": "Lelah sering dialami akibat hipoksemia kronik."
+      },
+      "answer": "C",
+      "explanation": "Congestive heart failure. Pada tetralogi Fallot, stenosis pulmonal mengurangi aliran darah ke paru sehingga gagal jantung kongestif tidak lazim. Gejala lain berupa sianosis, serangan sianotik, abses otak, gagal tumbuh, dan lelah.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q15",
+      "category": "",
+      "question": "Seorang anak laki-laki usia 14 tahun datang ke poliklinik dengan keluhan dada berdebar dan mudah lelah. Beberapa bulan yang lalu pasien sering demam dan mengalami nyeri tenggorokan dengan pemeriksaan ASTO positif. Hasil Ro Thorak ditemukan adanya kardiomegali. Pada pemeriksaan ekokardiografi ditemukan stenosis mitralis dengan insufisiensi mitral. Pasien mendapatkan antibiotik untuk profilaksis. Berapa lama antibiotik seharusnya diberikan kepada pasien tersebut?",
+      "questionImages": [],
+      "options": {
+        "A": "Sampai 5 tahun sejak terdiagnosis",
+        "B": "Sampai usia 21 tahun",
+        "C": "Sampai usia 25 tahun",
+        "D": "Sampai 10 tahun sejak terdiagnosis",
+        "E": "Seumur hidup"
+      },
+      "optionExplanations": {
+        "A": "Durasi 5 tahun tidak sesuai untuk penyakit jantung rematik dengan kelainan katup residual.",
+        "B": "Durasi sampai usia 21 tahun hanya untuk karditis tanpa sisa kerusakan katup.",
+        "C": "Durasi sampai usia 25 tahun bukan pedoman untuk kasus ini.",
+        "D": "Durasi 10 tahun untuk karditis tanpa sisa kerusakan katup, bukan kasus dengan kelainan katup residual.",
+        "E": "Penyakit jantung rematik dengan kelainan katup residual (stenosis dan insufisiensi mitral) memerlukan profilaksis sekunder seumur hidup."
+      },
+      "answer": "E",
+      "explanation": "Seumur hidup. Pasien memiliki penyakit jantung rematik dengan kerusakan katup residual (stenosis dan insufisiensi mitral). Profilaksis sekunder diberikan seumur hidup untuk mencegah serangan ulang demam rematik.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q16",
+      "category": "",
+      "question": "Berikut ini merupakan obat yang digunakan sebagai manajemen definitive pada penyakit jantung kongenital, adalah…",
+      "questionImages": [],
+      "options": {
+        "A": "Digoxin pada Ventricular Septal defect",
+        "B": "Furosemide pada Atrial septal defect",
+        "C": "Spironolacton pada Penyakit jantung rematik",
+        "D": "Ibuprofen pada Paten Duktus Arteriosus",
+        "E": "Captopril pada Pulmonary Hypertension"
+      },
+      "optionExplanations": {
+        "A": "Digoxin untuk gagal jantung, bukan terapi definitif VSD. VSD ditangani dengan penutupan defek.",
+        "B": "Diuretik hanya mengatasi gejala kongesti, bukan terapi definitif ASD. ASD ditangani dengan penutupan defek.",
+        "C": "Antagonis aldosteron tidak merupakan terapi definitif penyakit jantung rematik. Terapi utamanya profilaksis antibiotik dan penanganan kelainan katup.",
+        "D": "Ibuprofen menutup duktus arteriosus secara farmakologis dan merupakan terapi definitif PDA, selain penutupan intervensi atau bedah bila gagal.",
+        "E": "ACE inhibitor bukan terapi utama hipertensi pulmonal. Terapi utamanya vasodilator pulmonal khusus."
+      },
+      "answer": "D",
+      "explanation": "Ibuprofen pada paten duktus arteriosus. Ibuprofen menghambat sintesis prostaglandin sehingga duktus menutup. Obat lain pada pilihan hanya terapi suportif atau simtomatik.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q17",
+      "category": "",
+      "question": "Pernyataan di bawah ini yang tepat untuk respiratory distress adalah…..",
+      "questionImages": [],
+      "options": {
+        "A": "Caesarian section berhubungan dengan transient tachypnea of newborn",
+        "B": "Caesarian section berhubungan dengan meconium aspiration syndrome",
+        "C": "Caesarian section berhubungan dengan pneumonia",
+        "D": "Caesarian section berhubungan dengan birth trauma",
+        "E": "Caesarian section berhubungan dengan hiperbilirubinemia"
+      },
+      "optionExplanations": {
+        "A": "SC tanpa didahului persalinan spontan membuat cairan paru tidak teresorpsi sempurna, sehingga dapat timbul takipnea transien pada neonatus.",
+        "B": "Meconium aspiration syndrome berhubungan dengan distres janin saat persalinan, bukan SC.",
+        "C": "Pneumonia tidak berhubungan langsung dengan SC.",
+        "D": "Birth trauma berhubungan dengan persalinan pervaginam, bukan SC.",
+        "E": "Ikterus tidak berhubungan langsung dengan SC."
+      },
+      "answer": "A",
+      "explanation": "SC berhubungan dengan transient tachypnea of newborn. Pada SC tanpa didahului persalinan, paru tidak mendapat stimulasi katekolamin dan kompresi toraks dari jalan lahir, sehingga cairan paru tidak teresorpsi sempurna. ",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-016.png",
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-017.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q18",
+      "category": "",
+      "question": "Perbedaan antara caput succedaneum dan cephalhematoma adalah….",
+      "questionImages": [],
+      "options": {
+        "A": "Caput succedaneum adalah edema yang melintasi suture lines",
+        "B": "Cephalhematoma adalah edema yang melintasi suture lines",
+        "C": "Caput succedaneum membesar seiring berjalannya waktu",
+        "D": "Pembengkakan di cephalhematoma bersifat lunak dan pitting",
+        "E": "Caput succedaneum berhubungan dengan fraktur tengkorak"
+      },
+      "optionExplanations": {
+        "A": "Caput succedaneum adalah edema lunak yang melewati sutura dan hilang dalam beberapa hari.",
+        "B": "Cephalhematoma terbatas pada satu tulang kepala dan tidak melewati sutura.",
+        "C": "Caput justru mengecil dalam beberapa hari, tidak membesar.",
+        "D": "Cephalhematoma keras dan tidak pitting. Pitting khas edema.",
+        "E": "Caput tidak berhubungan dengan fraktur. Fraktur lebih sering menyertai cephalhematoma."
+      },
+      "answer": "A",
+      "explanation": "Caput succedaneum adalah edema yang melintasi sutura. Caput bersifat lunak dan hilang dalam beberapa hari, sedangkan cephalhematoma terbatas pada satu tulang dan tidak melewati sutura. ",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-018.png",
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-019.png",
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-020.png",
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-021.png",
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-022.png",
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-023.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q19",
+      "category": "",
+      "question": "Faktor fetal di trauma lahir adalah…..",
+      "questionImages": [],
+      "options": {
+        "A": "Breech presentation",
+        "B": "Oligohydramnion",
+        "C": "Prolonged labor",
+        "D": "Dystocia",
+        "E": "Primigravida"
+      },
+      "optionExplanations": {
+        "A": "Presentasi bokong meningkatkan risiko trauma lahir karena posisi janin yang tidak sesuai dengan jalan lahir.",
+        "B": "Oligohidramnion merupakan faktor ibu atau ketuban, bukan faktor janin.",
+        "C": "Persalinan lama merupakan faktor proses persalinan, bukan faktor janin.",
+        "D": "Distosia merupakan gangguan persalinan, bukan faktor janin.",
+        "E": "Primigravida merupakan faktor ibu."
+      },
+      "answer": "A",
+      "explanation": "Breech presentation. Presentasi bokong merupakan faktor janin yang meningkatkan risiko trauma lahir. Pilihan lain termasuk faktor ibu, ketuban, atau proses persalinan. ",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-024.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q20",
+      "category": "",
+      "question": "Apakah kondisi yang menyebabkan neonatus harus dirujuk dari layanan kesehatan primer ke rumah sakit rawat inap?",
+      "questionImages": [],
+      "options": {
+        "A": "Neonatus dengan kelainan polydactyly",
+        "B": "Berat lahir 2300 gram",
+        "C": "Tidak dapat diberi asupan makan dengan normal",
+        "D": "Temperatur 36,3 derajat Celcius",
+        "E": "Umur kehamilan 36 minggu"
+      },
+      "optionExplanations": {
+        "A": "Polidaktili tidak selalu memerlukan rujukan rawat inap segera jika tidak disertai gangguan fungsi atau komplikasi.",
+        "B": "BBLR ringan dapat dipantau di layanan primer dengan kontrol rutin.",
+        "C": "Ketidakmampuan menyusu atau makan merupakan tanda bahaya neonatus yang memerlukan rujukan ke rumah sakit.",
+        "D": "Hipotermia ringan dapat ditangani di layanan primer dengan penghangatan.",
+        "E": "Bayi late preterm dapat dirawat di layanan primer dengan pemantauan, bila tidak ada komplikasi."
+      },
+      "answer": "C",
+      "explanation": "Tidak dapat diberi asupan makan dengan normal. Ketidakmampuan menyusu atau makan termasuk tanda bahaya neonatus dan memerlukan rujukan ke rumah sakit untuk evaluasi.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q21",
+      "category": "",
+      "question": "Pasien laki-laki usia 4 tahun datang dengan sakit kepala, riwayat infeksi cacar air dan mengalami kejang. Ditemukan adanya vesikel-vesikel pada kulit. Anak somnolen, suhu 38.8C, kaku kuduk (-), clonus (+), refleks fisiologis meningkat. Diagnosis yang tepat pada kasus tersebut?",
+      "questionImages": [],
+      "options": {
+        "A": "Meningitis bakterial",
+        "B": "Meningitis viral",
+        "C": "Encephalitis",
+        "D": "Kejang demam",
+        "E": "Epilepsi"
+      },
+      "optionExplanations": {
+        "A": "Meningitis bakterial tidak sesuai dengan riwayat varisela dan gangguan kesadaran disertai refleks meningkat.",
+        "B": "Meningitis viral tidak disertai gangguan kesadaran dan refleks meningkat yang khas.",
+        "C": "Penurunan kesadaran, kejang, dan refleks meningkat setelah varisela sesuai ensefalitis, yaitu peradangan jaringan otak akibat virus.",
+        "D": "Kejang demam tidak disertai penurunan kesadaran dan refleks meningkat.",
+        "E": "Epilepsi tidak disertai demam dan gejala neurologis akut."
+      },
+      "answer": "C",
+      "explanation": "Encephalitis. Penurunan kesadaran, kejang, dan refleks meningkat setelah varisela menunjukkan keterlibatan parenkim otak, bukan hanya selaput otak. ",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-025.png",
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-026.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q22",
+      "category": "",
+      "question": "Pasien anak-anak datang  dengan keluhan mendadak salah satu kakinya lemas, disertai demam tinggi. Jari masih dapat digerakkan. Diagnosis yang tepat pada kasus tersebut?",
+      "questionImages": [],
+      "options": {
+        "A": "GBS",
+        "B": "Polio",
+        "C": "Meningitis",
+        "D": "Encephalitis",
+        "E": "Fraktur"
+      },
+      "optionExplanations": {
+        "A": "GBS biasanya ascending, simetris, dan disertai refleks yang menurun, tidak sesuai dengan kelumpuhan asimetris yang mendadak.",
+        "B": "Paralisis flaksid asimetris mendadak disertai demam tinggi sesuai poliomielitis.",
+        "C": "Meningitis tidak menyebabkan kelumpuhan flaksid asimetris.",
+        "D": "Ensefalitis ditandai gangguan kesadaran, bukan kelumpuhan lokal.",
+        "E": "Fraktur tidak disertai demam tinggi dan tidak sesuai dengan gambaran ini."
+      },
+      "answer": "B",
+      "explanation": "Polio. Kelumpuhan flaksid asimetris yang mendadak disertai demam tinggi sesuai poliomielitis. Pada GBS, kelumpuhan biasanya simetris dan ascending. ",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-027.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q23",
+      "category": "",
+      "question": "Gejala encephalitis, kecuali",
+      "questionImages": [],
+      "options": {
+        "A": "Demam tinggi mendadak",
+        "B": "Mual muntah",
+        "C": "Penurunan kesadaran",
+        "D": "Kejang",
+        "E": "Kelumpuhan"
+      },
+      "optionExplanations": {
+        "A": "Demam tinggi mendadak merupakan gejala umum encephalitis.",
+        "B": "Mual muntah merupakan gejala umum encephalitis akibat peningkatan tekanan intrakranial.",
+        "C": "Penurunan kesadaran merupakan gejala utama encephalitis.",
+        "D": "Kejang merupakan gejala encephalitis.",
+        "E": "Kelumpuhan bukan gejala khas encephalitis. Kelumpuhan flaksid lebih sesuai pada GBS atau polio."
+      },
+      "answer": "E",
+      "explanation": "Kelumpuhan. Demam, muntah, penurunan kesadaran, dan kejang merupakan gejala ensefalitis. Kelumpuhan flaksid lebih sesuai GBS atau polio. ",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-025.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q24",
+      "category": "",
+      "question": "Kejang demam adalah bangkitan kejang yang terjadi pada kenaikan suhu tubuh (suhu rectal > 38°C) yang disebabkan oleh …",
+      "questionImages": [],
+      "options": {
+        "A": "Genetik",
+        "B": "Imunokompromised",
+        "C": "Autoimun",
+        "D": "Proses intrakranial",
+        "E": "Proses ekstrakranial"
+      },
+      "optionExplanations": {
+        "A": "Faktor genetik merupakan predisposisi, bukan pemicu langsung kejang demam.",
+        "B": "Imunokompromais bukan penyebab langsung kejang demam.",
+        "C": "Penyakit autoimun bukan penyebab kejang demam.",
+        "D": "Proses intrakranial menyebabkan kejang simptomatik, bukan kejang demam.",
+        "E": "Kejang demam disebabkan proses ekstrakranial, terutama infeksi di luar otak yang memicu demam."
+      },
+      "answer": "E",
+      "explanation": "Proses ekstrakranial. Kejang demam dipicu demam akibat infeksi di luar otak. Proses intrakranial menyebabkan kejang simptomatik, bukan kejang demam. ",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-029.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q25",
+      "category": "",
+      "question": "Gold standard pemeriksaan ISK",
+      "questionImages": [],
+      "options": {
+        "A": "Urinpancartengah105",
+        "B": "Urinpancartengah104",
+        "C": "Aspirasi suprapubik 1 atau >300",
+        "D": "Aspirasi suprapubik 1 atau >500",
+        "E": "Urin pancar tengah 103"
+      },
+      "optionExplanations": {
+        "A": "Kultur urin pancar tengah dengan jumlah koloni ≥10^5 CFU/mL merupakan baku emas diagnosis ISK.",
+        "B": "Jumlah koloni 10^4 bukan ambang standar untuk urin pancar tengah.",
+        "C": "Pada aspirasi suprapubik, pertumbuhan koloni sedikit saja sudah bermakna, sehingga ambang yang disebutkan tidak sesuai.",
+        "D": "Ambang aspirasi suprapubik tidak sesuai dengan pedoman. Pertumbuhan sedikit saja sudah bermakna.",
+        "E": "Ambang 10^3 tidak sesuai untuk diagnosis ISK."
+      },
+      "answer": "A",
+      "explanation": "Urin pancar tengah ≥10^5. Pada gejala ISK, kultur urin pancar tengah dengan koloni ≥10^5 CFU/mL merupakan baku emas diagnosis. Aspirasi suprapubik terutama digunakan pada bayi.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q26",
+      "category": "",
+      "question": "Gejala sindrom nefrotik",
+      "questionImages": [],
+      "options": {
+        "A": "Edema anasarca, hipoalbuminemia, hiperkolesterolemia, C3 tinggi",
+        "B": "Edema anasarca, hiperalbuminemia, hiperkolesterolemia, C3 rendah",
+        "C": "Edema anasarca, hipoalbuminemia, hiperkolesterolemia, C3 rendah",
+        "D": "Edema anasarca, hipoalbuminemia, hiperkolesterolemia, C3 normal",
+        "E": "Edema anasarca, hiperalbuminemia, hiperkolesterolemia, C3 tinggi"
+      },
+      "optionExplanations": {
+        "A": "Kadar C3 tinggi tidak khas pada sindrom nefrotik.",
+        "B": "Albumin rendah, bukan tinggi, pada sindrom nefrotik.",
+        "C": "C3 rendah lebih khas glomerulonefritis atau lupus, bukan sindrom nefrotik primer.",
+        "D": "Triad sindrom nefrotik berupa proteinuria masif, hipoalbuminemia, dan hiperlipidemia dengan edema. C3 normal pada sindrom nefrotik primer.",
+        "E": "Albumin rendah, bukan tinggi, pada sindrom nefrotik."
+      },
+      "answer": "D",
+      "explanation": "Edema anasarca, hipoalbuminemia, hiperkolesterolemia, C3 normal. Proteinuria masif menurunkan albumin dan menaikkan kolesterol. C3 biasanya normal pada sindrom nefrotik primer.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q27",
+      "category": "",
+      "question": "Etiologi GNA",
+      "questionImages": [],
+      "options": {
+        "A": "Autoimun",
+        "B": "Staphylococcus aureus",
+        "C": "Streptococcus hemoliticus Gol. A tipe 12 dan 25",
+        "D": "Streptococcus hemoliticus Gol. B tipe 12 dan 25",
+        "E": "E. Colli"
+      },
+      "optionExplanations": {
+        "A": "Autoimun tidak tepat sebagai etiologi utama GNA pasca-streptokokus.",
+        "B": "Staphylococcus aureus dapat memicu glomerulonefritis lain, tetapi bukan penyebab GNA klasik.",
+        "C": "Streptokokus grup A tipe nefritogenik 12 dan 25 merupakan penyebab GNA pasca-streptokokus.",
+        "D": "Streptokokus grup B bukan penyebab GNA klasik.",
+        "E": "E. coli bukan penyebab GNA pasca-infeksi."
+      },
+      "answer": "C",
+      "explanation": "Streptococcus hemoliticus gol. A tipe 12 dan 25. GNA pasca-streptokokus terjadi setelah infeksi streptokokus grup A nefritogenik, dengan kompleks imun yang mengendap di glomerulus. ",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__minites-1/img-030.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q28",
+      "category": "",
+      "question": "Definisi oliguria",
+      "questionImages": [],
+      "options": {
+        "A": "<2cc/kgBB/jam pada neonatus",
+        "B": "<15 ml/kgBB/hari pada anak",
+        "C": "<15 ml/kgBB/jam pada anak",
+        "D": "<1cc/kgBB/jam pada neonatus",
+        "E": "<0.5cc/kgBB/jam pada neonatus"
+      },
+      "optionExplanations": {
+        "A": "Nilai <2 mL/kgBB/jam tidak sesuai definisi oliguria neonatus.",
+        "B": "Nilai per hari tidak sesuai dengan definisi oliguria per jam.",
+        "C": "Nilai <15 mL/kgBB/jam terlalu besar untuk didefinisikan sebagai oliguria.",
+        "D": "Oliguria neonatus didefinisikan sebagai produksi urine kurang dari 1 mL/kgBB/jam.",
+        "E": "Nilai <0,5 mL/kgBB/jam terlalu ketat dan bukan definisi standar oliguria neonatus."
+      },
+      "answer": "D",
+      "explanation": "<1 cc/kgBB/jam pada neonatus. Oliguria neonatus didefinisikan sebagai produksi urine kurang dari 1 mL/kgBB/jam.",
+      "explanationImages": [],
+      "isBroken": false
+    }
+  ]
+}
