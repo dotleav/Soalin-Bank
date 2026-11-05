@@ -1,0 +1,1714 @@
+{
+  "id": "premium__blok-1j__ub-1j-24",
+  "tier": "premium",
+  "title": "UB 1J (24)",
+  "category": "Blok 1J",
+  "questions": [
+    {
+      "id": "Q1",
+      "category": "",
+      "question": "Apa nama sistem konduksi jantung yang terdapat pada anterolateral muara vena cava superior dekat ujung superior crista terminalis?",
+      "questionImages": [],
+      "options": {
+        "A": "Bundle Branch Left and Right",
+        "B": "Nodus Atrioventrikularis",
+        "C": "Purkinje Fiber",
+        "D": "Nodus Ranvier",
+        "E": "Nodus Sinoatrialis"
+      },
+      "optionExplanations": {
+        "A": "Berkas His dan cabangnya berada di septum interventrikular.",
+        "B": "Terletak di dasar atrium dekat septum, bukan di muara vena cava superior.",
+        "C": "Serabut Purkinje menghantarkan impuls di ventrikel, bukan di atrium.",
+        "D": "Nodus Ranvier adalah celah pada selubung mielin saraf, bukan jaringan jantung.",
+        "E": "Pacemaker jantung yang terletak anterolateral pada muara vena cava superior dekat crista terminalis."
+      },
+      "answer": "E",
+      "explanation": "Nodus SA adalah pacemaker utama jantung dan terletak di dinding atrium kanan pada muara vena cava superior, dekat ujung superior crista terminalis. Dari sini impuls menyebar ke atrium, lalu ke nodus AV, berkas His, dan serabut Purkinje. ",
+      "explanationImages": [
+        "images/packages/premium__blok-1j__ub-1j-24/img-001.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q2",
+      "category": "",
+      "question": "Apa yang menyebabkan bunyi jantung pertama (S1)?",
+      "questionImages": [],
+      "options": {
+        "A": "penutupan katup semiluar",
+        "B": "pembuluh darah turbulen dengan vena cava",
+        "C": "penutupan katup aorta dan pulmonal",
+        "D": "pembukaan katup mitral dan trikuspid",
+        "E": "penutupan katup atrioventrikular"
+      },
+      "optionExplanations": {
+        "A": "Penutupan katup semilunaris menghasilkan S2, bukan S1.",
+        "B": "Bunyi turbulen dari vena cava bukan penyebab S1.",
+        "C": "Penutupan katup aorta dan pulmonal menghasilkan S2.",
+        "D": "Pembukaan katup AV saat pengisian normal tidak menghasilkan bunyi utama.",
+        "E": "S1 disebabkan penutupan katup AV (mitral dan trikuspid) saat awal sistol."
+      },
+      "answer": "E",
+      "explanation": "S1 terdengar di awal sistol ventrikel saat katup AV menutup, berbunyi 'lub'. Bunyi ini paling jelas terdengar di apeks jantung. ",
+      "explanationImages": [
+        "images/packages/premium__blok-1j__ub-1j-24/img-002.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q3",
+      "category": "",
+      "question": "Pada orang dewasa, di mana letak apeks kordis?",
+      "questionImages": [],
+      "options": {
+        "A": "SIC IV midsternalis",
+        "B": "SIC IV midparasternalis",
+        "C": "SIC V parasternalis",
+        "D": "SIC V Midclavicula",
+        "E": "SIC IV midclavicula"
+      },
+      "optionExplanations": {
+        "A": "Lokasi ini berada di tengah sternum, bukan apeks.",
+        "B": "Terlalu medial dan terlalu tinggi untuk apeks normal.",
+        "C": "Lokasi parasternal bukan lokasi apeks normal.",
+        "D": "Apeks normal pada dewasa berada di SIC V garis midklavikula kiri.",
+        "E": "Apeks normal berada lebih rendah, yaitu di SIC V."
+      },
+      "answer": "D",
+      "explanation": "Apeks kordis dibentuk ventrikel kiri dan teraba di SIC V sekitar 7 sampai 9 cm dari bidang median, yaitu di garis midklavikula. ",
+      "explanationImages": [
+        "images/packages/premium__blok-1j__ub-1j-24/img-003.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q4",
+      "category": "",
+      "question": "Seorang laki-laki berusia 30 tahun menjalani pemeriksaan spirometri. Didapatkan FEV1 sebesar 4 L, FVC sebesar 5 L. Berapakah FEV1/FVC-nya?",
+      "questionImages": [],
+      "options": {
+        "A": "40%",
+        "B": "80%",
+        "C": "100%",
+        "D": "60%",
+        "E": "20%"
+      },
+      "optionExplanations": {
+        "A": "Hasil ini tidak sesuai perhitungan 4 dibagi 5.",
+        "B": "4 L dibagi 5 L sama dengan 0,8, atau 80%.",
+        "C": "Rasio 100% berarti FEV1 sama dengan FVC.",
+        "D": "Hasil ini tidak sesuai perhitungan 4 dibagi 5.",
+        "E": "Rasio 4 dibagi 5 bukan 20%."
+      },
+      "answer": "B",
+      "explanation": "FEV1/FVC dihitung dengan membagi volume ekspirasi paksa detik pertama dengan kapasitas vital paksa. Pada kasus ini 4 dibagi 5 menghasilkan 80%, yang masih termasuk normal. ",
+      "explanationImages": [
+        "images/packages/premium__blok-1j__ub-1j-24/img-004.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q5",
+      "category": "",
+      "question": "Manakah nervi craniales berikut ini yang memberikan inervasi sensoris umum pada area posterior dari cavitas nasi?",
+      "questionImages": [],
+      "options": {
+        "A": "N. ophthalmicus (V1)",
+        "B": "N. Maxillaris (V2)",
+        "C": "N. glossopharyngeus (IX)",
+        "D": "N. Mandibularis (V3)",
+        "E": "N. olfactorius (I)"
+      },
+      "optionExplanations": {
+        "A": "V1 menginervasi bagian anterosuperior cavitas nasi, bukan posterior.",
+        "B": "V2 menginervasi bagian posteroinferior cavitas nasi melalui ganglion pterygopalatinum.",
+        "C": "Saraf IX menginervasi faring dan lidah, bukan cavitas nasi.",
+        "D": "V3 tidak menginervasi cavitas nasi.",
+        "E": "Saraf I bersifat olfaktorius untuk penciuman, bukan sensoris umum."
+      },
+      "answer": "B",
+      "explanation": "Cavitas nasi dipersarafi cabang V1 di bagian anterosuperior dan cabang V2 di bagian posteroinferior. Serabut sensoris V2 melewati ganglion pterygopalatinum. ",
+      "explanationImages": [
+        "images/packages/premium__blok-1j__ub-1j-24/img-005.png",
+        "images/packages/premium__blok-1j__ub-1j-24/img-006.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q6",
+      "category": "",
+      "question": "Apa hubungan antara EDV, ESV, dan VS?",
+      "questionImages": [],
+      "options": {
+        "A": "VS = ESV - EDV",
+        "B": "VS = ESV/EDV",
+        "C": "VS = CO/HR",
+        "D": "VS = EDV - ESV",
+        "E": "VS = EDV + ESV"
+      },
+      "optionExplanations": {
+        "A": "Urutan selisih terbalik menghasilkan nilai negatif.",
+        "B": "Pembagian ini bukan rumus volume sekuncup.",
+        "C": "Secara rumus CO = SV x HR memang benar, tetapi ini bukan hubungan dengan EDV dan ESV yang ditanyakan.",
+        "D": "SV = EDV dikurangi ESV, yaitu volume darah yang dikeluarkan tiap sistol.",
+        "E": "Volume sekuncup adalah selisih, bukan jumlah, EDV dan ESV."
+      },
+      "answer": "D",
+      "explanation": "Volume sekuncup (SV) adalah volume darah yang dipompa ventrikel pada setiap kontraksi. Nilainya diperoleh dari volume diastolik akhir (EDV) dikurangi volume sistolik akhir (ESV).",
+      "explanationImages": [
+        "images/packages/premium__blok-1j__ub-1j-24/img-007.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q7",
+      "category": "",
+      "question": "Suara jantung 3 disebabkan oleh apa?",
+      "questionImages": [],
+      "options": {
+        "A": "Membukanya katup atrioventrikular saat pengisian",
+        "B": "Menutupnya katup semilunaris saat akhir sistol",
+        "C": "Menutupnya katup atrioventrikular saat sistol awal",
+        "D": "Benturan darah atrium ke dinding ventrikel",
+        "E": "Membukanya katup semilunaris saat awal sistol"
+      },
+      "optionExplanations": {
+        "A": "Pembukaan katup AV tidak menghasilkan bunyi utama.",
+        "B": "Penutupan katup semilunaris menghasilkan S2.",
+        "C": "Penutupan katup AV menghasilkan S1.",
+        "D": "S3 terjadi saat pengisian cepat ventrikel di awal diastol, ketika darah membentur dinding ventrikel.",
+        "E": "Katup semilunaris yang terbuka tidak menghasilkan bunyi khas."
+      },
+      "answer": "D",
+      "explanation": "S3 adalah bunyi diastolik awal akibat getaran dinding ventrikel saat pengisian cepat dari atrium. Bunyi ini bisa normal pada anak dan dewasa muda, tetapi patologis pada orang dewasa yang lebih tua.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q8",
+      "category": "",
+      "question": "Sistol ventrikel dimulai saat?",
+      "questionImages": [],
+      "options": {
+        "A": "Katup semilunaris menutup",
+        "B": "Katup atrioventrikuler menutup",
+        "C": "Ventrikel mulai terisi darah dari atrium",
+        "D": "Tekanan atrium lebih besar dari tekanan ventrikel",
+        "E": "Katup semilunaris terbuka"
+      },
+      "optionExplanations": {
+        "A": "Penutupan katup semilunaris justru mengakhiri sistol.",
+        "B": "Sistol dimulai ketika katup AV menutup dan tekanan ventrikel naik.",
+        "C": "Pengisian ventrikel terjadi saat diastol.",
+        "D": "Kondisi ini terjadi saat diastol, ketika ventrikel terisi.",
+        "E": "Katup semilunaris terbuka setelah sistol berjalan, bukan saat awal."
+      },
+      "answer": "B",
+      "explanation": "Siklus jantung dimulai dengan kontraksi isovolumetrik. Katup AV menutup sehingga tekanan ventrikel naik tanpa perubahan volume, lalu katup semilunaris terbuka saat tekanan melebihi aorta dan arteri pulmonalis.  ",
+      "explanationImages": [
+        "images/packages/premium__blok-1j__ub-1j-24/img-008.jpeg",
+        "images/packages/premium__blok-1j__ub-1j-24/img-009.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q9",
+      "category": "",
+      "question": "Disebut apa volume darah yang dikeluarkan jantung tiap kali kontraksi?",
+      "questionImages": [],
+      "options": {
+        "A": "ESV",
+        "B": "cardiac output",
+        "C": "EDV",
+        "D": "venous return",
+        "E": "stroke volume"
+      },
+      "optionExplanations": {
+        "A": "ESV adalah volume yang tersisa setelah kontraksi.",
+        "B": "Cardiac output adalah volume semenit, bukan per kontraksi.",
+        "C": "EDV adalah volume akhir diastol sebelum kontraksi, bukan volume yang dikeluarkan.",
+        "D": "Venous return adalah darah yang kembali ke jantung.",
+        "E": "Stroke volume (volume sekuncup) adalah darah yang dikeluarkan tiap sistol."
+      },
+      "answer": "E",
+      "explanation": "Stroke volume adalah selisih EDV dan ESV. Cardiac output adalah SV dikali HR, yaitu volume darah yang dikeluarkan jantung per menit.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q10",
+      "category": "",
+      "question": "Apa yang membedakan sel autoritmik jantung dari sel kontraktil?",
+      "questionImages": [],
+      "options": {
+        "A": "Tidak memiliki ion Ca2+ untuk depolarisasi",
+        "B": "Dapat memiliki potensial spontan",
+        "C": "Tidak memiliki potensial aksi",
+        "D": "Mengandung banyak miofibril yang berkontraksi kuat",
+        "E": "Tidak dapat menghantarkan impuls listrik"
+      },
+      "optionExplanations": {
+        "A": "Sel autoritmik justru bergantung pada ion Ca2+ untuk depolarisasi.",
+        "B": "Sel autoritmik mengalami depolarisasi spontan (pacemaker potential), sedangkan sel kontraktil tidak.",
+        "C": "Sel autoritmik memiliki potensial aksi sendiri.",
+        "D": "Banyak miofibril adalah ciri sel kontraktil, bukan sel autoritmik.",
+        "E": "Sel autoritmik justru menghantarkan impuls listrik."
+      },
+      "answer": "B",
+      "explanation": "Sel autoritmik (nodus SA, nodus AV, dan serabut Purkinje) memiliki depolarisasi lambat yang terjadi spontan sehingga menghasilkan impuls sendiri. Sel kontraktil tidak memiliki sifat ini dan hanya berkontraksi jika dirangsang.  ",
+      "explanationImages": [
+        "images/packages/premium__blok-1j__ub-1j-24/img-010.jpeg",
+        "images/packages/premium__blok-1j__ub-1j-24/img-011.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q11",
+      "category": "",
+      "question": "Yang ditunjuk huruf A pada gambar adalah ",
+      "questionImages": [
+        "images/packages/premium__blok-1j__ub-1j-24/img-012.jpeg"
+      ],
+      "options": {
+        "A": "Tunica intima",
+        "B": "Tunica adventitia",
+        "C": "Epicardium",
+        "D": "Myocardium",
+        "E": "Tunica media"
+      },
+      "optionExplanations": {
+        "A": "Tunica intima adalah lapisan paling dalam, bukan lapisan terluar.",
+        "B": "Lapisan terluar dinding arteri berupa jaringan ikat longgar, sesuai daerah yang ditunjuk.",
+        "C": "Epicardium adalah lapisan terluar jantung, bukan dinding arteri.",
+        "D": "Myocardium adalah otot jantung, bukan dinding arteri.",
+        "E": "Tunica media adalah lapisan tengah yang tebal dan kaya serat elastik, bukan lapisan terluar."
+      },
+      "answer": "B",
+      "explanation": "Arteri elastis memiliki tiga lapisan: tunica intima, tunica media yang tebal dan kaya serat elastik, dan tunica adventitia. Daerah A pada gambar adalah jaringan ikat longgar di sisi terluar, yaitu tunica adventitia.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q12",
+      "category": "",
+      "question": "Apakah yang menandai warna pucat dari serabut Purkinje?",
+      "questionImages": [],
+      "options": {
+        "A": "lipid dalam sitoplasma",
+        "B": "banyaknya organel retikulum endoplasma",
+        "C": "glikogen dalam sitoplasma",
+        "D": "protein pada sitoplasma",
+        "E": "banyaknya organel golgi aparatus"
+      },
+      "optionExplanations": {
+        "A": "Lipid bukan penanda utama warna pucat.",
+        "B": "Retikulum endoplasma bukan penanda utama warna pucat.",
+        "C": "Serabut Purkinje kaya glikogen dan miofibrilnya sedikit, sehingga sitoplasmanya tampak pucat.",
+        "D": "Protein sitoplasma bukan penanda utama warna pucat.",
+        "E": "Aparatus Golgi tidak menjadi penanda warna pucat."
+      },
+      "answer": "C",
+      "explanation": "Serabut Purkinje berukuran besar, kaya glikogen, dan memiliki miofibril lebih sedikit dibanding otot kerja jantung. Karena itu sitoplasmanya tampak pucat pada pewarnaan HE.",
+      "explanationImages": [
+        "images/packages/premium__blok-1j__ub-1j-24/img-013.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q13",
+      "category": "",
+      "question": "Meatus nasalis bermuara ke sinus dan cellulae. Apa nama sinus atau cellulae yang bermuara pada meatus nasalis inferior?",
+      "questionImages": [],
+      "options": {
+        "A": "cellulae ethomoidale media",
+        "B": "cellulae ethomoidale posterior",
+        "C": "sinus maxilaris .. hilus semilunaris",
+        "D": "sinus frontalis .. hilus semilunaris",
+        "E": "ductus nasolacrimale"
+      },
+      "optionExplanations": {
+        "A": "Sel etmoid media bermuara di meatus media, bukan inferior.",
+        "B": "Sel etmoid posterior bermuara di meatus superior.",
+        "C": "Sinus maksilaris bermuara di hiatus semilunaris, meatus media.",
+        "D": "Sinus frontalis bermuara di hiatus semilunaris, meatus media.",
+        "E": "Duktus nasolakrimal bermuara di meatus nasi inferior."
+      },
+      "answer": "E",
+      "explanation": "Meatus nasi inferior menerima muara duktus nasolakrimal. Meatus media menerima sinus frontal, maksilaris, dan sel etmoid anterior melalui hiatus semilunaris. ",
+      "explanationImages": [
+        "images/packages/premium__blok-1j__ub-1j-24/img-014.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q14",
+      "category": "",
+      "question": "Hilus pulmonalis merupakan tempat masuk dan keluar pada parenkim paru. Struktur tersebut akan diisi oleh radix pulmonalis. Mana yang hanya terdapat pada radix pulmonalis dextra?",
+      "questionImages": [],
+      "options": {
+        "A": "Bronkus hiparterialis",
+        "B": "A. bronchialis",
+        "C": "A. pulmonalis",
+        "D": "Plexus pulmonalis",
+        "E": "Bronkus eparterialis"
+      },
+      "optionExplanations": {
+        "A": "Bronkus hiparterialis terdapat di kedua paru.",
+        "B": "Arteri bronkial terdapat di kedua paru.",
+        "C": "Arteri pulmonalis terdapat di kedua radix.",
+        "D": "Pleksus pulmonalis terdapat di kedua radix.",
+        "E": "Bronkus eparterialis hanya ada di paru kanan, berada di atas arteri pulmonalis."
+      },
+      "answer": "E",
+      "explanation": "Bronkus eparterialis berjalan di atas arteri pulmonalis dan hanya dijumpai pada radix kanan. Sisi kiri tidak memiliki bronkus seperti ini.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q15",
+      "category": "",
+      "question": "Bangunan parenkim paru, struktur yang ditunjuk anak panah adalah [Gambar tidak ada di rekap]",
+      "questionImages": [],
+      "options": {
+        "A": "Lamina propria",
+        "B": "Otot polos",
+        "C": "Jaringan ikat",
+        "D": "Membrana basalis",
+        "E": "Submucosa"
+      },
+      "optionExplanations": {
+        "A": "Lamina propria adalah jaringan ikat longgar di bawah epitel, bukan struktur yang ditunjuk pada gambar ini.",
+        "B": "Otot polos tipis terdapat di lamina propria bronkiolus dan duktus alveolaris.",
+        "D": "Membrana basalis adalah lapisan tipis yang tidak menjadi penanda utama pada gambar ini."
+      },
+      "answer": "B",
+      "explanation": "Gambar preparat yang dimaksud tidak ada di file unggahan, sehingga kunci ini masih dugaan dan perlu diverifikasi dengan gambar asli. Di bronkiolus dan duktus alveolaris, lamina propria mengandung sedikit otot polos, serat elastik, dan kolagen.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q16",
+      "category": "",
+      "question": "Kartilago pada trakea apa jenisnya?",
+      "questionImages": [],
+      "options": {
+        "A": "Elastis",
+        "B": "Lemak",
+        "C": "Hialin",
+        "D": "Fibrosa",
+        "E": "Retikular"
+      },
+      "optionExplanations": {
+        "A": "Kartilago elastis ditemukan di epiglotis dan aurikula, bukan trakea.",
+        "B": "Jaringan lemak bukan jenis kartilago.",
+        "C": "Kartilago trakea berbentuk C dan umumnya tersusun dari kartilago hialin.",
+        "D": "Fibrokartilago ditemukan di diskus intervertebralis, bukan kartilago trakea utama.",
+        "E": "Serat retikular bukan jenis kartilago."
+      },
+      "answer": "C",
+      "explanation": "Cincin trakea tersusun dari kartilago hialin yang berbentuk C. Catatan: slide menyebut dinding trakea sebagai 'fibrokartilago', jadi istilah ini perlu dicocokkan dengan dosen.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q17",
+      "category": "",
+      "question": "Pengambilan gambar thoraks secara lateral tujuan utamanya untuk..",
+      "questionImages": [],
+      "options": {
+        "A": "melihat bentuk jantung",
+        "B": "melihat bentuk thoraks",
+        "C": "semua jawaban benar",
+        "D": "melihat lobus paru dan lesi tersembunyi pada PA",
+        "E": "melihat posisi trakea, bronkus utama, dan mediastinum"
+      },
+      "optionExplanations": {
+        "A": "Bentuk jantung lebih baik dinilai pada posisi PA.",
+        "B": "Bentuk thoraks bisa dinilai pada foto apa pun, bukan tujuan utama lateral.",
+        "C": "Ada satu tujuan utama yang lebih spesifik, sehingga opsi gabungan ini salah.",
+        "D": "Proyeksi lateral membantu melihat lesi di belakang jantung dan lobus paru yang tertutup bayangan pada PA.",
+        "E": "Trakea dan bronkus bisa terlihat, tetapi bukan tujuan utama proyeksi lateral."
+      },
+      "answer": "D",
+      "explanation": "Foto PA menampilkan jantung dan mediastinum secara frontal, sehingga lesi di belakang jantung atau di lobus tertentu bisa tersamar. Foto lateral menambah bidang pandang untuk menilai lesi tersebut.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q18",
+      "category": "",
+      "question": "Apa nama saluran limfe yang bermuara di sudut pertemuan vena jugularis interna dan vena subclavikula sinistra?",
+      "questionImages": [],
+      "options": {
+        "A": "Ductus Lymphaticus",
+        "B": "Ductus anonymus",
+        "C": "Ductus Jugularis",
+        "D": "Ductus Aorticus",
+        "E": "Ductus Thoracicus"
+      },
+      "optionExplanations": {
+        "A": "Duktus limfatikus dekster bermuara di sisi kanan, bukan kiri.",
+        "B": "Ductus anonymus bukan nama saluran limfe yang dikenal.",
+        "C": "Ductus jugularis bukan istilah saluran limfe utama.",
+        "D": "Ductus aorticus adalah pirau janin antara aorta dan arteri pulmonalis, bukan saluran limfe.",
+        "E": "Duktus torakikus bermuara di sudut vena jugularis interna dan subklavia kiri."
+      },
+      "answer": "E",
+      "explanation": "Duktus torakikus mengumpulkan limfe dari sebagian besar tubuh bagian bawah dan sisi kiri atas, lalu bermuara di sudut vena jugularis interna dan vena subklavia kiri.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q19",
+      "category": "",
+      "question": "Arteri epigastrika inferior merupakan cabang dari arteri?",
+      "questionImages": [],
+      "options": {
+        "A": "A. iliaca eksterna",
+        "B": "A. thoracis",
+        "C": "A. femoralis",
+        "D": "A. illiaca interna",
+        "E": "A. epigastrium superior"
+      },
+      "optionExplanations": {
+        "A": "Arteri epigastrika inferior bercabang dari arteri iliaka eksterna tepat di atas ligamen inguinalis.",
+        "B": "Arteri torakika interna memberi cabang ke dinding toraks, bukan epigastrika inferior.",
+        "C": "Arteri femoralis adalah kelanjutan arteri iliaka eksterna, bukan induk epigastrika inferior.",
+        "D": "Arteri iliaka interna bercabang menjadi arteri glutea dan pudenda, bukan epigastrika inferior.",
+        "E": "Arteri epigastrika superior adalah cabang arteri torakika interna, bukan induk dari yang inferior."
+      },
+      "answer": "A",
+      "explanation": "Arteri epigastrika inferior naik ke dinding perut bagian bawah dan berasal dari arteri iliaka eksterna. Arteri femoralis adalah kelanjutan langsung dari arteri iliaka eksterna, bukan cabangnya.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q20",
+      "category": "",
+      "question": "Vena apa yang bermuara langsung di atrium dextrum?",
+      "questionImages": [],
+      "options": {
+        "A": "V. subclavia dextra",
+        "B": "V. anonyma dextra",
+        "C": "V. jugularis interna",
+        "D": "Sinus coronarius",
+        "E": "V. anonyma sinistra"
+      },
+      "optionExplanations": {
+        "A": "Vena subklavia dekstra bermuara ke vena anonima dekstra.",
+        "B": "Vena anonima dekstra bermuara ke vena kava superior.",
+        "C": "Vena jugularis interna bermuara ke vena anonima.",
+        "D": "Sinus koronarius bermuara langsung ke atrium kanan.",
+        "E": "Vena anonima sinistra mengalirkan darah ke vena anonima dekstra, bukan ke atrium."
+      },
+      "answer": "D",
+      "explanation": "Sinus koronarius menampung darah vena dari miokardium dan bermuara ke atrium kanan. Vena-vena lain pada pilihan bermuara ke vena kava superior.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q21",
+      "category": "",
+      "question": "Manakah pernyataan yang tepat untuk pengaturan kerja jantung?",
+      "questionImages": [],
+      "options": {
+        "A": "Peningkatan aktivitas parasimpatis meningkatkan volume semenit jantung",
+        "B": "Penurunan venous return meningkatkan volume semenit jantung",
+        "C": "Peningkatan aktivitas otot skelet menurunkan volume semenit jantung",
+        "D": "Peningkatan aktivitas simpatis menurunkan volume semenit jantung",
+        "E": "Peningkatan volume darah meningkatkan volume semenit jantung"
+      },
+      "optionExplanations": {
+        "A": "Parasimpatis menurunkan frekuensi jantung sehingga CO turun.",
+        "B": "Venous return yang turun menurunkan CO melalui hukum Frank-Starling.",
+        "C": "Aktivitas otot skelet meningkatkan venous return dan CO.",
+        "D": "Aktivitas simpatis meningkatkan frekuensi dan kontraktilitas sehingga CO naik.",
+        "E": "Volume darah yang lebih banyak meningkatkan venous return dan preload sehingga CO naik."
+      },
+      "answer": "E",
+      "explanation": "CO ditentukan oleh frekuensi jantung dan stroke volume. Venous return dan preload menentukan stroke volume melalui hukum Frank-Starling, sedangkan simpatis meningkatkan frekuensi dan kontraktilitas.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q22",
+      "category": "",
+      "question": "Seorang pria berusia 70 tahun datang ke rumah sakit dengan keluhan hidung mengeluarkan darah lebih dari 40 menit. Pasien tidak rutin minum obat dan memiliki riwayat hipertensi. Dokter menyatakan perdarahan berasal dari pleksus Woodruff. Salah satu penyusun pleksus tersebut adalah",
+      "questionImages": [],
+      "options": {
+        "A": "A. facialis",
+        "B": "A. palatina minor",
+        "C": "A. ethmoidalis anterior",
+        "D": "A. palatina mayor",
+        "E": "A. labialis superior"
+      },
+      "optionExplanations": {
+        "A": "Arteri fasialis memberi cabang ke wajah, bukan penyusun pleksus Woodruff.",
+        "B": "Arteri palatina minor memperdarahi palatum lunak, bukan penyusun utama pleksus Woodruff.",
+        "C": "Arteri etmoid anterior menyusun pleksus Kiesselbach, bukan Woodruff.",
+        "D": "Arteri palatina mayor ikut menyusun pleksus Woodruff.",
+        "E": "Arteri labialis superior menyusun pleksus Kiesselbach di septum anterior."
+      },
+      "answer": "D",
+      "explanation": "Pleksus Woodruff terletak di posterior meatus nasi inferior dan tersusun dari anastomosis cabang arteri sfenopalatina dan palatina mayor. Pleksus Kiesselbach di septum anterior memiliki susunan yang berbeda.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q23",
+      "category": "",
+      "question": "Apa skeletopi dari laringofaring?",
+      "questionImages": [],
+      "options": {
+        "A": "C3 - C4",
+        "B": "C1 - C2",
+        "C": "C3- C6",
+        "D": "C6 - T1",
+        "E": "C5 - C7"
+      },
+      "optionExplanations": {
+        "A": "Setinggi C3 sampai C4 berada di bagian orofaring.",
+        "B": "Setinggi C1 sampai C2 adalah bagian atas nasofaring.",
+        "C": "Laringofaring berada setinggi C3 sampai C6, sesuai batas bawah faring.",
+        "D": "Setinggi C6 sampai T1 adalah area esofagus bagian atas.",
+        "E": "Setinggi C5 sampai C7 terlalu rendah untuk laringofaring."
+      },
+      "answer": "C",
+      "explanation": "Faring terdiri atas nasofaring, orofaring, dan laringofaring. Laringofaring membentang setinggi vertebra C3 sampai C6 lalu berlanjut ke esofagus.",
+      "explanationImages": [
+        "images/packages/premium__blok-1j__ub-1j-24/img-015.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q24",
+      "category": "",
+      "question": "Apa nama nervus yang memberikan inervasi pada pleura parietalis di mediastinum pulmonalis?",
+      "questionImages": [],
+      "options": {
+        "A": "Nervus laryngeus recurrens",
+        "B": "Nervus frenikus",
+        "C": "Nervus interkostalis",
+        "D": "Nervus vagus",
+        "E": "Nervus cardiacus"
+      },
+      "optionExplanations": {
+        "A": "Saraf ini menginervasi laring, bukan pleura.",
+        "B": "N. frenikus menginervasi pleura mediastinal dan perikardial.",
+        "C": "N. interkostalis menginervasi pleura parietalis kostal, bukan mediastinum.",
+        "D": "N. vagus berperan pada organ dalam mediastinum, tetapi bukan inervasi utama pleura parietalis mediastinal.",
+        "E": "Saraf kardiak mengatur jantung, bukan pleura."
+      },
+      "answer": "B",
+      "explanation": "Pleura parietalis dipersarafi sesuai lokasinya. Bagian kostal dipersarafi n. interkostalis, sedangkan bagian mediastinum dan diafragma dipersarafi n. Frenikus. ",
+      "explanationImages": [
+        "images/packages/premium__blok-1j__ub-1j-24/img-016.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q25",
+      "category": "",
+      "question": "Fungsi lubang-lubang alveolus adalah",
+      "questionImages": [],
+      "options": {
+        "A": "Masuknya pembuluh darah",
+        "B": "Tempat penyimpanan cairan limfe",
+        "C": "pertukaran gas",
+        "D": "penyeimbang",
+        "E": "Tempat keluarnya surfaktan"
+      },
+      "optionExplanations": {
+        "A": "Pori alveolus tidak dilalui pembuluh darah.",
+        "B": "Cairan limfe dikumpulkan di saluran limfe, bukan di pori alveolus.",
+        "C": "Pertukaran gas terjadi di membran alveolokapiler, bukan di pori.",
+        "D": "Pori Kohn menyamakan tekanan antaralveolus sehingga udara dapat mengalir (ventilasi kolateral).",
+        "E": "Surfaktan disekresi sel alveolar tipe II ke permukaan alveolus, bukan melalui pori."
+      },
+      "answer": "D",
+      "explanation": "Pori Kohn adalah celah kecil di dinding antaralveolus. Fungsinya menyamakan tekanan antaralveolus agar udara tetap bisa mengalir (ventilasi kolateral) saat sebagian saluran napas tersumbat.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q26",
+      "category": "",
+      "question": "Pada gambaran parenkim paru tersebut, apa struktur yang ditunjuk (gambar preparat)? [Tidak ada gambar di rekap",
+      "questionImages": [],
+      "options": {
+        "A": "Lamina propria",
+        "B": "Otot polos",
+        "C": "Jaringan ikat",
+        "D": "Membrana basalis",
+        "E": "Submucosa"
+      },
+      "optionExplanations": {
+        "A": "Lamina propria adalah jaringan ikat longgar di bawah epitel, bukan struktur yang ditunjuk pada gambar ini.",
+        "B": "Otot polos tipis terdapat di lamina propria bronkiolus dan duktus alveolaris.",
+        "D": "Membrana basalis adalah lapisan tipis yang tidak menjadi penanda utama pada gambar ini."
+      },
+      "answer": "B",
+      "explanation": "Gambar preparat tidak tersedia di file unggahan, sehingga kunci ini masih dugaan dan perlu diverifikasi dengan gambar asli. Pada bronkiolus dan duktus alveolaris, lamina propria tipis dan mengandung sedikit otot polos.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q27",
+      "category": "",
+      "question": "Tekanan antara ruangan di pleura parietalis dan pleura visceralis disebut?",
+      "questionImages": [],
+      "options": {
+        "A": "tekanan intraalveolar",
+        "B": "tekanan barometrik",
+        "C": "tekanan intrapulmonar",
+        "D": "tekanan atmosfer",
+        "E": "tekanan intratoraks"
+      },
+      "optionExplanations": {
+        "A": "Tekanan intraalveolar berada di dalam alveolus.",
+        "B": "Tekanan barometrik sama dengan tekanan atmosfer.",
+        "C": "Tekanan intrapulmonar adalah tekanan dalam alveolus.",
+        "D": "Tekanan atmosfer adalah tekanan udara di luar tubuh.",
+        "E": "Tekanan intrapleura (intratoraks) berada di ruang antara dua pleura."
+      },
+      "answer": "E",
+      "explanation": "Tekanan intrapleura biasanya sekitar 4 mmHg di bawah tekanan atmosfer, karena pleura visceral cenderung menarik diri sementara pleura parietal menempel pada dinding dada.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q28",
+      "category": "",
+      "question": "Tekanan di antara pleura visceral dan pleura parietal disebut?",
+      "questionImages": [],
+      "options": {
+        "A": "Tek. Antaralveolus",
+        "B": "Tek. Atmosfer",
+        "C": "Tek. Barometrik",
+        "D": "Tek. Intrapulmo",
+        "E": "Tek. Intrathorax"
+      },
+      "optionExplanations": {
+        "A": "Tekanan antaralveolus berada di dalam alveolus.",
+        "B": "Tekanan atmosfer adalah tekanan udara di luar tubuh.",
+        "C": "Tekanan barometrik sama dengan tekanan atmosfer.",
+        "D": "Tekanan intrapulmoner adalah tekanan dalam alveolus, bukan di antara pleura.",
+        "E": "Tekanan intratoraks (intrapleura) adalah tekanan di ruang antara pleura visceral dan parietal."
+      },
+      "answer": "E",
+      "explanation": "Ruang pleura berisi sedikit cairan dan memiliki tekanan negatif relatif terhadap atmosfer. Tekanan inilah yang disebut tekanan intratoraks atau intrapleura.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q29",
+      "category": "",
+      "question": "Volume udara maksimal yang dapat dihirup secara aktif melebihi dari udara yang dikeluarkan melalui ekspirasi setelah volume tidal adalah…",
+      "questionImages": [],
+      "options": {
+        "A": "Volume cadangan inspirasi",
+        "B": "Volume cadangan ekspirasi",
+        "C": "Kapasitas residual fungsional",
+        "D": "Volume Tidal",
+        "E": "Kapasitas Vital"
+      },
+      "optionExplanations": {
+        "A": "VCI adalah udara tambahan maksimal yang bisa dihirup setelah inspirasi tenang.",
+        "B": "VCE adalah udara maksimal yang dikeluarkan setelah ekspirasi tenang.",
+        "C": "KRF adalah volume udara di paru setelah ekspirasi tenang.",
+        "D": "Volume tidal hanya udara pada satu napas biasa.",
+        "E": "Kapasitas vital adalah gabungan beberapa volume, bukan volume tunggal."
+      },
+      "answer": "A",
+      "explanation": "Volume cadangan inspirasi (VCI) adalah udara tambahan maksimal yang dapat dihirup secara aktif setelah volume tidal. Nilainya sekitar 3.000 mL.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q30",
+      "category": "",
+      "question": "Tubuh memiliki berbagai macam sistem buffer. Buffer yang memiliki peran utama pada ECF adalah",
+      "questionImages": [],
+      "options": {
+        "A": "Hidrogen buffer",
+        "B": "Ammonia buffer",
+        "C": "Bikarbonat buffer",
+        "D": "Phosphate buffer",
+        "E": "Chloride buffer"
+      },
+      "optionExplanations": {
+        "A": "Ion H+ adalah yang diatur oleh buffer, bukan sistem buffer itu sendiri.",
+        "B": "Amonia berperan dalam ekskresi asam di ginjal, bukan buffer utama ECF.",
+        "C": "Sistem bikarbonat adalah buffer utama di cairan ekstrasel.",
+        "D": "Fosfat buffer utama di cairan intrasel dan urin.",
+        "E": "Klorida bukan sistem buffer asam-basa utama."
+      },
+      "answer": "C",
+      "explanation": "Sistem bikarbonat (asam karbonat-bikarbonat) adalah buffer terbesar di cairan ekstrasel. Sistem ini dikendalikan oleh paru dan ginjal.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q31",
+      "category": "",
+      "question": "Tubuh memiliki berbagai macam sistem buffer yang menyangga perubahan pH yang terjadi. Manakah dari daftar berikut ini yang merupakan buffer fisiologis?",
+      "questionImages": [],
+      "options": {
+        "A": "Protein Buffer",
+        "B": "Hemaglobin Buffer",
+        "C": "Bikarbonat Buffer",
+        "D": "Phosphate Buffer",
+        "E": "Respiratory Buffer"
+      },
+      "optionExplanations": {
+        "A": "Protein juga buffer, tetapi bukan jawaban utama pada soal ini.",
+        "B": "Hemoglobin juga buffer penting dalam eritrosit, tetapi kunci soal ini diarahkan ke bikarbonat.",
+        "C": "Sistem bikarbonat adalah buffer fisiologis utama tubuh.",
+        "D": "Fosfat juga buffer, tetapi bukan jawaban utama pada soal ini.",
+        "E": "Sistem pernapasan mengatur CO2 sebagai kompensasi, bukan buffer kimia."
+      },
+      "answer": "C",
+      "explanation": "Buffer fisiologis tubuh terdiri atas sistem bikarbonat, protein, hemoglobin, dan fosfat. Soal ini diarahkan ke sistem bikarbonat sebagai buffer utama cairan ekstrasel.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q32",
+      "category": "",
+      "question": "Cardiothoracic ratio (CTR) normal pada posisi PA adalah...",
+      "questionImages": [],
+      "options": {
+        "A": "< 40%",
+        "B": "< 45%",
+        "C": "> 50%",
+        "D": "< 56%",
+        "E": "< 50%"
+      },
+      "optionExplanations": {
+        "A": "Batas 40% jauh di bawah nilai normal.",
+        "B": "Batas 45% terlalu ketat untuk nilai normal.",
+        "C": "Nilai di atas 50% menunjukkan kemungkinan kardiomegali.",
+        "D": "56% adalah batas pada proyeksi AP, bukan PA.",
+        "E": "CTR normal pada PA kurang dari 50% diameter dada."
+      },
+      "answer": "E",
+      "explanation": "CTR diukur dengan membandingkan lebar jantung terhadap lebar toraks pada foto PA. Nilai normal kurang dari 50%.",
+      "explanationImages": [
+        "images/packages/premium__blok-1j__ub-1j-24/img-017.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q33",
+      "category": "",
+      "question": "Pria 25 tahun, fremitus getaran tinggi pada paru kiri, kira-kira mengapa?",
+      "questionImages": [],
+      "options": {
+        "A": "Swarme kanan",
+        "B": "Swarme kiri",
+        "C": "Efusi pleura kiri",
+        "D": "Pneumonia kanan",
+        "E": "Pneumonia kiri"
+      },
+      "optionExplanations": {
+        "A": "Istilah 'swarme' pada pilihan ini belum jelas maknanya dan tidak sesuai sisi kanan.",
+        "B": "Istilah 'swarme' pada pilihan ini belum jelas maknanya dan tidak menjelaskan fremitus meningkat.",
+        "C": "Efusi pleura menurunkan fremitus, bukan meningkatkannya.",
+        "D": "Pada kasus ini kelainan ada di sisi kiri, bukan kanan.",
+        "E": "Konsolidasi pada pneumonia menghantarkan getaran lebih baik sehingga fremitus meningkat."
+      },
+      "answer": "E",
+      "explanation": "Fremitus taktil meningkat pada konsolidasi paru seperti pneumonia. Istilah 'swarme' pada dua pilihan terakhir perlu dicek ulang dengan sumber asli karena maknanya belum jelas.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q34",
+      "category": "",
+      "question": "Manakah yang menyebabkan peningkatan percepatan difusi gas paru?",
+      "questionImages": [],
+      "options": {
+        "A": "Gradien tekanan gas",
+        "B": "Peningkatan ketebalan membran respirasi",
+        "C": "Penurunan luas permukaan alveolus",
+        "D": "Peningkatan jarak difusi",
+        "E": "Peningkatan berat molekul gas"
+      },
+      "optionExplanations": {
+        "A": "Gradien tekanan parsial mendorong difusi gas dari tekanan tinggi ke tekanan rendah.",
+        "B": "Membran yang lebih tebal memperlambat difusi.",
+        "C": "Luas permukaan yang kecil memperlambat difusi.",
+        "D": "Jarak difusi yang lebih jauh memperlambat difusi.",
+        "E": "Molekul yang lebih berat memperlambat difusi."
+      },
+      "answer": "A",
+      "explanation": "Kecepatan difusi gas dipengaruhi gradien tekanan parsial O2 dan CO2, luas permukaan membran, dan ketebalan membran. Gradien yang lebih besar mempercepat difusi.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q35",
+      "category": "",
+      "question": "Seorang wanita berumur 31 tahun datang ke puskesmas dengan keluhan batuk berdahak sejak 4 hari lalu. Dahak berwarna kehijauan, disertai demam ringan dan sesak napas. Pada pemeriksaan fisik, didapatkan suara napas bronkial dan terdengar ronki basah di bagian kanan. Kemungkinan diagnosis yang paling sesuai adalah..",
+      "questionImages": [],
+      "options": {
+        "A": "Tuberkulosis paru",
+        "B": "Asma bronkial",
+        "C": "Bronkitis kronik",
+        "D": "Pneumonia",
+        "E": "Edema paru"
+      },
+      "optionExplanations": {
+        "A": "TB berjalan kronis, tidak sesuai onset akut 4 hari.",
+        "B": "Asma tidak disertai dahak purulen dan ronki basah lokal.",
+        "C": "Bronkitis kronik berlangsung lama, tidak sesuai onset 4 hari.",
+        "D": "Dahak purulen, demam, suara napas bronkial, dan ronki basah lokal sesuai pneumonia.",
+        "E": "Edema paru menimbulkan ronki bilateral dan sputum berbusa, bukan dahak purulen."
+      },
+      "answer": "D",
+      "explanation": "Suara napas bronkial dan ronki basah lokal menunjukkan konsolidasi, sedangkan dahak purulen dengan demam akut mengarah ke pneumonia. Diagnosis ini mengacu pada temuan pemeriksaan fisik pada slide.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q36",
+      "category": "",
+      "question": "Perhatikan gambar berikut ini. Bagian yang ditunjukkan dengan huruf A menunjukkan apa? ",
+      "questionImages": [
+        "images/packages/premium__blok-1j__ub-1j-24/img-018.jpeg"
+      ],
+      "options": {
+        "A": "Arus puncak ekspirasi maksimum",
+        "B": "Kapasitas residu fungsional",
+        "C": "Volume residu",
+        "D": "Kapasitas paru total",
+        "E": "Arus puncak inspirasi maksimum"
+      },
+      "optionExplanations": {
+        "A": "Titik A berada di puncak kurva ekspirasi paksa, yaitu arus puncak ekspirasi maksimum (PEF).",
+        "B": "KRF adalah volume udara di paru setelah ekspirasi tenang.",
+        "C": "Volume residu adalah volume udara setelah ekspirasi maksimal.",
+        "D": "Kapasitas paru total adalah volume, bukan arus.",
+        "E": "Puncak inspirasi berada di bagian bawah kurva, bukan titik A."
+      },
+      "answer": "A",
+      "explanation": "Kurva arus-volume menggambarkan arus udara terhadap volume paru. Titik A di puncak kurva ekspirasi paksa adalah arus puncak ekspirasi maksimum (PEF).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q37",
+      "category": "",
+      "question": "Pada foto thoraks normal terutama pada posisi PA, gelembung udara lambung (gastric bubble) biasanya tampak di area mana?",
+      "questionImages": [],
+      "options": {
+        "A": "Apex paru kiri",
+        "B": "Hemidiafragma kanan",
+        "C": "Hemidiafragma kiri",
+        "D": "Kelenjar limfe mediastinum",
+        "E": "Jantung kanan"
+      },
+      "optionExplanations": {
+        "A": "Apeks paru kiri berisi jaringan paru, bukan lambung.",
+        "B": "Hemidiafragma kanan tidak mengandung gelembung lambung.",
+        "C": "Gelembung lambung berada di bawah hemidiafragma kiri.",
+        "D": "Kelenjar limfe tidak berisi gas.",
+        "E": "Jantung kanan tidak menampung udara lambung."
+      },
+      "answer": "C",
+      "explanation": "Gelembung lambung tampak di bawah hemidiafragma kiri karena lambung terletak di bawah diafragma kiri. Ini bagian normal pada foto toraks PA.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q38",
+      "category": "",
+      "question": "Seorang pria berusia 60 tahun melakukan pemeriksaan spirometri, didapatkan volume tidal 500 mL dengan laju pernapasan 16x/menit. Berapakah ventilasi semenitnya?",
+      "questionImages": [],
+      "options": {
+        "A": "10000",
+        "B": "8000",
+        "C": "2000",
+        "D": "6000",
+        "E": "4000"
+      },
+      "optionExplanations": {
+        "A": "Terlalu besar, karena 500 x 16 = 8000.",
+        "B": "Volume tidal 500 mL dikali 16 kali per menit sama dengan 8000 mL per menit.",
+        "C": "Hasil ini terlalu kecil untuk perkalian 500 x 16.",
+        "D": "Hasil ini tidak sesuai perkalian 500 x 16.",
+        "E": "Hasil ini setengah dari 8000."
+      },
+      "answer": "B",
+      "explanation": "Ventilasi semenit adalah volume tidal dikali frekuensi napas: 500 mL x 16 per menit = 8000 mL per menit (8 L per menit).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q39",
+      "category": "",
+      "question": "Di dalam darah terdapat beberapa komponen. Di intraseluler, kation yang ada adalah",
+      "questionImages": [],
+      "options": {
+        "A": "Na+",
+        "B": "Ca2+",
+        "C": "K+",
+        "D": "H+",
+        "E": "Mg2+"
+      },
+      "optionExplanations": {
+        "A": "Natrium adalah kation utama di ekstraseluler.",
+        "B": "Ca2+ utama di ekstraseluler dan sangat sedikit di dalam sel.",
+        "C": "Kalium adalah kation utama di intraseluler.",
+        "D": "Ion H+ ada di intraseluler dalam jumlah kecil, bukan kation utama.",
+        "E": "Mg2+ memang ada di intraseluler, tetapi bukan kation utama."
+      },
+      "answer": "C",
+      "explanation": "Kation utama di dalam sel adalah kalium (K+), sedangkan di cairan ekstrasel kation utamanya natrium (Na+).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q40",
+      "category": "",
+      "question": "Pembuluh darah penyusun pleksus Woodruff adalah",
+      "questionImages": [],
+      "options": {
+        "A": "A. Sphenoethmoidalis ramus faringeus",
+        "B": "A. Ethmoidalis anterior",
+        "C": "A. Palatina major",
+        "D": "A. Sphenopalatina",
+        "E": "A. Palatina minor"
+      },
+      "optionExplanations": {
+        "A": "Cabang faring kecil, bukan penyusun utama pleksus Woodruff.",
+        "B": "Arteri etmoid anterior membentuk pleksus Kiesselbach, bukan Woodruff.",
+        "C": "Ikut berkontribusi pada pleksus Woodruff, tetapi kunci soal ini diarahkan ke sfenopalatina sebagai penyusun utama.",
+        "D": "Cabang utama yang membentuk pleksus Woodruff di posterior meatus nasi inferior.",
+        "E": "Arteri palatina minor memperdarahi palatum lunak, bukan penyusun utama pleksus."
+      },
+      "answer": "D",
+      "explanation": "Pleksus Woodruff terbentuk dari anastomosis cabang arteri sfenopalatina dan palatina mayor di posterior meatus nasi inferior. Sfenopalatina adalah penyusun utama.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q41",
+      "category": "",
+      "question": "Apa yang bermuara di meatus inferior?",
+      "questionImages": [],
+      "options": {
+        "A": "Sinus frontalis",
+        "B": "Ductus sublingualis",
+        "C": "Ductus submandibularis",
+        "D": "Ductus parotideus",
+        "E": "Ductus nasolacrimalis"
+      },
+      "optionExplanations": {
+        "A": "Sinus frontal bermuara di meatus media.",
+        "B": "Duktus sublingual bermuara di dasar mulut.",
+        "C": "Duktus submandibula bermuara di dasar mulut.",
+        "D": "Duktus parotis bermuara di vestibulum mulut, bukan hidung.",
+        "E": "Duktus nasolakrimal bermuara di meatus nasi inferior."
+      },
+      "answer": "E",
+      "explanation": "Duktus nasolakrimal membawa air mata dari mata ke meatus nasi inferior, sehingga muaranya berada di meatus inferior.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q42",
+      "category": "",
+      "question": "Seorang kakek berusia 70 tahun mengalami ronki basah dan peningkatan fremitus paru sebelah kiri. Kakek tersebut memiliki kelainan apa?",
+      "questionImages": [],
+      "options": {
+        "A": "Pneumonia",
+        "B": "Pneumotoraks",
+        "C": "Emfisema paru",
+        "D": "Atelektasis",
+        "E": "Efusi pleura"
+      },
+      "optionExplanations": {
+        "A": "Konsolidasi pada pneumonia menimbulkan ronki basah dan fremitus meningkat.",
+        "B": "Pneumotoraks menurunkan fremitus dan tidak menimbulkan ronki basah.",
+        "C": "Emfisema menurunkan fremitus dan suara napas.",
+        "D": "Atelektasis tidak tipikal dengan ronki basah dan fremitus yang meningkat.",
+        "E": "Efusi pleura menurunkan fremitus."
+      },
+      "answer": "A",
+      "explanation": "Ronki basah yang disertai fremitus meningkat menunjukkan konsolidasi paru, yaitu pneumonia. Temuan ini sesuai dengan keterangan pada slide.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q43",
+      "category": "",
+      "question": "Manakah yang menyebabkan peningkatan kecepatan aliran darah?",
+      "questionImages": [],
+      "options": {
+        "A": "peningkatan jumlah sel darah merah",
+        "B": "peningkatan jumlah venous return",
+        "C": "peningkatan jumlah cairan tubuh",
+        "D": "peningkatan kadar epinephrin",
+        "E": "peningkatan aktivitas parasimpatis"
+      },
+      "optionExplanations": {
+        "A": "Lebih banyak eritrosit meningkatkan viskositas sehingga aliran melambat.",
+        "B": "Venous return meningkatkan preload dan volume darah yang mengalir ke jantung.",
+        "C": "Cairan tubuh memengaruhi volume, bukan langsung kecepatan aliran.",
+        "D": "Epinefrin meningkatkan frekuensi dan kontraktilitas, tetapi bukan penyebab langsung kecepatan aliran.",
+        "E": "Parasimpatis menurunkan frekuensi jantung sehingga aliran tidak meningkat."
+      },
+      "answer": "B",
+      "explanation": "Kecepatan aliran darah mengikuti selisih tekanan dan resistensi (Q = ΔP/R). Venous return meningkatkan aliran darah ke jantung. Penjelasan ini sebagian dari pengetahuan umum, karena slide tidak membahas kecepatan secara langsung.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q44",
+      "category": "",
+      "question": "Bagian pleura parietalis manakah yang menyelubungi bagian apeks pulmonis?",
+      "questionImages": [],
+      "options": {
+        "A": "Cupula pleurae/pars cervicalis",
+        "B": "Pars diaphragmatica",
+        "C": "Pars costalis pleurae",
+        "D": "Pars vertebralis pleurae",
+        "E": "Pars mediastinalis pleurae, di sisi tengah dada"
+      },
+      "optionExplanations": {
+        "A": "Kupula pleura menjulang di atas apeks paru hingga ke leher.",
+        "B": "Pars diafragmatika melapisi diafragma.",
+        "C": "Pars kostalis melapisi dinding dada.",
+        "D": "Pars vertebralis melapisi sisi tulang belakang.",
+        "E": "Pars mediastinalis melapisi mediastinum."
+      },
+      "answer": "A",
+      "explanation": "Kupula pleura (pars servikalis) adalah bagian pleura parietal yang menjulang di atas apeks paru ke arah leher.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q45",
+      "category": "",
+      "question": "Fossa ovalis merupakan hasil gerakan menutup dari struktur embriologi…",
+      "questionImages": [],
+      "options": {
+        "A": "Foramen sekundum",
+        "B": "Septum sekundum",
+        "C": "Septum primum",
+        "D": "Foramen ovalis",
+        "E": "Septum interventricularis"
+      },
+      "optionExplanations": {
+        "A": "Foramen sekundum adalah lubang pada septum sekundum.",
+        "B": "Septum sekundum membentuk tepi limbus, bukan fossa.",
+        "C": "Septum primum menutup foramen ovale sehingga membentuk fossa ovalis.",
+        "D": "Foramen ovale adalah lubang yang menutup, bukan struktur yang bergerak menutup.",
+        "E": "Septum interventrikular memisahkan ventrikel, bukan atrium."
+      },
+      "answer": "C",
+      "explanation": "Fossa ovalis terbentuk saat septum primum menutup foramen ovale pada septum interatriale, sehingga menyisakan cekungan di atrium kanan.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q46",
+      "category": "",
+      "question": "Bagaimanakah moda transportasi gas dalam darah?",
+      "questionImages": [],
+      "options": {
+        "A": "Oksigen sebagai bikarbonat (60%)",
+        "B": "Karbondioksida larut secara fisik (1,5%)",
+        "C": "Oksigen terikat ke Hb (98,5%)",
+        "D": "Oksigen larut secara fisik (10%)",
+        "E": "Karbondioksida terikat ke Hb (98,5%)"
+      },
+      "optionExplanations": {
+        "A": "Bikarbonat adalah bentuk transportasi CO2, bukan oksigen.",
+        "B": "CO2 larut secara fisik sekitar 10%, bukan 1,5%.",
+        "C": "Sebagian besar oksigen (sekitar 98,5%) terikat hemoglobin.",
+        "D": "Oksigen larut secara fisik hanya sekitar 1,5%.",
+        "E": "Hemoglobin hanya mengikat sebagian CO2, bukan hampir seluruhnya."
+      },
+      "answer": "C",
+      "explanation": "Sekitar 98,5% oksigen diangkut dalam bentuk terikat hemoglobin, sedangkan sisanya larut secara fisik. CO2 terutama diangkut sebagai bikarbonat.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q47",
+      "category": "",
+      "question": "Seorang pasien datang ke puskesmas dengan keluhan demam 2 hari, nyeri dada kiri saat inspirasi dan batuk. Pada pemeriksaan fisik didapatkan suara friction rub di paru kiri. Apa kemungkinan diagnosis dari pasien ini?",
+      "questionImages": [],
+      "options": {
+        "A": "Kanker paru kiri",
+        "B": "Pleuritis kiri",
+        "C": "Pleura efusi kiri",
+        "D": "Pneumothorax kiri",
+        "E": "Pneumonia kiri"
+      },
+      "optionExplanations": {
+        "A": "Kanker paru tidak menimbulkan friction rub yang khas.",
+        "B": "Pleuritis menimbulkan nyeri pleuritik dan friction rub.",
+        "C": "Efusi pleura menimbulkan redup pada perkusi, tanpa friction rub.",
+        "D": "Pneumotoraks memberi suara hipersonor dan suara napas menurun.",
+        "E": "Pneumonia menimbulkan ronki dan demam, bukan friction rub."
+      },
+      "answer": "B",
+      "explanation": "Friction rub yang terdengar pada inspirasi bersama nyeri pleuritik dan demam menunjukkan pleuritis fibrinosa. Gesekan kedua lapisan pleura yang meradang menghasilkan bunyi ini.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q48",
+      "category": "",
+      "question": "Musculus apakah yang berfungsi menutup aditus laryngis?",
+      "questionImages": [],
+      "options": {
+        "A": "M. Aryepiglottica",
+        "B": "M. Arytenoideus Obliquus",
+        "C": "M. Thyroarytenoideus",
+        "D": "M. Arytenoideus transversus",
+        "E": "M. Cricoarytenoideus lateralis"
+      },
+      "optionExplanations": {
+        "A": "Otot ini menutup aditus laringeus.",
+        "B": "Otot ini menutup celah antara kartilago aritenoid di bagian belakang.",
+        "C": "Otot ini membentuk pita suara, tidak menutup aditus.",
+        "D": "Otot ini mendekatkan kartilago aritenoid, tetapi tidak menutup aditus.",
+        "E": "Otot ini membuka dan menutup glotis, bukan aditus."
+      },
+      "answer": "A",
+      "explanation": "Otot aryepiglotika menarik epiglotis ke bawah dan menutup aditus laringeus saat menelan agar makanan tidak masuk ke laring.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q49",
+      "category": "",
+      "question": "Manakah yang menyebabkan penurunan tekanan darah?",
+      "questionImages": [],
+      "options": {
+        "A": "Peningkatan jumlah cairan tubuh",
+        "B": "Penurunan venous return",
+        "C": "Penurunan aktivitas parasimpatis",
+        "D": "Peningkatan kadar epinefrin",
+        "E": "Peningkatan jumlah sel darah merah"
+      },
+      "optionExplanations": {
+        "A": "Volume cairan yang lebih banyak meningkatkan tekanan darah.",
+        "B": "Venous return yang turun menurunkan preload dan tekanan darah.",
+        "C": "Parasimpatis yang turun meningkatkan frekuensi jantung dan tekanan darah.",
+        "D": "Epinefrin meningkatkan tekanan darah.",
+        "E": "Eritrosit yang banyak meningkatkan viskositas dan tidak menurunkan tekanan."
+      },
+      "answer": "B",
+      "explanation": "Tekanan darah dipengaruhi oleh curah jantung dan resistensi perifer. Penurunan venous return menurunkan preload dan curah jantung sehingga tekanan darah turun.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q50",
+      "category": "",
+      "question": "Manakah hal yang membuat alveolus kolaps?",
+      "questionImages": [],
+      "options": {
+        "A": "Adanya gradien tekanan transmural",
+        "B": "Tegangan permukaan alveolus",
+        "C": "Adanya sufaktan",
+        "D": "Tingginya tekanan barometrik",
+        "E": "Adanya interdependensi alveolus"
+      },
+      "optionExplanations": {
+        "A": "Gradien transmural membantu paru tetap mengembang.",
+        "B": "Tegangan permukaan cairan alveolus menarik dinding alveolus untuk kolaps, sesuai hukum LaPlace.",
+        "C": "Surfaktan justru menurunkan tegangan permukaan dan mencegah kolaps.",
+        "D": "Tekanan barometrik tidak menyebabkan kolaps alveolus.",
+        "E": "Interdependensi menjaga alveolus tetap terbuka."
+      },
+      "answer": "B",
+      "explanation": "Menurut hukum LaPlace, tekanan kolaps alveolus berbanding lurus dengan tegangan permukaan dan berbanding terbalik dengan jari-jari alveolus. Surfaktan bekerja melawan efek ini.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q51",
+      "category": "",
+      "question": "Seorang wanita datang ke puskesmas dengan keluhan batuk 1 bulan, dahak hijau kental. Dari foto thoraks didapatkan efusi pleura kiri. Pemeriksaan fisik pada pasien ini akan didapatkan tanda apa?",
+      "questionImages": [],
+      "options": {
+        "A": "Inspeksi simetris",
+        "B": "Perkusi kanan redup",
+        "C": "Perkusi kiri redup",
+        "D": "Kiri tidak ketinggalan gerak",
+        "E": "Kanan tidak ketinggalan gerak"
+      },
+      "optionExplanations": {
+        "A": "Efusi biasanya menyebabkan asimetri, bukan simetri.",
+        "B": "Redup pada sisi kanan tidak sesuai efusi kiri.",
+        "C": "Efusi pleura menyebabkan perkusi redup di sisi yang terkena.",
+        "D": "Efusi menyebabkan sisi kiri tertinggal saat bernapas, bukan tidak tertinggal.",
+        "E": "Sisi sehat memang tidak tertinggal, tetapi ini bukan temuan utama efusi kiri."
+      },
+      "answer": "C",
+      "explanation": "Efusi pleura menggantikan udara di rongga pleura dengan cairan, sehingga perkusi terdengar redup. Temuan ini sesuai dengan keterangan pada slide.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q52",
+      "category": "",
+      "question": "Pusat pernapasan manakah yang berperan untuk memperpanjang inspirasi?",
+      "questionImages": [],
+      "options": {
+        "A": "DRG",
+        "B": "Pre-Botzlinger complex",
+        "C": "Pusat apneustic",
+        "D": "Pusat pneumotaksik",
+        "E": "VRG"
+      },
+      "optionExplanations": {
+        "A": "DRG mengatur irama dasar inspirasi, bukan memperpanjangnya.",
+        "B": "Kompleks pre-Bötzinger menghasilkan ritme dasar pernapasan.",
+        "C": "Pusat apneustik memperpanjang inspirasi.",
+        "D": "Pusat pneumotaksik memperpendek inspirasi.",
+        "E": "VRG terutama mengatur ekspirasi paksa."
+      },
+      "answer": "C",
+      "explanation": "Pusat apneustik di pons memperpanjang fase inspirasi, sedangkan pusat pneumotaksik berperan memperpendek inspirasi dan mengatur frekuensi napas.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q53",
+      "category": "",
+      "question": "Pemeriksaan auskultasi katup mitral dapat dilakukan pada",
+      "questionImages": [],
+      "options": {
+        "A": "SIC II parasternalis dextra",
+        "B": "SIC IV parasternal sinistra",
+        "C": "SIC IV midclavicularis dextra",
+        "D": "SIC II parasternalis sinsitra",
+        "E": "SIC V midclavicularis kiri"
+      },
+      "optionExplanations": {
+        "A": "Area ini adalah area katup aorta, bukan mitral.",
+        "B": "Area ini lebih dekat ke katup trikuspid, bukan area katup mitral.",
+        "C": "Sisi kanan tidak tempat mendengar katup mitral.",
+        "D": "Area ini adalah area katup pulmonal, bukan mitral.",
+        "E": "Katup mitral didengar paling baik di apeks, yaitu SIC V midklavikula kiri."
+      },
+      "answer": "E",
+      "explanation": "Katup mitral didengar di apeks jantung, yaitu SIC V garis midklavikula kiri. Lokasi ini berdasarkan pengetahuan umum karena tidak ditemukan secara eksplisit di slide.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q54",
+      "category": "",
+      "question": "Dari pernyataan berikut ini, manakah yang bukan kelebihan heart ultrasound?",
+      "questionImages": [],
+      "options": {
+        "A": "Tanpa persiapan",
+        "B": "Tanpa menggunakan radiasi",
+        "C": "Cepat",
+        "D": "Tanpa contrast",
+        "E": "Invasif"
+      },
+      "optionExplanations": {
+        "A": "Ultrasonografi jantung tidak memerlukan persiapan khusus, sehingga ini kelebihan.",
+        "B": "Ultrasonografi tidak menggunakan radiasi pengion, sehingga ini kelebihan.",
+        "C": "Pemeriksaan ultrasonografi jantung relatif cepat, sehingga ini kelebihan.",
+        "D": "Ultrasonografi jantung tidak memerlukan kontras, sehingga ini kelebihan.",
+        "E": "Ultrasonografi jantung bersifat non-invasif, jadi ini bukan kelebihan yang dimaksud."
+      },
+      "answer": "E",
+      "explanation": "Ultrasonografi jantung (ekokardiografi) bersifat non-invasif, cepat, tanpa persiapan, tanpa kontras, dan tanpa radiasi. Penjelasan ini dari pengetahuan umum karena tidak ditemukan di slide.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q55",
+      "category": "",
+      "question": "Seorang laki-laki berusia 72 tahun datang ke puskesmas dengan membawa foto toraks. Bacaan foto tersebut adalah emfisema paru. Pada pemeriksaan fisik, apa yang akan didapatkan?",
+      "questionImages": [],
+      "options": {
+        "A": "ICS melebar akibat daya elastisnya menurun",
+        "B": "ICS tidak berubah",
+        "C": "ICS melebar akibat daya elastisnya meningkat",
+        "D": "ICS menyebar",
+        "E": "ICS menyempit akibat daya elastis menurun"
+      },
+      "optionExplanations": {
+        "A": "Emfisema menurunkan recoil elastis sehingga ruang interkostal melebar.",
+        "B": "ICS melebar pada emfisema, sehingga tidak tetap.",
+        "C": "Daya elastis justru menurun pada emfisema.",
+        "D": "Istilah ini tidak menjelaskan perubahan ICS secara tepat.",
+        "E": "ICS melebar pada emfisema, bukan menyempit."
+      },
+      "answer": "A",
+      "explanation": "Pada emfisema, kerusakan septum alveolar menurunkan daya elastis paru. Dinding dada cenderung mengembang sehingga ruang interkostal melebar. ",
+      "explanationImages": [
+        "images/packages/premium__blok-1j__ub-1j-24/img-019.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q56",
+      "category": "",
+      "question": "Di dalam plasma darah terdapat berbagai macam protein plasma. Manakah yang merupakan protein plasma yang paling banyak ditemukan di plasma serta berperan dalam menjaga tekanan osmotik di dalam tubuh?",
+      "questionImages": [],
+      "options": {
+        "A": "Fibrinogen",
+        "B": "Globulin",
+        "C": "Albumin",
+        "D": "Komplemen",
+        "E": "Protein regulator"
+      },
+      "optionExplanations": {
+        "A": "Fibrinogen berperan dalam pembekuan darah.",
+        "B": "Globulin berperan imun dan transpor, bukan tekanan onkotik utama.",
+        "C": "Albumin paling banyak di plasma dan menjaga tekanan onkotik.",
+        "D": "Komplemen berperan dalam sistem imun.",
+        "E": "Protein regulator bukan kelompok protein plasma utama."
+      },
+      "answer": "C",
+      "explanation": "Albumin adalah protein plasma paling melimpah yang dibuat hepatosit. Albumin berperan menjaga tekanan onkotik sehingga cairan tetap berada di pembuluh darah.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q57",
+      "category": "",
+      "question": "Manakah yang merupakan gabungan antara lead RA dan LA?",
+      "questionImages": [],
+      "options": {
+        "A": "Lead V1",
+        "B": "Lead I",
+        "C": "Lead aVF",
+        "D": "Lead III",
+        "E": "Lead II"
+      },
+      "optionExplanations": {
+        "A": "V1 adalah lead prekordial, bukan lead ekstremitas.",
+        "B": "Lead I merekam selisih potensial antara lengan kanan dan lengan kiri.",
+        "C": "aVF merekam kaki kiri dan kaki kanan, bukan lengan.",
+        "D": "Lead III merekam lengan kiri dan kaki kiri.",
+        "E": "Lead II merekam lengan kanan dan kaki kiri."
+      },
+      "answer": "B",
+      "explanation": "Lead I adalah lead bipolar ekstremitas yang merekam selisih antara lengan kanan (RA) dan lengan kiri (LA).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q58",
+      "category": "",
+      "question": "Katup trikuspidalis memisahkan bangunan apa?",
+      "questionImages": [],
+      "options": {
+        "A": "Atrium kiri dengan ventrikel kiri",
+        "B": "Ventrikel kanan dengan arteri pulmonalis",
+        "C": "Ventrikel kiri dengan aorta",
+        "D": "Atrium kanan dengan ventrikel kanan",
+        "E": "Atrium kanan dengan vena cava superior"
+      },
+      "optionExplanations": {
+        "A": "Katup mitral memisahkan atrium kiri dengan ventrikel kiri.",
+        "B": "Katup pulmonal memisahkan ventrikel kanan dengan arteri pulmonalis.",
+        "C": "Katup aorta memisahkan ventrikel kiri dengan aorta.",
+        "D": "Katup trikuspid memisahkan atrium kanan dengan ventrikel kanan.",
+        "E": "Vena cava tidak dipisahkan oleh katup trikuspid."
+      },
+      "answer": "D",
+      "explanation": "Katup trikuspid berada di ostium atrioventrikular kanan dan memisahkan atrium kanan dari ventrikel kanan.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q59",
+      "category": "",
+      "question": "Ruangan apakah yang dihubungkan ke nasofaring melalui tuba auditiva?",
+      "questionImages": [],
+      "options": {
+        "A": "Cavitas tympani",
+        "B": "Sinus sphenoidalis",
+        "C": "Antrum mastoideum",
+        "D": "Orbita",
+        "E": "Cavitas nasi"
+      },
+      "optionExplanations": {
+        "A": "Tuba auditiva menghubungkan nasofaring dengan kavum timpani.",
+        "B": "Sinus sfenoid tidak terhubung langsung dengan tuba auditiva.",
+        "C": "Antrum mastoid terhubung ke kavum timpani, bukan langsung ke nasofaring.",
+        "D": "Orbita tidak berhubungan dengan tuba auditiva.",
+        "E": "Kavum nasi berhubungan dengan nasofaring, tetapi bukan melalui tuba."
+      },
+      "answer": "A",
+      "explanation": "Tuba auditiva (eustachius) menghubungkan nasofaring dengan kavum timpani dan berfungsi menyeimbangkan tekanan di telinga tengah.",
+      "explanationImages": [
+        "images/packages/premium__blok-1j__ub-1j-24/img-020.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q60",
+      "category": "",
+      "question": "Apa nama vena yang sering dipakai untuk pengambilan darah waktu pemeriksaan atau donor darah?",
+      "questionImages": [],
+      "options": {
+        "A": "Cephalica",
+        "B": "Vena radialis",
+        "C": "Vena ulnaris",
+        "D": "Vena mediana",
+        "E": "Vena basilica"
+      },
+      "optionExplanations": {
+        "A": "Vena sefalika dapat dipakai, tetapi tidak paling sering untuk pengambilan darah.",
+        "B": "Vena radialis kecil dan tidak dipakai rutin.",
+        "C": "Vena ulnaris kurang nyata di fossa kubiti.",
+        "D": "Vena mediana cubiti paling mudah teraba dan relatif aman untuk tusukan.",
+        "E": "Vena basilika lebih sulit diakses dan berdekatan dengan saraf."
+      },
+      "answer": "D",
+      "explanation": "Vena mediana cubiti di fossa kubiti paling sering dipakai untuk pengambilan darah karena besar, mudah teraba, dan relatif aman. ",
+      "explanationImages": [
+        "images/packages/premium__blok-1j__ub-1j-24/img-021.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q61",
+      "category": "",
+      "question": "Area cavitas nasi manakah yang dilapisi epitel kulit dan mengandung vibrissae, glandula sudoriferae, dan sebaceae?",
+      "questionImages": [],
+      "options": {
+        "A": "Vestibulum nasi",
+        "B": "Area respiratoria",
+        "C": "Conchae",
+        "D": "Area olfactoria",
+        "E": "Meatus nasi"
+      },
+      "optionExplanations": {
+        "A": "Vestibulum dilapisi kulit dengan vibrissae dan kelenjar keringat serta sebasea.",
+        "B": "Area respirasi dilapisi epitel respirasi, tanpa vibrissae.",
+        "C": "Konka adalah tonjolan tulang, bukan lapisan kulit.",
+        "D": "Area olfaktori berada di sepertiga atas dan berisi epitel penciuman.",
+        "E": "Meatus adalah jalur udara, bukan lapisan kulit."
+      },
+      "answer": "A",
+      "explanation": "Vestibulum nasi adalah bagian paling depan kavum nasi yang dilapisi kulit dengan rambut halus (vibrissae), kelenjar keringat, dan kelenjar sebasea. ",
+      "explanationImages": [
+        "images/packages/premium__blok-1j__ub-1j-24/img-022.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q62",
+      "category": "",
+      "question": "Berbagai macam gangguan di dalam tubuh dapat terjadi akibat gangguan sintesis metabolit. Gangguan sintesis heme disebut sebagai apa?",
+      "questionImages": [],
+      "options": {
+        "A": "Hemoglobinopati",
+        "B": "Porfiria",
+        "C": "Anemia",
+        "D": "Thalassemia",
+        "E": "Koagulopati"
+      },
+      "optionExplanations": {
+        "A": "Hemoglobinopati adalah kelainan struktur globin, bukan sintesis heme.",
+        "B": "Porfiria adalah gangguan pada jalur sintesis heme.",
+        "C": "Anemia adalah kondisi kadar Hb rendah, bukan nama gangguan sintesis.",
+        "D": "Thalassemia adalah gangguan sintesis rantai globin.",
+        "E": "Koagulopati adalah gangguan pembekuan darah."
+      },
+      "answer": "B",
+      "explanation": "Porfiria adalah kelompok gangguan akibat defek enzim dalam jalur sintesis heme, sehingga terjadi penumpukan porfirin dan prekursornya.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q63",
+      "category": "",
+      "question": "Senyawa apa yang berperan sebagai pelarut universal dan polar?",
+      "questionImages": [],
+      "options": {
+        "A": "Air",
+        "B": "Benzena",
+        "C": "Eter",
+        "D": "Kloroform",
+        "E": "Alkohol"
+      },
+      "optionExplanations": {
+        "A": "Air adalah pelarut polar universal.",
+        "B": "Benzena adalah pelarut nonpolar.",
+        "C": "Eter adalah pelarut nonpolar.",
+        "D": "Kloroform adalah pelarut nonpolar.",
+        "E": "Alkohol adalah pelarut polar, tetapi tidak universal."
+      },
+      "answer": "A",
+      "explanation": "Air merupakan pelarut universal dan polar sehingga menjadi medium bagi hampir semua reaksi kimia dalam sel.",
+      "explanationImages": [
+        "images/packages/premium__blok-1j__ub-1j-24/img-023.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q64",
+      "category": "",
+      "question": "Di manakah skeletopi dari bifurkasio trakea?",
+      "questionImages": [],
+      "options": {
+        "A": "VT1/2",
+        "B": "VC6",
+        "C": "VT6/7",
+        "D": "VT4/5",
+        "E": "VT3/4"
+      },
+      "optionExplanations": {
+        "A": "Setinggi T1 sampai T2 terlalu atas untuk bifurkasio.",
+        "B": "Setinggi C6 adalah bagian atas trakea, bukan bifurkasio.",
+        "C": "Setinggi T6 sampai T7 terlalu rendah untuk bifurkasio.",
+        "D": "Bifurkasio trakea berada setinggi T4/5, sejajar angulus sternalis.",
+        "E": "Setinggi T3 sampai T4 terlalu tinggi untuk bifurkasio."
+      },
+      "answer": "D",
+      "explanation": "Trakea bercabang menjadi bronkus primer kanan dan kiri setinggi vertebra T4/5, yang sejajar dengan angulus sternalis.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q65",
+      "category": "",
+      "question": "Tekanan pada alveolus disebut sebagai apa?",
+      "questionImages": [],
+      "options": {
+        "A": "Tekanan atmosfer",
+        "B": "Tekanan intra-pleura",
+        "C": "Tekanan intratoraks",
+        "D": "Tekanan intrapulmoner",
+        "E": "Tekanan barometrik"
+      },
+      "optionExplanations": {
+        "A": "Tekanan atmosfer adalah tekanan udara di luar tubuh.",
+        "B": "Tekanan intrapleura berada di ruang pleura, bukan alveolus.",
+        "C": "Tekanan intratoraks adalah tekanan di rongga dada, bukan di alveolus.",
+        "D": "Tekanan intrapulmoner adalah tekanan di dalam alveolus.",
+        "E": "Tekanan barometrik sama dengan tekanan atmosfer."
+      },
+      "answer": "D",
+      "explanation": "Tekanan intrapulmoner (intra-alveolar) adalah tekanan di dalam alveolus. Saat udara masuk dan keluar, tekanan ini berubah relatif terhadap tekanan atmosfer.  ",
+      "explanationImages": [
+        "images/packages/premium__blok-1j__ub-1j-24/img-024.png",
+        "images/packages/premium__blok-1j__ub-1j-24/img-025.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q66",
+      "category": "",
+      "question": "Pada amplitudo kertas EKG tertera 1 cm/mV, mengandung arti bahwa dalam satu kotak kecil terdapat voltase sebesar berapa?",
+      "questionImages": [],
+      "options": {
+        "A": "0,01 mV",
+        "B": "0,2 mV",
+        "C": "0,1 mV",
+        "D": "0,5 mV",
+        "E": "0,05 mV"
+      },
+      "optionExplanations": {
+        "A": "Nilai ini terlalu kecil.",
+        "B": "0,2 mV setara dua kotak kecil.",
+        "C": "Satu kotak kecil (1 mm) setara 0,1 mV pada skala 1 cm/mV.",
+        "D": "0,5 mV setara lima kotak kecil.",
+        "E": "0,05 mV adalah setengah kotak kecil."
+      },
+      "answer": "C",
+      "explanation": "Pada kertas EKG standar, 1 cm setara 1 mV. Satu kotak besar berukuran 5 mm, sedangkan satu kotak kecil berukuran 1 mm, sehingga satu kotak kecil setara 0,1 mV. ",
+      "explanationImages": [
+        "images/packages/premium__blok-1j__ub-1j-24/img-026.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q67",
+      "category": "",
+      "question": "Plexus cardiacus mendapatkan anyaman serabut simpatis yang berasal dari?",
+      "questionImages": [],
+      "options": {
+        "A": "Intermediolateralis medulla spinalis T1-T5",
+        "B": "Cornu posterior medulla spinalis C3-C5",
+        "C": "Nervus vagus",
+        "D": "Intermediolateralis medulla spinalis T6-T9",
+        "E": "Cervical ganglion proximal-distal"
+      },
+      "optionExplanations": {
+        "A": "Serabut simpatis jantung berasal dari segmen torakal atas T1 sampai T5.",
+        "B": "Kornu posterior berisi serabut sensoris, bukan simpatis.",
+        "C": "N. vagus adalah saraf parasimpatis.",
+        "D": "T6 sampai T9 bukan asal utama serabut simpatis jantung.",
+        "E": "Ganglion servikal adalah tempat relai, bukan asal serabut."
+      },
+      "answer": "A",
+      "explanation": "Serabut simpatis untuk pleksus kardiakus berasal dari kolumna intermediolateral segmen T1 sampai T5 dan melewati ganglion servikal. ",
+      "explanationImages": [
+        "images/packages/premium__blok-1j__ub-1j-24/img-027.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q68",
+      "category": "",
+      "question": "Cabang dari arteria apakah ramus circumflexus pada jantung?",
+      "questionImages": [],
+      "options": {
+        "A": "A. coronaria sinistra",
+        "B": "R. interventricularis anterior",
+        "C": "R. interventricularis posterior",
+        "D": "R. marginalis",
+        "E": "A. coronaria dextra"
+      },
+      "optionExplanations": {
+        "A": "Ramus circumflexus adalah cabang dari arteri koronaria sinistra.",
+        "B": "Cabang ini berasal dari arteri koronaria sinistra, bukan ramus circumflexus.",
+        "C": "Cabang posterior berasal dari arteri koronaria dekstra.",
+        "D": "Ramus marginalis berasal dari arteri koronaria dekstra.",
+        "E": "Arteri koronaria dekstra tidak bercabang menjadi ramus circumflexus."
+      },
+      "answer": "A",
+      "explanation": "Arteri koronaria sinistra bercabang menjadi ramus interventricularis anterior dan ramus circumflexus. Ramus circumflexus memperdarahi dinding lateral dan posterior ventrikel kiri. ",
+      "explanationImages": [
+        "images/packages/premium__blok-1j__ub-1j-24/img-028.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q69",
+      "category": "",
+      "question": "Manakah sumber impuls jantung yang memiliki kecepatan pelepasan impuls paling tinggi?",
+      "questionImages": [],
+      "options": {
+        "A": "Atrial",
+        "B": "Ventrikular",
+        "C": "SA node",
+        "D": "Junctional",
+        "E": "AV node"
+      },
+      "optionExplanations": {
+        "A": "Sel atrium tidak memiliki kecepatan pelepasan tertinggi.",
+        "B": "Sel ventrikel memiliki kecepatan pelepasan paling rendah.",
+        "C": "Nodus SA adalah pacemaker utama dengan kecepatan tertinggi.",
+        "D": "Pacemaker junctional lebih lambat dari nodus SA.",
+        "E": "Nodus AV memiliki kecepatan lebih rendah dari nodus SA."
+      },
+      "answer": "C",
+      "explanation": "Nodus SA adalah pacemaker utama jantung dengan kecepatan sekitar 70-80 kali per menit, lebih tinggi daripada pacemaker lain. ",
+      "explanationImages": [
+        "images/packages/premium__blok-1j__ub-1j-24/img-029.png"
+      ],
+      "isBroken": false
+    }
+  ]
+}
