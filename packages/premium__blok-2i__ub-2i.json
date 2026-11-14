@@ -1,0 +1,2235 @@
+{
+  "id": "premium__blok-2i__ub-2i",
+  "tier": "premium",
+  "title": "UB 2I",
+  "category": "Blok 2I",
+  "questions": [
+    {
+      "id": "Q1",
+      "category": "",
+      "question": "Obat antihistamin generasi 1 yang menimbulkan sedasi berat adalah, KECUALI:",
+      "questionImages": [],
+      "options": {
+        "A": "Diphenhydramine",
+        "B": "Dimenhydrinate",
+        "C": "Doxylamine",
+        "D": "Cetirizine",
+        "E": "Promethazine"
+      },
+      "optionExplanations": {
+        "A": "Antihistamin generasi 1 yang lipofilik sehingga mudah menembus sawar darah-otak dan menyebabkan sedasi berat.",
+        "B": "Turunan generasi 1 dengan efek sedasi berat yang sama seperti diphenhydramine.",
+        "C": "Antihistamin generasi 1 yang sangat sedatif dan sering dipakai sebagai hipnotik ringan.",
+        "D": "Benar sebagai jawaban KECUALI: ini antihistamin generasi 2 dengan penetrasi SSP rendah sehingga sedasinya minimal.",
+        "E": "Antihistamin generasi 1 golongan fenotiazin dengan sedasi kuat."
+      },
+      "answer": "D",
+      "explanation": "Obat golongan antihistamin generasi 1 bersifat lipofilik sehingga sangat mudah menembus sawar darah-otak (blood-brain barrier), yang menyebabkan efek samping utama berupa kantuk/sedasi berat (contoh: diphenhydramine, dimenhydrinate, doxylamine, dan promethazine). Sebaliknya, Cetirizine (serta Loratadine, Fexofenadine) tergolong antihistamin generasi 2 yang bersifat lebih selektif di perifer dan sulit menembus otak, sehingga efek sedasinya sangat minimal atau non-sedasi.  ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-001.png",
+        "images/packages/premium__blok-2i__ub-2i/img-002.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q2",
+      "category": "",
+      "question": "Berikut ini yang merupakan obat antihistamin dengan efek sedasi minimal (non-sedasi) adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Doxylamine",
+        "B": "Promethazine",
+        "C": "Cetirizine",
+        "D": "Diphenhydramine",
+        "E": "Dimenhydrinate"
+      },
+      "optionExplanations": {
+        "A": "Generasi 1 yang sangat sedatif.",
+        "B": "Generasi 1 golongan fenotiazin dengan sedasi kuat.",
+        "C": "Benar: antihistamin generasi 2 dengan penetrasi SSP rendah sehingga sedasi minimal.",
+        "D": "Generasi 1 dengan sedasi berat, bukan pilihan antihistamin non-sedasi.",
+        "E": "Generasi 1 dengan sedasi berat."
+      },
+      "answer": "C",
+      "explanation": "Berkebalikan dengan soal sebelumnya, antihistamin dengan efek sedasi minimal atau bahkan non-sedasi adalah antihistamin generasi ke-2 (atau ke-3). Cetirizine merupakan turunan metabolit aktif dari hydroxyzine (generasi 1) namun dirancang untuk meminimalkan penetrasi ke sistem saraf pusat, sehingga sangat cocok digunakan pada pagi/siang hari tanpa mengganggu aktivitas bekerja atau belajar.   ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-001.png",
+        "images/packages/premium__blok-2i__ub-2i/img-004.png",
+        "images/packages/premium__blok-2i__ub-2i/img-005.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q3",
+      "category": "",
+      "question": "Obat imunosupresan yang bekerja melalui ikatan dengan imunofilin adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Methotrexate",
+        "B": "Cyclophosphamide",
+        "C": "Tacrolimus",
+        "D": "Mycophenolate mofetil",
+        "E": "Azathioprine"
+      },
+      "optionExplanations": {
+        "A": "Antagonis folat (antimetabolit), bukan melalui imunofilin.",
+        "B": "Agen alkilasi yang merusak DNA, bukan melalui imunofilin.",
+        "C": "Benar: berikatan dengan FKBP (imunofilin) lalu menghambat kalsineurin.",
+        "D": "Menghambat inosine monophosphate dehydrogenase, bukan melalui imunofilin.",
+        "E": "Antimetabolit analog purin yang bekerja pada sintesis DNA, bukan melalui imunofilin."
+      },
+      "answer": "C",
+      "explanation": "Siklosporin dan Tacrolimus adalah obat imunosupresan golongan inhibitor kalsineurin. Mereka bekerja tidak secara langsung mengeblok DNA, melainkan dengan berikatan terlebih dahulu pada protein intraseluler spesifik yang disebut imunofilin (Siklosporin berikatan dengan Siklofilin, sedangkan Tacrolimus berikatan dengan FK-binding protein / FKBP). Ikatan inilah yang akan menghambat aktivitas kalsineurin dan mencegah sel T memproduksi IL-2.  ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-006.png",
+        "images/packages/premium__blok-2i__ub-2i/img-007.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q4",
+      "category": "",
+      "question": "Berikut ini adalah imunostimulan yang berasal dari hewan:",
+      "questionImages": [],
+      "options": {
+        "A": "Lectin",
+        "B": "Levamisole",
+        "C": "Chitosan",
+        "D": "Echinacea",
+        "E": "Glucan"
+      },
+      "optionExplanations": {
+        "A": "Lektin berasal dari tumbuhan (kacang-kacangan), bukan dari hewan.",
+        "B": "Obat sintetik imunomodulator, bukan berasal dari hewan.",
+        "C": "Benar: diekstrak dari kitin yang menjadi komponen cangkang krustasea (udang)",
+        "D": "Imunostimulan herbal yang berasal dari tumbuhan.",
+        "E": "Beta-glukan berasal dari jamur, ragi, atau serealia, bukan dari hewan."
+      },
+      "answer": "C",
+      "explanation": "Chitosan (Kitosan) adalah polimer gula turunan polisakarida yang diekstrak dari kitin. Kitin ini secara alami merupakan komponen struktural utama pembentuk cangkang (eksoskeleton) hewan krustasea atau udang-udangan laut (seperti kepiting, udang, dan lobster). Glucan dari jamur, Lectin/Echinacea dari tumbuhan, dan Levamisole adalah senyawa sintetik. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-008.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q5",
+      "category": "",
+      "question": "Berikut ini adalah imunostimulan yang berasal dari tumbuhan:",
+      "questionImages": [],
+      "options": {
+        "A": "Levamisole",
+        "B": "Interferon",
+        "C": "Chitosan",
+        "D": "BCG",
+        "E": "Lectin"
+      },
+      "optionExplanations": {
+        "A": "Obat sintetik, bukan berasal dari tumbuhan.",
+        "B": "Sitokin yang diproduksi secara biologis, bukan diekstrak dari tumbuhan.",
+        "C": "Berasal dari kitin hewan (krustasea), bukan dari tumbuhan.",
+        "D": "Vaksin dari bakteri Mycobacterium bovis, bukan berasal dari tumbuhan.",
+        "E": "Benar: protein pengikat karbohidrat dari biji tumbuhan, khususnya kacang-kacangan."
+      },
+      "answer": "E",
+      "explanation": "Imunostimulan biologis sering kali diekstrak dari alam. Lectin (seperti Phytohaemagglutinin / PHA dan Concanavalin A) adalah protein pengikat karbohidrat yang sangat umum dan melimpah diekstraksi dari biji tumbuh-tumbuhan, khususnya kelompok kacang-kacangan (legumes). (Echinacea juga dari tumbuhan, namun pada opsi di atas Lectin adalah jawabannya). BCG dari bakteri, Interferon adalah sitokin endogen. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-009.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q6",
+      "category": "",
+      "question": "Berikut ini adalah imunostimulan golongan karbohidrat kompleks:",
+      "questionImages": [],
+      "options": {
+        "A": "Lectin",
+        "B": "Chitosan",
+        "C": "Tacrolimus",
+        "D": "Levamisole",
+        "E": "Glucan"
+      },
+      "optionExplanations": {
+        "A": "Protein pengikat karbohidrat, bukan golongan karbohidrat kompleks imunostimulan yang dimaksud.",
+        "B": "Juga polisakarida, namun yang dimaksud sebagai imunostimulan karbohidrat kompleks dalam soal ini adalah beta-glukan.",
+        "C": "Imunosupresan makrolid, bukan imunostimulan karbohidrat.",
+        "D": "Obat sintetik imunomodulator, bukan karbohidrat.",
+        "E": "Benar: beta-glukan, polisakarida rantai panjang dari dinding sel jamur atau ragi, yang bersifat imunostimulan."
+      },
+      "answer": "E",
+      "explanation": "Glucan (seperti beta-glukan) adalah senyawa polisakarida struktural rantai panjang (karbohidrat kompleks) yang diekstrak dari dinding sel ragi (yeast), jamur, bakteri, atau serealia (oat). Beta-glukan sangat poten bertindak sebagai imunostimulan dengan cara mengaktifkan reseptor pengenal patogen (Dectin-1) pada permukaan makrofag. (Chitosan juga polisakarida, namun pada konteks klasifikasi fitofarmaka, Glucan adalah prototipe imunomodulator karbohidrat murni). ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-010.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q7",
+      "category": "",
+      "question": "Seorang anak usia 5 tahun demam selama 5 hari. Pada hari ke-5, saat suhu mencapai 40°C, muncul ruam kemerahan yang dimulai dari wajah dan belakang telinga lalu menyebar ke seluruh tubuh. Saat demam mereda, ruam berubah warna menjadi kecoklatan dan terasa gatal. Diagnosis yang paling tepat adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Rubella",
+        "B": "Demam tifoid",
+        "C": "Varicella",
+        "D": "Rubeola",
+        "E": "Roseola infantum"
+      },
+      "optionExplanations": {
+        "A": "Demam ringan dengan ruam yang lebih ringan dan cepat hilang, tanpa hiperpigmentasi khas.",
+        "B": "Demam bertahap dengan gejala sistemik lain, tidak khas dengan ruam yang menyebar dari wajah.",
+        "C": "Ruam berupa vesikel yang berkembang bertahap, bukan makulopapular seperti pada kasus.",
+        "D": "Benar: demam tinggi, ruam makulopapular dari wajah ke seluruh tubuh, lalu menjadi kecoklatan saat sembuh.",
+        "E": "Ruam muncul setelah demam turun, berbeda dengan gambaran kasus ini."
+      },
+      "answer": "D",
+      "explanation": "Pola khas rubeola (campak/morbili): demam tinggi diikuti ruam makulopapular yang muncul dari wajah/belakang telinga menyebar ke seluruh tubuh, dan ruam menjadi kecoklatan (hiperpigmentasi/deskuamasi) saat sembuh. Pada roseola, ruam justru muncul SETELAH demam turun.   ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-011.png",
+        "images/packages/premium__blok-2i__ub-2i/img-012.png",
+        "images/packages/premium__blok-2i__ub-2i/img-013.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q8",
+      "category": "",
+      "question": "Seorang anak demam selama 3 hari, kemudian pada hari ke-4 demam turun namun anak tampak lemas. Pemeriksaan menunjukkan trombosit 10.000/µL, CRT 3 detik, dan hematokrit meningkat. Diagnosis yang paling tepat adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Dengue Shock Syndrome",
+        "B": "Demam Berdarah Dengue tanpa syok",
+        "C": "Dengue fever",
+        "D": "Expanded dengue syndrome",
+        "E": "Demam tifoid"
+      },
+      "optionExplanations": {
+        "A": "Benar: fase kritis dengan syok (CRT > 2 detik), trombosit sangat rendah, dan hematokrit meningkat.",
+        "B": "Kasus ini sudah menunjukkan tanda syok (CRT memanjang), sehingga tidak termasuk tanpa syok.",
+        "C": "Demam dengue tanpa syok dan tanpa trombositopenia berat, tidak sesuai dengan kasus.",
+        "D": "Keadaan dengue dengan keterlibatan organ berat, bukan diagnosis utama untuk gambaran syok ini.",
+        "E": "Tidak sesuai dengan trombositopenia dan hemokonsentrasi khas infeksi dengue."
+      },
+      "answer": "A",
+      "explanation": "Fase kritis dengan tanda syok (CRT memanjang > 2 detik), trombositopenia berat (10.000), dan hemokonsentrasi (Ht meningkat) mengarah ke Dengue Shock Syndrome (DSS), yang merupakan derajat III atau IV dari infeksi virus Dengue.      ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-014.png",
+        "images/packages/premium__blok-2i__ub-2i/img-015.png",
+        "images/packages/premium__blok-2i__ub-2i/img-016.png",
+        "images/packages/premium__blok-2i__ub-2i/img-017.png",
+        "images/packages/premium__blok-2i__ub-2i/img-018.png",
+        "images/packages/premium__blok-2i__ub-2i/img-019.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q9",
+      "category": "",
+      "question": "Perawakan pendek (short stature) yang disebabkan oleh gangguan hormon paling sering diakibatkan oleh:",
+      "questionImages": [],
+      "options": {
+        "A": "Hipotiroidisme",
+        "B": "Tumor hipofisis fungsional",
+        "C": "Gigantisme",
+        "D": "Akromegali",
+        "E": "Defisiensi growth hormone (GH)"
+      },
+      "optionExplanations": {
+        "A": "Penyebab hormonal perawakan pendek juga, namun dalam soal ini defisiensi GH lebih sering dibahas sebagai penyebab utama.",
+        "B": "Tumor yang dapat menyebabkan kelebihan hormon, bukan perawakan pendek.",
+        "C": "Kelebihan GH pada anak, menyebabkan tinggi badan berlebih, bukan pendek.",
+        "D": "Kelebihan GH setelah lempeng epifisis menutup, bukan perawakan pendek.",
+        "E": "Benar: kekurangan hormon pertumbuhan menyebabkan perawakan pendek proporsional."
+      },
+      "answer": "E",
+      "explanation": "Di antara etiologi endokrinologis yang menyebabkan short stature (perawakan pendek) proporsional pada anak, defisiensi hormon pertumbuhan (Growth Hormone Deficiency) adalah salah satu penyebab primer yang paling umum dibahas dalam konteks endokrin pediatrik sebagai kelainan hormon pusat.  ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-020.png",
+        "images/packages/premium__blok-2i__ub-2i/img-021.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q10",
+      "category": "",
+      "question": "Tanda pubertas pertama yang muncul pada anak laki-laki adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Suara memberat",
+        "B": "Mimpi basah pertama (spermarche)",
+        "C": "Pertumbuhan tinggi badan yang pesat",
+        "D": "Pembesaran testis",
+        "E": "Tumbuhnya rambut pubis"
+      },
+      "optionExplanations": {
+        "A": "Tanda sekunder yang muncul belakangan dalam urutan pubertas.",
+        "B": "Muncul relatif lebih lambat dalam urutan perkembangan pubertas.",
+        "C": "Terjadi setelah pembesaran testis, sebagai tahap lanjutan pubertas.",
+        "D": "Benar: tanda klinis pertama pubertas laki-laki, berupa peningkatan volume testis (> 4 mL).",
+        "E": "Tanda pubertas sekunder yang muncul setelah pembesaran testis."
+      },
+      "answer": "D",
+      "explanation": "Tanda fisik klinis pertama (hallmark) dimulainya pubertas pada anak laki-laki adalah pembesaran volume testis (volume > 4 mL pada orkidometer prader), yang biasanya terjadi sekitar usia 9-14 tahun, dipicu oleh sekresi hormon gonadotropin. Tanda sekunder lainnya muncul setelah itu. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-022.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q11",
+      "category": "",
+      "question": "Seorang pasien anak dengan hasil laboratorium: bleeding time (BT) memanjang, aPTT memanjang, parameter lain normal. Diagnosis yang paling mungkin adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Hemofilia",
+        "B": "Von Willebrand Disease",
+        "C": "Disseminated Intravascular Coagulation (DIC)",
+        "D": "Idiopathic Thrombocytopenic Purpura (ITP)",
+        "E": "Defisiensi vitamin K"
+      },
+      "optionExplanations": {
+        "A": "aPTT memanjang saja dengan BT normal, tidak sesuai dengan BT yang memanjang pada kasus.",
+        "B": "Benar: BT dan aPTT memanjang karena defisiensi atau disfungsi faktor von Willebrand, dengan parameter lain normal.",
+        "C": "PT dan aPTT umumnya memanjang disertai trombosit dan fibrinogen turun, tidak sesuai kasus.",
+        "D": "Trombosit rendah dengan BT memanjang, namun aPTT biasanya normal.",
+        "E": "PT dan aPTT memanjang dengan BT normal, tidak sesuai dengan BT yang memanjang pada kasus."
+      },
+      "answer": "B",
+      "explanation": "Perlu dicatat: BT yang memanjang bersama aPTT lebih klasik mengarah ke Von Willebrand Disease atau gangguan trombosit; sedangkan defisiensi vitamin K khasnya memanjangkan PT/aPTT dengan BT normal. Note* Von Willebrand Disease = vWD. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-023.png",
+        "images/packages/premium__blok-2i__ub-2i/img-024.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q12",
+      "category": "",
+      "question": "Seorang pasien dengan aPTT memanjang, sedangkan parameter koagulasi lain normal. Diagnosis yang paling mungkin adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Von Willebrand Disease",
+        "B": "Disseminated Intravascular Coagulation (DIC)",
+        "C": "Hemofilia",
+        "D": "Defisiensi vitamin K",
+        "E": "Idiopathic Thrombocytopenic Purpura (ITP)"
+      },
+      "optionExplanations": {
+        "A": "BT ikut memanjang, tidak sesuai dengan pola aPTT saja.",
+        "B": "PT, trombosit, dan fibrinogen juga terganggu, sehingga tidak sesuai dengan aPTT yang memanjang saja.",
+        "C": "Benar: aPTT memanjang terisolasi akibat defisiensi faktor VIII atau IX.",
+        "D": "PT ikut memanjang, tidak sesuai dengan pola aPTT saja.",
+        "E": "Gangguan trombosit dengan BT memanjang, sedangkan aPTT normal."
+      },
+      "answer": "C",
+      "explanation": "Pada DIC, PT dan aPTT sama-sama memanjang disertai penurunan trombosit dan fibrinogen - sehingga tidak sesuai gambaran 'aPTT memanjang saja'. Hemofilia khas dengan gambaran terisolasi hanya pada aPTT yang memanjang akibat defisiensi faktor jalur intrinsik (Faktor VIII atau IX).  ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-025.png",
+        "images/packages/premium__blok-2i__ub-2i/img-026.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q13",
+      "category": "",
+      "question": "Perbedaan komposisi air tubuh dan lemak pada anak dibandingkan dewasa akan memengaruhi farmakokinetik obat pada tahap:",
+      "questionImages": [],
+      "options": {
+        "A": "Farmakodinamik",
+        "B": "Metabolisme",
+        "C": "Distribusi",
+        "D": "Ekskresi",
+        "E": "Absorpsi"
+      },
+      "optionExplanations": {
+        "A": "Berkaitan dengan respons obat di reseptor, bukan dengan distribusi.",
+        "B": "Dipengaruhi maturitas enzim hati, bukan komposisi tubuh.",
+        "C": "Benar: perbedaan proporsi air dan lemak tubuh mengubah volume distribusi obat.",
+        "D": "Dipengaruhi fungsi ginjal, bukan komposisi tubuh.",
+        "E": "Dipengaruhi pH lambung dan aliran darah, bukan komposisi air dan lemak tubuh."
+      },
+      "answer": "C",
+      "explanation": "Komposisi cairan tubuh total (terutama cairan ekstraseluler) pada bayi dan anak jauh lebih besar persentasenya, sementara komposisi lemaknya lebih sedikit dibanding dewasa. Hal ini secara langsung mengubah Volume Distribusi (Vd) obat, sehingga memengaruhi proses Farmakokinetik tahap Distribusi. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-027.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q14",
+      "category": "",
+      "question": "Seorang anak usia 6 bulan memerlukan pemeriksaan urin, namun kontrol berkemih belum tercapai. Metode pengambilan sampel urin steril yang tepat adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Kateter kondom",
+        "B": "Urine bag",
+        "C": "Kateterisasi uretra",
+        "D": "Clean catch midstream",
+        "E": "Pungsi suprapubik"
+      },
+      "optionExplanations": {
+        "A": "Risiko kontaminasi masih lebih tinggi dibanding pungsi suprapubik.",
+        "B": "Mudah terkontaminasi dari kulit dan perineum, sehingga tidak steril.",
+        "C": "Berisiko menimbulkan kontaminasi dan infeksi uretra, serta tidak dianjurkan untuk sampel steril rutin.",
+        "D": "Tidak dapat dilakukan pada bayi yang belum mampu berkemih terkendali.",
+        "E": "Benar: aspirasi langsung dari kandung kemih sehingga risiko kontaminasi paling rendah."
+      },
+      "answer": "E",
+      "explanation": "Untuk keperluan kultur mikrobiologi urin yang steril pada bayi yang belum bisa berkemih sendiri, baku emas (gold standard) pengambilan sampel dengan tingkat risiko kontaminasi paling rendah adalah melalui aspirasi jarum langsung ke kandung kemih (Pungsi Suprapubik). ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-028.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q15",
+      "category": "",
+      "question": "Seorang anak dengan wajah tampak tua (old man face) dan gambaran iga gambang (baggy pants sign) menunjukkan diagnosis:",
+      "questionImages": [],
+      "options": {
+        "A": "Marasmik-kwashiorkor",
+        "B": "Kwashiorkor",
+        "C": "Stunting",
+        "D": "Marasmus",
+        "E": "Failure to thrive"
+      },
+      "optionExplanations": {
+        "A": "Gabungan kedua jenis malnutrisi dan disertai edema.",
+        "B": "Ditandai edema dan hipoalbuminemia, bukan wasting berat dengan wajah tua tanpa edema.",
+        "C": "Kondisi tinggi badan menurut usia yang rendah, bukan wasting berat.",
+        "D": "Benar: defisiensi kalori murni dengan wasting berat, tampak tua, dan iga gambang.",
+        "E": "Istilah umum gagal tumbuh, bukan diagnosis gizi spesifik seperti pada kasus ini."
+      },
+      "answer": "D",
+      "explanation": "Gambaran klinis anak sangat kurus, hilangnya lemak subkutan wajah sehingga tampak keriput (old man face), tulang rusuk sangat terlihat (iga gambang), serta kulit pantat kendur/keriput (baggy pants sign) adalah tanda patognomonik dari gizi buruk defisiensi kalori murni yaitu Marasmus.   ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-029.png",
+        "images/packages/premium__blok-2i__ub-2i/img-030.png",
+        "images/packages/premium__blok-2i__ub-2i/img-031.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q16",
+      "category": "",
+      "question": "Tatalaksana untuk ITP (Idiopathic Thrombocytopenic Purpura) derajat ringan adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Transfusi trombosit",
+        "B": "IVIG (Intravenous Immunoglobulin)",
+        "C": "Kortikosteroid",
+        "D": "Observasi saja",
+        "E": "Splenektomi"
+      },
+      "optionExplanations": {
+        "A": "Tidak rutin diberikan, hanya pada perdarahan yang mengancam jiwa.",
+        "B": "Diberikan pada ITP yang berat atau bergejala perdarahan.",
+        "C": "Diberikan pada ITP yang membutuhkan terapi, bukan pada derajat ringan asimtomatik.",
+        "D": "Benar: ITP ringan pada anak sering swasirna sehingga cukup diobservasi dan dihindarkan dari trauma.",
+        "E": "Tindakan terakhir, bukan lini pertama."
+      },
+      "answer": "D",
+      "explanation": "ITP pada anak umumnya bersifat akut dan swasirna (self-limiting). Jika kasusnya asimtomatik atau derajat ringan (tanpa perdarahan mukosa atau perdarahan organ dalam yang mengancam jiwa), tata laksana primernya adalah observasi dan menghindari trauma. Obat-obatan imunosupresi (seperti kortikosteroid) diberikan bila ada perdarahan aktif. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-032.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q17",
+      "category": "",
+      "question": "Pada anak, proporsi cairan tubuh yang lebih besar dibandingkan dewasa memengaruhi farmakokinetik obat hidrofilik pada tahap:",
+      "questionImages": [],
+      "options": {
+        "A": "Distribusi",
+        "B": "Absorpsi",
+        "C": "Farmakodinamik",
+        "D": "Metabolisme",
+        "E": "Ekskresi"
+      },
+      "optionExplanations": {
+        "A": "Benar: obat hidrofilik tersebar lebih luas di cairan ekstraseluler yang proporsinya lebih besar pada anak.",
+        "B": "Tidak dipengaruhi proporsi cairan tubuh secara langsung.",
+        "C": "Berkaitan dengan efek obat pada reseptor, bukan dengan distribusi.",
+        "D": "Dipengaruhi enzim hati, bukan proporsi cairan tubuh.",
+        "E": "Dipengaruhi fungsi ginjal, bukan proporsi cairan tubuh."
+      },
+      "answer": "A",
+      "explanation": "Sama seperti prinsip pada soal nomor 13, tingginya proporsi cairan ekstraseluler pada anak mengakibatkan obat-obat yang larut air (hidrofilik) akan terdistribusi lebih luas ke jaringan. Akibatnya, volume distribusinya membesar dan memengaruhi farmakokinetik tahap distribusi. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-027.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q18",
+      "category": "",
+      "question": "Seorang anak dengan berat badan 10 kg mengalami diare dengan dehidrasi berat. Berapa jumlah cairan resusitasi yang diperlukan dalam 24 jam sesuai terapi cairan dehidrasi berat?",
+      "questionImages": [],
+      "options": {
+        "A": "700-1000 mL",
+        "B": "500-700 mL",
+        "C": "900-1500 mL",
+        "D": "200-400 mL",
+        "E": "1500-2000 mL"
+      },
+      "optionExplanations": {
+        "A": "Benar: rentang yang sesuai dengan resusitasi dehidrasi berat sekitar 100 mL/kgBB pada anak 10 kg.",
+        "B": "Di bawah kebutuhan resusitasi 100 mL/kgBB (1.000 mL) untuk anak 10 kg.",
+        "C": "Batas atasnya melampaui kebutuhan yang dianjurkan pedoman untuk anak 10 kg.",
+        "D": "Terlalu sedikit dibanding resusitasi 100 mL/kgBB untuk anak 10 kg.",
+        "E": "Melebihi kebutuhan resusitasi untuk anak 10 kg."
+      },
+      "answer": "A",
+      "explanation": "Berdasarkan pedoman Rehidrasi WHO Rencana Terapi C untuk anak (umumnya > 1 tahun dengan BB 10 kg), cairan resusitasi diberikan sebesar 100 mL/kgBB. Jika BB anak 10 kg, maka kebutuhannya adalah 1.000 mL (diberikan bertahap 30 mL/kg dalam 30 menit, dilanjutkan 70 mL/kg dalam 2,5 jam). Range 700-1000 mL mencakup perhitungan tersebut. Notes* Maksudnya di gambar 30mL/kg itu ditambah sama 70 mL/Kg = 100, 100 nya di kali 10 Kg (berat badan di soal). Makanya batas maks nya 1000 mL, karena itu kita pilih yang 700 - 1000. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-034.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q19",
+      "category": "",
+      "question": "Bronkiolitis pada anak paling sering disebabkan oleh infeksi:",
+      "questionImages": [],
+      "options": {
+        "A": "Parainfluenza virus",
+        "B": "Rhinovirus",
+        "C": "Adenovirus",
+        "D": "Respiratory Syncytial Virus (RSV)",
+        "E": "Influenza virus"
+      },
+      "optionExplanations": {
+        "A": "Dapat menyebabkan croup dan bronkiolitis, tetapi bukan penyebab utama.",
+        "B": "Penyebab utama common cold, bukan penyebab utama bronkiolitis.",
+        "C": "Dapat menyebabkan bronkiolitis, tetapi jauh lebih jarang dibanding RSV.",
+        "D": "Benar: penyebab utama bronkiolitis, sekitar 70-80% kasus.",
+        "E": "Lebih sering menyebabkan ISPA atau influenza, bukan penyebab utama bronkiolitis."
+      },
+      "answer": "D",
+      "explanation": "Penyakit bronkiolitis merupakan peradangan akut pada saluran napas bawah yang khas menyerang bayi. Secara epidemiologis, patogen penyebab utamanya (sekitar 70-80% kasus) adalah agen viral Respiratory Syncytial Virus (RSV). ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-035.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q20",
+      "category": "",
+      "question": "Seorang anak perempuan usia 10 tahun datang dengan keluhan lemas, telapak tangan pucat, dan suka makan es batu (pica). Hasil laboratorium: Hb <8 g/dL, MCV dan MCH rendah, trombositosis, leukosit normal, tanpa hepatosplenomegali. Diagnosis yang paling tepat adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Anemia hemolitik",
+        "B": "Anemia defisiensi besi",
+        "C": "Anemia akibat perdarahan kronik",
+        "D": "Leukemia",
+        "E": "Thalassemia mayor"
+      },
+      "optionExplanations": {
+        "A": "Ditandai ikterus dan retikulositosis, tidak sesuai dengan kasus.",
+        "B": "Benar: pica, anemia mikrositik hipokrom, trombositosis reaktif, dan tanpa hepatosplenomegali.",
+        "C": "Juga dapat menyebabkan anemia defisiensi besi, tetapi kasus tidak menyebut riwayat perdarahan.",
+        "D": "Leukemia biasanya menunjukkan kelainan leukosit atau blas dan hepatosplenomegali, tidak sesuai dengan kasus.",
+        "E": "Anemia mikrositik, namun thalassemia mayor biasanya muncul sejak dini dengan gejala lebih berat dan pembesaran limpa."
+      },
+      "answer": "B",
+      "explanation": "Gejala pica (makan es batu), anemia mikrositik hipokrom (MCV/MCH rendah), trombositosis reaktif fisiologis (umum terjadi jika cadangan besi habis), serta absennya pembesaran organ hepatosplenomegali (yang menyingkirkan Thalassemia atau keganasan) merupakan kombinasi diagnostik yang sangat khas untuk Anemia Defisiensi Besi.   ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-036.png",
+        "images/packages/premium__blok-2i__ub-2i/img-037.png",
+        "images/packages/premium__blok-2i__ub-2i/img-038.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q21",
+      "category": "",
+      "question": "Penyediaan air bersih dan sanitasi pada anak termasuk dalam kategori intervensi gizi:",
+      "questionImages": [],
+      "options": {
+        "A": "Rehabilitatif",
+        "B": "Promotif",
+        "C": "Kuratif",
+        "D": "Spesifik",
+        "E": "Sensitif"
+      },
+      "optionExplanations": {
+        "A": "Intervensi pemulihan setelah masalah gizi terjadi, bukan pembagian ini.",
+        "B": "Kategori upaya peningkatan kesehatan umum, bukan pembagian intervensi gizi sensitif dan spesifik.",
+        "C": "Intervensi untuk mengobati masalah gizi yang sudah terjadi, bukan pembagian ini.",
+        "D": "Intervensi yang langsung menangani penyebab gizi, seperti pemberian makan atau suplementasi.",
+        "E": "Benar: intervensi tidak langsung seperti penyediaan air bersih dan sanitasi yang memperbaiki status gizi."
+      },
+      "answer": "E",
+      "explanation": "Intervensi gizi sensitif bersifat tidak langsung menyasar masalah gizi (misalnya di luar pemberian makan) namun berkontribusi besar terhadap perbaikan status gizi jangka panjang, seperti penyediaan air bersih dan sanitasi. Ini berbeda dengan intervensi spesifik yang langsung menyasar penyebab kekurangan asupan kalori gizi pada anak. (Emang gaada ppt nya, ini jawaban AI) ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-039.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q22",
+      "category": "",
+      "question": "Seorang anak usia 5,5 tahun ditemukan bising pansistolik tanpa tanda sianosis. Diagnosis yang paling mungkin adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Ventricular Septal Defect (VSD)",
+        "B": "Tetralogy of Fallot",
+        "C": "Coarctatio Aorta",
+        "D": "Atrial Septal Defect (ASD)",
+        "E": "Patent Ductus Arteriosus (PDA)"
+      },
+      "optionExplanations": {
+        "A": "Benar: bising pansistolik kasar pada kelainan asianotik menunjukkan kebocoran pada sekat ventrikel.",
+        "B": "Umumnya disertai sianosis, sedangkan pada kasus tidak ada sianosis.",
+        "C": "Ditandai perbedaan tekanan lengan dan tungkai, tanpa bising pansistolik khas.",
+        "D": "Biasanya berupa bising sistolik ejeksi dengan S2 yang melebar, bukan pansistolik kasar.",
+        "E": "Bising kontinu khas, bukan bising pansistolik."
+      },
+      "answer": "A",
+      "explanation": "Penemuan klinis berupa bising (murmur) pansistolik/holosistolik kasar pada kelainan jantung bawaan asianotik sangat patognomonik mengindikasikan adanya defek kebocoran pada sekat bilik jantung, yaitu kelainan anatomi Ventricular Septal Defect (VSD).   ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-040.png",
+        "images/packages/premium__blok-2i__ub-2i/img-041.png",
+        "images/packages/premium__blok-2i__ub-2i/img-042.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q23",
+      "category": "",
+      "question": "Neonatus lebih sensitif terhadap efek opioid dibandingkan anak yang lebih besar atau dewasa. Hal ini terutama disebabkan oleh perbedaan pada tahap farmakokinetik/farmakodinamik berupa:",
+      "questionImages": [],
+      "options": {
+        "A": "Distribusi",
+        "B": "Farmakodinamik (sensitivitas reseptor SSP)",
+        "C": "Absorpsi",
+        "D": "Ekskresi",
+        "E": "Metabolisme"
+      },
+      "optionExplanations": {
+        "A": "Perbedaan distribusi berperan, tetapi bukan penyebab utama sensitivitas pada soal ini.",
+        "B": "Benar: reseptor SSP dan sawar darah-otak yang imatur meningkatkan efek opioid.",
+        "C": "Pada neonatus tidak menjadi penyebab utama peningkatan sensitivitas opioid.",
+        "D": "Fungsi ginjal neonatus imatur, tetapi bukan faktor utama sensitivitas opioid.",
+        "E": "Enzim hati neonatus imatur memengaruhi metabolisme, namun penjelasan utama soal ini adalah sensitivitas reseptor SSP."
+      },
+      "answer": "B",
+      "explanation": "Secara farmakodinamik, sistem saraf pusat (SSP) serta reseptor opiat pada otak neonatus masih sangat immature. Tingginya sensitivitas reseptor serta imaturnya pelindung sawar darah otak (blood-brain barrier) menyebabkan obat golongan opioid seperti morfin memiliki potensi memicu depresi napas berlebihan pada bayi baru lahir. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-043.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q24",
+      "category": "",
+      "question": "Massa otot yang rendah pada anak (dibandingkan dewasa) akan memengaruhi farmakokinetik obat terutama pada tahap:",
+      "questionImages": [],
+      "options": {
+        "A": "Absorpsi (khususnya obat intramuskular)",
+        "B": "Metabolisme",
+        "C": "Distribusi",
+        "D": "Farmakodinamik",
+        "E": "Ekskresi"
+      },
+      "optionExplanations": {
+        "A": "Benar: massa otot yang rendah memengaruhi penyerapan obat intramuskular.",
+        "B": "Dipengaruhi enzim hati, tidak langsung berkaitan dengan massa otot.",
+        "C": "Dipengaruhi volume cairan dan lemak tubuh, bukan massa otot sebagai faktor utama.",
+        "D": "Berkaitan dengan respons reseptor, bukan dengan massa otot.",
+        "E": "Dipengaruhi fungsi ginjal, tidak berkaitan dengan massa otot."
+      },
+      "answer": "A",
+      "explanation": "Absorpsi sediaan obat intramuskular sangat bergantung pada aliran darah dan volume jaringan otot rangka. Karena pada masa kanak-kanak perkembangan jaringan massa otot relatif lebih rendah dan kecil, fase penyerapannya ke sistemik (Absorpsi) dapat menjadi lebih tidak beraturan dan lambat. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-044.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q25",
+      "category": "",
+      "question": "Seorang anak dengan diare berdarah dan berlendir. Pemeriksaan mikroskopis feses menunjukkan gambaran parasit. Tatalaksana yang tepat adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Metronidazole",
+        "B": "Amoksisilin",
+        "C": "Albendazole",
+        "D": "Kotrimoksazol",
+        "E": "Ciprofloxacin"
+      },
+      "optionExplanations": {
+        "A": "Benar: terapi lini pertama amebiasis intestinal akibat Entamoeba histolytica.",
+        "B": "Tidak efektif terhadap parasit amoeba.",
+        "C": "Antelmintik untuk cacing, bukan untuk amoeba.",
+        "D": "Tidak efektif untuk amebiasis.",
+        "E": "Digunakan pada disentri bakteri tertentu, bukan terapi lini pertama amebiasis."
+      },
+      "answer": "A",
+      "explanation": "Sindrom disentri (diare berdarah-berlendir) disertai penemuan mikroskopis berbentuk parasit/kista/trofozoit di feses sangat spesifik mengarahkan diagnosis ke Amoebiasis intestinal akibat infeksi Entamoeba histolytica. Terapi antimikroba lini pertamanya adalah obat turunan nitroimidazol, yakni Metronidazole. No debat ini mah, gak usah liat ppt pasti juga paham, gak ada di ppt soalnya.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q26",
+      "category": "",
+      "question": "Seorang anak usia 9 bulan belum lancar berbicara, namun sudah dapat merespon senyum saat diajak cilukba. Instrumen skrining perkembangan yang tepat digunakan adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Denver Developmental Screening Test",
+        "B": "Skor Downes dan APGAR",
+        "C": "Bayley Scales of Infant Development",
+        "D": "Kuesioner Pra Skrining Perkembangan (KPSP)",
+        "E": "CHAT (Checklist for Autism in Toddlers)"
+      },
+      "optionExplanations": {
+        "A": "Juga instrumen skrining, namun di layanan primer Indonesia yang dianjurkan adalah KPSP.",
+        "B": "Skor klinis untuk kondisi neonatus, bukan instrumen skrining perkembangan.",
+        "C": "Instrumen penilaian perkembangan yang lebih komprehensif, biasanya digunakan di tingkat rujukan.",
+        "D": "Benar: instrumen skrining perkembangan yang dianjurkan di layanan primer Indonesia sesuai usia.",
+        "E": "Dirancang untuk skrining autisme pada usia sekitar 18 bulan, bukan perkembangan umum usia 9 bulan."
+      },
+      "answer": "D",
+      "explanation": "Di fasilitas kesehatan pelayanan primer tingkat pertama Indonesia, Kementerian Kesehatan menggalakkan penggunaan alat deteksi dini keterlambatan balita berupa instrumen KPSP (Kuesioner Pra Skrining Perkembangan). Ini dirancang spesifik untuk tiap bulan perkembangan (termasuk skrining usia 9 bulan). ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-045.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q27",
+      "category": "",
+      "question": "Seorang pasien dengan gejala klinis mengarah Guillain-Barré Syndrome (GBS). Pemeriksaan fisik menunjukkan kelemahan otot yang asimetris. Temuan ini membedakan GBS dengan diagnosis banding:",
+      "questionImages": [],
+      "options": {
+        "A": "Botulisme",
+        "B": "Poliomyelitis",
+        "C": "Myasthenia gravis",
+        "D": "Multiple sclerosis",
+        "E": "Miopati"
+      },
+      "optionExplanations": {
+        "A": "Kelumpuhan flaksid simetris yang memburuk dari kranial, bukan pola asimetris.",
+        "B": "Benar: kelumpuhan flaksid yang dapat asimetris, sehingga membedakan dari GBS yang simetris.",
+        "C": "Kelemahan fluktuatif yang dipicu aktivitas, bukan paralisis flaksid akut.",
+        "D": "Gejala UMN dengan defisit bertahap, bukan kelumpuhan flaksid akut.",
+        "E": "Kelemahan proksimal yang simetris dan berkembang lebih lambat, bukan akut."
+      },
+      "answer": "B",
+      "explanation": "Gambaran klinis GBS adalah kelemahan akut tipe LMN yang menyebar dari kaki naik ke atas (ascending) dan bersifat saling seragam/simetris. Jika temuan di klinis paralisis bersifat flaksid, namun sangat asimetris (misal hanya lumpuh pada satu tungkai), diagnosis banding utamanya adalah infeksi virus saraf motorik tulang belakang, yaitu Poliomyelitis. Note* Maksud pertanyaan nya itu pasien di duga GBS tapi kok pas di pf asimetris kelemahan ototnya, harus nya simetris kalau GBS. Makanya dd nya jawaban nya adalah yang asimetris. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-046.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q28",
+      "category": "",
+      "question": "Seorang anak dengan nyeri perut periumbilikal yang hilang timbul selama 4 bulan, tidak berhubungan dengan BAB, dan tidak mengganggu tidur. Diagnosis yang paling tepat adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Apendisitis kronik",
+        "B": "Kolitis",
+        "C": "Hernia umbilikalis",
+        "D": "Hernia diafragmatika",
+        "E": "Functional abdominal pain"
+      },
+      "optionExplanations": {
+        "A": "Nyeri kanan bawah dan tanda inflamasi, tidak khas untuk nyeri periumbilikal berulang.",
+        "B": "Biasanya disertai diare, darah, atau tanda inflamasi, tidak sesuai dengan kasus.",
+        "C": "Benjolan di pusar tidak disebutkan pada kasus.",
+        "D": "Menyebabkan gejala napas, bukan nyeri periumbilikal berulang.",
+        "E": "Benar: nyeri perut berulang tanpa tanda organik atau kegawatan selama beberapa bulan."
+      },
+      "answer": "E",
+      "explanation": "Nyeri perut berulang pada area periumbilikal (sekitar pusar) selama beberapa bulan pada anak prasekolah/sekolah yang tidak disertai tanda kegawatan (berat badan naik normal, BAB normal, tidur tenang di malam hari tanpa terbangun kesakitan) diklasifikasikan murni secara klinis sebagai Nyeri Perut Fungsional (Functional Abdominal Pain), sering dicetuskan masalah psikososial/stres di sekolah. (Gak ada di ppt sekarang dan tahun lalu)  ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-047.png",
+        "images/packages/premium__blok-2i__ub-2i/img-048.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q29",
+      "category": "",
+      "question": "Hasil laboratorium menunjukkan aPTT memanjang, PT memanjang, clotting time (CT) memanjang, sedangkan bleeding time (BT) dan trombosit normal. Diagnosis yang paling mungkin adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Defisiensi vitamin K",
+        "B": "Leukemia",
+        "C": "Hemofilia",
+        "D": "Von Willebrand Disease",
+        "E": "ITP"
+      },
+      "optionExplanations": {
+        "A": "Benar: PT, aPTT, dan CT memanjang dengan BT dan trombosit normal karena faktor II, VII, IX, dan X terganggu.",
+        "B": "Biasanya disertai kelainan sel darah lain dan gejala sistemik.",
+        "C": "Hanya aPTT yang memanjang dengan PT normal, tidak sesuai dengan kasus.",
+        "D": "BT memanjang, sedangkan BT normal pada kasus ini.",
+        "E": "Trombosit rendah dengan BT memanjang, sedangkan PT dan aPTT normal."
+      },
+      "answer": "A",
+      "explanation": "Defisiensi vitamin K menyebabkan hati gagal merakit faktor pembekuan II, VII, IX, dan X (faktor esensial dari jalur ekstrinsik dan intrinsik). Akibatnya, pada hasil lab darah ditemukan pemanjangan CT, PT (untuk jalur ekstrinsik/faktor VII) dan aPTT (untuk intrinsik/faktor IX). Namun karena jumlah dan fungsi perekat keping darah masih utuh, angka Trombosit dan Bleeding Time tetap normal.   ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-049.png",
+        "images/packages/premium__blok-2i__ub-2i/img-050.png",
+        "images/packages/premium__blok-2i__ub-2i/img-051.jpeg"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q30",
+      "category": "",
+      "question": "Patofisiologi utama cerebral palsy tipe spastik adalah kerusakan pada:",
+      "questionImages": [],
+      "options": {
+        "A": "Ganglia basalis",
+        "B": "Saraf tepi",
+        "C": "Kornu anterior medula spinalis",
+        "D": "Upper Motor Neuron",
+        "E": "Serebelum"
+      },
+      "optionExplanations": {
+        "A": "Kerusakan di sini menimbulkan diskinesia atau atetosis, bukan spastisitas.",
+        "B": "Lesi LMN menyebabkan kelemahan flaksid.",
+        "C": "Lesi LMN menyebabkan kelumpuhan flaksid.",
+        "D": "Benar: lesi traktus kortikospinal pada UMN menyebabkan spastisitas dan hipertonus.",
+        "E": "Lesi di sini menyebabkan ataksia dan gangguan koordinasi."
+      },
+      "answer": "D",
+      "explanation": "Sindrom kecacatan Cerebral Palsy tipe Spastik dikarakteristikkan dengan kekakuan gerak hipertonik. Ini terjadi akibat nekrosis/kerusakan pada susunan traktus saraf kortikospinal/piramidal di otak besar, yang mana secara neurologis keseluruhan traktus ini bermula dan diklasifikasikan sebagai sistem persarafan pusat Upper Motor Neuron (UMN). Udah blok saraf, spastik flaccid ga perlu di bedain lagi.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q31",
+      "category": "",
+      "question": "Tatalaksana penggantian faktor pembekuan pada hemofilia tipe A adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Faktor VIII",
+        "B": "Faktor VII",
+        "C": "Vitamin K",
+        "D": "Faktor IX",
+        "E": "Faktor XI"
+      },
+      "optionExplanations": {
+        "A": "Benar: defisiensi faktor VIII adalah penyebab hemofilia A, sehingga pengganti faktor VIII adalah terapi utama.",
+        "B": "Faktor VII tidak diganti pada hemofilia A.",
+        "C": "Vitamin K untuk defisiensi vitamin K, bukan hemofilia A.",
+        "D": "Pengganti faktor IX diberikan pada hemofilia B, bukan hemofilia A.",
+        "E": "Faktor XI terkait hemofilia C, bukan hemofilia A."
+      },
+      "answer": "A",
+      "explanation": "Hemofilia A adalah mutasi kelainan genetik defisiensi kromosom X spesifik yang mengakibatkan tidak diproduksinya glikoprotein darah Faktor VIII (antihemophilic factor). Terapi perdarahan kuratifnya mewajibkan pemberian suntikan profilaksis konsentrat spesifik rekombinan Faktor VIII murni. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-052.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q32",
+      "category": "",
+      "question": "Tatalaksana ITP (Idiopathic Thrombocytopenic Purpura) derajat berat adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Antibiotik spektrum luas",
+        "B": "Kortikosteroid dan IVIG",
+        "C": "Splenektomi lini pertama",
+        "D": "Observasi saja",
+        "E": "Transfusi trombosit rutin"
+      },
+      "optionExplanations": {
+        "A": "Antibiotik spektrum luas tidak memiliki peran pada ITP.",
+        "B": "Benar: pada ITP berat diberikan kortikosteroid dan IVIG sebagai lini pertama untuk menaikkan trombosit dengan cepat.",
+        "C": "Splenektomi bukan lini pertama dan hanya dipertimbangkan bila terapi lain gagal.",
+        "D": "Observasi saja hanya untuk ITP ringan, bukan derajat berat.",
+        "E": "Transfusi trombosit rutin tidak dianjurkan, hanya pada perdarahan yang mengancam jiwa."
+      },
+      "answer": "B",
+      "explanation": "Tatalaksana ITP dibedakan dari derajatnya. Ringan-asimtomatis cukup diobservasi. Namun apabila jumlah trombosit merosot ekstrem (derajat berat) hingga disertai gejala bahaya perdarahan sistemik/mukosa/otak, maka tata laksana lini pertama medikamentosa agresif segera adalah pemberian imunomodulator sistemik berupa kombinasi obat Kortikosteroid dosis tinggi dan infus antibodi IVIG. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-053.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q33",
+      "category": "",
+      "question": "Seorang anak usia 4 tahun masih takut naik-turun tangga, tampak emosional, dan kurang lincah bergerak. Gangguan yang paling mungkin dialami adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Gangguan bahasa",
+        "B": "Gangguan motorik kasar",
+        "C": "Gangguan motorik halus",
+        "D": "Gangguan koordinasi",
+        "E": "Gangguan sensori integrasi"
+      },
+      "optionExplanations": {
+        "A": "Gangguan bahasa tidak sesuai dengan gambaran motorik yang ditanyakan.",
+        "B": "Benar: kegiatan melibatkan otot besar seperti naik-turun tangga, menjaga keseimbangan, dan bergerak bebas.",
+        "C": "Gangguan motorik halus berkaitan dengan gerakan jari dan tangan yang kecil.",
+        "D": "Gangguan koordinasi tidak disebut sebagai kategori perkembangan utama di sini.",
+        "E": "Gangguan sensori integrasi berkaitan dengan pemrosesan rangsangan indera, bukan kemampuan gerak kasar yang tampak di sini."
+      },
+      "answer": "B",
+      "explanation": "Kegiatan fisik berkelompok otot luas seperti menjaga keseimbangan saat berdiri, berjalan bebas, merangkak, melompat, serta naik-turun anak tangga secara eksklusif merupakan domain kompetensi perkembangan sistem Motorik Kasar.   ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-054.png",
+        "images/packages/premium__blok-2i__ub-2i/img-055.png",
+        "images/packages/premium__blok-2i__ub-2i/img-056.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q34",
+      "category": "",
+      "question": "Denver Developmental Screening Test (DDST/Denver II) digunakan untuk skrining perkembangan pada rentang usia:",
+      "questionImages": [],
+      "options": {
+        "A": "2-5 bulan",
+        "B": "2-5 tahun",
+        "C": "6-24 bulan",
+        "D": "2-6 bulan",
+        "E": "2-72 bulan (0-6 tahun)"
+      },
+      "optionExplanations": {
+        "A": "Rentang usia ini tidak mencakup seluruh rentang uji DDST II.",
+        "B": "Rentang usia ini tidak mencakup seluruh rentang uji DDST II.",
+        "C": "Rentang usia ini tidak mencakup seluruh rentang uji DDST II.",
+        "D": "Rentang usia ini tidak mencakup seluruh rentang uji DDST II.",
+        "E": "Benar: DDST II digunakan pada rentang 2-72 bulan (0-6 tahun)."
+      },
+      "answer": "E",
+      "explanation": "Format uji validasi instrumen periksa perkembangan skrining klasik Denver II (DDST II) didesain rentangnya untuk melacak tumbuh-kembang 4 sektor balita sejak ia lahir bugar awal (bayi umur 0 bulan) di dalam grafik sampai maksimal berusia 6 tahun (atau di bulan kalender setara 72 bulan). Gak ada di ppt.  ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-057.png",
+        "images/packages/premium__blok-2i__ub-2i/img-058.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q35",
+      "category": "",
+      "question": "Seorang anak dengan muntah proyektil (mengucur). Hasil laboratorium menunjukkan kadar gula darah <40 mg/dL. Diagnosis yang paling mungkin adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Intoleransi laktosa",
+        "B": "Hipoglikemia fungsional",
+        "C": "Meningitis bakterialis",
+        "D": "Meningitis viral",
+        "E": "Ensefalitis"
+      },
+      "optionExplanations": {
+        "A": "Intoleransi laktosa tidak menyebabkan muntah proyektil dan gula darah yang sangat rendah.",
+        "B": "Hipoglikemia fungsional tidak menjelaskan muntah proyektil dan tanda peningkatan tekanan intrakranial.",
+        "C": "Benar: muntah proyektil dengan glukosa rendah dan glukosa LCS yang turun pada meningitis bakterialis.",
+        "D": "Meningitis viral umumnya tidak menyebabkan glukosa LCS turun seberat ini.",
+        "E": "Ensefalitis tidak khas dengan penurunan glukosa LCS seperti pada kasus."
+      },
+      "answer": "C",
+      "explanation": "Muntah menyemprot jauh tanda peninggian tekanan intrakranial (edema otak infektif). Saat diperiksa komposisi biokimia darah (serta cairan LCS lumbal secara korelasi serebral) menunjukkan glukosa tersedot habis secara gila-gilaan (<40 mg/dL, atau rasio LCS:darah <0.4). Bakteri adalah parasit pembelah belah yang merampas memakan gula/glukosa tubuh, sangat menunjuk pada sindrom infeksi patologis purulen Meningitis Bakterialis.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q36",
+      "category": "",
+      "question": "Seorang ibu berencana membawa anaknya berlibur ke Bali dan ingin memberikan vaksin Japanese Encephalitis (JE). Tindakan yang sebaiknya dilakukan adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Vaksin diberikan hanya jika anak berusia di atas 5 tahun",
+        "B": "Tidak perlu vaksin JE karena Bali bukan daerah endemik",
+        "C": "Vaksin hanya diberikan setelah tiba di daerah endemik",
+        "D": "Vaksin JE tidak direkomendasikan untuk wisatawan",
+        "E": "Vaksin diberikan sebelum tiba di daerah endemik"
+      },
+      "optionExplanations": {
+        "A": "Vaksin JE tidak dibatasi pada usia di atas 5 tahun.",
+        "B": "Bali termasuk daerah endemik, sehingga vaksin JE tetap dianjurkan untuk wisatawan yang tinggal lama.",
+        "C": "Vaksin setelah tiba tidak memberikan perlindungan tepat waktu.",
+        "D": "Vaksin JE tetap direkomendasikan untuk wisatawan yang tinggal di daerah endemik.",
+        "E": "Benar: vaksin JE diberikan sebelum tiba di daerah endemik agar kekebalan sudah terbentuk."
+      },
+      "answer": "E",
+      "explanation": "Imunisasi pencegahan nyamuk perusak otak Japanese Encephalitis (JE) direkomendasikan bagi wisatawan (travelers) yang hendak bermukim >1 bulan ke provinsi/lokasi regional negara tinggi endemik (termasuk Pulau Bali). Aturan absolut pencegahan: vaksin traveling mesti di injeksi idealnya minimal 1-4 minggu sebelum hari keberangkatan (sebelum pasien tiba) demi membangun pabrik antibodi protektif sel darah putih.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q37",
+      "category": "",
+      "question": "Seorang neonatus mengalami hipersalivasi dan muntah, serta selang NGT tidak dapat dimasukkan (gagal masuk lambung). Diagnosis yang paling mungkin adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Stenosis pilorus",
+        "B": "Atresia duodeni",
+        "C": "Atresia esofagus",
+        "D": "Hirschsprung disease",
+        "E": "Atresia ani"
+      },
+      "optionExplanations": {
+        "A": "Stenosis pilorus menyebabkan muntah proyektil setelah beberapa minggu, bukan gagal NGT sejak lahir.",
+        "B": "Atresia duodeni menyebabkan muntah empedu dan gambaran double bubble, bukan kegagalan pemasangan NGT.",
+        "C": "Benar: atresia esofagus menyebabkan air liur berlebih dan selang NGT tidak dapat masuk lambung.",
+        "D": "Hirschsprung disease menyebabkan obstruksi usus fungsional dengan konstipasi, bukan gagal masuk NGT.",
+        "E": "Atresia ani tampak sebagai tidak adanya lubang anus, bukan gangguan saluran napas atas dan NGT."
+      },
+      "answer": "C",
+      "explanation": "Jika neonatus (bayi baru lahir) terus menerus \"ngeces\" (mengeluarkan ludah berbusa) karena tak bisa menelan ludah, sering tersedak muntah awal menyusu susu ibunya, dan intervensi pipa nasogastrik NGT \"mentok\" jalan buntu tak bisa dilewatkan masuk rongga perut/lambung; hal ini absolut mendiagnostik malformasi kelainan saluran sumbat saluran pencernaan bagian kerongkongan (Atresia Esofagus).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q38",
+      "category": "",
+      "question": "Gambaran radiologis 'double bubble sign' pada neonatus merupakan tanda khas dari:",
+      "questionImages": [],
+      "options": {
+        "A": "Atresia duodeni",
+        "B": "Stenosis pilorus hipertrofik",
+        "C": "Hirschsprung disease",
+        "D": "Atresia esofagus",
+        "E": "Malrotasi usus"
+      },
+      "optionExplanations": {
+        "A": "Benar: gambaran double bubble khas pada atresia duodeni akibat dilatasi lambung dan duodenum.",
+        "B": "Stenosis pilorus hipertrofik menyebabkan muntah nonbilious dan gambaran berbeda.",
+        "C": "Hirschsprung disease tidak menghasilkan gambaran double bubble.",
+        "D": "Atresia esofagus tidak menghasilkan gambaran double bubble.",
+        "E": "Malrotasi usus dapat menyebabkan muntah hijau, namun tidak khas dengan double bubble."
+      },
+      "answer": "A",
+      "explanation": "Muntah cairan mengandung warna hijau pekat (empedu) dari hari pertama bayi lahir, serta foto X-ray abdomen membuktikan penumpukan gelembung besar radiolusen udara menutupi segmen anatomi lambung disusul bulatan sekunder di proksimal usus 12 jari (gambaran klasik layaknya Double Bubble / Dua Gelembung) adalah konfirmasi patognomonik penyumbatan konjenital Atresia Duodenum.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q39",
+      "category": "",
+      "question": "Petugas kesehatan ingin mendata jumlah kematian bayi usia <28 hari per 1000 kelahiran hidup. Indikator yang dimaksud adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Angka Kematian Bayi (AKB) usia 0-1 tahun",
+        "B": "Angka Kematian Ibu (AKI)",
+        "C": "Angka Kematian Balita (AKABA)",
+        "D": "Angka Kematian Perinatal",
+        "E": "Angka Kematian Neonatal (AKN) <28 hari"
+      },
+      "optionExplanations": {
+        "A": "Angka kematian bayi mencakup usia 0-1 tahun, sedangkan soal menyebut usia kurang dari 28 hari.",
+        "B": "Angka kematian ibu mengukur kematian ibu, bukan kematian bayi.",
+        "C": "Angka kematian balita mencakup usia di bawah 5 tahun.",
+        "D": "Angka kematian perinatal mencakup periode sekitar persalinan, bukan hanya usia di bawah 28 hari.",
+        "E": "Benar: angka kematian neonatal mengukur kematian bayi usia kurang dari 28 hari per 1000 kelahiran hidup."
+      },
+      "answer": "E",
+      "explanation": "Dalam terminologi epidemiologi mortalitas Dinas Kesehatan, bayi dari rentang sejak hari plasenta putus dilahirkan hidup sampai sebelum melewati masa hari kalender ke-28 (satu bulan neonatal) disebut neonatus. Indikator matematik pembaginya dinamakan Angka Kematian Neonatal (AKN). ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-065.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q40",
+      "category": "",
+      "question": "Seorang anak usia 12 bulan pindah bersama keluarganya ke Bali (daerah endemik Japanese Encephalitis). Pertimbangan vaksinasi JE yang tepat adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Berikan 2 dosis dengan interval 1 bulan",
+        "B": "Berikan 3 dosis booster tahunan",
+        "C": "Vaksin tidak diberikan",
+        "D": "Berikan vaksin sesuai dosis dan jadwal yang berlaku",
+        "E": "Tunda vaksin hingga usia 2 tahun"
+      },
+      "optionExplanations": {
+        "A": "Dua dosis dengan interval 1 bulan tidak sesuai dengan jadwal vaksin JE yang berlaku.",
+        "B": "Booster tahunan tidak sesuai dengan jadwal vaksin JE primer.",
+        "C": "Vaksin tidak dianjurkan karena anak tinggal di daerah endemik.",
+        "D": "Benar: anak tetap diberikan vaksin sesuai dosis dan jadwal yang berlaku untuk usianya.",
+        "E": "Penundaan hingga 2 tahun tidak dianjurkan saat anak sudah berada di daerah endemik."
+      },
+      "answer": "D",
+      "explanation": "Pemerintah merekomendasikan injeksi vaksin JE primer bagi anak di area transmisi endemik saat menyentuh usia emas 9-10 bulan. Berhubung usia saat pindah domisili 12 bulan, prosedur medis catch-up menginstruksikan bahwa anak itu harus disuntik dosis perlindungan (vaksinasi) segera saat itu juga merujuk takaran jadwal standar yang umum tanpa penundaan fiktif berlebihan.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q41",
+      "category": "",
+      "question": "Seorang anak datang untuk vaksinasi campak yang sebelumnya tertunda karena sakit berulang. Pertimbangan pemberian vaksin yang tepat adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Diberikan vaksin sesuai anjuran (catch-up immunization)",
+        "B": "Diberikan 2 dosis dan diulang 6 bulan kemudian",
+        "C": "Vaksin tidak perlu diberikan lagi",
+        "D": "Ganti dengan vaksin MMR dosis tunggal tanpa jadwal ulang",
+        "E": "Tunggu hingga usia sekolah (program BIAS kelas 1 SD)"
+      },
+      "optionExplanations": {
+        "A": "Benar: keterlambatan imunisasi karena sakit tidak membatalkan jadwal, sehingga diberikan imunisasi kejar.",
+        "B": "Dua dosis dengan jarak 6 bulan tidak sesuai dengan panduan imunisasi kejar.",
+        "C": "Vaksin tetap perlu diberikan karena anak belum terlindungi.",
+        "D": "Vaksin MMR dosis tunggal tanpa jadwal ulang tidak sesuai dengan rekomendasi.",
+        "E": "Menunda hingga sekolah membiarkan anak rentan terhadap campak."
+      },
+      "answer": "A",
+      "explanation": "Dalam konsensus rekomendasi program praktik Pediatri/IDAI, keterlambatan suntik jadwal imunisasi atas alasan sakit infeksi ringan sama sekali tidak menganulir program sebelumnya. Praktisi wajib melaksanakan Imunisasi Kejar (Catch-up Immunization) secara aktif secepatnya supaya balita tersebut berhasil mencapai keutuhan herd immunity populasinya tanpa mengabaikan perlindungan kekebalan di masa rentannya.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q42",
+      "category": "",
+      "question": "Seorang anak usia 9 bulan akan divaksinasi, namun memiliki riwayat rawat inap karena leukemia dan sedang menjalani kemoterapi. Pertimbangan vaksinasi yang tepat adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Vaksin tidak diberikan karena kontraindikasi (imunokompromais)",
+        "B": "Tunggu hingga usia sekolah kelas 1 SD",
+        "C": "Vaksin diberikan sekarang",
+        "D": "Vaksin diberikan dengan dosis ganda",
+        "E": "Tunggu hingga usia 12 bulan"
+      },
+      "optionExplanations": {
+        "A": "Benar: vaksin hidup, seperti MR, dikontraindikasikan pada imunokompromais seperti pasien kemoterapi.",
+        "B": "Penundaan hingga sekolah tidak tepat karena kondisi imunokompromais masih berlangsung.",
+        "C": "Vaksin hidup tidak boleh diberikan pada anak yang sedang menjalani kemoterapi.",
+        "D": "Dosis ganda tidak meningkatkan keamanan dan tetap kontraindikasi.",
+        "E": "Penundaan hingga 12 bulan tidak menyelesaikan kontraindikasi vaksin hidup selama kemoterapi."
+      },
+      "answer": "A",
+      "explanation": "Pada jenjang kalender 9 bulan, IDAI mewajibkan suntikan vaksin MR (Campak dan Rubella) dengan platform sifat berupa antigen \"kuman hidup yang dilemahkan\" (Live-attenuated virus). Secara prinsip imunologi ketat absolut, vaksin hidup tak boleh (merupakan kontraindikasi) diinjeksi masuk menantang kondisi imun imunosupresif/imunokompromais buatan berat pada pasien Leukemia yang menjalani kemoterapi aktif. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-068.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q43",
+      "category": "",
+      "question": "Seorang anak mengalami keterlambatan pencapaian suatu milestone perkembangan akibat kurangnya stimulasi dari orang tua. Tindakan yang paling tepat dilakukan adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Merujuk langsung ke dokter spesialis anak",
+        "B": "Merujuk ke psikolog klinis",
+        "C": "Mengajarkan orang tua cara memberikan stimulasi yang tepat",
+        "D": "Melakukan observasi tanpa intervensi",
+        "E": "Memberikan terapi farmakologis"
+      },
+      "optionExplanations": {
+        "A": "Rujukan langsung tidak diperlukan sebagai tindakan pertama pada kurang stimulasi.",
+        "B": "Rujukan ke psikolog klinis tidak menjadi langkah awal di layanan primer.",
+        "C": "Benar: tatalaksana awal keterlambatan akibat kurang stimulasi adalah membimbing dan melatih orang tua.",
+        "D": "Observasi tanpa intervensi tidak menyelesaikan masalah stimulasi.",
+        "E": "Terapi farmakologis tidak diindikasikan untuk keterlambatan akibat kurang stimulasi."
+      },
+      "answer": "C",
+      "explanation": "Guidelines pedoman tata laksana layanan awal Puskesmas terkait balita lambat tumbuh-kembang spesifik ranah non-organik/kurang asuh, mengharuskan garda pertama tenaga medis mensyaratkan terapi mandiri edukasi lingkungan. Yaitu: membimbing dan melatih ulang orang tua melakukan perangsangan stimulasi dini ekstensif mandiri di lingkup rumah keluarganya setiap hari (sebelum melangkah naik prosedur ke perujukan expert/spesialis). Di ppt memang gak ada, jawab yang kedengaran lebih bermoral aja.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q44",
+      "category": "",
+      "question": "Pubertas prekoks pada anak perempuan didefinisikan sebagai timbulnya tanda pubertas sebelum usia:",
+      "questionImages": [],
+      "options": {
+        "A": "7 tahun",
+        "B": "10 tahun",
+        "C": "8 tahun",
+        "D": "6 tahun",
+        "E": "9 tahun"
+      },
+      "optionExplanations": {
+        "A": "Tanda pubertas pada usia 7 tahun juga tergolong prekoks menurut definisi ini.",
+        "B": "Pada usia 10 tahun tanda pubertas masih dalam rentang normal.",
+        "C": "Benar: pubertas prekoks pada anak perempuan adalah munculnya tanda seks sekunder sebelum usia 8 tahun.",
+        "D": "Tanda pubertas pada usia 6 tahun tergolong sangat dini dan termasuk pubertas prekoks.",
+        "E": "Pada usia 9 tahun tanda pubertas masih dalam rentang normal."
+      },
+      "answer": "C",
+      "explanation": "Pada anak perempuan, pubertas prekoks (pubertas dini) secara medis didefinisikan sebagai munculnya tanda-tanda seks sekunder—seperti thelarche (pembesaran payudara) atau pubarche (rambut pubis)—sebelum anak tersebut genap berusia 8 tahun. (Sebagai perbandingan, pada anak laki-laki batasnya adalah sebelum usia 9 tahun).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q45",
+      "category": "",
+      "question": "Seorang anak sering tampak 'melamun' sesaat ketika dipanggil, tanpa disertai kejang motorik yang jelas. Diagnosis yang paling mungkin adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Sinkop",
+        "B": "ADHD",
+        "C": "Kejang demam",
+        "D": "Epilepsi umum tonik-klonik",
+        "E": "Absence seizure"
+      },
+      "optionExplanations": {
+        "A": "Sinkop berupa kehilangan kesadaran sementara akibat gangguan aliran darah, tidak sesuai dengan episode melamun.",
+        "B": "ADHD ditandai gangguan perhatian dan hiperaktivitas yang berlangsung lama, bukan episode melamun sesaat.",
+        "C": "Kejang demam terjadi bersama demam dan biasanya disertai kejang motorik, tidak sesuai dengan kasus.",
+        "D": "Epilepsi umum tonik-klonik ditandai kejang motorik yang jelas, tidak sesuai dengan kasus.",
+        "E": "Benar: absence seizure berupa episode tatapan kosong singkat tanpa kejang motorik, lalu kembali normal."
+      },
+      "answer": "E",
+      "explanation": "Absence seizure (dulu disebut petit mal) adalah jenis kejang umum pada anak yang bermanifestasi berupa episode hilangnya kesadaran singkat (beberapa detik) yang tiba-tiba, ditandai dengan tatapan kosong/melamun mendadak, penghentian aktivitas sementara, dan pasien tidak merespons panggilan tanpa adanya sentakan motorik (kejang kelojotan) yang jelas. Note* Emang ga ada di ppt, udah blok saraf, Kejang Absans/Absence harus nya dah paham, kalau belum paham ambil 2H lagi aja. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-070.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q46",
+      "category": "",
+      "question": "Seorang bayi lahir dari ibu dengan HBsAg positif, bayi lahir sehat dan bugar. Vaksinasi/profilaksis yang wajib diberikan pada bayi adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Vaksin BCG",
+        "B": "Hepatitis B Immunoglobulin (HBIG) dan vaksin Hepatitis B",
+        "C": "Tidak perlu profilaksis khusus",
+        "D": "Vaksin Hepatitis B monovalen saja",
+        "E": "Vaksin DPT"
+      },
+      "optionExplanations": {
+        "A": "Vaksin BCG tidak mencegah hepatitis B.",
+        "B": "Benar: bayi dari ibu HBsAg positif harus mendapat HBIG dan vaksin hepatitis B secara bersamaan.",
+        "C": "Profilaksis khusus tetap diperlukan untuk mencegah penularan vertikal.",
+        "D": "Vaksin hepatitis B saja tidak cukup untuk bayi dari ibu HBsAg positif.",
+        "E": "Vaksin DPT tidak mencegah hepatitis B."
+      },
+      "answer": "B",
+      "explanation": "Bayi yang lahir dari ibu terinfeksi virus Hepatitis B (HBsAg reaktif) memiliki risiko tinggi tertular saat proses persalinan. Standar baku emas pencegahannya (untuk memutus transmisi vertikal) adalah pemberian ganda secara terpisah: Vaksin Hepatitis B (profilaksis aktif) ditambah injeksi antibodi Hepatitis B Immunoglobulin / HBIG (profilaksis pasif) sedini mungkin, idealnya dalam 12 jam pertama kehidupan.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q47",
+      "category": "",
+      "question": "Seorang bayi mengalami distosia bahu saat persalinan. Fraktur yang paling sering terjadi akibat komplikasi ini adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Fraktur radius",
+        "B": "Fraktur klavikula",
+        "C": "Fraktur femur",
+        "D": "Fraktur skapula",
+        "E": "Fraktur humerus"
+      },
+      "optionExplanations": {
+        "A": "Fraktur radius tidak khas pada distosia bahu.",
+        "B": "Benar: klavikula adalah tulang yang paling sering patah pada distosia bahu.",
+        "C": "Fraktur femur tidak khas pada distosia bahu.",
+        "D": "Fraktur skapula jarang terjadi pada distosia bahu.",
+        "E": "Fraktur humerus jarang terjadi pada distosia bahu."
+      },
+      "answer": "B",
+      "explanation": "Distosia bahu adalah kegawatdaruratan kebidanan di mana bahu bayi tersangkut di belakang simfisis pubis ibu. Tarikan yang dipaksakan saat dokter/bidan berusaha melahirkan bayi sangat sering mematahkan tulang selangka bayi, sehingga Fraktur Klavikula menjadi trauma tulang tersering akibat komplikasi mekanik manuver persalinan tersebut. Note* Dokter bilang Fraktur klavikula paling sering, tapi di ppt fraktur humerus juga terkait, tetep fraktur klavikula aja karena itu dibilang langsung pas kulpak  ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-072.png",
+        "images/packages/premium__blok-2i__ub-2i/img-073.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q48",
+      "category": "",
+      "question": "Seorang bayi baru lahir telah diberikan langkah awal resusitasi namun tidak ada perbaikan, dengan laju denyut jantung (LDJ) 80 kali/menit. Tatalaksana selanjutnya yang tepat adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Injeksi adrenalin",
+        "B": "Kompresi dada",
+        "C": "Pemberian cairan bolus",
+        "D": "Ventilasi Tekanan Positif (VTP)",
+        "E": "Intubasi endotrakeal"
+      },
+      "optionExplanations": {
+        "A": "Adrenalin diberikan bila LDJ tetap di bawah 60 kali/menit setelah ventilasi dan kompresi.",
+        "B": "Kompresi dada dimulai bila LDJ di bawah 60 kali/menit setelah ventilasi efektif, bukan pada LDJ 80.",
+        "C": "Cairan bolus tidak menjadi langkah awal resusitasi pada kasus ini.",
+        "D": "Benar: bila bayi tetap apnu atau LDJ di bawah 100 kali/menit setelah langkah awal, langkah berikutnya adalah ventilasi tekanan positif.",
+        "E": "Intubasi bukan langkah pertama pada kasus ini, dilakukan bila ventilasi sungkup tidak efektif."
+      },
+      "answer": "D",
+      "explanation": "Sesuai alur resusitasi neonatus IDAI terkini: Jika setelah langkah awal (hangatkan, posisikan, bersihkan jalan napas, keringkan) bayi tetap apnu atau merintih atau LDJ < 100x/menit (dalam kasus ini 80x/menit), maka langkah selanjutnya secara berurutan adalah pemberian Ventilasi Tekanan Positif (VTP) efektif. Catatan rekapan asli: Jika diasumsikan VTP sudah dilakukan 30 detik secara adekuat dan LDJ jatuh <60x/menit, barulah kompresi dada dimulai. Mengingat redaksi soal hanya menyebut \"setelah langkah awal\", maka jawaban yang logis adalah VTP. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-074.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q49",
+      "category": "",
+      "question": "Penyebab kematian global pada bayi baru lahir (neonatus) yang paling banyak adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Prematuritas",
+        "B": "Kelainan kongenital",
+        "C": "Infeksi neonatal",
+        "D": "Trauma lahir",
+        "E": "Asfiksia neonatorum"
+      },
+      "optionExplanations": {
+        "A": "Benar: prematuritas adalah penyebab kematian neonatus terbanyak di tingkat global.",
+        "B": "Kelainan kongenital penting, tetapi bukan penyebab terbanyak secara global.",
+        "C": "Infeksi neonatal penting, tetapi bukan penyebab terbanyak secara global.",
+        "D": "Trauma lahir bukan penyebab terbanyak kematian neonatus.",
+        "E": "Asfiksia merupakan penyebab penting, tetapi prematuritas lebih banyak berkontribusi pada kematian neonatus secara global menurut data WHO."
+      },
+      "answer": "A",
+      "explanation": "Menurut data epidemiologi global WHO dan UNICEF, penyumbang persentase terbesar angka mortalitas neonatus di seluruh dunia adalah komplikasi yang berkaitan langsung dengan kelahiran kurang bulan atau Prematuritas (sindrom distres pernapasan kongenital, paru imatur, dll). Disusul oleh komplikasi intrapartum (asfiksia) dan infeksi berat/sepsis. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-076.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q50",
+      "category": "",
+      "question": "Pada kasus kematian ibu yang berkaitan dengan proses persalinan disertai perdarahan, penyebab kematian ibu yang paling sering ditemukan adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Diabetes gestasional",
+        "B": "Infeksi puerperalis",
+        "C": "Preeklamsia/eklamsia",
+        "D": "Emboli air ketuban",
+        "E": "Perdarahan pasca persalinan"
+      },
+      "optionExplanations": {
+        "A": "Diabetes gestasional tidak menjadi penyebab utama kematian ibu.",
+        "B": "Infeksi puerperalis penting, tetapi bukan penyebab utama pada kasus perdarahan.",
+        "C": "Preeklamsia dan eklamsia penting, tetapi bukan penyebab utama kematian ibu akibat perdarahan.",
+        "D": "Emboli air ketuban jarang terjadi dan bukan penyebab utama.",
+        "E": "Benar: perdarahan pasca persalinan, sering akibat atonia uteri, merupakan penyebab kematian ibu terbanyak."
+      },
+      "answer": "E",
+      "explanation": "Secara global maupun di negara berkembang (termasuk Indonesia), penyumbang nomor wahid Angka Kematian Ibu (AKI) adalah Perdarahan Pasca Persalinan (Hemorrhage Post-Partum / HPP), yang paling sering diakibatkan oleh atonia uteri (rahim gagal berkontraksi setelah plasenta lahir). Dari WHO ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-077.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q51",
+      "category": "",
+      "question": "Temuan EKG yang khas pada Atrial Septal Defect (ASD) adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Aksis ke kiri dengan LVH",
+        "B": "Aksis kiri murni",
+        "C": "Right Ventricular Hypertrophy tanpa RBBB",
+        "D": "RBBB (Right Bundle Branch Block) dengan aksis ke kanan",
+        "E": "LBBB dengan aksis normal"
+      },
+      "optionExplanations": {
+        "A": "Aksis kiri dengan LVH tidak khas untuk ASD.",
+        "B": "Aksis kiri murni tidak khas untuk ASD.",
+        "C": "RVH tanpa RBBB dapat terjadi, tetapi temuan khas ASD adalah RBBB dengan aksis kanan.",
+        "D": "Benar: RBBB dengan aksis kanan adalah temuan EKG yang khas pada ASD secundum akibat beban volume ventrikel kanan.",
+        "E": "LBBB dengan aksis normal tidak khas untuk ASD."
+      },
+      "answer": "D",
+      "explanation": "Pada kelainan jantung bawaan ASD secundum (tipe paling umum), terjadi pirau volume darah dari atrium kiri ke kanan yang menyebabkan ruang ventrikel kanan membesar/terbebani kinerjanya secara berlebihan (Right Ventricular Volume Overload). Implikasinya pada EKG bermanifestasi berupa pola pemanjangan depolarisasi ventrikel kanan, yakni Incomplete maupun komplit RBBB, sering disertai dengan pergeseran sumbu jantung ke kanan (Right Axis Deviation/RAD).  ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-078.png",
+        "images/packages/premium__blok-2i__ub-2i/img-079.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q52",
+      "category": "",
+      "question": "Seorang anak dengan gejala asma dan riwayat atopi. Tatalaksana yang tepat adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Beta agonis dan antihistamin",
+        "B": "Antitusif dan mukolitik",
+        "C": "Teofilin monoterapi",
+        "D": "Salbutamol (SABA) dan kortikosteroid inhalasi",
+        "E": "Antibiotik spektrum luas"
+      },
+      "optionExplanations": {
+        "A": "Antihistamin tidak menjadi terapi utama asma dan beta agonis saja tidak memberikan pengendalian jangka panjang.",
+        "B": "Antitusif dan mukolitik tidak mengatasi peradangan saluran napas pada asma.",
+        "C": "Teofilin monoterapi bukan terapi utama dan kurang dianjurkan.",
+        "D": "Benar: salbutamol sebagai pereda serangan dan kortikosteroid inhalasi sebagai pengontrol jangka panjang sesuai panduan.",
+        "E": "Antibiotik spektrum luas tidak diindikasikan pada asma."
+      },
+      "answer": "D",
+      "explanation": "Pengelolaan Asma bronkial dibagi dua sayap terapi utama sesuai panduan GINA: pereda serangan (reliever) dan pengontrol jangka panjang (controller). Salbutamol (golongan Short-Acting Beta Agonist/SABA) dipakai untuk melebarkan jalan napas saat asma kambuh. Sementara, Kortikosteroid Inhalasi (ICS) mutlak dipakai sebagai tata laksana pencegah peradangan alergi saluran napas penderita atopi secara pemeliharaan jangka panjang. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-080.png",
+        "images/packages/premium__blok-2i__ub-2i/img-081.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q53",
+      "category": "",
+      "question": "Seorang anak usia 3 tahun sering menabrak benda karena penglihatan buram (dicurigai defisiensi vitamin A / xeroftalmia). Regimen kapsul vitamin A yang tepat diberikan adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Kapsul merah diberikan pada hari ke-1, ke-2, dan ke-15",
+        "B": "Kapsul merah diberikan 3×1500 IU",
+        "C": "Kapsul biru diberikan setiap bulan selama 3 bulan",
+        "D": "Kapsul biru diberikan saat kunjungan",
+        "E": "Kapsul merah diberikan saat kunjungan saja"
+      },
+      "optionExplanations": {
+        "A": "Benar: kapsul merah 200.000 IU diberikan pada hari ke-1, ke-2, dan ke-15 untuk xeroftalmia.",
+        "B": "Dosis 3 x 1500 IU tidak sesuai dengan regimen kapsul merah untuk xeroftalmia.",
+        "C": "Kapsul biru bulanan selama 3 bulan merupakan regimen pencegahan, bukan pengobatan xeroftalmia.",
+        "D": "Kapsul biru diberikan untuk pencegahan rutin, bukan untuk kasus defisiensi vitamin A dengan gejala.",
+        "E": "Pemberian saat kunjungan saja tidak memenuhi regimen tiga dosis untuk xeroftalmia."
+      },
+      "answer": "A",
+      "explanation": "Program pemerintah Indonesia dan WHO menetapkan penanganan pengobatan kuratif (pada kasus gizi buruk atau Xeroftalmia simtomatik, bukan sekadar prevensi rutin bulan vitamin A): Anak usia di atas 1 tahun wajib menenggak Kapsul Merah (Dosis 200.000 IU) menggunakan skema agresif 3 dosis: satu kapsul diminum pada Hari 1, satu lagi pada Hari ke-2, dan satu kapsul pamungkas di Hari ke-15.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q54",
+      "category": "",
+      "question": "Seorang anak usia 9 bulan tersedak benda asing. Tatalaksana awal yang tepat dilakukan adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Heimlich maneuver",
+        "B": "Finger sweep blind",
+        "C": "Back blows dan chest thrust",
+        "D": "Krikotiroidotomi",
+        "E": "Abdominal thrust"
+      },
+      "optionExplanations": {
+        "A": "Heimlich tidak dianjurkan pada bayi di bawah 1 tahun karena risiko cedera organ dalam.",
+        "B": "Finger sweep blind dapat mendorong benda asing lebih dalam dan tidak dianjurkan.",
+        "C": "Benar: pada bayi di bawah 1 tahun, tatalaksana awal adalah back blows dan chest thrust.",
+        "D": "Krikotiroidotomi merupakan tindakan darurat lanjutan, bukan tatalaksana awal.",
+        "E": "Abdominal thrust tidak dianjurkan pada bayi di bawah 1 tahun."
+      },
+      "answer": "C",
+      "explanation": "Algoritma AHA untuk meredakan sumbatan benda asing (Choking) melarang prosedur menekan perut (Abdominal thrust atau Heimlich) pada pasien bayi di bawah usia 1 tahun, dikarenakan tingginya risiko organ dalam hati yang rentan robek oleh kompresi tuas diafragma bawah. Teknik yang disahkan adalah pemberian 5 tepukan punggung keras (Back blows) diselingi dengan 5 pijat tengah dada pakai dua jari (Chest thrust). ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-084.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q55",
+      "category": "",
+      "question": "Seorang bayi dengan hidrosefalus, kalsifikasi intrakranial, dan korioretinitis. Temuan ini merupakan tanda infeksi kongenital:",
+      "questionImages": [],
+      "options": {
+        "A": "Rubella",
+        "B": "Herpes simpleks",
+        "C": "Sifilis kongenital",
+        "D": "Toksoplasmosis",
+        "E": "Cytomegalovirus (CMV)"
+      },
+      "optionExplanations": {
+        "A": "Rubella kongenital ditandai katarak, tuli, dan penyakit jantung bawaan, bukan kalsifikasi khas ini.",
+        "B": "Herpes simpleks kongenital ditandai vesikel dan kerusakan SSP dengan pola berbeda.",
+        "C": "Sifilis kongenital ditandai ruam, hepatosplenomegali, dan kelainan tulang, bukan trias ini.",
+        "D": "Benar: trias korioretinitis, hidrosefalus, dan kalsifikasi intrakranial khas toksoplasmosis kongenital.",
+        "E": "CMV kongenital dapat menyebabkan kalsifikasi periventrikular, tetapi triasnya berbeda."
+      },
+      "answer": "D",
+      "explanation": "Trias klasik gejala klinis yang diwariskan dari infeksi parasit protozoa Toxoplasma gondii dalam masa gestasi trimester ibu hamil kepada bayinya (Toksoplasmosis Kongenital) mencakup: (1) Korioretinitis (radang selaput mata retina), (2) Hidrosefalus, dan temuan sangat patognomonik: (3) Kalsifikasi serebral intrakranial difus. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-085.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q56",
+      "category": "",
+      "question": "Seorang bayi dengan lidah besar (makroglosia), kulit tebal dan kasar, serta mata sembab. Diagnosis yang paling mungkin adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Sindrom Turner",
+        "B": "Sindrom Down",
+        "C": "Sindrom Beckwith-Wiedemann",
+        "D": "Mukopolisakaridosis",
+        "E": "Hipotiroid kongenital"
+      },
+      "optionExplanations": {
+        "A": "Sindrom Turner tidak ditandai makroglosia dan kulit tebal.",
+        "B": "Sindrom Down ditandai hipotonia dan wajah khas, bukan kulit tebal dengan makroglosia pada kasus ini.",
+        "C": "Sindrom Beckwith-Wiedemann ditandai makrosomia dan hipoglikemia, bukan gambaran ini.",
+        "D": "Mukopolisakaridosis dapat menyebabkan wajah khas, namun tidak sekhas gambaran hipotiroid pada kasus ini.",
+        "E": "Benar: hipotiroid kongenital menyebabkan makroglosia, kulit tebal, dan wajah sembab."
+      },
+      "answer": "E",
+      "explanation": "Anak yang lahir tanpa kelenjar tiroid memadai (Hipotiroidisme Kongenital) akan menampakkan perubahan degeneratif pada otot, muka, dan pencernaan karena terhambatnya metabolisme tubuh total. Tanda klinis khas (facies hipotiroid) meliputi lidah tebal dan membesar menjulur keluar (makroglosia), kulit wajah meradang bengkak berisi cairan mukopolisakarida (mixedema / mata sembab), pusing tangis parau, dan kulit belang tebal. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-086.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q57",
+      "category": "",
+      "question": "Gangguan perkembangan anak yang ditandai dengan hambatan interaksi sosial merupakan ciri khas dari:",
+      "questionImages": [],
+      "options": {
+        "A": "Attention Deficit Hyperactivity Disorder (ADHD)",
+        "B": "Autism Spectrum Disorder (ASD)",
+        "C": "Retardasi mental",
+        "D": "Gangguan cemas",
+        "E": "Gangguan bahasa spesifik"
+      },
+      "optionExplanations": {
+        "A": "ADHD ditandai gangguan perhatian dan hiperaktivitas, bukan hambatan interaksi sosial.",
+        "B": "Benar: hambatan interaksi sosial dan komunikasi adalah ciri khas ASD.",
+        "C": "Retardasi mental ditandai keterbatasan intelektual dan adaptasi, bukan hambatan interaksi sosial khas.",
+        "D": "Gangguan cemas ditandai kecemasan berlebihan, bukan hambatan interaksi sosial primer.",
+        "E": "Gangguan bahasa spesifik ditandai hambatan bahasa, bukan hambatan interaksi sosial primer."
+      },
+      "answer": "B",
+      "explanation": "Autism Spectrum Disorder (ASD) diklasifikasikan oleh pilar diagnostik DSM V utamanya sebagai kelemahan atau ketiadaan timbal balik insting manusia untuk melakukan kontak, kebersamaan empati emosi, dan kecerdasan berbaur (hambatan sosio-interaksi dan defisit komunikasi). Serta dibumbui dengan minat pada satu subjek sempit berulang-ulang (repetitive restrictive behavior).  ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-087.png",
+        "images/packages/premium__blok-2i__ub-2i/img-088.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q58",
+      "category": "",
+      "question": "Vaksin influenza pada anak diberikan dengan jadwal:",
+      "questionImages": [],
+      "options": {
+        "A": "Sekali seumur hidup",
+        "B": "Setiap 2 tahun sekali",
+        "C": "Setiap 6 bulan",
+        "D": "Sekali dalam setahun",
+        "E": "2 kali dalam setahun"
+      },
+      "optionExplanations": {
+        "A": "Vaksin influenza tidak diberikan sekali seumur hidup karena virus selalu bermutasi.",
+        "B": "Vaksin influenza tidak diberikan setiap 2 tahun sekali.",
+        "C": "Vaksin influenza tidak diberikan setiap 6 bulan menurut rekomendasi.",
+        "D": "Benar: vaksin influenza diberikan sekali setiap tahun mengikuti perubahan strain virus.",
+        "E": "Vaksin influenza tidak diberikan 2 kali setahun sebagai jadwal rutin."
+      },
+      "answer": "D",
+      "explanation": "Virus influenza senantiasa bermutasi ringan secara genetik (fenomena antigenic drift) mengikuti arus tren infeksi global saban musim pancaroba. Oleh sebab itu, merujuk rekomendasi satgas IDAI, kekebalan tubuh pasien mesti diupdate dosis formulasinya dengan menyuntikkan vaksin Influenza secara berulang sekali setiap tahun (sejak usia 6 bulan ke atas). ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-089.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q59",
+      "category": "",
+      "question": "Seorang bayi dengan gejala tinja berwarna dempul (akolik) dan urin berwarna gelap. Diagnosis yang paling mungkin adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Sindrom Crigler-Najjar",
+        "B": "Inkompatibilitas ABO",
+        "C": "Atresia bilier",
+        "D": "Hepatitis neonatal",
+        "E": "Sepsis neonatorum"
+      },
+      "optionExplanations": {
+        "A": "Sindrom Crigler-Najjar menyebabkan ikterus tanpa tinja dempul.",
+        "B": "Inkompatibilitas ABO menyebabkan hemolisis dan ikterus, bukan tinja dempul.",
+        "C": "Benar: atresia bilier menyebabkan empedu tidak mencapai usus sehingga tinja dempul dan urin gelap.",
+        "D": "Hepatitis neonatal dapat menyebabkan tinja pucat, tetapi tidak selalu menyebabkan kebuntuan saluran empedu seperti pada kasus.",
+        "E": "Sepsis neonatorum tidak khas dengan tinja dempul."
+      },
+      "answer": "C",
+      "explanation": "Ketiadaan/kebuntuan anatomi saluran pembuangan empedu ke usus (Atresia Bilier) mengakibatkan cairan empedu (pigmen sterkobilin pencerah feses) tak bisa mencapai usus besar (sehingga BAB bayi putih pucat layaknya warna dempul pelitur rumah / Akolik). Cairan ini berbalik meracuni hepar dan membuang bilirubin direk jenuh ke ginjal (sehingga kencing pipis bayi terlihat gelap sepekat teh).  ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-090.png",
+        "images/packages/premium__blok-2i__ub-2i/img-091.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q60",
+      "category": "",
+      "question": "Pada neonatus, bilirubin dan sejumlah obat sama-sama berikatan dengan albumin plasma. Apabila obat yang berikatan kuat dengan albumin diberikan dalam dosis tinggi pada neonatus dengan hiperbilirubinemia, risiko klinis utama yang dapat terjadi adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Anemia hemolitik akut",
+        "B": "Toksisitas obat akibat penurunan klirens ginjal",
+        "C": "Kernikterus akibat peningkatan bilirubin bebas (unbound)",
+        "D": "Sindrom Steven-Johnson",
+        "E": "Hipoalbuminemia akut"
+      },
+      "optionExplanations": {
+        "A": "Anemia hemolitik akut bukan risiko utama dari mekanisme ini.",
+        "B": "Toksisitas obat akibat penurunan klirens ginjal tidak menjadi risiko utama pada soal ini.",
+        "C": "Benar: obat yang menggantikan bilirubin dari albumin dapat meningkatkan bilirubin bebas dan memicu kernikterus.",
+        "D": "Sindrom Stevens-Johnson merupakan reaksi hipersensitivitas, bukan akibat perpindahan bilirubin dari albumin.",
+        "E": "Hipoalbuminemia akut bukan risiko utama dari mekanisme ini."
+      },
+      "answer": "C",
+      "explanation": "Albumin merupakan protein 'taksi' transportasi zat di aliran darah. Karena 'kursi taksi' ini sama-sama diperebutkan oleh obat (misal seftriakson atau sulfonamid) maupun Bilirubin inderek larut lemak. Ketika obat mengusir/memukul mundur Bilirubin dari ikatan Albuminnya (mekanisme Displace), maka konsentrasi bilirubin lipofilik bebas tanpa pengikat yang berkeliaran di darah melonjak drastis, masuk menembus celah pelindung otak dan menyebabkan kerusakan batang otak permanen yang sangat fatal (Kernikterus/Ensefalopati bilirubin). ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-092.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q61",
+      "category": "",
+      "question": "Seorang bayi baru lahir mengalami cedera pleksus brakialis saat persalinan (distosia bahu). Pemeriksaan menunjukkan lengan dalam posisi adduksi, endorotasi, dan ekstensi pada siku (posisi \"waiter's tip\"), namun refleks menggenggam (grasping) tangan masih ada. Diagnosis yang paling mungkin adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Fraktur klavikula",
+        "B": "Cedera nervus fasialis",
+        "C": "Total brachial plexus palsy",
+        "D": "Klumpke palsy",
+        "E": "Erb-Duchenne palsy"
+      },
+      "optionExplanations": {
+        "A": "Fraktur klavikula tidak menyebabkan kelumpuhan saraf seperti gambaran ini.",
+        "B": "Cedera nervus fasialis menyebabkan kelemahan wajah, bukan posisi lengan ini.",
+        "C": "Total brachial plexus palsy melibatkan seluruh lengan, sedangkan refleks grasping masih ada pada kasus ini.",
+        "D": "Klumpke palsy mengenai radiks C8 dan T1, dengan gangguan tangan bagian distal, bukan posisi waiter's tip.",
+        "E": "Benar: Erb-Duchenne palsy mengenai C5-C6 dengan posisi adduksi dan endorotasi, yaitu waiter's tip."
+      },
+      "answer": "E",
+      "explanation": "Erb-Duchenne palsy adalah cidera parah robekan akar saraf Pleksus Brakialis bagian atas (Radiks C5 dan C6). Kelumpuhan ini membidik otot bisep dan bahu (posisi merapat pasrah \"tangan pelayan minta persen\"), akan tetapi tangan bagian ujungnya (forearm/jemari) dikontrol persarafan bawah C8-T1 yang tidak ikut rusak. Jadi pasien masih memiliki reflek primitif kuat menggenggam jari (reflek grasping utuh). Beda dari kelumpuhan Klumpke yang menihilkan reflek telapak dan jari mematung bagai cakar (Claw hand).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q62",
+      "category": "",
+      "question": "Seorang anak usia 3 tahun mengalami demam tinggi disertai kejang tonik-klonik umum dengan mata mendelik, berlangsung singkat, tidak berulang dalam 24 jam, dan anak kembali sadar penuh setelahnya tanpa defisit neurologis. Diagnosis yang paling tepat adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Epilepsi",
+        "B": "Status epileptikus",
+        "C": "Kejang demam sederhana",
+        "D": "Kejang demam kompleks",
+        "E": "Meningitis bakterialis"
+      },
+      "optionExplanations": {
+        "A": "Epilepsi memerlukan kejang tanpa demam yang berulang, sedangkan kasus ini hanya kejang saat demam.",
+        "B": "Status epileptikus adalah kejang yang berlangsung lebih dari 30 menit atau berulang tanpa pemulihan kesadaran.",
+        "C": "Benar: kejang umum singkat kurang dari 15 menit, tidak berulang dalam 24 jam, dan tanpa defisit neurologis.",
+        "D": "Kejang demam kompleks memiliki salah satu ciri: kejang fokal, lebih dari 15 menit, atau berulang dalam 24 jam, sedangkan kasus ini tidak memiliki ciri tersebut.",
+        "E": "Meningitis bakterialis ditandai tanda iritasi meningeal dan kesadaran menurun, tidak sesuai dengan kasus."
+      },
+      "answer": "C",
+      "explanation": "Berdasarkan pedoman UKK Neurologi IDAI, Kejang Demam Sederhana (KDS) adalah kejang bangkitan yang seluruh cirinya tak membahayakan, merangkum tiga sifat pasti primer mutlak: (1) Berbentuk kelojotan otot seluruh tubuh/umum (bukan sebelah muka saja), (2) Berdurasi <15 menit, dan (3) Cuma kejang tunggal, tidak berulang kali memanggil lagi pada kurun hari tersebut (24 jam) serta penderita bangun stabil cerah merespon baik (tanpa bengong koma berkepanjangan).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q63",
+      "category": "",
+      "question": "Seorang anak memiliki riwayat kontak erat dengan pasien TB paru dewasa BTA positif. Hasil uji tuberkulin (Mantoux) menunjukkan indurasi 12 mm, tanpa gejala klinis TB dan foto toraks normal. Kondisi ini paling tepat diklasifikasikan sebagai:",
+      "questionImages": [],
+      "options": {
+        "A": "TB milier",
+        "B": "Infeksi TB laten (ILTB)",
+        "C": "TB paru aktif",
+        "D": "Reaksi silang vaksinasi BCG",
+        "E": "Hasil uji tuberkulin negatif"
+      },
+      "optionExplanations": {
+        "A": "TB milier ditandai gambaran klinis dan radiologis yang berat, tidak sesuai dengan kasus.",
+        "B": "Benar: uji tuberkulin positif tanpa gejala dan foto toraks normal menunjukkan infeksi TB laten.",
+        "C": "TB paru aktif ditandai gejala klinis dan kelainan foto toraks, tidak sesuai dengan kasus.",
+        "D": "Reaksi silang BCG dapat memengaruhi hasil, tetapi kontak erat dengan pasien BTA positif lebih mendukung ILTB.",
+        "E": "Hasil uji tuberkulin negatif bertentangan dengan indurasi 12 mm."
+      },
+      "answer": "B",
+      "explanation": "Pada parameter anak, indurasi test mantoux benjolan keras berdiameter ≥10 mm dinilai pasti Positif mengonfirmasi balita telah bersinggungan langsung dengan patogen mikobakterium. Karena ia sama sekali menampik gejala sakit parah aktif (tak kurus, tak batuk malam hari, rontgen paru nihil), tubuh anak itu sukses menawan bakterinya namun tak membinasakannya. Kondisi asimtomatis tak menular berkuman tertidur ini diklasifikasi sebagai Infeksi Laten Tuberkulosis (ILTB). Wajib diobati terapi pencegahan IPT supaya kelak tak kumat menjadi TB paru.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q64",
+      "category": "",
+      "question": "Seorang anak dengan anuria disertai eritrosit yang memenuhi seluruh lapang pandang pada pemeriksaan urinalisis. Diagnosis yang paling mungkin adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Sistitis hemoragik",
+        "B": "Sindrom nefrotik",
+        "C": "Infeksi saluran kemih",
+        "D": "Nefrolitiasis",
+        "E": "Glomerulonefritis akut pascastreptokokus"
+      },
+      "optionExplanations": {
+        "A": "Sistitis hemoragik menyebabkan hematuria, tetapi tidak disertai anuria seperti pada kasus.",
+        "B": "Sindrom nefrotik ditandai proteinuria masif dan edema, bukan hematuria makroskopik dengan anuria.",
+        "C": "Infeksi saluran kemih tidak menyebabkan anuria dengan eritrosit penuh lapang pandang sebagai temuan utama.",
+        "D": "Nefrolitiasis dapat menyebabkan hematuria, tetapi tidak khas dengan anuria dan sindrom nefritik.",
+        "E": "Benar: GNAPS ditandai hematuria makroskopik, oliguria atau anuria, dan peradangan sindrom nefritik."
+      },
+      "answer": "E",
+      "explanation": "Catatan: secara ilmu medis nefrologi sesungguhnya, perdarahan hebat eritrosit yang membludak di kencing (gross hematuria) dibumbui mati kencing/anuria oligourik, murni milik presentasi klasik peradangan Sindrom Nefritik (GNAPS). Sebaliknya penyakit Nefrotik bocor membuang protein bukan darah merah masif. Akan tetapi, mengingat sang perakit rekam soal asli melampirkan Sindrom Nefrotik (berikut stempel tanda tanya dan ragu). Dengan itikad memelihara data sejarah perbaikan dokumen, opsi Sindrom Nefrotik ini secara harafiah dilekatkan kembali di sini. Dimohon kroscek di referensi.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q65",
+      "category": "",
+      "question": "Seorang anak pada pemeriksaan fisik ditemukan kuku berbentuk seperti sendok (koilonychia). Temuan ini paling mungkin mendasari diagnosis:",
+      "questionImages": [],
+      "options": {
+        "A": "Anemia defisiensi besi (ADB)",
+        "B": "Anemia aplastik",
+        "C": "Anemia megaloblastik",
+        "D": "Anemia hemolitik",
+        "E": "Talasemia mayor"
+      },
+      "optionExplanations": {
+        "A": "Benar: koilonychia merupakan tanda khas anemia defisiensi besi kronis.",
+        "B": "Anemia aplastik tidak khas dengan koilonychia.",
+        "C": "Anemia megaloblastik tidak khas dengan koilonychia.",
+        "D": "Anemia hemolitik tidak khas dengan koilonychia.",
+        "E": "Talasemia mayor tidak khas dengan koilonychia."
+      },
+      "answer": "A",
+      "explanation": "Kekurangan kronis bahan esensial elemen zat besi (ferrum) mempengaruhi produksi protein epitel dan keratinisasi pelindung tanduk ujung tubuh. Manifestasi organ kuku melengkung rapuh layaknya permukaan sendok cekung sup (Koilonychia) adalah kelainan spesifik penanda klinis terlama dan terberat dari komplikasi murni ADB kronik di negara-negara tertinggal.  ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-099.png",
+        "images/packages/premium__blok-2i__ub-2i/img-100.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q66",
+      "category": "",
+      "question": "Seorang bayi lahir dengan katarak kongenital dan dicurigai mengalami gangguan pendengaran (tuli sensorineural). Terdapat riwayat ibu mengalami infeksi disertai ruam kemerahan pada trimester pertama kehamilan. Diagnosis yang paling mungkin adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Toksoplasmosis kongenital",
+        "B": "Congenital Rubella Syndrome (CRS)",
+        "C": "Sifilis kongenital",
+        "D": "Herpes simpleks kongenital",
+        "E": "Cytomegalovirus kongenital"
+      },
+      "optionExplanations": {
+        "A": "Toksoplasmosis kongenital dapat menyebabkan katarak dan kelainan lain, tetapi tidak khas dengan ruam ibu.",
+        "B": "Benar: triad katarak, tuli sensorineural, dan penyakit jantung bawaan khas CRS akibat infeksi rubella pada trimester pertama.",
+        "C": "Sifilis kongenital dapat menyebabkan tuli, tetapi tidak khas dengan katarak pada kasus ini.",
+        "D": "Herpes simpleks kongenital tidak khas dengan katarak dan tuli sensorineural.",
+        "E": "Infeksi CMV kongenital dapat menyebabkan tuli sensorineural, tetapi tidak khas dengan katarak dan riwayat ruam ibu."
+      },
+      "answer": "B",
+      "explanation": "Congenital Rubella Syndrome (CRS) bermanifestasi ketika virus ruam Jerman (rubella) milik ibu hamil sukses menginvasi ari-ari/plasenta menembus janin pada trimester paling vital organogenesis (0-12 minggu kehamilan). Hal ini membuahkan cacat trio abnormal patognomonik tak tergoyahkan (Trias Gregg): Kekeruhan Lensa kristal mata putih buram (Katarak kongenital), Budek/ketulian sistem saraf rambut telinga siput (tuli sensorineural), plus kelainan jantung katup kongenital mayor (kebocoran sekunder saluran jantung PDA/ASD).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q67",
+      "category": "",
+      "question": "Seorang bayi mengalami konstipasi kronik disertai letargi, hipotonia, dan makroglosia sejak beberapa minggu pertama kehidupan. Diagnosis yang paling mungkin adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Hirschsprung disease",
+        "B": "Hipotiroid kongenital",
+        "C": "Stenosis pilorus",
+        "D": "Fibrosis kistik",
+        "E": "Alergi susu sapi"
+      },
+      "optionExplanations": {
+        "A": "Hirschsprung disease menyebabkan konstipasi, namun tidak disertai letargi dan makroglosia.",
+        "B": "Benar: konstipasi, letargi, hipotonia, dan makroglosia khas hipotiroid kongenital.",
+        "C": "Stenosis pilorus menyebabkan muntah proyektil, bukan konstipasi dengan letargi.",
+        "D": "Fibrosis kistik dapat menyebabkan gangguan pencernaan, namun tidak khas dengan hipotonia dan makroglosia.",
+        "E": "Alergi susu sapi tidak menyebabkan letargi, hipotonia, dan makroglosia."
+      },
+      "answer": "B",
+      "explanation": "Walau rekapan soal aslinya hanya bermuatan pendek keluhan hambar anak dengan sembelit menahun berlarut (\"Anaknya suka konstipasi?\"). Tambahan petunjuk letargi loyo meratap dingin, hipotonia kendor, plus lidah melelet membengkak besar (makroglosia) ditambahkan untuk mendokrak kekhususan keluhan agar kuat mengarahkan diagnosis kepada defisiensi fungsi produksi tiroksin anak secara bawaan (Hipotiroid Kongenital). Berbeda dengan Megakolon Hirschsprung bedah pencernaan usus buntu yang ketiadaan saraf pergerakan kotoran tapi anaknya sehat otot tangkas berakal.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q68",
+      "category": "",
+      "question": "Seorang anak mengalami erupsi kulit berupa papul, vesikel, pustul, dan krusta yang muncul dalam berbagai stadium secara bersamaan (polimorfik) di seluruh tubuh, disertai gatal. Diagnosis yang paling mungkin adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Varicella (cacar air)",
+        "B": "Herpes zoster",
+        "C": "Moluskum kontagiosum",
+        "D": "Variola",
+        "E": "Impetigo bulosa"
+      },
+      "optionExplanations": {
+        "A": "Benar: varicella ditandai ruam polimorfik dengan papul, vesikel, pustul, dan krusta dalam berbagai stadium bersamaan.",
+        "B": "Herpes zoster mengenai satu dermatom dengan lesi yang tersebar pada satu area.",
+        "C": "Moluskum kontagiosum ditandai papul khas berumbilikasi, bukan lesi polimorfik.",
+        "D": "Variola sudah dieradikasi dan ditandai lesi yang seragam pada satu stadium.",
+        "E": "Impetigo bulosa ditandai bula besar dengan pola lesi yang berbeda."
+      },
+      "answer": "A",
+      "explanation": "Temuan diagnosis paling jitu membedakan virus infeksi Varicella-zoster (Cacar Air) dengan cacar api jaman purba Variola adalah wujud tampilan umurnya. Lenting lepuhan lesi Cacar air akan pecah bernanah membentang dalam usia umur ruam yang beraneka macam, ibarat ladang: ada yang masih berupa benjolan (papul), gelembung pecah (vesikel), dan sisanya menipis kering meranggas coreng (krusta/koreng). Ciri beda usia campur sari rupa kulit bertaburan sentrifugal liar di atas badan ini dinamai stempel sifat Polimorfik.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q69",
+      "category": "",
+      "question": "Tanda klinis yang paling spesifik untuk pneumonia pada anak dibandingkan infeksi saluran napas atas biasa adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Batuk kering tanpa sesak",
+        "B": "Demam dan batuk",
+        "C": "Demam saja tanpa gejala respiratori lain",
+        "D": "Nyeri tenggorokan dan pilek",
+        "E": "Sesak napas (takipnea) disertai napas cuping hidung/retraksi dinding dada"
+      },
+      "optionExplanations": {
+        "A": "Batuk kering tanpa sesak tidak cukup spesifik untuk pneumonia.",
+        "B": "Demam dan batuk juga terdapat pada ISPA atas biasa, sehingga tidak spesifik.",
+        "C": "Demam saja tidak cukup untuk menegakkan pneumonia.",
+        "D": "Nyeri tenggorokan dan pilek khas ISPA atas, bukan pneumonia.",
+        "E": "Benar: sesak napas disertai takipnea dan retraksi dinding dada merupakan tanda khas pneumonia pada anak."
+      },
+      "answer": "E",
+      "explanation": "ISPA atas biasa (seperti common cold pilek demam selesma) tidaklah menggangu sirkulasi pertukaran gas di gelembung paru pernapasan bawah alveolar. Patokan pedoman MTBS/WHO Internasional menyaring penyakit paru murni akut infeksi (Pneumonia/Radang Paru) yang berbahaya lewat satu tolak ukur baku emas parameter visual pernapasan berlebihan dan merayap kewalahan (distres): hitung frekuensi laju tarikan napas cepat berdegup kencang berdetak ngos-ngosan melebihi standar umur ambang atas (Takipnea) beserta tercekiknya kembang kempis otot hidung bantu plus jeglogan otot tulang dada cekung kedalam (Retraksi/Napas Cuping hidung).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q70",
+      "category": "",
+      "question": "Berikut ini yang termasuk refleks primitif normal pada neonatus adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Refleks Moro",
+        "B": "Refleks kornea",
+        "C": "Refleks Babinski (sebagai refleks patologis pada dewasa, bukan refleks primitif)",
+        "D": "Refleks Landau",
+        "E": "Refleks patella"
+      },
+      "optionExplanations": {
+        "A": "Benar: refleks Moro merupakan refleks primitif normal pada neonatus.",
+        "B": "Refleks kornea merupakan refleks batang otak, bukan refleks primitif.",
+        "C": "Refleks Babinski pada bayi normal, tetapi pada dewasa merupakan refleks patologis dan bukan refleks primitif.",
+        "D": "Refleks Landau merupakan refleks postural yang muncul setelah masa neonatus, bukan refleks primitif neonatus.",
+        "E": "Refleks patella merupakan refleks tendon dalam, bukan refleks primitif."
+      },
+      "answer": "A",
+      "explanation": "Pada sistem saraf bayi baru lahir (neonatus) ada program refleks bawah sadar murni batang otak guna insting proteksi primitif satwa. Contoh terkemukanya adalah Reflek melebarkan pelukan tangan memohon rangkul menjerit kaget tak nyaman (Refleks Moro). (Landau yang juga disinggung pada opsi di rekapan, sebetulnya refleks postur badan layaknya melayang angkasa terjun payung di umur tua bulanan, bukan primitif sejati murni nol hari neonatus).",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q71",
+      "category": "",
+      "question": "Metode terapi Bobath pada anak dengan cerebral palsy bertujuan utama untuk menangani:",
+      "questionImages": [],
+      "options": {
+        "A": "Gangguan pendengaran",
+        "B": "Spastisitas dan pola gerak abnormal",
+        "C": "Gangguan kognitif",
+        "D": "Gangguan bicara",
+        "E": "Gangguan penglihatan"
+      },
+      "optionExplanations": {
+        "A": "Gangguan pendengaran tidak menjadi tujuan terapi Bobath.",
+        "B": "Benar: terapi Bobath bertujuan menangani spastisitas dan pola gerak abnormal pada cerebral palsy.",
+        "C": "Gangguan kognitif bukan tujuan utama terapi Bobath.",
+        "D": "Gangguan bicara tidak menjadi tujuan utama terapi Bobath.",
+        "E": "Gangguan penglihatan tidak menjadi tujuan terapi Bobath."
+      },
+      "answer": "B",
+      "explanation": "Terapi Bobath (secara komersial pakem terapi ini dilabeli pendiri Fisioterapisnya sebagai Pendekatan Perawatan Syaraf NDT Neuro-Developmental Treatment). Ini merupakan paket koreksi gerak tubuh dengan menuntun kelumpuhan kaku pasien. Rehabilitasi difokuskan secara mendalam pada rekayasa paksa pelurusan postur, melemaskan kejang ketegangan tonus tinggi (Spastisitas), serta menghentikan insting kontraksi repetitif pola gerak sungsang yang salah asuh menjadi lentur simetris membumi kembali.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q72",
+      "category": "",
+      "question": "Pemeriksaan refleks primitif pada bayi dilakukan dengan tujuan utama untuk menilai:",
+      "questionImages": [],
+      "options": {
+        "A": "Fungsi hati",
+        "B": "Integritas dan maturitas sistem saraf pusat (SSP)",
+        "C": "Fungsi ginjal",
+        "D": "Status gizi",
+        "E": "Fungsi kardiovaskular"
+      },
+      "optionExplanations": {
+        "A": "Fungsi hati tidak dinilai dengan refleks primitif.",
+        "B": "Benar: pemeriksaan refleks primitif menilai integritas dan maturitas sistem saraf pusat.",
+        "C": "Fungsi ginjal tidak dinilai dengan refleks primitif.",
+        "D": "Status gizi tidak dinilai dengan refleks primitif.",
+        "E": "Fungsi kardiovaskular tidak dinilai dengan refleks primitif."
+      },
+      "answer": "B",
+      "explanation": "Saraf sadar/otak besar kortikal (Cerebrum) bayi ketika lahir belumlah \"matang\"/termyelinisasi menguasai otot badan utuh, alhasil sistem batang otak bawah meminjam badan bergerak pakai Refleks Primitif. Pemeriksaan keberadaan (munculnya di awal) dan ketepatan hilangnya (ketiadaannya beriring umur saat saraf kortikal meredamnya) murni diwajibkan demi memantau laju jam kompas kesehatan, kewarasan integritas kabel persarafan utuh (Sistem Saraf Pusat), serta menyingkirkan cacat cedera leher. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-107.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q73",
+      "category": "",
+      "question": "Kemampuan mengangkat kepala saat posisi tengkurap (prone) pada bayi normal umumnya sudah mulai dicapai pada usia:",
+      "questionImages": [],
+      "options": {
+        "A": "4-6 bulan",
+        "B": "9-12 bulan",
+        "C": "1-3 bulan",
+        "D": "6-9 bulan",
+        "E": "0-4 minggu"
+      },
+      "optionExplanations": {
+        "A": "Pada usia 4-6 bulan kemampuan ini sudah lebih matang, bukan awal munculnya.",
+        "B": "Pada usia 9-12 bulan kemampuan ini sudah umum, bukan awal munculnya.",
+        "C": "Benar: kemampuan mengangkat kepala saat tengkurap umumnya mulai dicapai pada usia 1-3 bulan.",
+        "D": "Pada usia 6-9 bulan bayi sudah lebih lanjut dalam perkembangan motorik.",
+        "E": "Pada usia 0-4 minggu bayi belum mampu mengangkat kepala saat tengkurap."
+      },
+      "answer": "C",
+      "explanation": "Kemajuan perwujudan kekuatan komando motorik kasar otot leher ekstensor bayi secara kodrat berurutan tumbuh menjalar dari sisi kepala turun perlahan ke paha kaki (Cephalo-caudal). Mengunci dan menopang tegak leher saat ditidurkan tertelungkup (sehingga ia bisa mendongak celingak-celinguk mengangkat dadanya ke angkasa setinggi 45-90 derajat mandiri tanpa bersandar menempel alas kasur) sudah diestimasikan tercapai mapan menancap stabil di grafik rentang emas perkembangan KPSP milestone bulan 1 sampai maksimal bulan ke 3-nya.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q74",
+      "category": "",
+      "question": "Seorang anak mengalami batuk kronik berulang selama 4 minggu disertai penurunan berat badan. Terdapat riwayat kontak erat dengan ayah yang sedang menjalani pengobatan TB paru aktif. Diagnosis yang paling mungkin adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Asma bronkial",
+        "B": "Tuberkulosis anak",
+        "C": "Bronkiolitis",
+        "D": "Pertusis",
+        "E": "Pneumonia atipikal"
+      },
+      "optionExplanations": {
+        "A": "Asma bronkial tidak disertai penurunan berat badan dan kontak TB.",
+        "B": "Benar: batuk kronis dengan penurunan berat badan dan kontak erat dengan penderita TB aktif mengarah ke TB anak.",
+        "C": "Bronkiolitis umumnya terjadi pada bayi dengan gejala akut, bukan batuk kronis.",
+        "D": "Pertusis ditandai batuk paroksismal dengan whoop, bukan penurunan berat badan dengan kontak TB.",
+        "E": "Pneumonia atipikal bersifat akut, tidak sesuai dengan batuk kronis selama 4 minggu."
+      },
+      "answer": "B",
+      "explanation": "Diagnosis Tuberkulosis (Flek Paru/TB) anak kecil di klinik Indonesia dikalkulasikan ketat mempergunakan kuesioner lembar parameter skoring mutlak (IDAI/Nasional). Ada dua poin kunci mayor pembobotan skoring 3 nilai berlipat yang mutlak mendongkrak ketukan palu kecurigaan TB anak kuat walau mantoux negatif, yakni: Adanya laporan investigasi jejak rekam sejarah tinggal serumah berkontak dekat dihembus udara patogen ayah pasien TB BTA aktif memerah, dan keluhan penampakan peluruhan nutrisi kronik radang badan balita batuk lama yang bobot jarum timbangannya terjun menukik gizi buruk, atau berat yang tiada sudi naik kembali di atas grafik kurva standar dalam rentang tiga bulan terakhir.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q75",
+      "category": "",
+      "question": "Program intervensi yang direkomendasikan untuk mencegah dan menanggulangi anemia pada siswa SMP/SMA di Indonesia adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Pemberian vitamin A dosis tinggi",
+        "B": "Pemberian Tablet Tambah Darah (TTD) mingguan",
+        "C": "Suplementasi kalsium harian",
+        "D": "Pemberian oralit rutin",
+        "E": "Vaksinasi HPV"
+      },
+      "optionExplanations": {
+        "A": "Vitamin A dosis tinggi tidak ditujukan untuk mencegah anemia.",
+        "B": "Benar: pemberian tablet tambah darah mingguan merupakan program pencegahan dan penanggulangan anemia pada remaja sekolah.",
+        "C": "Suplementasi kalsium tidak ditujukan untuk anemia.",
+        "D": "Oralit ditujukan untuk diare, bukan anemia.",
+        "E": "Vaksin HPV ditujukan untuk pencegahan kanker serviks, bukan anemia."
+      },
+      "answer": "B",
+      "explanation": "Prevalensi perawan belia siswi putih biru/putih abu di negara kita memendam rawan rentan bocor tabungan zat besinya di tiada henti digerus peluruhan rutin siklus keluarnya darah haid menstruasi tiap minggu beriring pola kurus diet yang keliru (anemia mikrositik/ADB). Intervensi pemerintah (Kemkes) menabuh alarm regulasi program mandatori pencegahan kuratif masif gizi pro-remaja lewat konsumsi sebutir obat bulat kecil warna kemerahan Tablet Tambah Darah suplemen folat & besi sulfat TTD mingguan serentak.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q76",
+      "category": "",
+      "question": "Di suatu desa ditemukan Angka Kematian Bayi (AKB) yang tinggi. Intervensi kesehatan masyarakat yang paling tepat dan komprehensif untuk menurunkan AKB di desa tersebut adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Pelarangan pernikahan dini tanpa program kesehatan pendukung",
+        "B": "Program bantuan tunai tanpa intervensi kesehatan",
+        "C": "Pemberian susu formula gratis untuk seluruh bayi",
+        "D": "Peningkatan akses pelayanan antenatal, persalinan oleh tenaga kesehatan terlatih, dan imunisasi dasar lengkap",
+        "E": "Pembangunan rumah sakit besar di ibu kota kabupaten"
+      },
+      "optionExplanations": {
+        "A": "Pelarangan pernikahan dini tanpa program kesehatan pendukung tidak cukup untuk menurunkan AKB.",
+        "B": "Bantuan tunai tanpa intervensi kesehatan tidak langsung menurunkan AKB.",
+        "C": "Pemberian susu formula gratis tidak menyelesaikan penyebab utama kematian bayi secara menyeluruh.",
+        "D": "Benar: peningkatan akses antenatal, persalinan oleh tenaga terlatih, dan imunisasi dasar lengkap merupakan intervensi komprehensif untuk menurunkan AKB.",
+        "E": "Pembangunan rumah sakit besar tidak langsung menjangkau masyarakat desa."
+      },
+      "answer": "D",
+      "explanation": "Menekan badai angka Mortalitas Bayi Baru Lahir (AKB) di penjuru dusun terpencil sangatlah tak mempan diserang di satu muara akhir doang (misal pengobatan semata atau suplemen bubuk pasca mati). Ia butuh pendekatan benteng hulu menyambung hingga hilir terintegrasi satu tarikan nafas beriring (Continuum of Care): ibu hamil diperiksa tertata, sangkut persalinan steril wajib diretas pakar terdidik (bidan/Dokter Nakes ber-STR), lalu anak terlahir langsung diinjeksi imunisasi balita dasar pelindung infeksi patogen yang membunuh membabi buta.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q77",
+      "category": "",
+      "question": "Di suatu daerah ditemukan banyak ibu hamil dengan Lingkar Lengan Atas (LILA) <23,5 cm, menandakan Kekurangan Energi Kronis (KEK). Intervensi gizi yang paling tepat diberikan adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Program keluarga berencana",
+        "B": "Pemberian vitamin A dosis tinggi",
+        "C": "Edukasi tanpa pemberian makanan tambahan",
+        "D": "Suplementasi zat besi saja",
+        "E": "Pemberian Makanan Tambahan (PMT) ibu hamil"
+      },
+      "optionExplanations": {
+        "A": "Program keluarga berencana tidak mengatasi KEK pada ibu hamil.",
+        "B": "Vitamin A dosis tinggi tidak ditujukan untuk KEK pada ibu hamil.",
+        "C": "Edukasi tanpa pemberian makanan tambahan tidak cukup untuk mengatasi KEK.",
+        "D": "Suplementasi zat besi saja tidak mengatasi kekurangan energi dan protein pada KEK.",
+        "E": "Benar: pemberian makanan tambahan pada ibu hamil merupakan intervensi gizi yang tepat untuk KEK."
+      },
+      "answer": "E",
+      "explanation": "LILA ibu hamil kerempeng menciut di bawah metrik vital ambang garis merah < 23.5 Sentimeter, tak pelak menyalakan sirine alarm berkedip memvonis Kekurangan Energi Kalori Kronis (KEK). Rahim ibu hamil KEK kelaparan parah ibarat ladang tandus; berisiko mencetak bayi kurcaci stunting prapubertas maupun kematian BBLR mungil prematur di timbangan peristi. Pertolongan pertama perbaikannya mewajibkan puskesmas sigap membagikan asupan biskuit gandum bergizi kaya keju fortifikasi ekstra (Pemberian Program Makanan Tambahan PMT Pemulihan) tanpa kompromi, dan bukannya sekadar siraman nasehat/zat mikro pil permen besi saja.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q78",
+      "category": "",
+      "question": "Dosis obat dewasa adalah 400 mg. Berdasarkan rumus Clark (Dosis anak = (Berat badan anak dalam kg ÷ 70) × Dosis dewasa), dosis yang tepat untuk anak dengan berat badan 7 kg adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "20 mg",
+        "B": "100 mg",
+        "C": "40 mg",
+        "D": "80 mg",
+        "E": "60 mg"
+      },
+      "optionExplanations": {
+        "A": "Dosis 20 mg merupakan hasil perhitungan yang salah dari rumus Clark.",
+        "B": "Dosis 100 mg merupakan hasil perhitungan yang salah dari rumus Clark.",
+        "C": "Benar: (7 / 70) x 400 mg = 40 mg.",
+        "D": "Dosis 80 mg merupakan hasil perhitungan yang salah dari rumus Clark.",
+        "E": "Dosis 60 mg merupakan hasil perhitungan yang salah dari rumus Clark."
+      },
+      "answer": "C",
+      "explanation": "Rumus perhitungan konversi komparasi dosis orang tua (Dewasa) ke obat anak berdasarkan perbandingan massa badan standar 70 Kilogram barat, dipelopori Farmakologi Clark. Jika variabel BB Anaknya = 7 Kg. Lalu dipukul rata Dosis Dewasanya = 400 Miligram per tablet. Hitungannya masuk rumus murni lurus matematika pecahan silang gampang: (7 kg / 70 kg) X 400 mg. (Sepersepuluh / 10% dikalikan 400) = Membuahkan dosis konversi pas sejumlah 40 mg.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q79",
+      "category": "",
+      "question": "Seorang anak menunjukkan gejala sulit memusatkan perhatian, hiperaktif, dan tidak bisa diam, yang berlangsung secara konsisten di berbagai situasi (rumah dan sekolah). Diagnosis yang paling mungkin adalah:",
+      "questionImages": [],
+      "options": {
+        "A": "Autism Spectrum Disorder",
+        "B": "Retardasi mental",
+        "C": "Attention-Deficit/Hyperactivity Disorder (ADHD)",
+        "D": "Gangguan cemas",
+        "E": "Gangguan oposisional defiant"
+      },
+      "optionExplanations": {
+        "A": "Autism Spectrum Disorder ditandai hambatan sosial dan komunikasi, bukan hiperaktivitas dan sulit memusatkan perhatian.",
+        "B": "Retardasi mental ditandai keterbatasan intelektual, bukan hiperaktivitas.",
+        "C": "Benar: ADHD ditandai sulit memusatkan perhatian, hiperaktif, dan impulsif yang konsisten di berbagai situasi.",
+        "D": "Gangguan cemas ditandai kecemasan berlebihan, bukan hiperaktivitas.",
+        "E": "Gangguan oposisional defiant ditandai perilaku menentang dan marah, bukan sulit memusatkan perhatian."
+      },
+      "answer": "C",
+      "explanation": "Keberadaan anak di bangku sekolah dengan rekam jejak perilaku berisik mondar-mandir tiada capai terbius duracell layaknya mesin (hiperaktif impulsif brutal) dan tak sudi menuntaskan tulisan bacaan PR karena bosan dan perhatian tersita silau terbang melihat lalat lewat sebentar (inatensi fokus pudar) serta kejahilan kelakuannya persisten diulang berkarat di dua ranah lingkup beda lokasi terisolasi yang mengganggu wibawa kesehariannya (Di pelataran gedung Rumah, dan merusak tata ruang kelas Sekolah); adalah prasyarat lengkap Diagnosis Defisit Perhatian Otak Neuro-Psikiatrik (ADHD). Note* bahasa indonya GPPH bukan ADHD :) ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-115.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q80",
+      "category": "",
+      "question": "Tatalaksana awal pada anak yang sedang mengalami kejang demam aktif (kejang sedang berlangsung) adalah pemberian:",
+      "questionImages": [],
+      "options": {
+        "A": "Fenobarbital rumatan harian",
+        "B": "Parasetamol oral",
+        "C": "Ibuprofen oral",
+        "D": "Diazepam rektal",
+        "E": "Antibiotik intravena"
+      },
+      "optionExplanations": {
+        "A": "Fenobarbital rumatan harian tidak digunakan sebagai terapi awal kejang aktif.",
+        "B": "Parasetamol tidak menghentikan kejang yang sedang berlangsung.",
+        "C": "Ibuprofen oral tidak menghentikan kejang yang sedang berlangsung.",
+        "D": "Benar: diazepam rektal merupakan terapi awal kejang aktif pada anak karena cepat dan tidak perlu dikonsumsi melalui mulut.",
+        "E": "Antibiotik intravena tidak menghentikan kejang demam."
+      },
+      "answer": "D",
+      "explanation": "Pasien balita kejang meletup hebat dibawa ke UGD dengan rahang lidah tergigit gemeretak terkunci (kejang aktif ongoing akut) tidak mempan dan haram disuruh dipaksa meminum sirup minum mulut oral/anti-panas, lantaran cairan pasti meluber aspirasi maut mencekik membanjiri selang laring trakea patologis paru (tersedak). Injeksi ampul IV darah pun amat repot tertutup otot tremor kejang balita beringas. Alternatif penyelamatan relaksan kilat darurat lini terdepan untuk menghambat saraf kejang adalah memasukkan pipa pelumas cairan obat menenangkan (Benzodiazepin Diazepam bentuk tube) melesak ke lubang dubur pantat rektalnya (Rektal supp.). ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-116.jpeg"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "QB9",
+      "category": "Soal Rusak",
+      "question": "Soal tentang gagal ginjal prerenal",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-117.png",
+        "images/packages/premium__blok-2i__ub-2i/img-118.png",
+        "images/packages/premium__blok-2i__ub-2i/img-119.png",
+        "images/packages/premium__blok-2i__ub-2i/img-120.png",
+        "images/packages/premium__blok-2i__ub-2i/img-121.png",
+        "images/packages/premium__blok-2i__ub-2i/img-122.png",
+        "images/packages/premium__blok-2i__ub-2i/img-123.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB23",
+      "category": "Soal Rusak",
+      "question": "Kadar ureum dan kreatinin naik. Hasil pemeriksaan yang mendukung: Kadar natrium ... < meq - 135?",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-124.png",
+        "images/packages/premium__blok-2i__ub-2i/img-125.png",
+        "images/packages/premium__blok-2i__ub-2i/img-126.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB28",
+      "category": "Soal Rusak",
+      "question": "Ada bayi neteknya terputus-putus",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-127.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB34",
+      "category": "Soal Rusak",
+      "question": "Soal tentang PDA",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-128.png",
+        "images/packages/premium__blok-2i__ub-2i/img-129.png",
+        "images/packages/premium__blok-2i__ub-2i/img-130.png",
+        "images/packages/premium__blok-2i__ub-2i/img-131.png",
+        "images/packages/premium__blok-2i__ub-2i/img-132.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB38",
+      "category": "Soal Rusak",
+      "question": "Ciri-ciri hernia diafragmatika (gambaran radiologis)",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-133.png",
+        "images/packages/premium__blok-2i__ub-2i/img-134.png",
+        "images/packages/premium__blok-2i__ub-2i/img-135.png",
+        "images/packages/premium__blok-2i__ub-2i/img-136.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB51",
+      "category": "Soal Rusak",
+      "question": "Demam 3 hari, hari ke-4 sudah tidak demam",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": true
+    },
+    {
+      "id": "QB55",
+      "category": "Soal Rusak",
+      "question": "Tipe-tipe murmur...",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-137.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB56",
+      "category": "Soal Rusak",
+      "question": "Anak diare berdarah, ada gambar temuan mikroskopis. Tx? (Metronidazole)",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-138.jpeg"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB62",
+      "category": "Soal Rusak",
+      "question": "Hirschsprung disease pada BBL",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-139.png",
+        "images/packages/premium__blok-2i__ub-2i/img-140.png",
+        "images/packages/premium__blok-2i__ub-2i/img-141.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB65",
+      "category": "Soal Rusak",
+      "question": "Bayi lahir dari ibu usia 40 tahun dengan usia kehamilan 40 minggu...",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": true
+    },
+    {
+      "id": "QB87",
+      "category": "Soal Rusak",
+      "question": "Ada anak 10 tahun, tatalaksana dehidrasinya apa?",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__ub-2i/img-142.png",
+        "images/packages/premium__blok-2i__ub-2i/img-143.png",
+        "images/packages/premium__blok-2i__ub-2i/img-144.png",
+        "images/packages/premium__blok-2i__ub-2i/img-145.png",
+        "images/packages/premium__blok-2i__ub-2i/img-146.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB88",
+      "category": "Soal Rusak",
+      "question": "Terapi multisensori?",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": true
+    }
+  ]
+}

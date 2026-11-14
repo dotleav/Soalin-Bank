@@ -1,0 +1,466 @@
+{
+  "id": "premium__blok-2i__rekonstruksi-soal-rusak-latihan",
+  "tier": "premium",
+  "title": "Rekonstruksi Soal Rusak + Latihan",
+  "category": "Blok 2I",
+  "questions": [
+    {
+      "id": "Q1",
+      "category": "",
+      "question": "Berikut yang BUKAN merupakan penyebab gagal ginjal akut prerenal adalah",
+      "questionImages": [],
+      "options": {
+        "A": "Kehilangan air dan elektrolit akibat gastroenteritis akut",
+        "B": "Nekrosis tubular akut akibat obat nefrotoksik",
+        "C": "Hipoalbuminemia pada sindrom nefrotik",
+        "D": "Kehilangan plasma akibat luka bakar",
+        "E": "Dekompensasi jantung akibat infark miokard"
+      },
+      "optionExplanations": {
+        "A": "Termasuk prerenal: kehilangan cairan menurunkan volume intravaskular sehingga perfusi ginjal berkurang tanpa kerusakan parenkim ginjal.",
+        "B": "Ini termasuk GGA renal bukan prerenal karena kerusakan langsung epitel tubulus oleh obat terjadi tanpa hipoperfusi.",
+        "C": "Termasuk prerenal: albumin rendah menurunkan tekanan onkotik sehingga volume efektif dan perfusi ginjal turun.",
+        "D": "Termasuk prerenal: hilangnya plasma menyebabkan hipovolemia dan penurunan perfusi ginjal.",
+        "E": "Termasuk prerenal: curah jantung turun sehingga aliran darah ke ginjal berkurang."
+      },
+      "answer": "B",
+      "explanation": "GGA prerenal terjadi karena hipoperfusi ginjal (hipovolemia atau hipotensi) tanpa kerusakan parenkim. Penyebab yang termasuk prerenal menurut materi: kehilangan darah (trauma, perdarahan), kehilangan plasma (luka bakar, peritonitis), kehilangan air dan elektrolit (gastroenteritis akut), hipoalbuminemia pada sindrom nefrotik, dekompensasi jantung (infark miokard), serta neonatus dengan syok septik atau asfiksia berat. Pembedaan laboratorium: pada prerenal, osmolalitas urin lebih dari 400 mOsm/L, natrium urin kurang dari 15 mEq/L, fraksi ekskresi kurang dari 1%, dan BJ urin lebih dari 1,020. Pada GGA renal (nekrosis tubular) nilai-nilai ini berlawanan, misalnya natrium urin lebih dari 40 mEq/L dan fraksi ekskresi lebih dari 3%. Tatalaksana prerenal sesuai etiologi: Ringer Laktat atau dekstrosa 1/2 salin pada gastroenteritis, transfusi darah pada syok hemoragik, albumin atau plasma pada sindrom nefrotik, dan Ringer Laktat 20 ml/kg BB dalam 1 jam bila dehidrasi tidak jelas etiologinya.   ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-001.png",
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-002.png",
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-003.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q2",
+      "category": "",
+      "question": "Kadar ureum dan kreatinin naik. Hasil pemeriksaan yang mendukung fase nefrotik pada glomerulonefritis kronik (GNK) adalah",
+      "questionImages": [],
+      "options": {
+        "A": "Kadar natrium serum < 135 mEq/L",
+        "B": "Kadar kalium serum < 3,5 mEq/L",
+        "C": "Rasio albumin/globulin normal",
+        "D": "Kadar kolesterol meningkat",
+        "E": "Hematuria tanpa proteinuria"
+      },
+      "optionExplanations": {
+        "A": "Hiponatremia kadang ditemukan pada sindrom nefrotik karena pengenceran, tetapi bukan penanda fase nefrotik yang disebut dalam materi, sehingga tidak paling mendukung.",
+        "B": "Hipokalemia tidak termasuk temuan fase nefrotik pada materi GNK dan bukan penanda khas pada kondisi ini.",
+        "C": "Pada fase nefrotik rasio albumin/globulin justru terbalik, sehingga rasio normal tidak sesuai dengan fase nefrotik.",
+        "D": "Termasuk gejala fase nefrotik pada GNK menurut materi: kehilangan protein melalui urin memicu hiperlipidemia sekunder sehingga kolesterol naik.",
+        "E": "Proteinuria menetap merupakan bagian dari definisi GNK, sehingga tanpa proteinuria temuan ini tidak mendukung GNK."
+      },
+      "answer": "D",
+      "explanation": "GNK ditandai kelainan hematologis dan proteinuria menetap, dengan eksaserbasi berulang terhadap glomerulonefritis akut (GNA) yang berlangsung beberapa bulan hingga tahun. Pada banyak pasien tidak ada gejala gagal ginjal yang spesifik. Gejala klinis GNK: edema sedikit, suhu subfebril, dan pada fase nefrotik edema bertambah jelas, rasio albumin/globulin terbalik, serta kolesterol meningkat. Fungsi ginjal dapat menurun dengan kadar ureum dan kreatinin yang meningkat. [PERLU VERIFIKASI: teks soal asli terpotong, sisa tertulis kadar natrium ... < 135; stem disusun ulang dan opsi natrium dipertahankan sebagai pengecoh.]  ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-004.png",
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-005.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q3",
+      "category": "",
+      "question": "Bayi dengan menetek terputus-putus dan tumbuh kurang (growth faltering). Red flag yang paling perlu dicurigai adalah",
+      "questionImages": [],
+      "options": {
+        "A": "Penyakit jantung bawaan",
+        "B": "Anemia defisiensi besi ringan tanpa gejala",
+        "C": "Pendek familial dengan kecepatan tumbuh normal",
+        "D": "Kejang demam sederhana",
+        "E": "Lingkar kepala besar sesuai usia"
+      },
+      "optionExplanations": {
+        "A": "Bising jantung dan menetek terputus-putus termasuk red flag pada materi. Bayi dengan PJB cepat lelah saat menetek sehingga asupan kurang dan pertumbuhan terhambat.",
+        "B": "Anemia ringan tanpa gejala umumnya tidak menyebabkan menetek terputus-putus, dan bukan red flag growth faltering pada materi. Pada soal ini tanda utamanya adalah gangguan menetek dan pertumbuhan, bukan pucat atau lemas.",
+        "C": "Pertumbuhan yang tetap sejajar kurva dan tidak mengganggu menetek bukan termasuk red flag.",
+        "D": "Kejang demam sederhana tidak mengganggu asupan maupun pertumbuhan, sehingga bukan red flag growth faltering.",
+        "E": "Lingkar kepala yang sesuai usia bukan penanda gagal tumbuh dan tidak termasuk red flag pada materi."
+      },
+      "answer": "A",
+      "explanation": "Growth faltering ditangani dalam tiga langkah: deteksi dini dan pemantauan gangguan tumbuh, memastikan asupan nutrisi adekuat dan optimal, serta memperhatikan kondisi kesehatan dengan cermat untuk mengidentifikasi red flag. Red flag pada materi antara lain penyakit jantung bawaan (bising jantung, menetek terputus-putus), keterlambatan perkembangan, gambaran dismorfik wajah, gagal tumbuh meskipun intake kalori adekuat, organomegali atau limfadenopati, infeksi berulang pada sistem pernapasan, mukokutaneus, atau saluran kencing, serta muntah, diare, atau dehidrasi berulang. Pada kurva pertumbuhan, tren berat badan yang melandai di bawah kurva menunjukkan weight faltering. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-006.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q4",
+      "category": "",
+      "question": "Pada paten duktus arteriosus (PDA) dengan pirau kiri ke kanan, gambaran klinis yang paling khas adalah",
+      "questionImages": [],
+      "options": {
+        "A": "Bising sistolik ejeksi kasar di apeks dengan S2 tunggal",
+        "B": "Bising pansistolik di LLSB dengan S2 normal",
+        "C": "Bising kontinu di sela iga 2 hingga 3 kiri dengan S1 dan S2 normal",
+        "D": "Bising diastolik decrescendo di LSB",
+        "E": "Sianosis sejak lahir dengan S2 tunggal"
+      },
+      "optionExplanations": {
+        "A": "Bising sistolik ejeksi di apeks mengarah ke stenosis aorta, bukan PDA. PDA ditandai bising kontinu di sela iga 2 hingga 3 kiri. Bising ini bersifat sistolik dan tidak menjalar sepanjang siklus jantung, sehingga tidak sesuai dengan PDA.",
+        "B": "Bising pansistolik di LLSB mengarah ke VSD. Pada PDA bising yang khas adalah bising kontinu, bukan pansistolik.",
+        "C": "Pirau dari aorta ke arteri pulmonalis berlangsung sepanjang siklus jantung sehingga menghasilkan bising kontinu yang tidak dipengaruhi inspirasi atau ekspirasi.",
+        "D": "Bising diastolik decrescendo mengarah ke regurgitasi aorta, bukan PDA.",
+        "E": "Sianosis sejak lahir dengan S2 tunggal mengarah ke penyakit jantung sianotik. PDA biasanya tidak sianotik kecuali sudah terjadi hipertensi pulmonal berat dengan pirau kanan ke kiri."
+      },
+      "answer": "C",
+      "explanation": "PDA adalah hubungan terbuka antara aorta dan arteri pulmonalis. Prevalensinya sekitar 10% dari semua kasus penyakit jantung bawaan. Faktor risiko: prematuritas, asfiksia, penyakit paru, dan infus prostaglandin. Karena tekanan aorta lebih tinggi daripada arteri pulmonalis, darah mengalir dari kiri ke kanan terus-menerus, sehingga terdengar bising kontinu sistolik-diastolik yang tidak dipengaruhi inspirasi atau ekspirasi, dengan S1 dan S2 normal. Bising terdengar di sela iga 2 hingga 3 kiri, menjalar ke subklavia kiri. Gejala klinis baru tampak pada usia 6 hingga 8 minggu, saat tahanan paru mulai turun. Pada bayi prematur dengan defek kecil, duktus dapat menutup spontan. Defek besar menyebabkan gagal jantung dan hipertensi pulmonal, dan endokarditis dapat terjadi. Manajemen: indometasin, ibuprofen, atau parasetamol pada bayi prematur; furosemid dan captopril sebagai antigagal; penutupan dengan pembedahan atau transkateter.     ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-007.png",
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-008.png",
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-009.png",
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-010.png",
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-011.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q5",
+      "category": "",
+      "question": "Gambaran radiologis khas hernia diafragmatika kiri pada neonatus adalah",
+      "questionImages": [],
+      "options": {
+        "A": "Bayangan usus di hemitoraks kanan dengan jantung terdorong ke kiri",
+        "B": "Infiltrat homogen lobus bawah kanan dengan air bronchogram",
+        "C": "Kardiomegali dengan corakan paru meningkat bilateral",
+        "D": "Efusi pleura bilateral dengan atelektasis",
+        "E": "Bayangan lengkung usus di hemitoraks kiri dengan jantung bergeser ke kanan"
+      },
+      "optionExplanations": {
+        "A": "Hernia kiri paling sering (sekitar 80%), sehingga isi abdomen tampak di hemitoraks kiri, bukan kanan. Pada hernia kiri, gambaran usus tidak tampak di hemitoraks kanan, sehingga pola ini tidak sesuai dengan kasus.",
+        "B": "Gambaran ini khas pneumonia. Pada hernia diafragmatika, gambaran yang muncul adalah usus di rongga dada.",
+        "C": "Gambaran ini mengarah ke kelainan jantung dengan pirau, bukan hernia diafragmatika.",
+        "D": "Gambaran efusi pleura bilateral bukan temuan utama hernia diafragmatika.",
+        "E": "Isi abdomen yang masuk ke rongga dada melalui foramen Bochdalek tampak sebagai bayangan usus di hemitoraks kiri dan mendesak mediastinum ke kanan."
+      },
+      "answer": "E",
+      "explanation": "Hernia diafragmatika terjadi ketika isi abdomen masuk ke rongga dada melalui celah diafragma. Angka kejadiannya sekitar 1 : 2200 kelahiran, 80% pada diafragma kiri (foramen Bochdalek), dan terjadi pada minggu ke-10 hingga 12 kehamilan. Neonatus dengan distres napas segera setelah lahir harus segera dikenali. Gejala klinis: distres napas segera setelah lahir, perut cekung (scaphoid) karena isi perut masuk ke rongga dada, suara peristaltik tidak terdengar pada dada yang sakit, dan bunyi jantung dapat bergeser ke kanan pada hernia kiri. Penunjang radiologi berperan penting. Penanganan: intubasi bila distres napas, jangan memberikan ventilasi tekanan positif dengan balon dan sungkup, pasang OGT untuk dekompresi, ambil AGD dan koreksi kelainan, hati-hati dengan ventilasi karena risiko pneumotoraks besar, lalu terapi bedah definitif. Risiko lain: insufisiensi atau hipoplasia paru dan persistent pulmonary hypertension of the newborn (PPHN).   ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-012.png",
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-013.png",
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-014.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q6",
+      "category": "",
+      "question": "Pada transposisi arteri besar (TGA) dengan VSD tanpa stenosis pulmonal, murmur yang paling mungkin terdengar adalah",
+      "questionImages": [],
+      "options": {
+        "A": "Tidak ada murmur atau murmur sistolik ejeksi I-II/VI di ULSB",
+        "B": "Murmur pansistolik di LLSB",
+        "C": "Murmur sistolik ejeksi di ULSB dengan intensitas berbanding terbalik terhadap derajat stenosis pulmonal",
+        "D": "Murmur diastolik decrescendo di LSB",
+        "E": "Bising kontinu di sela iga 2 hingga 3 kiri"
+      },
+      "optionExplanations": {
+        "A": "Pola ini khas TGA dengan IVS (tanpa VSD), bukan TGA dengan VSD.",
+        "B": "Pada TGA dengan VSD, murmur pansistolik terdengar di LLSB karena adanya pirau ventrikel.",
+        "C": "Pola ini khas TGA dengan VSD dan stenosis pulmonal, sedangkan soal menyebut tanpa stenosis pulmonal.",
+        "D": "Murmur diastolik bukan gambaran TGA dan mengarah ke regurgitasi aorta.",
+        "E": "Bising kontinu khas PDA, bukan TGA dengan VSD."
+      },
+      "answer": "B",
+      "explanation": "Manifestasi klinis TGA meliputi sianosis, impuls parasternal yang menonjol, dan bunyi jantung kedua yang bisa tunggal. Pola murmur bergantung pada kelainan yang menyertai: TGA dengan IVS tidak memberi murmur atau hanya murmur sistolik ejeksi I hingga II/VI di ULSB. TGA dengan VSD memberi murmur pansistolik di LLSB. TGA dengan VSD dan stenosis pulmonal memberi murmur sistolik ejeksi di ULSB dengan intensitas berbanding terbalik terhadap derajat stenosis pulmonal. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-015.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q7",
+      "category": "",
+      "question": "Anak dengan diare berdarah dan temuan mikroskopis tinja yang mengarah pada amebiasis invasif. Tatalaksana antimikroba yang tepat adalah",
+      "questionImages": [],
+      "options": {
+        "A": "Mebendazol 100 mg dua kali sehari selama 3 hari",
+        "B": "Albendazol dosis tunggal",
+        "C": "Metronidazol",
+        "D": "Pirantel pamoat dosis tunggal",
+        "E": "Oralit saja tanpa obat antimikroba"
+      },
+      "optionExplanations": {
+        "A": "Mebendazol adalah antihelmintik untuk infeksi cacing usus dan tidak efektif terhadap trofozoit amoeba yang invasif.",
+        "B": "Albendazol adalah antihelmintik dan bukan obat pilihan untuk amebiasis invasif.",
+        "C": "Metronidazol adalah obat pilihan amebiasis invasif karena aktif terhadap trofozoit di jaringan. Setelah itu diberikan agen luminal untuk memberantas kista.",
+        "D": "Pirantel bekerja pada cacing usus, bukan protozoa, sehingga tidak tepat untuk amebiasis.",
+        "E": "Rehidrasi tetap wajib sebagai tatalaksana suportif, tetapi tidak mengatasi infeksi amoeba invasif sehingga antimikroba tetap diperlukan."
+      },
+      "answer": "C",
+      "explanation": "Diare berdarah dengan temuan mikroskopis trofozoit yang mengandung eritrosit mengarah pada amebiasis invasif (disentri amoeba). Obat pilihan untuk bentuk invasif adalah metronidazol, dilanjutkan dengan agen luminal (misalnya paromomisin atau iodokuinol) untuk memberantas kista. Rehidrasi tetap diberikan sebagai tatalaksana suportif. Antihelmintik seperti mebendazol, albendazol, dan pirantel bekerja pada cacing usus, bukan protozoa. [PERLU VERIFIKASI: gambar temuan mikroskopis asli tidak ada dalam file. Gambar yang terlampir adalah tabel antihelmintik dan tidak sesuai soal ini, sehingga tidak dipakai.]",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q8",
+      "category": "",
+      "question": "Bayi baru lahir dengan mekonium tidak keluar dalam 24 jam pertama, muntah, dan kembung. Diagnosis pasti penyakit ini ditegakkan dengan",
+      "questionImages": [],
+      "options": {
+        "A": "Foto polos abdomen yang menunjukkan dilatasi usus",
+        "B": "Rectal toucher dengan ampula kosong dan feses menyemprot",
+        "C": "Colon in loop pada pemeriksaan barium enema",
+        "D": "Biopsi segmen aganglionik",
+        "E": "Manometri anorektal"
+      },
+      "optionExplanations": {
+        "A": "Foto polos mendukung adanya obstruksi usus, tetapi tidak memastikan diagnosis karena segmen aganglionik tidak terlihat.",
+        "B": "Temuan ini mengarah ke Hirschsprung disease, tetapi belum menjadi diagnosis pasti.",
+        "C": "Zona transisi antara kolon yang menyempit dan dilatasi mendukung diagnosis, tetapi belum memastikan tidak adanya sel ganglion.",
+        "D": "Biopsi rektum yang memperlihatkan tidak adanya sel ganglion merupakan diagnosis pasti Hirschsprung disease.",
+        "E": "Manometri membantu mendukung diagnosis dengan menilai refleks relaksasi sfingter, tetapi tidak sepasti biopsi."
+      },
+      "answer": "D",
+      "explanation": "Hirschsprung disease disebabkan tidak adanya sel neuroganglionik (aganglionik) di distal kolon, sehingga bagian distal tidak bisa relaksasi dan terjadi obstruksi. Dahulu disebut megakolon kongenital. Angka kejadian sekitar 1 : 4500 hingga 7000 bayi lahir. Gejala klinis: mekonium tidak keluar dalam 24 jam pertama, muntah, kembung, dan rectal toucher dengan ampula kosong dan feses menyemprot. Foto polos menunjukkan ileus, sedangkan colon in loop menunjukkan zona transisi antara kolon yang menyempit dan yang dilatasi. Diagnosis pasti dengan biopsi segmen aganglionik. Prinsip tata laksana: dekompresi dengan rectal tube, kemudian tindakan bedah anak.   ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-016.png",
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-017.png",
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-018.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q9",
+      "category": "",
+      "question": "Anak 10 tahun dengan diare dan dehidrasi tanpa syok. Tatalaksana cairan yang tepat adalah",
+      "questionImages": [],
+      "options": {
+        "A": "Oralit sedikit demi sedikit tetapi sering, sesuai derajat dehidrasi",
+        "B": "Infus Ringer Laktat 20 ml/kg segera tanpa menilai syok",
+        "C": "Infus dekstrosa 5% sebagai cairan rumatan saja",
+        "D": "Tidak diberi cairan bila anak tidak muntah",
+        "E": "Cairan NaCl 0,45% intravena untuk dehidrasi ringan"
+      },
+      "optionExplanations": {
+        "A": "Rehidrasi oral adalah pilihan utama pada anak tanpa syok. Pemberian sedikit demi sedikit tetapi sering mengurangi risiko muntah, dan oralit diberikan setiap kali anak diare.",
+        "B": "Infus hanya diindikasikan pada dehidrasi berat dengan syok atau bila rehidrasi oral tidak memungkinkan. Pemberian rutin tanpa indikasi tidak diperlukan. Infus tidak boleh diberikan rutin pada dehidrasi tanpa syok karena menambah risiko kelebihan cairan dan tidak diperlukan.",
+        "C": "Dekstrosa tidak mengganti elektrolit yang hilang melalui diare, sehingga tidak tepat untuk rehidrasi.",
+        "D": "Dehidrasi dapat terjadi tanpa muntah, sehingga cairan tetap harus diberikan.",
+        "E": "Cairan hipotonik tidak diindikasikan untuk dehidrasi ringan. Oralit adalah pilihan yang sesuai."
+      },
+      "answer": "A",
+      "explanation": "Materi ReSoMal (Langkah 3 dan 4, mencegah dan mengatasi dehidrasi): jangan gunakan infus rehidrasi kecuali pada dehidrasi berat dengan syok. Selanjutnya, bila anak masih diare, beri ReSoMal setiap kali buang air besar: 50 hingga 100 ml untuk usia kurang dari 2 tahun, dan 100 hingga 200 ml untuk usia 2 tahun atau lebih. Aturan ini tertulis untuk anak gizi buruk, dan untuk anak 10 tahun prinsip yang sama berlaku. Infus Ringer Laktat dan dekstrosa diberikan hanya bila syok atau rehidrasi oral tidak memungkinkan, dengan 15 ml/kg BB dalam 1 jam. Cara membuat ReSoMal: 1 sachet oralit WHO (200 ml), gula pasir 10 g, larutan mineral-mix 8 ml, ditambah air sampai 400 ml. [PERLU VERIFIKASI: stem disusun ulang dari teks yang terpotong. Usia 10 tahun dan kondisi tanpa syok dipilih sebagai konteks.]  ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-019.png",
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-020.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q10",
+      "category": "",
+      "question": "Nekrosis tubular akut tipe iskemik pada gagal ginjal akut renal paling sering terjadi akibat",
+      "questionImages": [],
+      "options": {
+        "A": "Pemakaian aminoglikosida jangka panjang",
+        "B": "Glomerulonefritis akut pasca streptokokus",
+        "C": "Sindrom hemolitik uremik",
+        "D": "Batu yang menyumbat saluran kemih",
+        "E": "Hipoperfusi ginjal yang berlangsung lama, misalnya hipovolemia berat"
+      },
+      "optionExplanations": {
+        "A": "Ini penyebab tipe nefrotoksik, bukan iskemik, karena kerusakan tubulus terjadi langsung oleh obat. Obat nefrotoksik lebih tepat dikaitkan dengan tipe nefrotoksik daripada tipe iskemik.",
+        "B": "Ini kerusakan glomerulus, bukan kerusakan tubulus akibat iskemia.",
+        "C": "Menurut materi, sindrom hemolitik uremik termasuk kerusakan glomerulus sehingga bukan tipe iskemik.",
+        "D": "Ini GGA pasca renal (obstruktif), bukan nekrosis tubular akut iskemik.",
+        "E": "Hipoperfusi yang berlangsung lama merusak epitel tubulus dan menjadi penyebab tipe iskemik pada nekrosis tubular akut."
+      },
+      "answer": "E",
+      "explanation": "GGA renal terjadi karena kerusakan epitel tubulus. Tipe iskemik berasal dari GGA pra renal yang akut dan berlangsung lama. Tipe nefrotoksik berasal dari obat, misalnya aminoglikosida dan zat kontras radiopaque. Kerusakan glomerulus mencakup glomerulonefritis akut dan sindrom hemolitik uremik. Tujuan pengobatan GGA renal adalah mempertahankan hemostasis tubuh sambil menunggu ginjal berfungsi kembali. Pemantauan yang perlu: tanda vital, Hb, Ht, trombosit, ureum dan kreatinin, elektrolit, analisis gas darah, dan pengukuran diuresis.  ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-021.png",
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-022.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q11",
+      "category": "",
+      "question": "Neonatus dengan GGA pasca renal. Penyebab kongenital yang paling khas adalah",
+      "questionImages": [],
+      "options": {
+        "A": "Ginjal polikistik infantil",
+        "B": "Glomerulonefritis akut",
+        "C": "Valvula uretrovesikal",
+        "D": "Sindrom hemolitik uremik",
+        "E": "Nekrosis tubular akut akibat obat"
+      },
+      "optionExplanations": {
+        "A": "Ini anomali ginjal yang bersifat intrinsik (renal), bukan obstruksi pada saluran keluar urin. Kelainan ini sering muncul sebagai kista pada kedua ginjal dan tidak menyumbat aliran urin.",
+        "B": "Ini kerusakan glomerulus dan termasuk GGA renal, bukan pasca renal.",
+        "C": "Katup uretra kongenital menghambat aliran urin dari kandung kemih, sehingga termasuk obstruksi pasca renal.",
+        "D": "Ini kerusakan glomerulus dan termasuk GGA renal.",
+        "E": "Ini kerusakan langsung epitel tubulus dan termasuk GGA renal."
+      },
+      "answer": "C",
+      "explanation": "GGA pasca renal disebabkan obstruksi pada saluran keluar urin. Penyebab obstruksi menurut materi: kelainan kongenital (misalnya valvula uretrovesikal), batu, bekuan darah, tumor, dan kristal (asam jengkol, asam urat). Bila USG menemukan GGA pasca renal, lokalisasi dengan pielografi antegrad atau retrograd. Tindakan bedah bergantung situasi: nefrostomi dahulu untuk mengeluarkan urin dan memperbaiki keadaan umum, atau pembedahan definitif dengan menghilangkan obstruksinya.  ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-023.png",
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-024.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q12",
+      "category": "",
+      "question": "Pada GGA non oliguri, temuan yang paling khas adalah",
+      "questionImages": [],
+      "options": {
+        "A": "Kadar ureum dan kreatinin meningkat tanpa penurunan produksi urin",
+        "B": "Oliguria kurang dari 400 ml per hari dengan ureum normal",
+        "C": "Anuria total dengan edema generalisasi",
+        "D": "Produksi urin tetap tinggi dengan ureum yang menurun",
+        "E": "Proteinuria masif dengan hipoalbuminemia"
+      },
+      "optionExplanations": {
+        "A": "Sesuai dengan GGA non oliguri, yaitu fungsi ginjal menurun tanpa oliguria. Kondisi ini sering dijumpai pada GGA akibat obat nefrotoksik.",
+        "B": "Oliguria bukan temuan khas non oliguri, dan ureum normal tidak mendukung GGA. Oliguria merupakan penurunan produksi urin di bawah 400 ml per hari, sehingga bertentangan dengan gambaran non oliguri.",
+        "C": "Anuria adalah oliguria berat, bukan non oliguri.",
+        "D": "Ureum yang menurun tidak sesuai dengan gangguan fungsi ginjal.",
+        "E": "Ini gambaran sindrom nefrotik, bukan GGA non oliguri."
+      },
+      "answer": "A",
+      "explanation": "GGA non oliguri berarti tidak ada oliguria, tetapi kadar ureum dan kreatinin meningkat. Kondisi ini sering dijumpai pada GGA akibat pemakaian obat-obat nefrotoksik. Sebagai pembanding, pada GGA pra renal pemeriksaan urin menunjukkan osmolalitas urin tinggi dan natrium urin rendah. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-025.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q13",
+      "category": "",
+      "question": "Bayi prematur dengan PDA. Obat yang digunakan untuk menutup duktus adalah",
+      "questionImages": [],
+      "options": {
+        "A": "Furosemid",
+        "B": "Captopril",
+        "C": "Dopamin",
+        "D": "Ibuprofen",
+        "E": "Prostaglandin E1"
+      },
+      "optionExplanations": {
+        "A": "Diuretik ini digunakan sebagai antigagal jantung, bukan untuk menutup duktus.",
+        "B": "Captopril adalah antigagal jantung dan tidak menutup duktus.",
+        "C": "Dopamin adalah vasopresor untuk syok dan tidak menutup duktus.",
+        "D": "Ibuprofen, indometasin, dan parasetamol digunakan pada bayi prematur untuk menutup PDA melalui penghambatan prostaglandin.",
+        "E": "Prostaglandin justru mempertahankan duktus tetap terbuka, dan infus prostaglandin termasuk faktor risiko PDA. Pada bayi dengan PDA, obat ini justru tidak diberikan untuk penutupan."
+      },
+      "answer": "D",
+      "explanation": "Manajemen PDA: pada bayi prematur diberikan indometasin, ibuprofen, atau parasetamol. Antigagal jantung diberikan furosemid dan captopril. Penutupan definitif dapat dilakukan dengan pembedahan atau transkateter. Pada defek kecil di bayi prematur, duktus dapat menutup spontan. Pada defek besar dapat terjadi gagal jantung, hipertensi pulmonal, dan endokarditis. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-011.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q14",
+      "category": "",
+      "question": "Neonatus dengan dugaan hernia diafragmatika dan distres napas berat. Tindakan yang TIDAK boleh dilakukan adalah",
+      "questionImages": [],
+      "options": {
+        "A": "Intubasi endotrakeal",
+        "B": "Ventilasi tekanan positif dengan balon dan sungkup",
+        "C": "Pemasangan OGT untuk dekompresi",
+        "D": "Pemeriksaan AGD dan koreksi kelainan",
+        "E": "Terapi bedah definitif"
+      },
+      "optionExplanations": {
+        "A": "Intubasi dianjurkan bila terjadi distres napas, sehingga merupakan tindakan yang sesuai.",
+        "B": "Tindakan ini dilarang karena udara masuk ke usus yang sudah berada di rongga dada dan memperburuk kompresi paru.",
+        "C": "OGT dianjurkan untuk mengurangi distensi lambung dan usus di rongga dada.",
+        "D": "Pemeriksaan AGD dan koreksi diperlukan untuk menilai dan memperbaiki kondisi neonatus. Tindakan ini dikerjakan setelah stabilisasi awal dan koreksi kelainan metabolik.",
+        "E": "Pembedahan definitif adalah terapi akhir yang dilakukan setelah kondisi neonatus stabil."
+      },
+      "answer": "B",
+      "explanation": "Pada hernia diafragmatika dengan distres napas, lakukan intubasi endotrakeal. Jangan memberikan ventilasi tekanan positif dengan balon dan sungkup, karena udara masuk ke usus yang sudah berada di rongga dada. Pasang OGT untuk dekompresi, ambil AGD dan koreksi kelainan, dan hati-hati dengan ventilasi karena paru sudah tertekan dan risiko pneumotoraks besar. Terapi bedah definitif dilakukan kemudian. Perut cekung dan bayangan usus di hemitoraks kiri juga membantu diagnosis.  ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-014.png",
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-013.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q15",
+      "category": "",
+      "question": "Neonatus dengan dugaan Hirschsprung disease dan distensi abdomen berat. Tindakan dekompresi awal yang paling tepat adalah",
+      "questionImages": [],
+      "options": {
+        "A": "Laparotomi eksplorasi segera tanpa dekompresi",
+        "B": "Antibiotik spektrum luas saja",
+        "C": "Laksatif osmotik peroral",
+        "D": "Kolostomi definitif segera",
+        "E": "Pemasangan rectal tube"
+      },
+      "optionExplanations": {
+        "A": "Laparotomi tidak dilakukan sebelum dekompresi dan persiapan, sehingga bukan langkah awal yang tepat. Tindakan ini juga berisiko pada neonatus dengan distensi berat karena belum ada dekompresi.",
+        "B": "Antibiotik tidak mengatasi obstruksi dan distensi.",
+        "C": "Laksatif peroral tidak efektif pada obstruksi karena segmen distal aganglionik tidak bisa relaksasi.",
+        "D": "Kolostomi merupakan tindakan bedah yang dilakukan kemudian, bukan dekompresi awal.",
+        "E": "Rectal tube mengeluarkan gas dan feses dari kolon yang dilatasi sehingga distensi berkurang. Ini prinsip tata laksana awal Hirschsprung disease."
+      },
+      "answer": "E",
+      "explanation": "Hirschsprung disease: tidak adanya sel ganglion di distal kolon menyebabkan bagian distal tidak bisa relaksasi sehingga terjadi obstruksi. Prinsip tata laksana: dekompresi dengan rectal tube, lalu tindakan bedah anak. Gejala klinis: mekonium tidak keluar dalam 24 jam pertama, muntah, dan kembung. Diagnosis pasti dengan biopsi segmen aganglionik. Colon in loop menunjukkan zona transisi antara kolon yang menyempit dan dilatasi.  ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-016.png",
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-018.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q16",
+      "category": "",
+      "question": "Anak usia 2 tahun dengan berat badan 12 kg dan pemeriksaan tinja positif cacing. Dosis pirantel pamoat 125 mg yang sesuai adalah",
+      "questionImages": [],
+      "options": {
+        "A": "1 tablet",
+        "B": "1/2 tablet",
+        "C": "3/4 tablet",
+        "D": "1 1/2 tablet",
+        "E": "2 tablet"
+      },
+      "optionExplanations": {
+        "A": "Usia 1 hingga 3 tahun dengan berat 10 hingga kurang dari 14 kg mendapat 1 tablet sebagai dosis tunggal pada hari ke-7.",
+        "B": "Dosis ½ tablet untuk usia 4 hingga 9 bulan dengan berat 6 hingga kurang dari 8 kg.",
+        "C": "Dosis ¾ tablet untuk usia 9 hingga 12 bulan dengan berat 8 hingga kurang dari 10 kg.",
+        "D": "Dosis 1½ tablet untuk usia 3 hingga 5 tahun dengan berat 14 hingga kurang dari 19 kg. Dosis ini ditujukan untuk berat badan yang lebih besar dan tidak sesuai untuk berat 12 kg.",
+        "E": "Dosis 2 tablet tidak tercantum pada tabel untuk rentang usia dan berat tersebut."
+      },
+      "answer": "A",
+      "explanation": "Tabel jenis obat dan dosis antihelmintik, untuk pengobatan infestasi parasit bila hasil pemeriksaan tinja positif. Pirantel pamoat 125 mg berdasarkan usia dan berat: 4 hingga 9 bulan (BB 6 hingga kurang dari 8 kg) ½ tablet; 9 hingga 12 bulan (BB 8 hingga kurang dari 10 kg) ¾ tablet; 1 hingga 3 tahun (BB 10 hingga kurang dari 14 kg) 1 tablet; 3 hingga 5 tahun (BB 14 hingga kurang dari 19 kg) 1½ tablet. Dosis tunggal di hari ke-7. Albendazol 200 mg untuk usia 12 hingga 23 bulan, 400 mg untuk usia 24 bulan ke atas. Mebendazol 100 mg dua kali sehari selama 3 hari, dimulai hari ke-7, untuk usia lebih dari 12 bulan dengan BB 10 kg atau lebih. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-031.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q17",
+      "category": "",
+      "question": "Pada ReSoMal yang dibuat tanpa larutan mineral-mix, larutan tidak mengandung",
+      "questionImages": [],
+      "options": {
+        "A": "Natrium dan kalium",
+        "B": "Kalsium dan fosfat",
+        "C": "Magnesium, seng, dan tembaga",
+        "D": "Glukosa dan fruktosa",
+        "E": "Vitamin A dan vitamin D"
+      },
+      "optionExplanations": {
+        "A": "Natrium dan kalium sudah berasal dari oralit dan KCl pada resep ReSoMal, sehingga tidak perlu ditambahkan. Kalium klorida tercantum dalam resep dasar ReSoMal sehingga kalium tidak termasuk yang perlu ditambahkan.",
+        "B": "Kalsium dan fosfat tidak disebut sebagai mineral yang kurang pada resep ReSoMal ini.",
+        "C": "Materi menyebut larutan pengganti ini tidak mengandung Mg, Zn, dan Cu, sehingga makanan sumber mineral tersebut perlu diberikan.",
+        "D": "Glukosa sudah tersedia dari gula pasir dan oralit, sehingga bukan mineral yang perlu ditambahkan.",
+        "E": "Vitamin A dan D tidak disebut dalam resep ReSoMal pada materi."
+      },
+      "answer": "C",
+      "explanation": "Tabel 13 (ReSoMal bila larutan mineral-mix tidak tersedia): oralit 1 sachet (200 ml), gula pasir 10 g, bubuk KCl 0,8 g, ditambah air sampai 400 ml. Karena larutan ini tidak mengandung Mg, Zn, dan Cu, dapat diberikan makanan sumber mineral tersebut, atau MgSO4 40% IM satu kali sehari dengan dosis 0,3 ml/kg BB, maksimum 2 ml/hari. Mineral-mix siap pakai berisi kalium klorida, trikalium sitrat, magnesium klorida, seng asetat, dan tembaga sulfat. Tabel 14 berisi resep larutan mineral-mix bila tidak tersedia dalam bentuk siap pakai.   ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-032.png",
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-033.png",
+        "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-034.png"
+      ],
+      "isBroken": false
+    }
+  ]
+}

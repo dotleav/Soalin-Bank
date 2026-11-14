@@ -1,0 +1,321 @@
+{
+  "id": "premium__blok-2i__minites-2i",
+  "tier": "premium",
+  "title": "Minites 2I",
+  "category": "Blok 2I",
+  "questions": [
+    {
+      "id": "Q1",
+      "category": "",
+      "question": "Kondisi pubertas dianggap prekoks bila dialami oleh anak perempuan sebelum usia 8 tahun",
+      "questionImages": [],
+      "options": {
+        "A": "Benar",
+        "B": "Salah"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Pubertas prekoks didefinisikan sebagai munculnya tanda pubertas sebelum usia 8 tahun pada anak perempuan (dan 9 tahun pada anak laki-laki). Pernyataan ini benar. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__minites-2i/img-001.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q2",
+      "category": "",
+      "question": "Skrining hipotiroid pada neonatus dilakukan dengan pemeriksaan TSH",
+      "questionImages": [],
+      "options": {
+        "A": "Benar",
+        "B": "Salah"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Skrining hipotiroid kongenital pada neonatus dilakukan dengan pemeriksaan TSH dari sampel darah tumit. Kadar TSH di atas 20 mU/L perlu ditindaklanjuti, dan kadar di atas 40 mU/L mengarah kuat ke hipotiroid kongenital sehingga perlu terapi segera. Pernyataan ini benar. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__minites-2i/img-002.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q3",
+      "category": "",
+      "question": "Infeksi virus yang paling sering menyebabkan bronkiolitis pada bayi adalah Respiratory Syncytial Virus.",
+      "questionImages": [],
+      "options": {
+        "A": "Benar",
+        "B": "Salah"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Bronkiolitis akut adalah infeksi saluran napas bawah yang terutama menyerang bayi dan anak di bawah 2 tahun. Respiratory syncytial virus (RSV) merupakan penyebab tersering. Pernyataan ini benar. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__minites-2i/img-003.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q4",
+      "category": "",
+      "question": "Seorang anak usia 12 tahun diukur status gizinya dengan menggunakan kurva CDC dan didapatkan hasil diatas 95%, kategori status gizi anak ini adalah overweight.",
+      "questionImages": [],
+      "options": {
+        "A": "Benar",
+        "B": "Salah"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Pada kurva CDC, overweight berada pada persentil 85 hingga kurang dari 95, sedangkan persentil di atas 95 termasuk obesitas. Hasil di atas 95 persen karena itu termasuk obesitas, bukan overweight, sehingga pernyataan ini salah.  ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__minites-2i/img-004.png",
+        "images/packages/premium__blok-2i__minites-2i/img-005.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q5",
+      "category": "",
+      "question": "Salah satu komplikasi yang mungkin terjadi pada bayi yang lahir dari ibu dengan diabetes gestasional adalah chorioamionitis",
+      "questionImages": [],
+      "options": {
+        "A": "Benar",
+        "B": "Salah"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Korioamnionitis adalah infeksi selaput janin pada ibu, bukan komplikasi khas bayi dari ibu dengan diabetes gestasional. Komplikasi yang khas pada bayi tersebut antara lain hipoglikemia, hiperbilirubinemia, makrosomia, gangguan maturitas paru, dan distres napas. Pernyataan ini salah. Korioamnionitis merupakan faktor risiko dari pneumonia atau RDS pada bayi. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__minites-2i/img-006.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q6",
+      "category": "",
+      "question": "Hiperparatiroid adalah penyebab short stature yang berhubungan dengan gangguan endokrin",
+      "questionImages": [],
+      "options": {
+        "A": "Benar",
+        "B": "Salah"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Hiperparatiroid lebih khas menyebabkan demineralisasi tulang dan batu ginjal, bukan perawakan pendek. Penyebab endokrin short stature yang lebih sering antara lain defisiensi hormon pertumbuhan, hipotiroid, dan sindrom Cushing. Pernyataan ini salah. ",
+      "explanationImages": [
+        "images/packages/premium__blok-2i__minites-2i/img-007.png"
+      ],
+      "isBroken": false
+    },
+    {
+      "id": "Q7",
+      "category": "",
+      "question": "Indeks antropometri yang paling tepat digunakan untuk menilai status gizi akut (terkini) atau yang sering disebut sebagai Wasting adalah Berat Badan per Usia",
+      "questionImages": [],
+      "options": {
+        "A": "Benar",
+        "B": "Salah"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Wasting atau gizi kurang akut dinilai dengan indeks BB/TB atau BB/PB. Indeks BB/U menggambarkan status gizi secara umum dan menilai underweight. Pernyataan ini salah.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q8",
+      "category": "",
+      "question": "Penyakit Duchenne Muscular Dystrophy (DMD) yang dialami pasien disebabkan oleh mutasi gen distrofin yang diturunkan secara X-linked recessive.",
+      "questionImages": [],
+      "options": {
+        "A": "Benar",
+        "B": "Salah"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Duchenne muscular dystrophy disebabkan mutasi gen distrofin di kromosom X dengan pola pewarisan X-linked resesif. Penyakit ini terutama mengenai laki-laki karena hanya memiliki satu kromosom X. Pernyataan ini benar.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q9",
+      "category": "",
+      "question": "Patofisiologi komplikasi jantung dan hipertensi pada GNA dipicu oleh terjadinya oliguria yang menyebabkan retensi natrium dan air sehingga terjadi peningkatan cardiac output.",
+      "questionImages": [],
+      "options": {
+        "A": "Benar",
+        "B": "Salah"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Pada glomerulonefritis akut (GNA), penurunan laju filtrasi glomerulus menyebabkan oliguria dan retensi natrium serta air. Akibatnya terjadi hipervolemia, hipertensi, dan peningkatan beban jantung. Pernyataan ini benar.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q10",
+      "category": "",
+      "question": "Auskultasi bising jantung berupa bising pansistolik (pansystolic murmur) yang terdengar paling jelas pada sela iga 3–4 tepi sternum kiri merupakan karakteristik auskultasi khas pada lesi Defek Septum Ventrikel (VSD).",
+      "questionImages": [],
+      "options": {
+        "A": "Benar",
+        "B": "Salah"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Bising pansistolik memang khas pada VSD. Catatan: materi mencantumkan lokasi bising paling jelas di linea parasternalis kiri sela iga 4-5, sehingga penyebutan sela iga 3-4 perlu dikoreksi. Pernyataan ini benar sebagai karakteristik VSD secara umum.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q11",
+      "category": "",
+      "question": "Seorang anak usia 2 tahun dibawa ke puskesmas dengan keluhan demam, batuk menggonggong, nampak sesak napas, terdengar stridor inspirasi. Diagnosis yang mungkin adalah Croup.",
+      "questionImages": [],
+      "options": {
+        "A": "Benar",
+        "B": "Salah"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Croup atau laringotrakeitis khas pada anak sekitar 6 bulan sampai 3 tahun dengan batuk menggonggong, stridor inspirasi, sesak, dan demam. Gambaran pada kasus ini mengarah kuat ke croup. Pernyataan ini benar.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q12",
+      "category": "",
+      "question": "Batas waktu pemberian resusitasi pada neonatus adalah bila tidak teraba/ditemukan adanya denyut jantung bayi setelah pemberian resusitasi adekuat selama 30 menit.",
+      "questionImages": [],
+      "options": {
+        "A": "Benar",
+        "B": "Salah"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Resusitasi neonatus dipertimbangkan untuk dihentikan jika tidak ditemukan denyut jantung sekitar 10 menit setelah resusitasi adekuat, bukan 30 menit. Pernyataan ini salah.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q13",
+      "category": "",
+      "question": "Gejala klinis ISK pada anak usia sekolah umumnya bersifat spesifik, seperti timbulnya disuria, polakisuria, ngompol (enuresis), serta sakit perut atau pinggang.",
+      "questionImages": [],
+      "options": {
+        "A": "Benar",
+        "B": "Salah"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Pada anak usia sekolah, gejala ISK cukup khas berupa disuria, polakisuria, enuresis (ngompol), serta nyeri perut atau pinggang. Pada bayi gejala tersebut jauh kurang spesifik. Pernyataan ini benar.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q14",
+      "category": "",
+      "question": "Seorang anak mengalami kejang demam dan sudah menerima 2 kali diazepam rektal di rumah. Tatalaksana selanjutnya pada saat di IGD, sebaiknya pasien diberikan diazepam per rektal.",
+      "questionImages": [],
+      "options": {
+        "A": "Benar",
+        "B": "Salah"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Diazepam rektal sudah diberikan di rumah. Pemberian ulang diazepam rektal tidak dianjurkan di IGD; bila kejang berlanjut, tatalaksana lanjutannya adalah diazepam intravena atau antikonvulsan lain. Pernyataan ini salah.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q15",
+      "category": "",
+      "question": "Kelainan kongenital yang menyebabkan terbentuknya lubang abnormal pada diafragma dan memungkinkan organ perut masuk ke rongga dada adalah Hernia inguinalis",
+      "questionImages": [],
+      "options": {
+        "A": "Benar",
+        "B": "Salah"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Hernia diafragmatika kongenital adalah lubang abnormal pada diafragma yang memungkinkan organ perut masuk ke rongga dada. Hernia inguinalis adalah penonjolan isi perut melalui kanalis inguinalis, bukan kelainan diafragma. Pernyataan ini salah.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q16",
+      "category": "",
+      "question": "Anak usia 3 tahun dengan riwayat sianosis, kebiasaan berjongkok (squatting) setelah beraktivitas, clubbing finger, serta EKG deviasi sumbu kanan menunjukkan diagnosis utama berupa Tetralogy of Fallot (TOF)",
+      "questionImages": [],
+      "options": {
+        "A": "Benar",
+        "B": "Salah"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Tetralogy of Fallot ditandai sianosis, squatting, clubbing finger, dan deviasi sumbu kanan pada EKG, akibat kombinasi VSD, stenosis pulmonal, overriding aorta, dan hipertrofi ventrikel kanan. Gambaran pada kasus ini mengarah kuat ke TOF. Pernyataan ini benar.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q17",
+      "category": "",
+      "question": "DDST (Denver II Test) merupakan metode skrining untuk menilai perkembangan anak usia 1 bulan sampai 6 tahun.",
+      "questionImages": [],
+      "options": {
+        "A": "Benar",
+        "B": "Salah"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Denver II (DDST II) adalah metode skrining perkembangan untuk anak usia 1 bulan sampai 6 tahun. Pernyataan ini benar.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q18",
+      "category": "",
+      "question": "Seorang bayi baru lahir muntah hijau. Pada pemeriksaan foto abdomen menunjukkan double bubble sign. Diagnosis pada bayi ini adalah atresia duodenum.",
+      "questionImages": [],
+      "options": {
+        "A": "Benar",
+        "B": "Salah"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Muntah hijau pada neonatus dengan gambaran double bubble sign pada foto abdomen mengarah kuat ke atresia duodenum. Pernyataan ini benar.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q19",
+      "category": "",
+      "question": "Komplikasi jangka panjang utama dan paling berbahaya akibat left to right shunt yang tidak dikoreksi pada pasien Defek Septum Ventrikel besar adalah Aritmia Supraventrikular.",
+      "questionImages": [],
+      "options": {
+        "A": "Benar",
+        "B": "Salah"
+      },
+      "optionExplanations": {},
+      "answer": "B",
+      "explanation": "Komplikasi paling berbahaya dari left-to-right shunt besar yang tidak dikoreksi adalah penyakit vaskular paru dan hipertensi pulmonal, yang dapat berlanjut menjadi sindrom Eisenmenger. Aritmia supraventrikular bukan komplikasi utama. Pernyataan ini salah.",
+      "explanationImages": [],
+      "isBroken": false
+    },
+    {
+      "id": "Q20",
+      "category": "",
+      "question": "Pada anak dengan Cerebral Palsy (CP) tipe Spastik. Mekanisme patofisiologi utama yang mendasari gambaran klinisnya adalah kerusakan Upper Motor Neuron traktus kortikospinal.",
+      "questionImages": [],
+      "options": {
+        "A": "Benar",
+        "B": "Salah"
+      },
+      "optionExplanations": {},
+      "answer": "A",
+      "explanation": "Pada anak dengan CP tipe spastik, spastisitas berasal dari kerusakan upper motor neuron pada traktus kortikospinal, sehingga tonus dan refleks meningkat. Tipe spastik merupakan tipe CP yang paling sering. Pernyataan ini benar.",
+      "explanationImages": [],
+      "isBroken": false
+    }
+  ]
+}

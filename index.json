@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T16:17:48.793Z",
+  "generatedAt": "2026-11-14T17:08:38.299Z",
   "packages": [
     {
       "id": "2h-persiapan-minites__cedera-kepala-trauma-medulla-spinalis",
@@ -307,14 +307,6 @@
       "file": "packages/2i-persiapan-minites-1__soal-semua-sumber-claude.json"
     },
     {
-      "id": "premium__2i-persiapan-minites-1-premium__minites-1",
-      "tier": "premium",
-      "title": "Minites 1",
-      "category": "2I - Persiapan Minites 1 (Premium)",
-      "count": 28,
-      "file": "packages/premium__2i-persiapan-minites-1-premium__minites-1.json"
-    },
-    {
       "id": "premium__blok-1j__minites-1",
       "tier": "premium",
       "title": "Minites 1",
@@ -395,6 +387,38 @@
       "file": "packages/premium__blok-2h__ub-2h-belajar-buat-remidi.json"
     },
     {
+      "id": "premium__blok-2i__minites-2i",
+      "tier": "premium",
+      "title": "Minites 2I",
+      "category": "Blok 2I",
+      "count": 20,
+      "file": "packages/premium__blok-2i__minites-2i.json"
+    },
+    {
+      "id": "premium__blok-2i__rekonstruksi-soal-rusak-latihan",
+      "tier": "premium",
+      "title": "Rekonstruksi Soal Rusak + Latihan",
+      "category": "Blok 2I",
+      "count": 17,
+      "file": "packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan.json"
+    },
+    {
+      "id": "premium__blok-2i__soal-soal-rusak",
+      "tier": "premium",
+      "title": "Soal-soal rusak",
+      "category": "Blok 2I",
+      "count": 9,
+      "file": "packages/premium__blok-2i__soal-soal-rusak.json"
+    },
+    {
+      "id": "premium__blok-2i__ub-2i",
+      "tier": "premium",
+      "title": "UB 2I",
+      "category": "Blok 2I",
+      "count": 92,
+      "file": "packages/premium__blok-2i__ub-2i.json"
+    },
+    {
       "id": "latihan-kk7__edukasi-mpasi",
       "tier": "reguler",
       "title": "Edukasi MPASI",
@@ -441,14 +465,6 @@
       "category": "Latihan KK7",
       "count": 25,
       "file": "packages/2h-sl-pungsi-lumbal__latihan-pretes-pungsi-lumbal.json"
-    },
-    {
-      "id": "premium__mri-brain-lobes__lobus-otak-sagittal",
-      "tier": "premium",
-      "title": "Lobus Otak - MRI Sagittal",
-      "category": "MRI Neuroanatomi",
-      "count": 15,
-      "file": "packages/premium__mri-brain-lobes__lobus-otak-sagittal.json"
     }
   ]
 }
