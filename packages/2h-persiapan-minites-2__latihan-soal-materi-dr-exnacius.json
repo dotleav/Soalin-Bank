@@ -556,11 +556,11 @@
       "options": {
         "A": "Nafas pendek dan jantung berdebar",
         "B": "Telapak tangan basah dan mulut kering",
-        "C": "Kedutan otot, otot tegang, dan tidak bisa diam",
+        "C": "Sulit berkonsentrasi dan sulit tidur",
         "D": "Mual, mencret, dan sering buang air kecil",
-        "E": "Sulit berkonsentrasi dan sulit tidur"
+        "E": "Kedutan otot, otot tegang, dan tidak bisa diam"
       },
-      "answer": "C",
+      "answer": "E",
       "explanation": "Ketegangan motorik meliputi kedutan otot atau gemetar, otot tegang atau pegal, tidak bisa diam, dan mudah lelah. Nafas pendek, telapak tangan basah, mulut kering, serta mual termasuk hiperaktivitas otonomik, sedangkan sulit berkonsentrasi dan sulit tidur termasuk kewaspadaan berlebihan.",
       "explanationImages": [],
       "isBroken": false
@@ -588,13 +588,13 @@
       "question": "Berikut yang termasuk faktor risiko gangguan jiwa dalam prevensi kesehatan jiwa adalah...",
       "questionImages": [],
       "options": {
-        "A": "Dukungan keluarga yang kuat",
-        "B": "Stres kronis dan konflik dalam keluarga",
+        "A": "Stres kronis dan konflik dalam keluarga",
+        "B": "Dukungan keluarga yang kuat",
         "C": "Relasi sosial yang positif",
         "D": "Coping yang adaptif",
         "E": "Akses layanan kesehatan yang mudah"
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "Faktor risiko meliputi trauma atau kekerasan, stres kronis, konflik keluarga, isolasi sosial, penggunaan zat, beban psikososial, dan kerentanan biologis. Pilihan lain adalah faktor protektif.",
       "explanationImages": [],
       "isBroken": false

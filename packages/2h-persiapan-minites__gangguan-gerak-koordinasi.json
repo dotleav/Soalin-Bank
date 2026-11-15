@@ -728,13 +728,13 @@
       "question": "Seorang laki-laki 68 tahun dengan parkinsonisme, gangguan pandangan vertikal, jatuh dini, dan retrokolis. Gambaran MRI khas kelainan ini adalah ...",
       "questionImages": [],
       "options": {
-        "A": "Absent swallow tail sign",
+        "A": "Hummingbird sign",
         "B": "Alien limb sign",
-        "C": "Hummingbird sign",
+        "C": "Absent swallow tail sign",
         "D": "Hot cross bun sign",
         "E": "Signet ring sign"
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "PSP (Richardson's syndrome) ditandai instabilitas postural dini, gangguan pandangan vertikal supranuklear, dan hummingbird sign. Hot cross bun sign khas MSA.",
       "explanationImages": [],
       "isBroken": false
@@ -779,13 +779,13 @@
       "question": "Seorang laki-laki 60 tahun didapati parkinsonisme setelah 2 minggu memakai haloperidol. Langkah tata laksana yang paling tepat adalah ...",
       "questionImages": [],
       "options": {
-        "A": "Menghentikan atau mengganti obat penyebab",
-        "B": "Menambah dosis haloperidol untuk mengatasi gejala",
+        "A": "Menambah dosis haloperidol untuk mengatasi gejala",
+        "B": "Menghentikan atau mengganti obat penyebab",
         "C": "Memberi injeksi botulinum pada otot yang kaku",
         "D": "Memulai levodopa dosis tinggi tanpa mengubah obat",
         "E": "Melakukan DBS sebagai terapi awal"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "Drug-induced parkinsonism (antipsikotik, antiemetik seperti metoklopramid) ditangani dengan menghentikan atau mengganti obat penyebab, bukan menaikkan dosis. ---CATATAN GAMBAR--- q21 → source-file: Prof_Rizaldy_Taslim_Pinzon_-_Nyeri PDF, q_dat2.png q22 → source-file: Prof_Rizaldy_Taslim_Pinzon_-_Nyeri PDF, q_hy.png",
       "explanationImages": [],
       "isBroken": false

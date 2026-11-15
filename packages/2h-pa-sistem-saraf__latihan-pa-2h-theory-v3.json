@@ -1116,12 +1116,12 @@
       "questionImages": [],
       "options": {
         "A": "Peningkatan produksi cairan serebrospinal",
-        "B": "Vasospasme pembuluh darah otak",
-        "C": "Desakan ruang oleh massa tumor",
+        "B": "Desakan ruang oleh massa tumor",
+        "C": "Vasospasme pembuluh darah otak",
         "D": "Hilangnya persepsi nyeri",
         "E": "Trombosis vena sinus"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "Herniasi intrakranial adalah akibat desakan ruang karena massa. Tumor fossa posterior juga dapat menimbulkan hidrosefalus, terutama pada anak.",
       "explanationImages": [],
       "isBroken": false

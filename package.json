@@ -5,8 +5,10 @@
   "type": "module",
   "scripts": {
     "add": "node scripts/add-package.js",
-    "import": "node scripts/import-local.js",
-    "manage": "node scripts/manage.js"
+    "manage": "node scripts/manage.js",
+    "balance": "node scripts/balance-answers.js",
+    "prune": "node scripts/prune-images.js",
+    "test": "node --test scripts/test/balance-answers.test.js scripts/test/docx-transforms.test.js scripts/test/prune-images.test.js"
   },
   "dependencies": {
     "mammoth": "^1.7.2",

@@ -563,12 +563,12 @@
       "questionImages": [],
       "options": {
         "A": "Terbentuk cincin putih di antara dua lapisan",
-        "B": "Tidak terlihat kekeruhan sama sekali",
-        "C": "Terlihat kekeruhan yang jelas",
+        "B": "Terlihat kekeruhan yang jelas",
+        "C": "Tidak terlihat kekeruhan sama sekali",
         "D": "Terlihat kekeruhan ringan yang segera menghilang",
         "E": "Warna berubah menjadi kuning"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "Interpretasi Pandy: negatif jika tidak ada kekeruhan atau hanya kekeruhan ringan; positif jika terlihat kekeruhan yang jelas.",
       "explanationImages": [],
       "isBroken": false

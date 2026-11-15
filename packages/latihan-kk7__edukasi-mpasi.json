@@ -850,8 +850,8 @@
       "question": "Bayi berusia 7 bulan baru mulai makan MP-ASI. Ibu bertanya bagaimana cara menaikkan jumlah makanan secara bertahap. Anjuran yang paling tepat adalah?",
       "questionImages": [],
       "options": {
-        "A": "Mulai dari 2-3 sendok makan, lalu ditingkatkan perlahan sesuai kemampuan anak",
-        "B": "Langsung memberi satu mangkuk penuh 250 ml sejak hari pertama",
+        "A": "Langsung memberi satu mangkuk penuh 250 ml sejak hari pertama",
+        "B": "Mulai dari 2-3 sendok makan, lalu ditingkatkan perlahan sesuai kemampuan anak",
         "C": "Memberi tiga perempat mangkuk sejak awal agar anak cepat tumbuh",
         "D": "Memberi makanan keluarga yang belum dicincang sejak awal",
         "E": "Menunda penambahan porsi sampai anak berusia 2 tahun"
@@ -863,7 +863,7 @@
         "D": "Keliru: tekstur pada usia 6-9 bulan adalah puree.",
         "E": "Keliru: porsi perlu ditingkatkan bertahap sesuai usia, bukan ditunda sampai 2 tahun."
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "",
       "explanationImages": [],
       "isBroken": false
@@ -903,8 +903,8 @@
         "A": "Menggantikan ASI sepenuhnya agar bayi tidak perlu menyusu lagi",
         "B": "Membuat bayi cepat berjalan dan berbicara sesuai tahapan usianya",
         "C": "Menambah berat badan secepat mungkin tanpa memperhatikan kebutuhan zat gizi",
-        "D": "Memenuhi kebutuhan gizi bayi yang tidak lagi tercukupi hanya dari ASI, sehingga membantu mencegah malnutrisi dan stunting",
-        "E": "Mengurangi frekuensi menyusu agar ibu lebih cepat pulih setelah melahirkan"
+        "D": "Mengurangi frekuensi menyusu agar ibu lebih cepat pulih setelah melahirkan",
+        "E": "Memenuhi kebutuhan gizi bayi yang tidak lagi tercukupi hanya dari ASI, sehingga membantu mencegah malnutrisi dan stunting"
       },
       "optionExplanations": {
         "A": "Keliru: MP-ASI melengkapi ASI, bukan menggantikannya.",
@@ -913,7 +913,7 @@
         "D": "Sesuai: setelah 6 bulan ASI saja tidak lagi mencukupi, dan MP-ASI membantu mencegah malnutrisi dan stunting.",
         "E": "Keliru: tujuan MP-ASI tidak dikaitkan dengan pemulihan ibu."
       },
-      "answer": "D",
+      "answer": "E",
       "explanation": "",
       "explanationImages": [],
       "isBroken": false

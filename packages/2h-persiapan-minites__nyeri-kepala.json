@@ -999,12 +999,12 @@
       "questionImages": [],
       "options": {
         "A": "Hanya riwayat alergi makanan dan obat sebelumnya pada sebagian besar kasus menurut sumber kuliah",
-        "B": "Hanya lokasi nyeri dan riwayat merokok pasien pada fase akut pada praktik klinis pada sebagian besar kasus",
+        "B": "Kualitas, distribusi, frekuensi, durasi, stresor, psikiatri, obat, trauma, sleep hygiene",
         "C": "Hanya riwayat keluarga dengan penyakit kanker pada praktik klinis pada sebagian besar kasus",
         "D": "Hanya jenis kelamin dan usia pasien saat ini menurut sumber kuliah pada pasien dewasa",
-        "E": "Kualitas, distribusi, frekuensi, durasi, stresor, psikiatri, obat, trauma, sleep hygiene"
+        "E": "Hanya lokasi nyeri dan riwayat merokok pasien pada fase akut pada praktik klinis pada sebagian besar kasus"
       },
-      "answer": "E",
+      "answer": "B",
       "explanation": "Anamnesis TTH: karakter, distribusi, frekuensi, durasi, keparahan, onset, riwayat medis, bedah, psikiatri, stresor, obat, trauma, sleep hygiene.",
       "explanationImages": [],
       "isBroken": false

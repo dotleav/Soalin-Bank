@@ -435,13 +435,13 @@
       "question": "Glomeruloid body pada glioblastoma terbentuk dari",
       "questionImages": [],
       "options": {
-        "A": "Proliferasi endotel yang padat membentuk struktur seperti bola",
-        "B": "Akumulasi kalsium konsentris di area sel meningotelial",
+        "A": "Akumulasi kalsium konsentris di area sel meningotelial",
+        "B": "Proliferasi endotel yang padat membentuk struktur seperti bola",
         "C": "Tonjolan sel glial ke dalam lumen vena",
         "D": "Tumpukan sel Schwann dalam stroma miksoid",
         "E": "Pemadatan kolagen di sekitar serabut saraf"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "Proliferasi endotel atau pembuluh darah pada glioblastoma tampak sebagai tonjolan endotel ke dalam lumen. Sebagian sel endotel yang berproliferasi padat membentuk struktur seperti bola yang disebut glomeruloid body. Gambaran ini bersama palisading dan nekrosis membantu mengenali glioblastoma.",
       "explanationImages": [],
       "isBroken": false

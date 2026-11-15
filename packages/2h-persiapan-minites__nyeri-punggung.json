@@ -696,13 +696,13 @@
       "question": "Faktor yang memperingan klaudikasio vaskulogenik adalah...",
       "questionImages": [],
       "options": {
-        "A": "Fleksi lumbal",
+        "A": "Berdiri diam",
         "B": "Duduk membungkuk",
         "C": "Berbaring miring",
         "D": "Berjalan menanjak",
-        "E": "Berdiri diam"
+        "E": "Fleksi lumbal"
       },
-      "answer": "E",
+      "answer": "A",
       "explanation": "Klaudikasio vaskulogenik membaik dengan berdiri (istirahat); jalan menanjak tetap nyeri. Neurogenik membaik saat duduk atau membungkuk.",
       "explanationImages": [],
       "isBroken": false

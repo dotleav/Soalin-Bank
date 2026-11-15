@@ -3850,8 +3850,8 @@
       "question": "Ibu hamil dengan diabetes melitus melahirkan bayi. Tatalaksana bayi yang paling tepat sesuai materi meliputi:",
       "questionImages": [],
       "options": {
-        "A": "Menyusui dini dan sering, paling tidak 8 kali sehari",
-        "B": "Pemberian susu formula penuh sejak hari pertama",
+        "A": "Pemberian susu formula penuh sejak hari pertama",
+        "B": "Menyusui dini dan sering, paling tidak 8 kali sehari",
         "C": "Pembatasan minum selama 48 jam",
         "D": "Pemberian cairan glukosa 50 persen rutin",
         "E": "Menunda pemeriksaan gula darah"
@@ -3863,7 +3863,7 @@
         "D": "Glukosa 50 persen rutin tidak menjadi tatalaksana standar.",
         "E": "Pemeriksaan gula darah penting dilakukan pada bayi dari ibu DM."
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "Bayi dari ibu DM berisiko gangguan maturitas paru dan hipoglikemia, sehingga menyusui dini dan sering dianjurkan.",
       "explanationImages": [],
       "isBroken": false
@@ -3948,9 +3948,9 @@
       "options": {
         "A": "Ikterus akibat hemolisis",
         "B": "Atresia bilier",
-        "C": "Ikterus akibat infeksi TORCH",
+        "C": "Breast milk jaundice",
         "D": "Ikterus akibat defisiensi G6PD",
-        "E": "Breast milk jaundice"
+        "E": "Ikterus akibat infeksi TORCH"
       },
       "optionExplanations": {
         "A": "Ikterus hemolisis disebabkan penghancuran eritrosit, bukan pemberian ASI adekuat.",
@@ -3959,7 +3959,7 @@
         "D": "Defisiensi G6PD adalah penyebab hemolitik, bukan ikterus ASI adekuat.",
         "E": "Breast milk jaundice terjadi pada bayi dengan pemberian ASI adekuat dan dapat berlangsung lama."
       },
-      "answer": "E",
+      "answer": "C",
       "explanation": "Breast milk jaundice terjadi pada bayi dengan pemberian ASI adekuat, dan pemberian ASI tetap dilanjutkan sesuai indikasi.",
       "explanationImages": [],
       "isBroken": false
@@ -3970,10 +3970,10 @@
       "question": "Bayi dengan kadar bilirubin yang sudah mencapai ambang terapi perlu tindakan cepat untuk menurunkan kadar bilirubin dan menghilangkan antibodi atau eritrosit yang rusak. Tindakan yang paling tepat adalah:",
       "questionImages": [],
       "options": {
-        "A": "Transfusi tukar, yaitu mengganti sebagian darah bayi dengan darah donor",
+        "A": "Pembatasan ASI selama 48 jam",
         "B": "Pemberian air glukosa saja",
         "C": "Pemberian paracetamol",
-        "D": "Pembatasan ASI selama 48 jam",
+        "D": "Transfusi tukar, yaitu mengganti sebagian darah bayi dengan darah donor",
         "E": "Observasi tanpa tindakan"
       },
       "optionExplanations": {
@@ -3983,7 +3983,7 @@
         "D": "Pembatasan ASI tidak dianjurkan dan tidak menurunkan bilirubin cepat.",
         "E": "Observasi saja tidak sesuai ketika ambang terapi sudah tercapai."
       },
-      "answer": "A",
+      "answer": "D",
       "explanation": "Transfusi tukar mengganti sebagian darah bayi dengan darah donor untuk menurunkan bilirubin secara cepat dan menghilangkan antibodi.",
       "explanationImages": [],
       "isBroken": false

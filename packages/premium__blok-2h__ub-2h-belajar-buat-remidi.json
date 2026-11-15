@@ -1301,13 +1301,13 @@
       "questionImages": [],
       "options": {
         "A": "Haloperidol",
-        "B": "Alprazolam (golongan benzodiazepin)",
+        "B": "Klorpromazin",
         "C": "Litium",
         "D": "Karbamazepin",
-        "E": "Klorpromazin"
+        "E": "Alprazolam (golongan benzodiazepin)"
       },
       "optionExplanations": {},
-      "answer": "B",
+      "answer": "E",
       "explanation": "Sebagai lini terapi meredakan gejala (symptomatic relief) yang cepat pada gangguan cemas atau serangan panik akut, obat golongan anti-anxietas (anxiolitik) seperti derivat Benzodiazepin (misalnya Alprazolam, Diazepam, Lorazepam) adalah pilihan utama. Sebagai perbandingan, haloperidol dan klorpromazin adalah antipsikotik (skizofrenia), litium untuk bipolar, dan karbamazepin untuk anti-epilepsi. ",
       "explanationImages": [
         "images/packages/premium__blok-2h__ub-2h-belajar-buat-remidi/img-074.png"
@@ -1341,13 +1341,13 @@
       "questionImages": [],
       "options": {
         "A": "Bentuk bulan sabit (crescent) yang dapat melewati garis sutura",
-        "B": "Bentuk bikonveks/lentikular (menyerupai lensa) yang tidak melewati garis sutura",
+        "B": "Kalsifikasi berbentuk cincin",
         "C": "Gambaran hipodens difus di ventrikel",
         "D": "Gambaran perdarahan subarachnoid di sulkus",
-        "E": "Kalsifikasi berbentuk cincin"
+        "E": "Bentuk bikonveks/lentikular (menyerupai lensa) yang tidak melewati garis sutura"
       },
       "optionExplanations": {},
-      "answer": "B",
+      "answer": "E",
       "explanation": "Perdarahan epidural (EDH) umumnya disebabkan oleh robekan arteri meningea media pasca-trauma akibat benturan/fraktur pada tengkorak. Karena perdarahan menumpuk dengan cepat di atas selaput duramater, ia akan menekan jaringan otak ke arah dalam, namun darah itu tak dapat meluas melebihi titik pelekatan erat antara duramater dan tulang (garis sutura). Hasilnya, darah menggembung menyerupai lensa cembung dua sisi (bikonveks atau lenticular). ",
       "explanationImages": [
         "images/packages/premium__blok-2h__ub-2h-belajar-buat-remidi/img-076.png"
@@ -1381,13 +1381,13 @@
       "questionImages": [],
       "options": {
         "A": "Pemberian insulin",
-        "B": "Koreksi kadar gula darah segera dengan dekstrosa intravena",
+        "B": "Observasi tanpa intervensi",
         "C": "Pemberian antikonvulsan profilaksis rutin",
         "D": "Pungsi lumbal segera",
-        "E": "Observasi tanpa intervensi"
+        "E": "Koreksi kadar gula darah segera dengan dekstrosa intravena"
       },
       "optionExplanations": {},
-      "answer": "B",
+      "answer": "E",
       "explanation": "Ensefalopati hipoglikemia terjadi ketika glukosa otak—sebagai bahan bakar utamanya—anjlok parah, yang termanifestasi sebagai kebingungan, letargi, koma, hingga kejang. Tindakan penyelamatan (life-saving) yang paling kritis dan harus dilakukan dalam hitungan detik/menit tanpa menunggu adalah pemberian bolus cairan glukosa/dekstrosa konsentrasi tinggi via intravena (seperti D40% atau D50%) untuk mengembalikan suplai energi neuron dengan instan.",
       "explanationImages": [],
       "isBroken": false
@@ -1419,13 +1419,13 @@
       "questionImages": [],
       "options": {
         "A": "Neuralgia trigeminal",
-        "B": "Nyeri myofascial (myofascial pain syndrome)",
+        "B": "Radikulopati",
         "C": "Fibromyalgia sistemik",
         "D": "Neuropati perifer",
-        "E": "Radikulopati"
+        "E": "Nyeri myofascial (myofascial pain syndrome)"
       },
       "optionExplanations": {},
-      "answer": "B",
+      "answer": "E",
       "explanation": "Sindrom nyeri myofascial didefinisikan sebagai nyeri otot kronis lokal/regional yang bersifat referal, disebabkan oleh kontraktur mikroskopis pada serat otot. Tanda fisik klinis utamanya (hallmark) adalah jika dipalpasi/disentuh, akan terasa benjolan keras di dalam serabut otot yang memanjang kencang ibarat dawai gitar (dikenal sebagai taut band) yang melingkupi titik picu (trigger point). ",
       "explanationImages": [
         "images/packages/premium__blok-2h__ub-2h-belajar-buat-remidi/img-079.png"
@@ -1438,14 +1438,14 @@
       "question": "Golongan obat yang termasuk obat vertigo adalah:",
       "questionImages": [],
       "options": {
-        "A": "Amlodipin",
-        "B": "Betahistine",
+        "A": "Betahistine",
+        "B": "Amlodipin",
         "C": "Ketorolac",
         "D": "Domperidon (hanya simtomatik mual)",
         "E": "Furosemide"
       },
       "optionExplanations": {},
-      "answer": "B",
+      "answer": "A",
       "explanation": "Vertigo vestibular umumnya diatasi dengan obat golongan vestibular suppressant atau antivertigo spesifik. Betahistine (analog histamin) adalah obat yang secara luas digunakan untuk terapi spesifik vertigo perifer (terutama Penyakit Meniere) karena bekerja melalui reseptor H1 dan H3 untuk meningkatkan aliran darah kapiler serta memperbaiki fungsi mikrosirkulasi di telinga dalam. ",
       "explanationImages": [
         "images/packages/premium__blok-2h__ub-2h-belajar-buat-remidi/img-080.png"
@@ -1459,13 +1459,13 @@
       "questionImages": [],
       "options": {
         "A": "Tes Patrick",
-        "B": "Straight Leg Raise (tes Lasègue)",
+        "B": "Tes Kernig",
         "C": "Tes Phalen",
         "D": "Tes Spurling",
-        "E": "Tes Kernig"
+        "E": "Straight Leg Raise (tes Lasègue)"
       },
       "optionExplanations": {},
-      "answer": "B",
+      "answer": "E",
       "explanation": "Tes provokasi saraf skiatika (penyebab LBP akibat saraf terjepit pada L4-S1) dilakukan dengan pasien telentang, kaki tidak ditekuk (lurus), lalu pinggul diangkat (fleksi) perlahan secara pasif oleh dokter. Ini disebut manuver Straight Leg Raise (SLR) atau lebih dikenal dengan nama eponim Tes Lasègue. Dinyatakan positif apabila nyeri tersetrum muncul dan menjalar ke bawah pantat pada elevasi sudut kaki 30–70 derajat. ",
       "explanationImages": [
         "images/packages/premium__blok-2h__ub-2h-belajar-buat-remidi/img-081.jpeg"
@@ -1478,14 +1478,14 @@
       "question": "Ketidakmampuan mengenali benda yang dilihat meskipun fungsi penglihatan dasar baik, disebut:",
       "questionImages": [],
       "options": {
-        "A": "Buta kortikal",
-        "B": "Agnosia visual",
+        "A": "Agnosia visual",
+        "B": "Buta kortikal",
         "C": "Apraksia",
         "D": "Prosopagnosia (subtipe khusus)",
         "E": "Neglect visual"
       },
       "optionExplanations": {},
-      "answer": "B",
+      "answer": "A",
       "explanation": "Sindrom ketidakmampuan otak menginterpretasi atau memaknai rangsang sensoris murni disebut Agnosia. Agnosia secara spesifik untuk organ mata disebut Agnosia Visual. Pasien tidak buta, retina bekerja baik (dapat melihat bentuk, garis, warna objek secara terisolasi), namun otak di area asosiasi oksipito-temporal gagal menyatukan potongan visual tersebut untuk \"mengenali\" identitas asli barang di depannya.",
       "explanationImages": [],
       "isBroken": false
@@ -1579,12 +1579,12 @@
       "options": {
         "A": "Tremor",
         "B": "Tic",
-        "C": "Chorea",
+        "C": "Mioklonus",
         "D": "Distonia",
-        "E": "Mioklonus"
+        "E": "Chorea"
       },
       "optionExplanations": {},
-      "answer": "C",
+      "answer": "E",
       "explanation": "Deskripsi gerakan di luar kendali yang mengalir tak teratur, tidak ritmis, sangat asimetris berpindah secara zig-zag/acak di sekujur tubuh (dari bahu, pindah ke jari tangan, lalu pindah melempar tungkai), dan penderitanya seolah-olah terlihat \"menari\" secara kasar (dance-like movement), secara definisi terminologi disimpulkan sebagai gerak Chorea (dari bahasa Yunani: Khoreia, tari-tarian; seperti pada Huntington chorea).  ",
       "explanationImages": [
         "images/packages/premium__blok-2h__ub-2h-belajar-buat-remidi/img-088.png",
@@ -1619,12 +1619,12 @@
       "options": {
         "A": "Pembentukan plak fibrosa matang",
         "B": "Kalsifikasi dinding pembuluh darah",
-        "C": "Fatty streak (garis lemak) akibat akumulasi sel busa/foam cell",
+        "C": "Trombosis oklusif total",
         "D": "Ruptur plak",
-        "E": "Trombosis oklusif total"
+        "E": "Fatty streak (garis lemak) akibat akumulasi sel busa/foam cell"
       },
       "optionExplanations": {},
-      "answer": "C",
+      "answer": "E",
       "explanation": "Secara mikropatogenesis, awal mula kerusakan/timbunan kerak pada pembuluh darah (aterosklerosis) dimulai ketika lapisan endotel pembuluh rusak, lalu lipid LDL tersusup ke lapisan intima, teroksidasi, lalu dicerna oleh makrofag menjadi sel busa (foam cells). Kelompok makrofag-lemak yang terkumpul ini akan terihat sebagai bercak/garis kuning di dalam arteri, yang secara klinis disebut Garis lemak (Fatty Streak). Ini adalah lesi pelopor pembentukan kerak patologis (plaque).",
       "explanationImages": [],
       "isBroken": false
@@ -1636,13 +1636,13 @@
       "questionImages": [],
       "options": {
         "A": "Pernapasan Cheyne-Stokes",
-        "B": "Pernapasan apneustik",
+        "B": "Pernapasan ataksik",
         "C": "Pernapasan Kussmaul",
         "D": "Pernapasan Biot",
-        "E": "Pernapasan ataksik"
+        "E": "Pernapasan apneustik"
       },
       "optionExplanations": {},
-      "answer": "B",
+      "answer": "E",
       "explanation": "PENJELASAN AI - Otak tengah mengontrol variasi pernapasan. Lesi otak bilateral (diensefalon) menyebabkan Cheyne-stokes, Medula memicu pola Ataksik (Biot). Apabila terjadi kerusakan yang spesifik berada di tingkat kaudal Pons dan menekan pusat apneustik pontin, akan muncul pola pernapasan henti-tarik napas/spasme, yaitu inspirasi maksimal panjang melengking diakhiri jeda menahan napas yang panjang seakan \"terkunci\" (Pernapasan Apneustik). PENJELASAN TAMBAHAN - Ini dari tutorial (atau kulpak tahun lalu tapi ya udah kita pake yang ada aja buat belajar) ",
       "explanationImages": [
         "images/packages/premium__blok-2h__ub-2h-belajar-buat-remidi/img-093.png"
@@ -1657,12 +1657,12 @@
       "options": {
         "A": "Kulit",
         "B": "Otot rangka",
-        "C": "Intestinum (usus)",
+        "C": "Tulang",
         "D": "Sendi",
-        "E": "Tulang"
+        "E": "Intestinum (usus)"
       },
       "optionExplanations": {},
-      "answer": "C",
+      "answer": "E",
       "explanation": "Organ dalam berrongga di abdomen/toraks (yang terlapisi viseral/pleura) yang tidak terlalu spesifik distribusinya seperti Usus (Intestinum), lambung, hepar, maupun rahim dimasukkan dalam kategori penyalur sensasi reseptor nyeri Visceral. Ciri khas nyeri ini biasanya kolik, terasa mual, tidak terlokalisasi jelas, pegal menyebar (referred/dull). Adapun komponen Muskuloskeletal-Kutanous merupakan somatik.",
       "explanationImages": [],
       "isBroken": false
@@ -1673,14 +1673,14 @@
       "question": "Seorang pasien mengalami kelemahan separuh badan (hemiparesis) yang berlangsung kurang dari 1 jam dan menghilang sepenuhnya, dengan hasil CT scan kepala normal. Diagnosis yang paling sesuai adalah:",
       "questionImages": [],
       "options": {
-        "A": "Stroke iskemik",
+        "A": "Transient Ischemic Attack",
         "B": "Stroke hemoragik",
-        "C": "Transient Ischemic Attack",
+        "C": "Stroke iskemik",
         "D": "Kejang fokal dengan paralisis Todd",
         "E": "Migren hemiplegik"
       },
       "optionExplanations": {},
-      "answer": "C",
+      "answer": "A",
       "explanation": "Definisi klasik (lama) dari TIA adalah gangguan/defisit persarafan serebral akibat kurang pasokan darah (iskemik) yang sepenuhnya membaik memutar balik normal tanpa sisa dalam durasi 24 jam. Namun menurut pedoman modern AHA/ASA dan klinis praktis, attack tersebut umumnya berakhir pulih sempurna dalam hitungan menit/jam (khususnya <1 jam) dan sama sekali tidak nampak bukti kerusakan/infark jaringan permanen secara objektif melalui pencitraan (CT/MRI normal). PENJELASAN TAMBAHAN - TIA CT scan nya normal, Stroke Iskemik CT SCAN nya ada infark (hipodens/jadi gelap) sumbernya belajar sendiri boss.🙏   ",
       "explanationImages": [
         "images/packages/premium__blok-2h__ub-2h-belajar-buat-remidi/img-095.png",
@@ -1716,13 +1716,13 @@
       "questionImages": [],
       "options": {
         "A": "Asam valproat",
-        "B": "Fenitoin",
+        "B": "Vigabatrin",
         "C": "Etosuksimid",
-        "D": "Vigabatrin",
+        "D": "Fenitoin",
         "E": "Klonazepam"
       },
       "optionExplanations": {},
-      "answer": "B",
+      "answer": "D",
       "explanation": "Pasien yang menderita cedera Trauma Brain Injury (TBI)/gegar otak berat rentan menderita serangan kejang (Post-traumatic Seizure) pada tujuh hari awal akut yang sangat merusak. Sesuai guideline Brain Trauma Foundation, secara klasik infus obat Fenitoin diberikan untuk menstabilkan jaringan luka ini dan melindungi otak guna profilaksis di minggu pertama. Seiring kemajuan medis, banyak center kini menggunakan Levetiracetam sebagai standar lini utama menggantikan fenitoin.",
       "explanationImages": [],
       "isBroken": false
@@ -1735,9 +1735,9 @@
       "options": {
         "A": "Nyeri nosiseptif",
         "B": "Nyeri inflamasi",
-        "C": "Nyeri neuropatik",
+        "C": "Nyeri campuran",
         "D": "Nyeri nosiplastik",
-        "E": "Nyeri campuran"
+        "E": "Nyeri neuropatik"
       },
       "optionExplanations": {
         "A": "Nyeri nosiseptif berasal dari aktivasi reseptor nyeri akibat kerusakan jaringan, bukan kerusakan saraf langsung.",
@@ -1746,7 +1746,7 @@
         "D": "Nyeri nosiplastik tidak disertai kerusakan jaringan atau lesi saraf yang jelas, sehingga tidak sesuai dengan herpes zoster.",
         "E": "Nyeri campuran tidak sesuai, karena gambaran herpes zoster termasuk nyeri neuropatik murni."
       },
-      "answer": "C",
+      "answer": "E",
       "explanation": "Nyeri neuropatik akibat lesi saraf; herpes zoster (reaktivasi VZV di ganglion dorsal) adalah contoh klasik.  ",
       "explanationImages": [
         "images/packages/premium__blok-2h__ub-2h-belajar-buat-remidi/img-100.png",
@@ -1810,9 +1810,9 @@
       "question": "Seorang pasien stroke iskemik datang 2 jam setelah onset, dan CT scan kepala tidak menunjukkan perdarahan. Terapi reperfusi yang diberikan adalah?",
       "questionImages": [],
       "options": {
-        "A": "Antikoagulan oral jangka panjang",
+        "A": "Trombolisis intravena",
         "B": "Mannitol",
-        "C": "Trombolisis intravena",
+        "C": "Antikoagulan oral jangka panjang",
         "D": "Kraniektomi dekompresi",
         "E": "Observasi tanpa terapi"
       },
@@ -1823,7 +1823,7 @@
         "D": "Kraniektomi dekompresi dilakukan pada edema serebri masif, bukan terapi reperfusi.",
         "E": "Pasien dalam jendela trombolisis tidak cukup hanya diobservasi tanpa terapi."
       },
-      "answer": "C",
+      "answer": "A",
       "explanation": "Onset 2 jam berada dalam jendela 4,5 jam; CT tanpa perdarahan menjadi syarat trombolisis.  ",
       "explanationImages": [
         "images/packages/premium__blok-2h__ub-2h-belajar-buat-remidi/img-103.png",
@@ -1838,9 +1838,9 @@
       "questionImages": [],
       "options": {
         "A": "< 4,5 jam",
-        "B": "< 6 jam",
+        "B": "< 12 jam",
         "C": "< 3 jam",
-        "D": "< 12 jam",
+        "D": "< 6 jam",
         "E": "< 48 jam"
       },
       "optionExplanations": {
@@ -1850,7 +1850,7 @@
         "D": "12 jam di luar jendela standar; perluasan hingga 24 jam hanya pada pasien terpilih dengan pencitraan penumbra.",
         "E": "48 jam tidak sesuai dengan jendela manapun untuk trombektomi."
       },
-      "answer": "B",
+      "answer": "D",
       "explanation": "Jendela standar trombektomi 6 jam; perluasan hingga 24 jam pada pasien terpilih dengan pencitraan. ",
       "explanationImages": [
         "images/packages/premium__blok-2h__ub-2h-belajar-buat-remidi/img-105.png"
@@ -1865,9 +1865,9 @@
       "options": {
         "A": "Stroke iskemik",
         "B": "Stroke hemoragik",
-        "C": "Transient ischemic attack (TIA)",
+        "C": "Epilepsi fokal",
         "D": "Migren dengan aura",
-        "E": "Epilepsi fokal"
+        "E": "Transient ischemic attack (TIA)"
       },
       "optionExplanations": {
         "A": "Stroke iskemik menetap atau tampak infark pada pencitraan; kasus ini pulih sempurna dalam kurang dari 1 jam.",
@@ -1876,7 +1876,7 @@
         "D": "Migren dengan aura biasanya disertai nyeri kepala dan gejala visual, bukan defisit motorik pulih cepat.",
         "E": "Epilepsi fokal biasanya disertai gerakan kejang atau gangguan kesadaran, bukan defisit motorik pulih sempurna."
       },
-      "answer": "C",
+      "answer": "E",
       "explanation": "TIA adalah defisit fokal akut yang pulih sempurna, umumnya kurang dari 1 jam, dengan CT normal. ",
       "explanationImages": [
         "images/packages/premium__blok-2h__ub-2h-belajar-buat-remidi/img-106.png"
@@ -1889,8 +1889,8 @@
       "question": "Manakah yang merupakan tahap awal terjadinya aterosklerosis?",
       "questionImages": [],
       "options": {
-        "A": "Pembentukan plak fibrosa",
-        "B": "Akumulasi lipoprotein endotel",
+        "A": "Akumulasi lipoprotein endotel",
+        "B": "Pembentukan plak fibrosa",
         "C": "Kalsifikasi plak",
         "D": "Ruptur plak",
         "E": "Trombosis oklusif"
@@ -1902,7 +1902,7 @@
         "D": "Ruptur plak adalah komplikasi akut, bukan tahap awal.",
         "E": "Trombosis oklusif adalah komplikasi lanjut akibat ruptur plak."
       },
-      "answer": "B",
+      "answer": "A",
       "explanation": "Disfungsi endotel dan akumulasi lipoprotein memulai proses aterosklerosis.  ",
       "explanationImages": [
         "images/packages/premium__blok-2h__ub-2h-belajar-buat-remidi/img-107.png",
@@ -2048,10 +2048,10 @@
       "questionImages": [],
       "options": {
         "A": "Sertraline",
-        "B": "Alprazolam",
+        "B": "Quetiapine",
         "C": "Haloperidol",
         "D": "Buspiron",
-        "E": "Quetiapine"
+        "E": "Alprazolam"
       },
       "optionExplanations": {
         "A": "Sertralin (SSRI) efektif untuk gangguan cemas kronis, tetapi bukan anxiolitik yang paling sering digunakan untuk cemas akut.",
@@ -2060,7 +2060,7 @@
         "D": "Buspiron adalah anxiolitik nonbenzodiazepin, tetapi jarang dipilih sebagai terapi pertama untuk cemas akut.",
         "E": "Quetiapine adalah antipsikotik atipikal, bukan anxiolitik utama."
       },
-      "answer": "B",
+      "answer": "E",
       "explanation": "Benzodiazepin banyak digunakan untuk cemas akut, tetapi berisiko ketergantungan. ",
       "explanationImages": [
         "images/packages/premium__blok-2h__ub-2h-belajar-buat-remidi/img-115.png"
@@ -2123,8 +2123,8 @@
       "options": {
         "A": "PTA anterograd, GOAT normal",
         "B": "PTA anterograd, GOAT borderline",
-        "C": "PTA anterograd GOAT impaired",
-        "D": "PTA retrograde, GOAT borderline",
+        "C": "PTA retrograde, GOAT borderline",
+        "D": "PTA anterograd GOAT impaired",
         "E": "PTA retrograde, GOAT impaired"
       },
       "optionExplanations": {
@@ -2134,7 +2134,7 @@
         "D": "Amnesia retrograd tidak sesuai, karena pasien tidak dapat mengingat kejadian setelah kecelakaan.",
         "E": "Retrograd tidak sesuai dengan gejala pada kasus ini."
       },
-      "answer": "C",
+      "answer": "D",
       "explanation": "GOAT: 76 atau lebih normal, 75–76 borderline, kurang dari 75 impaired. PTA anterograd adalah ketidakmampuan mengingat peristiwa setelah cedera.  ",
       "explanationImages": [
         "images/packages/premium__blok-2h__ub-2h-belajar-buat-remidi/img-116.png",
@@ -2275,10 +2275,10 @@
       "questionImages": [],
       "options": {
         "A": "S1",
-        "B": "L4",
+        "B": "L3",
         "C": "L5",
         "D": "T12",
-        "E": "L3"
+        "E": "L4"
       },
       "optionExplanations": {
         "A": "S1 terkait refleks achilles dan tungkai bawah, bukan refleks patella, dan ada radikulopati lumbal.",
@@ -2287,7 +2287,7 @@
         "D": "Segmen T12 tidak menginervasi refleks patela",
         "E": "L3 juga berperan pada refleks patela, namun tidak radikulopati lumbal. Maksudnya lumbal dari belakang pinggang, L3 Radikulopati nya dari paha, bukan pinggang"
       },
-      "answer": "B",
+      "answer": "E",
       "explanation": "Refleks patela dipersarafi L3–L4; radikulopati lumbal paling sering L4 dan L5.  ",
       "explanationImages": [
         "images/packages/premium__blok-2h__ub-2h-belajar-buat-remidi/img-121.png",
@@ -2302,9 +2302,9 @@
       "questionImages": [],
       "options": {
         "A": "Nukleus Kaudatus",
-        "B": "Striatum",
+        "B": "Serebelum",
         "C": "Substansia nigra",
-        "D": "Serebelum",
+        "D": "Striatum",
         "E": "Talamus"
       },
       "optionExplanations": {
@@ -2314,7 +2314,7 @@
         "D": "Serebelum berkaitan dengan ataksia dan tremor intensi, bukan gerakan involunter khas khorea.",
         "E": "Talamus berkaitan dengan gangguan sensorik, bukan lokasi lesi khas khorea."
       },
-      "answer": "B",
+      "answer": "D",
       "explanation": "Khorea berkaitan dengan lesi di striatum (nukleus kaudatus dan putamen).",
       "explanationImages": [],
       "isBroken": false
@@ -2350,10 +2350,10 @@
       "questionImages": [],
       "options": {
         "A": "Depresi postpartum",
-        "B": "Phsycosis postpartum",
+        "B": "Gangguan bipolar",
         "C": "Schizoprenia",
         "D": "Baby blues",
-        "E": "Gangguan bipolar"
+        "E": "Phsycosis postpartum"
       },
       "optionExplanations": {
         "A": "Depresi postpartum tidak disertai gejala psikotik seperti dorongan membunuh anak.",
@@ -2362,7 +2362,7 @@
         "D": "Baby blues bersifat ringan dan sementara, tanpa gejala psikotik.",
         "E": "Gangguan bipolar dapat muncul pasca persalinan, tetapi tidak menjelaskan gejala psikotik dan dorongan membunuh anak secara khas."
       },
-      "answer": "B",
+      "answer": "E",
       "explanation": "Psikosis postpartum adalah kondisi darurat psikiatri dengan risiko membahayakan bayi dan diri sendiri.",
       "explanationImages": [],
       "isBroken": false
@@ -2374,9 +2374,9 @@
       "questionImages": [],
       "options": {
         "A": "Unprovoked Seizure",
-        "B": "Provoked",
+        "B": "Kejang fokal",
         "C": "Kejang demam",
-        "D": "Kejang fokal",
+        "D": "Provoked",
         "E": "Kejang absens"
       },
       "optionExplanations": {
@@ -2386,7 +2386,7 @@
         "D": "Kejang fokal tidak dijelaskan oleh pencetus pada kasus.",
         "E": "Kejang absens ditandai hilang kesadaran singkat tanpa kejang, tidak sesuai dengan kasus."
       },
-      "answer": "B",
+      "answer": "D",
       "explanation": "Kurang tidur dan stres merupakan pencetus kejang provoked.",
       "explanationImages": [],
       "isBroken": false
@@ -2398,10 +2398,10 @@
       "questionImages": [],
       "options": {
         "A": "Palsy Pleksus Brachialis",
-        "B": "Erb - Duchenne Palsy (c5-6)",
+        "B": "Klumpke - Dejerine Palsy (C5-6)",
         "C": "Klumpke - Dejerine Palsy (C8-T1)",
         "D": "Erb - Duchenne Palsy (C7-8)",
-        "E": "Klumpke - Dejerine Palsy (C5-6)"
+        "E": "Erb - Duchenne Palsy (c5-6)"
       },
       "optionExplanations": {
         "A": "Palsi pleksus brakialis adalah diagnosis umum, tetapi tidak menjelaskan akar saraf dan pola kelumpuhan yang khas.",
@@ -2410,7 +2410,7 @@
         "D": "Erb-Duchenne mengenai C5–C6, sehingga segmen C7–C8 pada pilihan ini tidak sesuai.",
         "E": "Klumpke mengenai C8–T1, bukan C5–C6; pilihan ini tidak sesuai dengan kasus."
       },
-      "answer": "B",
+      "answer": "E",
       "explanation": "Erb-Duchenne mengenai C5–C6, klasik pada cedera pleksus brakialis saat persalinan.    ",
       "explanationImages": [
         "images/packages/premium__blok-2h__ub-2h-belajar-buat-remidi/img-129.png",
@@ -2479,11 +2479,11 @@
       "question": "Seorang perempuan mengeluh dalam 2 minggu terakhir nafsu makannya menurun, merasa sedih, dan mengurung diri. Pasien sudah memiliki rencana untuk bunuh diri. Beberapa bulan lalu, pasien sempat banyak berbicara. Apa diagnosisnya?",
       "questionImages": [],
       "options": {
-        "A": "Depresi berat",
+        "A": "Distimia",
         "B": "Bipolar tipe 1",
         "C": "Manik",
         "D": "Skizofrenia",
-        "E": "Distimia"
+        "E": "Depresi berat"
       },
       "optionExplanations": {
         "A": "Depresi berat sesuai gejala depresi dengan ide bunuh diri; riwayat banyak bicara belum memenuhi kriteria episode manik.",
@@ -2492,7 +2492,7 @@
         "D": "Skizofrenia ditandai psikosis dengan durasi minimal 6 bulan, tidak tampak pada kasus.",
         "E": "Distimia ditandai depresi ringan kronis minimal 2 tahun, tidak sesuai dengan onset 2 minggu."
       },
-      "answer": "A",
+      "answer": "E",
       "explanation": "Gejala depresi dengan ide bunuh diri; riwayat banyak bicara perlu dinilai lebih lanjut untuk menyingkirkan gangguan bipolar.   ",
       "explanationImages": [
         "images/packages/premium__blok-2h__ub-2h-belajar-buat-remidi/img-137.png",
@@ -2508,9 +2508,9 @@
       "questionImages": [],
       "options": {
         "A": "Diberikan obat antidepresan",
-        "B": "Dirawat ruang inap",
+        "B": "Dipulangkan dengan kontrol rutin",
         "C": "Psikoterapi rawat jalan saja",
-        "D": "Dipulangkan dengan kontrol rutin",
+        "D": "Dirawat ruang inap",
         "E": "Benzodiazepin dosis tinggi"
       },
       "optionExplanations": {
@@ -2520,7 +2520,7 @@
         "D": "Memulangkan pasien tanpa pengawasan berisiko tinggi dan tidak sesuai.",
         "E": "Benzodiazepin dosis tinggi berisiko overdosis dan tidak menjadi tatalaksana utama."
       },
-      "answer": "B",
+      "answer": "D",
       "explanation": "Pasien dengan keinginan bunuh diri disertai rencana perlu perawatan rawat inap untuk keselamatan.",
       "explanationImages": [],
       "isBroken": false
@@ -2531,11 +2531,11 @@
       "question": "Pasien sering meragukan loyalitas atau kejujuran teman dan rekan kerja, mendendam setiap ada kritik, dan curiga tanpa bukti yang jelas. Termasuk gangguan apa?",
       "questionImages": [],
       "options": {
-        "A": "Paranoid",
+        "A": "Gangguan kepribadian antisosial",
         "B": "Skizoid",
         "C": "Dependen",
         "D": "Obsesif Komplusif",
-        "E": "Gangguan kepribadian antisosial"
+        "E": "Paranoid"
       },
       "optionExplanations": {
         "A": "Gangguan kepribadian paranoid ditandai ketidakpercayaan dan kecurigaan pervasif tanpa bukti, serta mendendam kritik.",
@@ -2544,7 +2544,7 @@
         "D": "Gangguan obsesif kompulsif ditandai pikiran intrusif dan ritual, bukan kecurigaan terhadap orang lain.",
         "E": "Gangguan kepribadian antisosial ditandai pelanggaran hak orang lain, bukan kecurigaan pervasif."
       },
-      "answer": "A",
+      "answer": "E",
       "explanation": "Gangguan kepribadian paranoid ditandai ketidakpercayaan pervasif tanpa bukti yang jelas.     ",
       "explanationImages": [
         "images/packages/premium__blok-2h__ub-2h-belajar-buat-remidi/img-141.png",
@@ -2562,9 +2562,9 @@
       "questionImages": [],
       "options": {
         "A": "nucleus subthalamicus",
-        "B": "striatum",
+        "B": "Serebelum",
         "C": "putamen",
-        "D": "Serebelum",
+        "D": "striatum",
         "E": "Substansia nigra"
       },
       "optionExplanations": {
@@ -2574,7 +2574,7 @@
         "D": "Serebelum berkaitan dengan ataksia, bukan gerakan involunter khas khorea pasca-infeksi.",
         "E": "Substansia nigra berkaitan dengan parkinsonisme dan bradikinesia, bukan gerakan menari."
       },
-      "answer": "B",
+      "answer": "D",
       "explanation": "Khorea Sydenham muncul setelah infeksi streptokokus, dengan lesi di striatum.",
       "explanationImages": [],
       "isBroken": false
@@ -2585,11 +2585,11 @@
       "question": "Seseorang tertusuk paku. Stimulus noksius diubah menjadi impuls listrik pada ujung nosiseptor perifer, lalu dihantarkan melalui serabut C ke kornu dorsalis, dan naik melalui traktus spinotalamikus. Proses nyeri apa saja yang terjadi?",
       "questionImages": [],
       "options": {
-        "A": "Transduksi dan Transmisi",
+        "A": "Transmisi dan Persepsi",
         "B": "Persepsi dan Modulasi",
         "C": "Transmisi dan Modulasi",
         "D": "Persepsi dan Transduksi",
-        "E": "Transmisi dan Persepsi"
+        "E": "Transduksi dan Transmisi"
       },
       "optionExplanations": {
         "A": "Transduksi adalah konversi stimulus noksius menjadi impuls listrik di nosiseptor, dan transmisi adalah penghantaran melalui serabut C dan traktus spinotalamikus; keduanya sesuai soal.",
@@ -2598,7 +2598,7 @@
         "D": "Persepsi terjadi di korteks, tidak sesuai dengan proses yang ditanyakan.",
         "E": "Persepsi tidak sesuai dengan proses yang ditanyakan."
       },
-      "answer": "A",
+      "answer": "E",
       "explanation": "Nosiseptif: transduksi di nosiseptor perifer, lalu transmisi melalui serabut C, kornu dorsalis, dan traktus spinotalamikus.",
       "explanationImages": [],
       "isBroken": false
@@ -2629,10 +2629,10 @@
       "question": "Pasien datang dengan penurunan gerak yang memburuk pada sore hari. Pemeriksaan menunjukkan kelemahan flaccid tanpa spastisitas. Dua minggu sebelumnya, pasien mengalami demam atau infeksi. Diagnosis dan terapi lini pertama yang paling tepat adalah:",
       "questionImages": [],
       "options": {
-        "A": "Myasthenia Gravis; Pyridostigmin",
+        "A": "Myasthenia Gravis; Timektomi",
         "B": "Myasthenia Gravis; Prednison",
         "C": "Myasthenia Gravis; Plasmaferesis",
-        "D": "Myasthenia Gravis; Timektomi",
+        "D": "Myasthenia Gravis; Pyridostigmin",
         "E": "Amyotrophic Lateral Sclerosis; Riluzole"
       },
       "optionExplanations": {
@@ -2642,7 +2642,7 @@
         "D": "Salah. Indikasi utamanya timoma atau MG generalisata tertentu, bukan terapi awal pada kasus ini.",
         "E": "Salah. ALS disertai tanda upper motor neuron seperti spastisitas dan hiperrefleksia, sedangkan pada kasus ini kelemahan flaccid tanpa spastisitas."
       },
-      "answer": "A",
+      "answer": "D",
       "explanation": "Kelemahan flaccid tanpa spastisitas menunjukkan kelainan lower motor neuron atau neuromuskular. Infeksi sebelumnya merupakan faktor pencetus MG. GBS juga mungkin dipikirkan, tetapi biasanya progresif ascending dengan arefleksia.  ",
       "explanationImages": [
         "images/packages/premium__blok-2h__ub-2h-belajar-buat-remidi/img-149.jpeg",

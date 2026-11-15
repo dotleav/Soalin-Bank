@@ -1972,14 +1972,14 @@
       "question": "Pandemi COVID-19 membuat anak usia sekolah sering bertengkar di rumah selama lockdown. Kegiatan yang dapat dilakukan adalah …",
       "questionImages": [],
       "options": {
-        "A": "Kegiatan belajar darurat",
-        "B": "Olahraga dan permainan",
+        "A": "Olahraga dan permainan",
+        "B": "Kegiatan belajar darurat",
         "C": "Kesenian lokal",
         "D": "Keterampilan penunjang masa depan",
         "E": "Menambah tugas sekolah"
       },
       "optionExplanations": {},
-      "answer": "B",
+      "answer": "A",
       "explanation": "Anak sekolah: olahraga dan permainan menyalurkan energi serta menurunkan konflik.",
       "explanationImages": [],
       "isBroken": false
@@ -1990,14 +1990,14 @@
       "question": "Upaya mencegah kekambuhan, komplikasi lain, dan kecacatan disebut …",
       "questionImages": [],
       "options": {
-        "A": "Kuratif",
+        "A": "Rehabilitatif",
         "B": "Promotif",
         "C": "Preventif primer",
         "D": "Sumatif",
-        "E": "Rehabilitatif"
+        "E": "Kuratif"
       },
       "optionExplanations": {},
-      "answer": "E",
+      "answer": "A",
       "explanation": "Mencegah kekambuhan dan kecacatan = rehabilitatif (pencegahan tersier).",
       "explanationImages": [],
       "isBroken": false

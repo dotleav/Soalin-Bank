@@ -528,13 +528,13 @@
       "question": "Seorang pasien kejang tonik-klonik selama 3 menit. Pada fase stabilisasi GDS 45 mg/dL. Tindakan yang tepat adalah...",
       "questionImages": [],
       "options": {
-        "A": "Dextrose 40% IV",
+        "A": "Diazepam IV",
         "B": "Midazolam IM",
         "C": "Levetiracetam IV",
         "D": "Fenitoin IV",
-        "E": "Diazepam IV"
+        "E": "Dextrose 40% IV"
       },
-      "answer": "A",
+      "answer": "E",
       "explanation": "Pada fase stabilisasi (0-5 menit), bila GDS < 60 mg/dL berikan Dextrose 40% IV.",
       "explanationImages": [],
       "isBroken": false
@@ -546,12 +546,12 @@
       "questionImages": [],
       "options": {
         "A": "Levetiracetam oral 60 mg/kgBB",
-        "B": "Fenitoin IV 15-18 mg/kgBB bolus",
-        "C": "Midazolam IM 10 mg dosis tunggal",
+        "B": "Midazolam IM 10 mg dosis tunggal",
+        "C": "Fenitoin IV 15-18 mg/kgBB bolus",
         "D": "Propofol drip kontinu di ICU",
         "E": "Midazolam IM 5 mg dosis tunggal"
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "Status epileptikus dini (5-20 menit): diazepam IV atau midazolam IM (10 mg bila BB > 40 kg; 5 mg bila BB 13-40 kg).",
       "explanationImages": [],
       "isBroken": false
@@ -648,12 +648,12 @@
       "questionImages": [],
       "options": {
         "A": "Melakukan EEG ulang berkala tiap bulan",
-        "B": "Menghentikan OAE secara bertahap sedini mungkin",
+        "B": "Kontrol bangkitan optimal disertai kepatuhan minum obat",
         "C": "Membatasi aktivitas fisik pasien secara ketat",
-        "D": "Kontrol bangkitan optimal disertai kepatuhan minum obat",
+        "D": "Menghentikan OAE secara bertahap sedini mungkin",
         "E": "Memberikan antiaritmia profilaksis secara rutin"
       },
-      "answer": "D",
+      "answer": "B",
       "explanation": "Pencegahan SUDEP: kontrol bangkitan, optimalisasi terapi (dosis, frekuensi, jenis bangkitan), kepatuhan minum obat, dan bedah epilepsi pada kasus tertentu.",
       "explanationImages": [],
       "isBroken": false

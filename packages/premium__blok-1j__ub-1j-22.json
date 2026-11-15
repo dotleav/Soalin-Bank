@@ -2300,11 +2300,11 @@
       "question": "Disebut apakah jumlah udara yang masuk/keluar paru selama 1 kali bernapas?",
       "questionImages": [],
       "options": {
-        "A": "Volume tidal",
+        "A": "Kapasitas inspirasi",
         "B": "Volume cadangan inspirasi",
         "C": "Volume cadangan ekspirasi",
         "D": "Volume residual",
-        "E": "Kapasitas inspirasi"
+        "E": "Volume tidal"
       },
       "optionExplanations": {
         "A": "Benar: udara yang masuk dan keluar selama satu kali napas tenang.",
@@ -2313,7 +2313,7 @@
         "D": "Udara yang tersisa setelah ekspirasi maksimal.",
         "E": "Gabungan volume tidal dan IRV."
       },
-      "answer": "A",
+      "answer": "E",
       "explanation": "Volume tidal adalah jumlah udara yang masuk/keluar paru pada satu kali siklus pernapasan biasa.",
       "explanationImages": [],
       "isBroken": false
@@ -2426,11 +2426,11 @@
       "question": "Yang menyebabkan peningkatan kecepatan aliran darah...",
       "questionImages": [],
       "options": {
-        "A": "Peningkatan beda tekanan antara ujung pembuluh",
+        "A": "Tahanan tinggi",
         "B": "Penurunan radius pembuluh",
         "C": "Panjang pembuluh makin panjang",
         "D": "Viskositas tinggi",
-        "E": "Tahanan tinggi"
+        "E": "Peningkatan beda tekanan antara ujung pembuluh"
       },
       "optionExplanations": {
         "A": "Benar: aliran sebanding dengan selisih tekanan.",
@@ -2439,7 +2439,7 @@
         "D": "Menurunkan aliran.",
         "E": "Menurunkan aliran."
       },
-      "answer": "A",
+      "answer": "E",
       "explanation": "Peningkatan beda tekanan antara kedua ujung pembuluh darah meningkatkan kecepatan aliran darah. ",
       "explanationImages": [
         "images/packages/premium__blok-1j__ub-1j-22/img-125.png",
@@ -2505,9 +2505,9 @@
       "question": "Pusat pernapasan manakah yang sebagai switch off inspirasi",
       "questionImages": [],
       "options": {
-        "A": "Pusat pneumotaksik",
+        "A": "DRG",
         "B": "Pusat Apneustik",
-        "C": "DRG",
+        "C": "Pusat pneumotaksik",
         "D": "VRG",
         "E": "Pre-Botzlinger Complex"
       },
@@ -2518,7 +2518,7 @@
         "D": "Neuron ekspirasi.",
         "E": "Pembangkit irama pernapasan dasar."
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "Pusat pneumotaksik berperan sebagai switch off (penghenti) inspirasi.",
       "explanationImages": [
         "images/packages/premium__blok-1j__ub-1j-22/img-129.png"
@@ -2634,11 +2634,11 @@
       "question": "Apabila diketahui volume tidal adalah 500 mL, volume cadangan inspirasi (IRV) 3000 ml, volume cadangan ekspirasi (ERV) 1000 ml, berapakah kapasitas ekspirasinya?",
       "questionImages": [],
       "options": {
-        "A": "1500 ml",
+        "A": "4000 ml",
         "B": "2500 ml",
         "C": "3000 ml",
         "D": "3500 ml",
-        "E": "4000 ml"
+        "E": "1500 ml"
       },
       "optionExplanations": {
         "A": "Benar menurut materi rekapan: VT + ERV = 500 + 1000.",
@@ -2647,7 +2647,7 @@
         "D": "Itu kapasitas inspirasi: VT + IRV.",
         "E": "Tidak sesuai perhitungan."
       },
-      "answer": "A",
+      "answer": "E",
       "explanation": "Kapasitas ekspirasi = volume tidal + volume cadangan ekspirasi (ERV) = 500 mL + 1000 mL = 1500 mL.",
       "explanationImages": [],
       "isBroken": false
@@ -2684,9 +2684,9 @@
       "question": "Manakah pernyataan paling benar tentang dinding jantung?",
       "questionImages": [],
       "options": {
-        "A": "Lapisan penyusun analog dengan dinding pembuluh darah",
+        "A": "Pasokan oksigen dan nutrisi myocardium berdifusi dari darah ventrikel dan atrium",
         "B": "Lapisan penyusun analog dengan dinding pembuluh limfe",
-        "C": "Pasokan oksigen dan nutrisi myocardium berdifusi dari darah ventrikel dan atrium",
+        "C": "Lapisan penyusun analog dengan dinding pembuluh darah",
         "D": "Kontraksi myocardium distimulasi oleh inervasi dari nervi vasorum",
         "E": "Kontraksi myocardium dimulai dari nodus SA di dasar atrium kiri"
       },
@@ -2697,7 +2697,7 @@
         "D": "Nervi vasorum menginervasi pembuluh, bukan miokardium.",
         "E": "SA node berada di atrium kanan."
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "Susunan lapisan dinding jantung (endocardium, myocardium, epicardium) analog dengan lapisan dinding pembuluh darah (tunica intima, media, adventitia).",
       "explanationImages": [],
       "isBroken": false
@@ -2708,11 +2708,11 @@
       "question": "Untuk menjaga homeostasis dan integritas selular maka konsentrasi kation dan anion dalam sel (intraselular) dan diluar sel (ekstraselular) harus terjaga keseimbangannya. Apa elektrolit utama dalam cairan ekstraselular (CES) :",
       "questionImages": [],
       "options": {
-        "A": "Na dan Cl",
+        "A": "Ca dan PO43",
         "B": "Na dan HCO3",
         "C": "K dan HCO3",
         "D": "K dan PO43",
-        "E": "Ca dan PO43"
+        "E": "Na dan Cl"
       },
       "optionExplanations": {
         "A": "Benar: elektrolit utama CES adalah Na+ dan Cl-.",
@@ -2721,7 +2721,7 @@
         "D": "Utama di intraselular.",
         "E": "Tidak utama di CES."
       },
-      "answer": "A",
+      "answer": "E",
       "explanation": "Elektrolit utama pada cairan ekstraselular (CES) adalah Na+ (kation) dan Cl- (anion).",
       "explanationImages": [
         "images/packages/premium__blok-1j__ub-1j-22/img-131.png"
@@ -2734,9 +2734,9 @@
       "question": "Sintesis heme dapat dihambat oleh beberapa faktor. Diantara logam berikut, manakah yang menghambat sintesis heme?",
       "questionImages": [],
       "options": {
-        "A": "Pb",
+        "A": "Zn",
         "B": "Cu",
-        "C": "Zn",
+        "C": "Pb",
         "D": "Mg",
         "E": "K"
       },
@@ -2747,7 +2747,7 @@
         "D": "Tidak menghambat sintesis heme.",
         "E": "Tidak menghambat sintesis heme."
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "Timbal (Pb) menghambat sintesis heme dengan menghambat enzim ALA-dehidratase dan ferrochelatase.",
       "explanationImages": [
         "images/packages/premium__blok-1j__ub-1j-22/img-136.png"
@@ -2786,11 +2786,11 @@
       "question": "Udara akan melewati cavum nasi menuju nasofaring. di cavum nasi, udara berkontak dengan epitel tipe...",
       "questionImages": [],
       "options": {
-        "A": "Pseudostratifikatum bersilia",
+        "A": "Kuboid simpleks",
         "B": "Skuamous stratifikatum keratinisasi",
         "C": "Skuamous stratifikatum non keratinisasi",
         "D": "Skuamous simpleks",
-        "E": "Kuboid simpleks"
+        "E": "Pseudostratifikatum bersilia"
       },
       "optionExplanations": {
         "A": "Benar: epitel respirasi di cavum nasi.",
@@ -2799,7 +2799,7 @@
         "D": "Tidak sesuai tipe epitel cavum nasi.",
         "E": "Tidak sesuai tipe epitel cavum nasi."
       },
-      "answer": "A",
+      "answer": "E",
       "explanation": "Cavitas nasi dilapisi epitel kolumner pseudostratifikatum bersilia (epitel respiratorik).",
       "explanationImages": [
         "images/packages/premium__blok-1j__ub-1j-22/img-138.png"
@@ -2836,9 +2836,9 @@
       "question": "Struktur manakah yang termasuk respiratory portion?",
       "questionImages": [],
       "options": {
-        "A": "Bronkiolus respiratory",
+        "A": "Bronkus primer",
         "B": "Bronkiolus terminalis",
-        "C": "Bronkus primer",
+        "C": "Bronkiolus respiratory",
         "D": "Bronkus sekunder",
         "E": "Trachea"
       },
@@ -2849,7 +2849,7 @@
         "D": "Bagian konduktif.",
         "E": "Bagian konduktif."
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "Bronkiolus respiratorius termasuk bagian respiratory portion (zona respirasi) karena sudah memiliki alveoli untuk pertukaran gas, sedangkan bronkiolus terminalis, bronkus primer/sekunder, dan trakea masih termasuk conducting zone.",
       "explanationImages": [
         "images/packages/premium__blok-1j__ub-1j-22/img-139.png"
@@ -2962,11 +2962,11 @@
       "question": "Kompensasi yang membutuhkan waktu beberapa detik pada kondisi asidosis dan alkaosis",
       "questionImages": [],
       "options": {
-        "A": "Buffer",
+        "A": "Hipoventilasi",
         "B": "Ginjal",
         "C": "Respirasi",
         "D": "Hiperventilasi",
-        "E": "Hipoventilasi"
+        "E": "Buffer"
       },
       "optionExplanations": {
         "A": "Benar: sistem buffer kimia bekerja dalam hitungan detik.",
@@ -2975,7 +2975,7 @@
         "D": "Hanya merupakan respons respirasi, bukan kompensasi tercepat.",
         "E": "Hanya merupakan respons respirasi, bukan kompensasi tercepat."
       },
-      "answer": "A",
+      "answer": "E",
       "explanation": "Sistem buffer kimia bekerja sangat cepat (dalam hitungan detik) untuk mengompensasi perubahan pH, jauh lebih cepat dibanding kompensasi respirasi (menit) atau ginjal (jam-hari). ",
       "explanationImages": [
         "images/packages/premium__blok-1j__ub-1j-22/img-142.png"
@@ -3090,11 +3090,11 @@
       "question": "Istilah apa yang tepat untuk menyebutkan seberapa mudahnya paru Kembali ke bentuk semula setelah diregangkan?",
       "questionImages": [],
       "options": {
-        "A": "Recoil elastic",
+        "A": "Gradien tekanan transmural",
         "B": "Compliance",
         "C": "Tegangan permukaan",
         "D": "Interdependensi alveolus",
-        "E": "Gradien tekanan transmural"
+        "E": "Recoil elastic"
       },
       "optionExplanations": {
         "A": "Benar: recoil elastik adalah kemampuan paru kembali ke bentuk semula setelah diregangkan.",
@@ -3103,7 +3103,7 @@
         "D": "Interdependensi adalah saling ketergantungan antar alveolus.",
         "E": "Gradien transmural adalah selisih tekanan, bukan kemampuan kembali."
       },
-      "answer": "A",
+      "answer": "E",
       "explanation": "Elastic recoil adalah istilah yang menggambarkan kemampuan paru untuk kembali ke bentuk/volume semula setelah diregangkan.",
       "explanationImages": [
         "images/packages/premium__blok-1j__ub-1j-22/img-146.png"
@@ -3140,9 +3140,9 @@
       "question": "Protein plasma dapat disintesis oleh berbagai macam organ. Apa organ utama yang berperan dalam sintesis protein plasma?",
       "questionImages": [],
       "options": {
-        "A": "Liver",
+        "A": "Sumsum tulang",
         "B": "Ginjal",
-        "C": "Sumsum tulang",
+        "C": "Liver",
         "D": "Spleen",
         "E": "Otot"
       },
@@ -3153,7 +3153,7 @@
         "D": "Limpa bukan organ utama sintesis protein plasma.",
         "E": "Otot bukan organ utama sintesis protein plasma."
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "Hati (liver) adalah organ utama yang mensintesis sebagian besar protein plasma.",
       "explanationImages": [
         "images/packages/premium__blok-1j__ub-1j-22/img-147.png"
@@ -3346,9 +3346,9 @@
       "question": "Protein plasma yang jumlahnya paling banyak dalam tubuh adalah",
       "questionImages": [],
       "options": {
-        "A": "Albumin",
+        "A": "Protein regulator",
         "B": "Fibrinogen",
-        "C": "Protein regulator",
+        "C": "Albumin",
         "D": "Komplemen",
         "E": "Globulin"
       },
@@ -3359,7 +3359,7 @@
         "D": "Komplemen jumlahnya jauh lebih sedikit.",
         "E": "Globulin jumlahnya lebih sedikit dari albumin."
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "Albumin adalah protein plasma dengan jumlah terbanyak dalam tubuh.",
       "explanationImages": [
         "images/packages/premium__blok-1j__ub-1j-22/img-155.png"
@@ -3372,11 +3372,11 @@
       "question": "Kelainan jantung kongenital, penurunan corakan bronchovasculer terdapat pada kondisi",
       "questionImages": [],
       "options": {
-        "A": "TOF",
+        "A": "TGA",
         "B": "VSD",
         "C": "TAPVR",
         "D": "ASD",
-        "E": "TGA"
+        "E": "TOF"
       },
       "optionExplanations": {
         "A": "Benar: TOF menyebabkan oligemia paru akibat stenosis pulmonal.",
@@ -3385,7 +3385,7 @@
         "D": "ASD umumnya meningkatkan corakan paru.",
         "E": "TGA umumnya meningkatkan atau normal corakan paru."
       },
-      "answer": "A",
+      "answer": "E",
       "explanation": "Tetralogy of Fallot menyebabkan penurunan corakan bronkovaskuler (oligemia paru) akibat stenosis pulmonal yang mengurangi aliran darah ke paru.",
       "explanationImages": [],
       "isBroken": false
@@ -3396,9 +3396,9 @@
       "question": "Musculus apakah yang mempunyai origo pada os nasalis dan insersio pada kulit?",
       "questionImages": [],
       "options": {
-        "A": "M. procerus",
+        "A": "M. nasalis pars atans",
         "B": "M. nasalis pars transversa",
-        "C": "M. nasalis pars atans",
+        "C": "M. procerus",
         "D": "M. depressor septi nasi",
         "E": "M. levator labii superiori atae nasi"
       },
@@ -3409,7 +3409,7 @@
         "D": "Origo di maxilla dan insersio di septum nasi.",
         "E": "Origo di maxilla, bukan os nasale."
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "M. procerus memiliki origo di os nasale dan berinsersio di kulit dahi di antara kedua alis.",
       "explanationImages": [
         "images/packages/premium__blok-1j__ub-1j-22/img-156.png"
@@ -3422,11 +3422,11 @@
       "question": "Musculus apakah yang berfungsi menutupi aditus laryngis?",
       "questionImages": [],
       "options": {
-        "A": "M. aryepiglottica",
+        "A": "M. thyroarytenoideus",
         "B": "M. arytenoideus obliquus",
         "C": "M. arytenoideus transversus",
         "D": "M. cricoanytenoideus lateralis",
-        "E": "M. thyroarytenoideus"
+        "E": "M. aryepiglottica"
       },
       "optionExplanations": {
         "A": "Benar: M. aryepiglottica menutup aditus laryngis.",
@@ -3435,7 +3435,7 @@
         "D": "Menutup rima glottidis, bukan aditus.",
         "E": "Menegangkan pita suara, bukan menutup aditus."
       },
-      "answer": "A",
+      "answer": "E",
       "explanation": "M. Aryepiglottica berfungsi menutup aditus laryngis. ",
       "explanationImages": [
         "images/packages/premium__blok-1j__ub-1j-22/img-157.png"
@@ -3449,8 +3449,8 @@
       "questionImages": [],
       "options": {
         "A": "Adanya pendorongan mediastinum kontralateral",
-        "B": "Gambaran opasitas homogen tanpa airbronchogram di hemithorax yang menarik trackea",
-        "C": "Gambaran avaskuler lusensi di hemithorax yang terkena",
+        "B": "Gambaran avaskuler lusensi di hemithorax yang terkena",
+        "C": "Gambaran opasitas homogen tanpa airbronchogram di hemithorax yang menarik trackea",
         "D": "Bat wing sign",
         "E": "Gambaran area lusen di parenchymal pulmo dengan batas tegas"
       },
@@ -3461,7 +3461,7 @@
         "D": "Bat wing khas edema alveolar.",
         "E": "Area lusen dengan batas tegas khas kavitas atau pneumotoraks."
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "Tanda atelektasis pada foto thorax berupa gambaran opasitas homogen tanpa air bronchogram yang menarik trakea ke arah lesi (akibat volume loss). [GAMBAR: penjelasan 144]",
       "explanationImages": [],
       "isBroken": false
@@ -3499,10 +3499,10 @@
       "questionImages": [],
       "options": {
         "A": "Berfungsi untuk meningkatkan pasokan oksigen",
-        "B": "Terjadi umumnya secara pasif",
+        "B": "Dihambat oleh tingginya volume tidal",
         "C": "Selalu membutuhkan ATP",
         "D": "Didorong oleh meningkatnya tekanan parsial gas",
-        "E": "Dihambat oleh tingginya volume tidal"
+        "E": "Terjadi umumnya secara pasif"
       },
       "optionExplanations": {
         "A": "Ekspirasi tidak berfungsi meningkatkan pasokan oksigen.",
@@ -3511,7 +3511,7 @@
         "D": "Ekspirasi tidak didorong peningkatan tekanan parsial gas.",
         "E": "Volume tidal tinggi tidak menghambat ekspirasi secara khusus."
       },
-      "answer": "B",
+      "answer": "E",
       "explanation": "Ekspirasi normal (saat istirahat) terjadi secara pasif, hanya mengandalkan relaksasi otot inspirasi dan recoil elastis paru, tanpa kontraksi otot aktif.",
       "explanationImages": [],
       "isBroken": false
@@ -3550,10 +3550,10 @@
       "question": "Pada orang dewasa, komposisi hemoglobin apa yang paling banyak ditemukan?",
       "questionImages": [],
       "options": {
-        "A": "HbA1",
+        "A": "HbA4",
         "B": "HbA2",
         "C": "HbA3",
-        "D": "HbA4",
+        "D": "HbA1",
         "E": "HbF"
       },
       "optionExplanations": {
@@ -3563,7 +3563,7 @@
         "D": "HbA4 tidak dikenal sebagai hemoglobin utama.",
         "E": "HbF adalah hemoglobin janin, dominan saat lahir."
       },
-      "answer": "A",
+      "answer": "D",
       "explanation": "HbA (HbA1) adalah jenis hemoglobin yang paling banyak ditemukan pada orang dewasa normal.",
       "explanationImages": [],
       "isBroken": false
@@ -3575,10 +3575,10 @@
       "questionImages": [],
       "options": {
         "A": "Limen nasi",
-        "B": "Carina",
+        "B": "Vestibulum laryngis",
         "C": "Choana",
         "D": "Vestibulum nasi",
-        "E": "Vestibulum laryngis"
+        "E": "Carina"
       },
       "optionExplanations": {
         "A": "Reseptor batuk tidak terutama di limen nasi.",
@@ -3587,7 +3587,7 @@
         "D": "Vestibulum nasi berperan pada refleks bersin, bukan batuk utama.",
         "E": "Reseptor batuk juga ada di laring, tetapi kunci memilih carina. Perlu dicek ulang."
       },
-      "answer": "B",
+      "answer": "E",
       "explanation": "Reseptor batuk paling banyak terdapat di carina (percabangan trakea).",
       "explanationImages": [
         "images/packages/premium__blok-1j__ub-1j-22/img-161.png"
@@ -3626,9 +3626,9 @@
       "question": "Bagimana model transportasi gas dalam darah?",
       "questionImages": [],
       "options": {
-        "A": "Oksigen terikat oleh Hb 98,5%",
+        "A": "Oksigen larut secara fisik 10%",
         "B": "Karbon dioksida larut secara fisik 1,5%",
-        "C": "Oksigen larut secara fisik 10%",
+        "C": "Oksigen terikat oleh Hb 98,5%",
         "D": "Oksigen 30% sebagai bikarbonat",
         "E": "Karbon dioksida larut secara fisik 1,5%"
       },
@@ -3639,7 +3639,7 @@
         "D": "Bikarbonat adalah bentuk transpor CO2, bukan O2.",
         "E": "CO2 larut fisik sekitar 10%, bukan 1,5%."
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "Sebagian besar oksigen (±98,5%) ditransport dalam darah dengan terikat pada hemoglobin. ",
       "explanationImages": [
         "images/packages/premium__blok-1j__ub-1j-22/img-163.png"
@@ -3678,10 +3678,10 @@
       "question": "Manakah pernyataan yang tepat terkait tekanan kapiler",
       "questionImages": [],
       "options": {
-        "A": "Tekanan Hidrostatik mendorong cairan keluar pembuluh darah",
+        "A": "Tekanan osmotik mendorong cairan masuk pembuluh darah",
         "B": "Tekanan Hidrostatik mendorong cairan masuk pembuluh darah",
         "C": "Tekanan osmotik mendorong cairan keluar pembuluh darah",
-        "D": "Tekanan osmotik mendorong cairan masuk pembuluh darah",
+        "D": "Tekanan Hidrostatik mendorong cairan keluar pembuluh darah",
         "E": "Tekanan osmotik menarik cairan keluar pembuluh darah"
       },
       "optionExplanations": {
@@ -3691,7 +3691,7 @@
         "D": "Secara konsep tekanan osmotik menarik cairan masuk. Kunci memilih A untuk tekanan hidrostatik.",
         "E": "Tekanan osmotik menarik cairan masuk, bukan keluar."
       },
-      "answer": "A",
+      "answer": "D",
       "explanation": "Tekanan hidrostatik kapiler mendorong cairan keluar dari pembuluh darah menuju jaringan interstisial (filtrasi).",
       "explanationImages": [],
       "isBroken": false
@@ -3703,9 +3703,9 @@
       "questionImages": [],
       "options": {
         "A": "Ejeksi-relaksasi isovolumic-kontraksi isovolumik-pengisian cepat-diastasis",
-        "B": "Kontraksi isovolumetrik-ejeksi-relaksasi isovolumetrik-pengisian cepat-diastasis",
+        "B": "Pengisian cepat-diastasis-kontraksi isovolumetrik-relaksasi isovolumik-ejeksi",
         "C": "Kontraksi isovolumetrik-relaksasi isovolumetrik-ejeksi-pengisian cepat-diastasis",
-        "D": "Pengisian cepat-diastasis-kontraksi isovolumetrik-relaksasi isovolumik-ejeksi",
+        "D": "Kontraksi isovolumetrik-ejeksi-relaksasi isovolumetrik-pengisian cepat-diastasis",
         "E": "Relaksasi isovolumik-ejeksi-kontraksi isovolumetrik-pengisian cepat-diastasis"
       },
       "optionExplanations": {
@@ -3715,7 +3715,7 @@
         "D": "Pengisian cepat terjadi setelah relaksasi isovolumik, bukan sebelum kontraksi.",
         "E": "Urutan salah."
       },
-      "answer": "B",
+      "answer": "D",
       "explanation": "Urutan siklus jantung yang benar adalah: kontraksi isovolumetrik - ejeksi - relaksasi isovolumetrik - pengisian cepat (rapid filling) - diastasis.  Combined 410",
       "explanationImages": [
         "images/packages/premium__blok-1j__ub-1j-22/img-165.png"
@@ -3985,11 +3985,11 @@
       "question": "Apa batas lateral kanan jantung pada foto toraks?",
       "questionImages": [],
       "options": {
-        "A": "Atrium kanan dan Ventrikel kanan",
+        "A": "Atrium kiri dan Ventrikel kiri",
         "B": "Ventrikel kanan",
         "C": "Atrium kiri",
         "D": "Vena cava superior",
-        "E": "Atrium kiri dan Ventrikel kiri"
+        "E": "Atrium kanan dan Ventrikel kanan"
       },
       "optionExplanations": {
         "A": "Batas kanan jantung dibentuk oleh atrium dan ventrikel kanan.",
@@ -3998,7 +3998,7 @@
         "D": "Vena cava superior hanya membentuk bagian atas batas kanan, bukan seluruhnya.",
         "E": "Atrium dan ventrikel kiri membentuk batas kiri jantung, bukan batas kanan."
       },
-      "answer": "A",
+      "answer": "E",
       "explanation": "",
       "explanationImages": [],
       "isBroken": false
@@ -4009,9 +4009,9 @@
       "question": "Apakah yang menjadi tanda pembesaran atrium kanan?",
       "questionImages": [],
       "options": {
-        "A": "Batas kanan jantung melebar lebih dari 1/3 hemithorax",
+        "A": "Sternal climbing",
         "B": "Apex jantung tenggelam",
-        "C": "Sternal climbing",
+        "C": "Batas kanan jantung melebar lebih dari 1/3 hemithorax",
         "D": "Pinggang jantung kiri hilang",
         "E": "Garis Kerley B di perifer paru"
       },
@@ -4022,7 +4022,7 @@
         "D": "Hilangnya pinggang jantung kiri berkaitan dengan pembesaran atrium kiri, bukan atrium kanan.",
         "E": "Garis Kerley B menandakan edema interstisial paru, bukan pembesaran atrium kanan."
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "",
       "explanationImages": [],
       "isBroken": false

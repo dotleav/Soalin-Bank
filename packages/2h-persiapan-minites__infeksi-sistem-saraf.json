@@ -1601,13 +1601,13 @@
       "question": "Karakteristik virus SARS-CoV-2 penyebab COVID-19 adalah...",
       "questionImages": [],
       "options": {
-        "A": "Virus tanpa selubung dengan genom RNA untai negatif",
+        "A": "Virus berselubung dengan genom RNA untai tunggal positif",
         "B": "Bakteri gram negatif dengan genom sirkular kecil",
         "C": "Virus berselubung dengan genom DNA untai tunggal",
         "D": "Virus tanpa selubung dengan genom DNA untai ganda",
-        "E": "Virus berselubung dengan genom RNA untai tunggal positif"
+        "E": "Virus tanpa selubung dengan genom RNA untai negatif"
       },
-      "answer": "E",
+      "answer": "A",
       "explanation": "Coronavirus: enveloped, positive sense single-stranded RNA.",
       "explanationImages": [],
       "isBroken": false

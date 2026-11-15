@@ -1016,13 +1016,13 @@
       "question": "Tatalaksana neuritis vestibular (sindrom vestibular akut perifer) yang tepat adalah ...",
       "questionImages": [],
       "options": {
-        "A": "supresan singkat 24-48 jam disertai rehabilitasi vestibular; steroid singkat manfaat belum pasti",
+        "A": "tirah baring total berminggu-minggu; rehabilitasi vestibular ditunda selama mungkin",
         "B": "antibiotik intravena 14 hari; rehabilitasi vestibular tidak diperlukan sama sekali",
-        "C": "tirah baring total berminggu-minggu; rehabilitasi vestibular ditunda selama mungkin",
+        "C": "supresan singkat 24-48 jam disertai rehabilitasi vestibular; steroid singkat manfaat belum pasti",
         "D": "supresan berbulan-bulan tanpa rehabilitasi vestibular; steroid dosis tinggi wajib diberikan",
         "E": "manuver Epley pada hari pertama; supresan dilarang sepenuhnya selama serangan"
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "Pada lesi perifer akut: supresan jangka pendek untuk meredakan gejala, rehabilitasi vestibular, dan steroid singkat dapat dipertimbangkan tetapi manfaatnya belum pasti.",
       "explanationImages": [],
       "isBroken": false

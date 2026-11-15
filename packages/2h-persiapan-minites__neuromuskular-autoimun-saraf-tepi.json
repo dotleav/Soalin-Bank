@@ -519,11 +519,11 @@
       "options": {
         "A": "Hipoksemia yang hanya bisa dipastikan dengan analisis gas darah",
         "B": "Hiperkapnia kronik akibat penyakit paru obstruktif",
-        "C": "Kelemahan otot ekstraokular tanpa gangguan napas",
-        "D": "Kegagalan ventilasi yang membutuhkan evaluasi dukungan napas",
+        "C": "Kegagalan ventilasi yang membutuhkan evaluasi dukungan napas",
+        "D": "Kelemahan otot ekstraokular tanpa gangguan napas",
         "E": "Fungsi ventilasi masih normal tanpa perlu observasi"
       },
-      "answer": "D",
+      "answer": "C",
       "explanation": "Individu normal dapat menghitung hingga sekitar 50, sedangkan hasil di bawah 15 menandakan kegagalan ventilasi. Hipoksemia, hiperkapnia, dan asidemia pada AGD menandakan kegagalan napas yang sudah terlambat, sehingga evaluasi klinis dini penting.",
       "explanationImages": [],
       "isBroken": false

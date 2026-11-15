@@ -1120,12 +1120,12 @@
       "questionImages": [],
       "options": {
         "A": "Menyentil ujung jari tengah",
-        "B": "Menekuk kedua pergelangan tangan lalu menekankan kedua dorsum manus satu dengan yang lain sekuat-kuatnya",
-        "C": "Menggores ujung kuku jari tengah",
+        "B": "Menggores ujung kuku jari tengah",
+        "C": "Menekuk kedua pergelangan tangan lalu menekankan kedua dorsum manus satu dengan yang lain sekuat-kuatnya",
         "D": "Menekan simfisis pubis",
         "E": "Mengetuk ligamentum volare"
       },
-      "answer": "B",
+      "answer": "C",
       "explanation": "Tes Phalen memiliki tujuan yang sama dengan Tes Tinel (mendeteksi Carpal Tunnel Syndrome), namun teknik pelaksanaannya berbeda: kedua pergelangan tangan ditekuk lalu kedua dorsum manus ditekankan satu sama lain sekuat-kuatnya.",
       "explanationImages": [],
       "isBroken": false

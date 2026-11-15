@@ -414,8 +414,8 @@
       "question": "Anak usia 2 tahun dengan berat badan 12 kg dan pemeriksaan tinja positif cacing. Dosis pirantel pamoat 125 mg yang sesuai adalah",
       "questionImages": [],
       "options": {
-        "A": "1 tablet",
-        "B": "1/2 tablet",
+        "A": "1/2 tablet",
+        "B": "1 tablet",
         "C": "3/4 tablet",
         "D": "1 1/2 tablet",
         "E": "2 tablet"
@@ -427,7 +427,7 @@
         "D": "Dosis 1½ tablet untuk usia 3 hingga 5 tahun dengan berat 14 hingga kurang dari 19 kg. Dosis ini ditujukan untuk berat badan yang lebih besar dan tidak sesuai untuk berat 12 kg.",
         "E": "Dosis 2 tablet tidak tercantum pada tabel untuk rentang usia dan berat tersebut."
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "Tabel jenis obat dan dosis antihelmintik, untuk pengobatan infestasi parasit bila hasil pemeriksaan tinja positif. Pirantel pamoat 125 mg berdasarkan usia dan berat: 4 hingga 9 bulan (BB 6 hingga kurang dari 8 kg) ½ tablet; 9 hingga 12 bulan (BB 8 hingga kurang dari 10 kg) ¾ tablet; 1 hingga 3 tahun (BB 10 hingga kurang dari 14 kg) 1 tablet; 3 hingga 5 tahun (BB 14 hingga kurang dari 19 kg) 1½ tablet. Dosis tunggal di hari ke-7. Albendazol 200 mg untuk usia 12 hingga 23 bulan, 400 mg untuk usia 24 bulan ke atas. Mebendazol 100 mg dua kali sehari selama 3 hari, dimulai hari ke-7, untuk usia lebih dari 12 bulan dengan BB 10 kg atau lebih. ",
       "explanationImages": [
         "images/packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan/img-031.png"

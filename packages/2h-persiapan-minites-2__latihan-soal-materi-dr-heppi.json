@@ -1254,10 +1254,10 @@
         "A": "Haloperidol",
         "B": "Chlorpromazin",
         "C": "Fluphenazine",
-        "D": "Clozapin",
-        "E": "Domperidon"
+        "D": "Domperidon",
+        "E": "Clozapin"
       },
-      "answer": "D",
+      "answer": "E",
       "explanation": "Clozapin termasuk antipsikotik atipikal, bersama olanzapin, risperidon, quetiapin, dan aripiprazol. Haloperidol, chlorpromazin, dan fluphenazine adalah tipikal.",
       "explanationImages": [],
       "isBroken": false
@@ -1303,12 +1303,12 @@
       "questionImages": [],
       "options": {
         "A": "Caregivers saja",
-        "B": "Guru saja",
+        "B": "Caregivers dan pasien",
         "C": "Rekam medis saja",
-        "D": "Caregivers dan pasien",
+        "D": "Guru saja",
         "E": "Pasien tanpa orang tua"
       },
-      "answer": "D",
+      "answer": "B",
       "explanation": "Pada remaja, informasi diperoleh dari caregivers dan pasien secara bersama-sama, sehingga kedua sudut pandang tercakup.",
       "explanationImages": [],
       "isBroken": false

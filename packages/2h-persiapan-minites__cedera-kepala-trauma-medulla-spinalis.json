@@ -466,13 +466,13 @@
       "question": "Seorang pengendara motor mengalami trauma minor dan mengeluh nyeri pada leher tanpa defisit neurologis. Sikap awal yang tepat?",
       "questionImages": [],
       "options": {
-        "A": "Berikan analgetik lalu pulangkan dengan edukasi istirahat di rumah",
+        "A": "Imobilisasi servikal sampai cedera medula spinalis disingkirkan",
         "B": "Lakukan rotasi leher 45 derajat untuk menyingkirkan cedera",
         "C": "Bebaskan kolar servikal karena tidak ditemukan defisit neurologis",
         "D": "Pijat area leher disertai latihan rentang gerak aktif",
-        "E": "Imobilisasi servikal sampai cedera medula spinalis disingkirkan"
+        "E": "Berikan analgetik lalu pulangkan dengan edukasi istirahat di rumah"
       },
-      "answer": "E",
+      "answer": "A",
       "explanation": "Pasien trauma minor yang mengeluh nyeri leher atau punggung, atau memiliki defisit neurologis, diperlakukan sebagai cedera medula spinalis sampai terbukti bukan, sehingga imobilisasi servikal dipertahankan.",
       "explanationImages": [],
       "isBroken": false

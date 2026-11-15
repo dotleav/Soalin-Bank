@@ -51,6 +51,7 @@
 // Tag yang merujuk soal sendiri diabaikan (gambarnya sudah ada).
 // Label unik per dokumen (A1 hanya boleh dipakai untuk satu gambar).
 
+import { extractDrawingTransforms } from "./docx-transforms.js";
 import fs from "fs";
 import path from "path";
 import { fileURLToPath, pathToFileURL } from "url";
@@ -129,50 +130,8 @@ const imageByHash = new Map(); // sha1 -> src
 // XML mentah docx-nya (docx = file zip berisi XML) buat cari info crop
 // (<a:srcRect>) dan rotasi (<a:xfrm rot="...">) tiap gambar, dalam urutan
 // dokumen — lalu diterapkan manual pakai sharp sebelum gambar ditulis ke disk.
-function extractDrawingTransforms(documentXml) {
-  const transforms = [];
-  const drawingRe = /<w:drawing>([\s\S]*?)<\/w:drawing>/g;
-  let dm;
-  while ((dm = drawingRe.exec(documentXml)) !== null) {
-    const block = dm[1];
-
-    // Gambar yang cuma di-link (bukan embed) tidak punya file lokal — lewati.
-    const embedMatch = block.match(/<a:blip\b[^>]*\br:embed="([^"]+)"/);
-    if (!embedMatch) continue;
-
-    // Crop: <a:srcRect l=".." t=".." r=".." b=".."/> — satuan: perseribu persen
-    // (100000 = 100%). Atribut yang tidak ada dianggap 0 (tidak di-crop dari sisi itu).
-    let crop = { l: 0, t: 0, r: 0, b: 0 };
-    const srcRectMatch = block.match(/<a:srcRect\b([^/]*)\/>/);
-    if (srcRectMatch) {
-      const attrs = srcRectMatch[1];
-      const get = (name) => {
-        const m = attrs.match(new RegExp(`\\b${name}="(-?\\d+)"`));
-        return m ? Math.max(0, parseInt(m[1], 10) / 100000) : 0;
-      };
-      crop = { l: get("l"), t: get("t"), r: get("r"), b: get("b") };
-    }
-    const hasCrop = crop.l > 0 || crop.t > 0 || crop.r > 0 || crop.b > 0;
-
-    // Rotasi + flip ada di <a:xfrm> (satuan rot: perenampuluh ribu derajat, searah jarum jam).
-    let rotDeg = 0;
-    let flipH = false;
-    let flipV = false;
-    const xfrmMatch = block.match(/<a:xfrm\b([^>]*)>/);
-    if (xfrmMatch) {
-      const attrs = xfrmMatch[1];
-      const rotMatch = attrs.match(/\brot="(-?\d+)"/);
-      if (rotMatch) rotDeg = parseInt(rotMatch[1], 10) / 60000;
-      flipH = /\bflipH="1"/.test(attrs);
-      flipV = /\bflipV="1"/.test(attrs);
-    }
-
-    transforms.push({ crop, hasCrop, rotDeg, flipH, flipV });
-  }
-  return transforms;
-}
-
 let drawingTransforms = [];
+let docxScanned = false;
 if (!/\.pdf$/i.test(docxPath)) try {
   const docxBuffer = fs.readFileSync(docxPath);
   const zip = await JSZip.loadAsync(docxBuffer);
@@ -180,6 +139,7 @@ if (!/\.pdf$/i.test(docxPath)) try {
   if (documentXmlFile) {
     const documentXml = await documentXmlFile.async("string");
     drawingTransforms = extractDrawingTransforms(documentXml);
+    docxScanned = true;
   }
 } catch (e) {
   console.log(
@@ -259,6 +219,9 @@ const result = isPdf ? { value: await pdfToHtml(docxPath), messages: [] } : awai
 );
 
 const html = result.value;
+if (docxScanned && drawingTransforms.length !== imageCounter) {
+  console.log(`Catatan: ${imageCounter} gambar terbaca dari docx, tapi ${drawingTransforms.length} terbaca untuk crop/rotasi. Cek crop gambar secara manual.`);
+}
 if (result.messages?.length) {
   console.log("Catatan dari mammoth:", result.messages.map((m) => m.message).join("; "));
 }

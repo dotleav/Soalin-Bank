@@ -608,10 +608,10 @@
         "A": "Nervus II (optikus)",
         "B": "Nervus I (olfaktorius)",
         "C": "Nervus VII (fasialis)",
-        "D": "Nervus VIII (vestibulokoklearis)",
-        "E": "Nervus X (vagus)"
+        "D": "Nervus X (vagus)",
+        "E": "Nervus VIII (vestibulokoklearis)"
       },
-      "answer": "D",
+      "answer": "E",
       "explanation": "Schwannoma berhubungan dengan neurofibromatosis tipe 2 dan bila timbul di dalam saraf kranialis VIII menyebabkan keluhan tinnitus atau hilangnya pendengaran; kondisi ini disebut juga neuroma akustik. Nervus I, II, VII, dan X tidak disebutkan sebagai lokasi tersering schwannoma pada materi ini.",
       "explanationImages": [],
       "isBroken": false

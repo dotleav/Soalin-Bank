@@ -1095,11 +1095,11 @@
       "options": {
         "A": "Penentuan dosis alteplase berdasarkan berat badan pasien",
         "B": "Penilaian keparahan stroke, sebagai pengganti NIHSS",
-        "C": "Fasilitas tanpa pencitraan, untuk membedakan infark dan perdarahan",
-        "D": "Rumah sakit dengan CT scan, sebagai pengganti pemeriksaan CT",
+        "C": "Rumah sakit dengan CT scan, sebagai pengganti pemeriksaan CT",
+        "D": "Fasilitas tanpa pencitraan, untuk membedakan infark dan perdarahan",
         "E": "Penilaian risiko perdarahan setelah pemberian alteplase"
       },
-      "answer": "C",
+      "answer": "D",
       "explanation": "Siriraj hanya untuk daerah tanpa imaging. Bila memungkinkan, pasien dirujuk ke RS yang dapat melakukan CT dan trombolisis.",
       "explanationImages": [],
       "isBroken": false

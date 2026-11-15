@@ -673,13 +673,13 @@
       "question": "Instrumen skrining depresi pada pasien lanjut usia yang disebutkan dalam materi ini adalah...",
       "questionImages": [],
       "options": {
-        "A": "Geriatric Depression Scale (GDS)",
+        "A": "NPI-Q",
         "B": "CAM-ICU",
         "C": "Ina-AD8",
-        "D": "NPI-Q",
+        "D": "Geriatric Depression Scale (GDS)",
         "E": "Mini-ICD-10"
       },
-      "answer": "A",
+      "answer": "D",
       "explanation": "A. Benar — pemeriksaan penapisan depresi pada lanjut usia dapat dilakukan menggunakan Geriatric Depression Scale (GDS). B. Salah — NPI-Q digunakan untuk skrining gejala neuropsikiatri secara umum, bukan spesifik depresi. C. Salah — Mini-ICD-10 digunakan untuk skrining psikiatri umum, bukan spesifik depresi geriatri. D. Salah — CAM-ICU digunakan untuk identifikasi delirium. E. Salah — Ina-AD8 digunakan untuk skrining demensia melalui wawancara informan, bukan skrining depresi. Konsep umum: Skrining depresi pada lansia penting karena gejala depresi sering tumpang tindih dengan keluhan kognitif (pseudodemensia) maupun gejala somatik penyakit fisik; Geriatric Depression Scale dirancang khusus untuk populasi lansia dengan format ya/tidak yang lebih mudah dipahami dibanding skala depresi dewasa umum.",
       "explanationImages": [],
       "isBroken": false
