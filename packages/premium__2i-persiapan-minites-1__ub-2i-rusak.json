@@ -1,0 +1,597 @@
+{
+  "id": "premium__2i-persiapan-minites-1__ub-2i-rusak",
+  "tier": "premium",
+  "title": "UB 2I [Rusak]",
+  "category": "2I - Persiapan Minites 1",
+  "questions": [
+    {
+      "id": "QB9",
+      "category": "Soal Rusak",
+      "question": "Soal tentang gagal ginjal prerenal",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-001.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-002.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-003.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-004.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-005.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-006.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-007.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB23",
+      "category": "Soal Rusak",
+      "question": "Kadar ureum dan kreatinin naik. Hasil pemeriksaan yang mendukung: Kadar natrium ... < meq - 135?",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-008.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-009.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-010.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB28",
+      "category": "Soal Rusak",
+      "question": "Ada bayi neteknya terputus-putus",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-011.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB34",
+      "category": "Soal Rusak",
+      "question": "Soal tentang PDA",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-012.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-013.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-014.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-015.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-016.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB38",
+      "category": "Soal Rusak",
+      "question": "Ciri-ciri hernia diafragmatika (gambaran radiologis)",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-017.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-018.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-019.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-020.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB51",
+      "category": "Soal Rusak",
+      "question": "Demam 3 hari, hari ke-4 sudah tidak demam",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": true
+    },
+    {
+      "id": "QB55",
+      "category": "Soal Rusak",
+      "question": "Tipe-tipe murmur...",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-021.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB56",
+      "category": "Soal Rusak",
+      "question": "Anak diare berdarah, ada gambar temuan mikroskopis. Tx? (Metronidazole)",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-022.jpeg"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB62",
+      "category": "Soal Rusak",
+      "question": "Hirschsprung disease pada BBL",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-023.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-024.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-025.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB65",
+      "category": "Soal Rusak",
+      "question": "Bayi lahir dari ibu usia 40 tahun dengan usia kehamilan 40 minggu...",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": true
+    },
+    {
+      "id": "QB87",
+      "category": "Soal Rusak",
+      "question": "Ada anak 10 tahun, tatalaksana dehidrasinya apa?",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-026.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-027.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-028.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-029.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-030.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB5",
+      "category": "Soal Rusak",
+      "question": "Perbedaan DBD dan DB",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-031.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB11",
+      "category": "Soal Rusak",
+      "question": "Kelainan yg ditemukan pada anak yg baru bisa duduk 10 bulan, blm bisa loncat:cerebral palsy",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "ga ada di ppt",
+      "explanationImages": [],
+      "isBroken": true
+    },
+    {
+      "id": "QB15",
+      "category": "Soal Rusak",
+      "question": "AKB menjadi indikator (kesehatan masyarakat, kesakitan masyarakat…)",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-032.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB19",
+      "category": "Soal Rusak",
+      "question": "Anak gizi buruk ciri2 marasmus dengan gd 40 dikasi apa. dextrose, rld, antibiotik?",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-033.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB23",
+      "category": "Soal Rusak",
+      "question": "Intestinal bayi lebih lambat. Pengaruh bagi obat adalah?",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-034.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB27",
+      "category": "Soal Rusak",
+      "question": "Ciri khas ITP? Petekie/purpura",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": true
+    },
+    {
+      "id": "QB31",
+      "category": "Soal Rusak",
+      "question": "Gejala pneumonia berat",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-035.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB43",
+      "category": "Soal Rusak",
+      "question": "Beda muncul ruam rubella, rubeola, dan roseola",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-036.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-037.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB49",
+      "category": "Soal Rusak",
+      "question": "Kejang demam sederhana perlu menjadi perhatian ketika?",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": true
+    },
+    {
+      "id": "QB53",
+      "category": "Soal Rusak",
+      "question": "Hormon untuk pertumbuhan?",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-038.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-039.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-040.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB54",
+      "category": "Soal Rusak",
+      "question": "Tanda defisiensi GH?",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-041.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-042.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB59",
+      "category": "Soal Rusak",
+      "question": "Seorang anak … kelumpuhan hanya ada pada kedua tangana. Spastik quadriplegi{{HL}}b. Spastik diplegia",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-043.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB60",
+      "category": "Soal Rusak",
+      "question": "Kriteria pneumonia berat pada anak?",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-035.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB62",
+      "category": "Soal Rusak",
+      "question": "Pemberian vitamin A pada anak dengan keluhan buram di sore hari?",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-045.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-046.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB63",
+      "category": "Soal Rusak",
+      "question": "Tatalaksana gizi buruk",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-033.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB67",
+      "category": "Soal Rusak",
+      "question": "Perbedaan marasmus dan kwashiorkor",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-048.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-049.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-050.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-051.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-052.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB74",
+      "category": "Soal Rusak",
+      "question": "Kejang demam terjadi dari usia 6 bulan-5 tahun",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-053.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB75",
+      "category": "Soal Rusak",
+      "question": "Kematian bayi mencapai hampir 80% (asfiksia)",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-054.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB78",
+      "category": "Soal Rusak",
+      "question": "Hormon pertumbuhan (GH dan TSH)",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-055.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-056.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB80",
+      "category": "Soal Rusak",
+      "question": "Gejala sindrom nefrotik (edema, proteinuria, hipoalbuminemia, hiperkolesterolemia)",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-057.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB87",
+      "category": "Soal Rusak",
+      "question": "Obat yang absorpsinya meningkat jika diberikan peroral pada anak? (ampicillin)",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-058.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB91",
+      "category": "Soal Rusak",
+      "question": "Gejala bronkiolitis",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-059.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-060.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB94",
+      "category": "Soal Rusak",
+      "question": "Anak laki2 hemofilia: ada riwayat keluarga, bengkak sendi dan lutut, ada riwayat abis imunisasi",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [],
+      "isBroken": true
+    },
+    {
+      "id": "QB111",
+      "category": "Soal Rusak",
+      "question": "Ciri khas roseola?",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-036.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB116",
+      "category": "Soal Rusak",
+      "question": "Rumus hitung dosis obat, ada kemungkinan 3: Young berdasarkan usia <8 yo, Dilling berdasarkan usia >8yo, Clark berdasarkan BB",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-062.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB118",
+      "category": "Soal Rusak",
+      "question": "Faktor Van Willebrand bekerja di faktor berapa?",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "Kalau gak ada vWF jawab FVIII",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-063.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB119",
+      "category": "Soal Rusak",
+      "question": "CT/BT (salah satu) untuk menilai apa?",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-064.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB121",
+      "category": "Soal Rusak",
+      "question": "(Gambar peteki + purpura) diagnosis? ITP",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-065.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-066.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-067.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-068.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-069.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB122",
+      "category": "Soal Rusak",
+      "question": "MCHC Hipokrom, MCV micrositik, Hb rendah. Diagnosis? Anemia Def. Zat Besi",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-070.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB123",
+      "category": "Soal Rusak",
+      "question": "GGK post renal",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-071.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-072.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-073.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB132",
+      "category": "Soal Rusak",
+      "question": "Bising ejeksi sistolik tipe tekanan, tidak ada riwayat biru",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-074.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-075.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-076.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-077.png"
+      ],
+      "isBroken": true
+    },
+    {
+      "id": "QB133",
+      "category": "Soal Rusak",
+      "question": "Obat Patent ductus arteriosus (PDA)",
+      "questionImages": [],
+      "options": {},
+      "answer": "",
+      "explanation": "",
+      "explanationImages": [
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-078.png",
+        "images/packages/premium__2i-persiapan-minites-1__ub-2i-rusak/img-079.png"
+      ],
+      "isBroken": true
+    }
+  ]
+}

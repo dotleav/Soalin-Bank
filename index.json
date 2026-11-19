@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T17:08:38.299Z",
+  "generatedAt": "2026-11-19T14:34:00.719Z",
   "packages": [
     {
       "id": "2h-persiapan-minites__cedera-kepala-trauma-medulla-spinalis",
@@ -291,6 +291,22 @@
       "file": "packages/2h-pk-lcs-cairan-otak__latihan-responsi-analisis-lcs-v5-isian.json"
     },
     {
+      "id": "premium__2i-persiapan-minites-1__2i-minites-22",
+      "tier": "premium",
+      "title": "2I Minites 22",
+      "category": "2I - Persiapan Minites 1",
+      "count": 28,
+      "file": "packages/premium__2i-persiapan-minites-1__2i-minites-22.json"
+    },
+    {
+      "id": "premium__2i-persiapan-minites-1__2i-minites-23",
+      "tier": "premium",
+      "title": "2I Minites 23",
+      "category": "2I - Persiapan Minites 1",
+      "count": 20,
+      "file": "packages/premium__2i-persiapan-minites-1__2i-minites-23.json"
+    },
+    {
       "id": "2i-persiapan-minites-1__latihan-minites-1-soal-gemini-argon",
       "tier": "reguler",
       "title": "Latihan minites 1 (Soal Gemini Argon)",
@@ -305,6 +321,22 @@
       "category": "2I - Persiapan Minites 1",
       "count": 166,
       "file": "packages/2i-persiapan-minites-1__soal-semua-sumber-claude.json"
+    },
+    {
+      "id": "premium__2i-persiapan-minites-1__ub-2i-rusak",
+      "tier": "premium",
+      "title": "UB 2I [Rusak]",
+      "category": "2I - Persiapan Minites 1",
+      "count": 43,
+      "file": "packages/premium__2i-persiapan-minites-1__ub-2i-rusak.json"
+    },
+    {
+      "id": "premium__2i-persiapan-minites-1__ub-2i-terbahas",
+      "tier": "premium",
+      "title": "UB 2I [Terbahas]",
+      "category": "2I - Persiapan Minites 1",
+      "count": 93,
+      "file": "packages/premium__2i-persiapan-minites-1__ub-2i-terbahas.json"
     },
     {
       "id": "premium__blok-1j__minites-1",
@@ -387,36 +419,12 @@
       "file": "packages/premium__blok-2h__ub-2h-belajar-buat-remidi.json"
     },
     {
-      "id": "premium__blok-2i__minites-2i",
-      "tier": "premium",
-      "title": "Minites 2I",
-      "category": "Blok 2I",
-      "count": 20,
-      "file": "packages/premium__blok-2i__minites-2i.json"
-    },
-    {
       "id": "premium__blok-2i__rekonstruksi-soal-rusak-latihan",
       "tier": "premium",
       "title": "Rekonstruksi Soal Rusak + Latihan",
       "category": "Blok 2I",
       "count": 17,
       "file": "packages/premium__blok-2i__rekonstruksi-soal-rusak-latihan.json"
-    },
-    {
-      "id": "premium__blok-2i__soal-soal-rusak",
-      "tier": "premium",
-      "title": "Soal-soal rusak",
-      "category": "Blok 2I",
-      "count": 9,
-      "file": "packages/premium__blok-2i__soal-soal-rusak.json"
-    },
-    {
-      "id": "premium__blok-2i__ub-2i",
-      "tier": "premium",
-      "title": "UB 2I",
-      "category": "Blok 2I",
-      "count": 92,
-      "file": "packages/premium__blok-2i__ub-2i.json"
     },
     {
       "id": "latihan-kk7__edukasi-mpasi",
